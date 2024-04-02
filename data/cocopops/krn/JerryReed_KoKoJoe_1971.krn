@@ -1,0 +1,176 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*A:	*A:	*	*	*	*A:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	A:maj	0.302	newline	guitar	1A 1cc# 1ee
+=2	=2	=2	=2	=2	=2
+1I	A:maj	2.617	.	guitar	1A 1cc# 1ee
+=3	=3	=3	=3	=3	=3
+1I	A:maj	4.933	.	guitar	1A 1cc# 1ee
+=4	=4	=4	=4	=4	=4
+1I	A:maj	7.248	.	guitar	1A 1cc# 1ee
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	A:maj	9.564	newline	voice	1A 1cc# 1ee
+=6	=6	=6	=6	=6	=6
+1I	A:maj	11.88	.	voice	1A 1cc# 1ee
+=7	=7	=7	=7	=7	=7
+1I	A:maj	14.196	.	voice	1A 1cc# 1ee
+=8	=8	=8	=8	=8	=8
+1V7	E:7	16.511	.	voice	1E 1g# 1b 1dd
+=9	=9	=9	=9	=9	=9
+1I	A:maj	18.827	newline	voice	1A 1cc# 1ee
+=10	=10	=10	=10	=10	=10
+1I	A:maj	21.141	.	voice	1A 1cc# 1ee
+=11	=11	=11	=11	=11	=11
+1I	A:maj	23.455	newline	voice	1A 1cc# 1ee
+=12	=12	=12	=12	=12	=12
+1I	A:maj	25.803	.	voice	1A 1cc# 1ee
+=13	=13	=13	=13	=13	=13
+2I	A:maj	28.151	.	voice	2A 2cc# 2ee
+2-III	C:maj	29.325	.	voice	2C 2e 2g
+=14	=14	=14	=14	=14	=14
+2IV	D:maj	30.499	.	voice	2D 2f# 2a
+2I	A:maj	31.673	.	voice	2A 2cc# 2ee
+=15	=15	=15	=15	=15	=15
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1II7	B:7	32.848	newline	voice	1B 1dd# 1ff# 1aa
+=16	=16	=16	=16	=16	=16
+1IVm7	D:7	35.202	.	voice	1D 1f# 1a 1cc#
+=17	=17	=17	=17	=17	=17
+1Im7	A:7	37.557	.	voice	1A 1cc# 1ee 1gg#
+=18	=18	=18	=18	=18	=18
+1II7	B:7	39.912	->newline	voice	1B 1dd# 1ff# 1aa
+=19	=19	=19	=19	=19	=19
+1IV	D:maj	42.296	.	voice	1D 1f# 1a
+=20	=20	=20	=20	=20	=20
+1IVd	D:maj/b7	44.679	.	voice	1d 1f# 1a
+=21	=21	=21	=21	=21	=21
+4IVm7	D:7	47.062	.	voice	4D 4f# 4a 4cc#
+4II7	B:7	47.658	.	voice	4B 4dd# 4ff# 4aa
+2V7	E:7	48.254	.	voice	2E 2g# 2b 2dd
+=22	=22	=22	=22	=22	=22
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1Im7	A:7	49.446	newline	guitar	1A 1cc# 1ee 1gg#
+=23	=23	=23	=23	=23	=23
+1Im7	A:7	51.753	.	guitar	1A 1cc# 1ee 1gg#
+=24	=24	=24	=24	=24	=24
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	A:maj	54.059	newline	voice	1A 1cc# 1ee
+=25	=25	=25	=25	=25	=25
+1I	A:maj	56.399	.	voice	1A 1cc# 1ee
+=26	=26	=26	=26	=26	=26
+1I	A:maj	58.738	.	voice	1A 1cc# 1ee
+=27	=27	=27	=27	=27	=27
+1V7	E:7	61.077	.	voice	1E 1g# 1b 1dd
+=28	=28	=28	=28	=28	=28
+1I	A:maj	63.417	newline	voice	1A 1cc# 1ee
+=29	=29	=29	=29	=29	=29
+1I	A:maj	65.771	.	voice	1A 1cc# 1ee
+=30	=30	=30	=30	=30	=30
+1I	A:maj	68.126	newline	voice	1A 1cc# 1ee
+=31	=31	=31	=31	=31	=31
+1I	A:maj	70.456	.	voice	1A 1cc# 1ee
+=32	=32	=32	=32	=32	=32
+2I	A:maj	72.786	.	voice	2A 2cc# 2ee
+2-III	C:maj	73.951	.	voice	2C 2e 2g
+=33	=33	=33	=33	=33	=33
+2IV	D:maj	75.117	.	voice	2D 2f# 2a
+2I	A:maj	76.282	.	voice	2A 2cc# 2ee
+=34	=34	=34	=34	=34	=34
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1II7	B:7	77.447	newline	voice	1B 1dd# 1ff# 1aa
+=35	=35	=35	=35	=35	=35
+1IVm7	D:7	79.821	.	voice	1D 1f# 1a 1cc#
+=36	=36	=36	=36	=36	=36
+1Im7	A:7	82.195	.	voice	1A 1cc# 1ee 1gg#
+=37	=37	=37	=37	=37	=37
+1II7	B:7	84.569	->newline	voice	1B 1dd# 1ff# 1aa
+=38	=38	=38	=38	=38	=38
+1IV	D:maj	86.966	.	voice	1D 1f# 1a
+=39	=39	=39	=39	=39	=39
+1IVd	D:maj/b7	89.363	.	voice	1d 1f# 1a
+=40	=40	=40	=40	=40	=40
+4IVm7	D:7	91.76	.	voice	4D 4f# 4a 4cc#
+4II7	B:7	92.359	.	voice	4B 4dd# 4ff# 4aa
+2V7	E:7	92.958	.	voice	2E 2g# 2b 2dd
+=41	=41	=41	=41	=41	=41
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1Im7	A:7	94.157	newline	guitar	1A 1cc# 1ee 1gg#
+=42	=42	=42	=42	=42	=42
+1Im7	A:7	96.415	.	guitar	1A 1cc# 1ee 1gg#
+=43	=43	=43	=43	=43	=43
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	A:maj	98.673	newline	voice	1A 1cc# 1ee
+=44	=44	=44	=44	=44	=44
+1I	A:maj	101.015	.	voice	1A 1cc# 1ee
+=45	=45	=45	=45	=45	=45
+1I	A:maj	103.358	.	voice	1A 1cc# 1ee
+=46	=46	=46	=46	=46	=46
+1V7	E:7	105.701	.	voice	1E 1g# 1b 1dd
+=47	=47	=47	=47	=47	=47
+1I	A:maj	108.043	newline	voice	1A 1cc# 1ee
+=48	=48	=48	=48	=48	=48
+1I	A:maj	110.366	.	voice	1A 1cc# 1ee
+=49	=49	=49	=49	=49	=49
+1I	A:maj	112.688	newline	voice	1A 1cc# 1ee
+=50	=50	=50	=50	=50	=50
+1I	A:maj	115.024	.	voice	1A 1cc# 1ee
+=51	=51	=51	=51	=51	=51
+2I	A:maj	117.361	.	voice	2A 2cc# 2ee
+2-III	C:maj	118.529	.	voice	2C 2e 2g
+=52	=52	=52	=52	=52	=52
+2IV	D:maj	119.698	.	voice	2D 2f# 2a
+2I	A:maj	120.866	.	voice	2A 2cc# 2ee
+=53	=53	=53	=53	=53	=53
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1II7	B:7	122.034	newline	voice	1B 1dd# 1ff# 1aa
+=54	=54	=54	=54	=54	=54
+1IVm7	D:7	124.389	.	voice	1D 1f# 1a 1cc#
+=55	=55	=55	=55	=55	=55
+1Im7	A:7	126.743	.	voice	1A 1cc# 1ee 1gg#
+=56	=56	=56	=56	=56	=56
+1II7	B:7	129.098	->newline	voice	1B 1dd# 1ff# 1aa
+=57	=57	=57	=57	=57	=57
+1IV	D:maj	131.472	.	voice	1D 1f# 1a
+=58	=58	=58	=58	=58	=58
+1IVd	D:maj/b7	133.846	.	voice	1d 1f# 1a
+=59	=59	=59	=59	=59	=59
+4IVm7	D:7	136.22	.	voice	4D 4f# 4a 4cc#
+4II7	B:7	136.813	.	voice	4B 4dd# 4ff# 4aa
+2V7	E:7	137.407	.	voice	2E 2g# 2b 2dd
+=60	=60	=60	=60	=60	=60
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1Im7	A:7	138.594	newline	guitar	1A 1cc# 1ee 1gg#
+=61	=61	=61	=61	=61	=61
+1Im7	A:7	140.916	.	guitar	1A 1cc# 1ee 1gg#
+=62	=62	=62	=62	=62	=62
+*>C_fadeout	*>C_fadeout	*>C_fadeout	*>C_fadeout	*>C_fadeout	*>C_fadeout
+1II7	B:7	143.239	newline	voice	1B 1dd# 1ff# 1aa
+=63	=63	=63	=63	=63	=63
+1IVm7	D:7	145.588	.	voice	1D 1f# 1a 1cc#
+=64	=64	=64	=64	=64	=64
+1Im7	A:7	147.936	.	voice	1A 1cc# 1ee 1gg#
+=65	=65	=65	=65	=65	=65
+1II7	B:7	150.285	newline	voice	1B 1dd# 1ff# 1aa
+1r;	N	151.092	.	r	1r;
+1r;	N	155.324	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Ko-Ko Joe
+!!!COC: Jerry Reed
+!!!BillboardChartDate: 1971/09/18
+!!!BillboardPeak: 51
+!!!BillboardWeeksOnChart: 6
+!!!SampleTargetRank: 56
+!!!SampleActualRank: 58
+!!!SampleID#: 0713
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

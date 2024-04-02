@@ -1,0 +1,768 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*c:	*c:	*	*	*	*c:	*c:	*c:	*c:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+4i7	C:min7	.	.	.	0.488	newline	synth	1C 1e- 1g 1b
+4-VII	B-:maj	.	.	.	0.989	.	synth	4B- 4dd 4ff
+2-VI7	A-:maj7	.	.	.	1.491	.	synth	2A-- 2cc- 2ee-- 2gg
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+4v7	G:min7	.	.	.	2.495	.	synth	1G 1b- 1dd 1ff
+2.iv7	F:min7	.	.	.	2.996	.	synth	2F 2a- 2cc 2ee-
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+4i7	C:min7	.	.	.	4.502	.	synth	1C 1e- 1g 1b
+4-VII	B-:maj	.	.	.	5.004	.	synth	4B- 4dd 4ff
+2-VI7	A-:maj7	.	.	.	5.505	.	synth	2A-- 2cc- 2ee-- 2gg
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+4v7	G:min7	.	.	.	6.509	.	synth	1G 1b- 1dd 1ff
+2iv7	F:min7	.	.	.	7.011	.	synth	2F 2a- 2cc 2ee-
+4V7	G:7	.	.	.	8.014	.	synth	4G 4b 4dd 4ff
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+4i7	C:min7	.	.	.	8.516	newline	synth	1C 1e- 1g 1b
+4-VII	B-:maj	.	.	.	9.013	.	synth	4B- 4dd 4ff
+2-VI7	A-:maj7	.	.	.	9.51	.	synth	2A-- 2cc- 2ee-- 2gg
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+4v7	G:min7	.	.	.	10.503	.	synth	1G 1b- 1dd 1ff
+2.iv7	F:min7	.	.	.	11	.	synth	2F 2a- 2cc 2ee-
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+4-VI7	A-:maj7	.	.	.	12.49	.	synth	1A-- 1cc- 1ee-- 1gg
+4v7	G:min7	.	.	.	12.987	.	synth	4G 4b- 4dd 4ff
+2iv7	F:min7	.	.	.	13.484	.	synth	2F 2a- 2cc 2ee-
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+4IVe	F:maj/2	.	.	.	14.478	.	synth	1F 1a 1cc
+2.iv7	F:min7	.	.	.	14.974	.	synth	2F 2a- 2cc 2ee-
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1iv7	F:min7	.	.	.	16.465	.	synth	1F 1a- 1cc 1ee-
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4i7	C:min7	La-	.	(A	18.452	newline	voice	4C 4e- 4g 4b
+.	.	-dy,	.	a)	.	.	.	.
+4-VII	B-:maj	.	.	.	18.948	.	voice	4B- 4dd 4ff
+2-VI7	A-:maj7	.	.	.	19.444	.	voice	2A-- 2cc- 2ee-- 2gg
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+4v7	G:min7	.	.	.	20.436	.	voice	4G 4b- 4dd 4ff
+2.iv7	F:min7	.	.	.	20.932	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	you	.	.	.	.	.	.
+.	.	bring	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	up	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+4i7	C:min7	.	.	.	22.42	.	voice	4C 4e- 4g 4b
+.	.	when	.	.	.	.	.	.
+4-VII	B-:maj	I	.	.	22.916	.	voice	4B- 4dd 4ff
+.	.	am	.	(b	.	.	.	.
+2-VI7	A-:maj7	down.	.	B)	23.412	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+4v7	G:min7	.	.	.	24.404	.	voice	2G 2b- 2dd 2ff
+2iv7	F:min7	.	.	.	24.9	.	voice	4F 4a- 4cc 4ee-
+.	.	.	.	.	.	.	.	.
+4V7b	G:7/3	.	.	.	25.892	.	voice	4g 4B 4dd 4ff
+.	.	And	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+4i7	C:min7	may-	.	(A	26.388	newline	voice	4C 4e- 4g 4b
+.	.	-be,	.	a)	.	.	.	.
+4-VII	B-:maj	_	.	.	26.884	.	voice	4B- 4dd 4ff
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-VI7	A-:maj7	.	.	.	27.379	.	voice	2A-- 2cc- 2ee-- 2gg
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+4v7	G:min7	.	.	.	28.371	.	voice	4G 4b- 4dd 4ff
+2.iv7	F:min7	.	.	.	28.866	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	you're	.	.	.	.	.	.
+.	.	gon-	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.
+.	.	change	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+4-VI7	A-:maj7	_	.	.	30.353	.	voice	4A-- 4cc- 4ee-- 4gg
+.	.	my	.	.	.	.	.	.
+4v7	G:min7	life	.	.	30.849	.	voice	4G 4b- 4dd 4ff
+.	.	a-	.	(b	.	.	.	.
+2iv7	F:min7	-round.	.	B)	31.345	.	voice	2F 2a- 2cc 2ee-
+.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+4IVe	F:maj/2	.	.	.	32.336	.	voice	1F 1a 1cc
+2.iv7	F:min7	.	.	.	32.832	.	voice	2F 2a- 2cc 2ee-
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+1iv7	F:min7	.	.	.	34.319	.	voice	1F 1a- 1cc 1ee-
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+4i7	C:min7	.	.	.	36.302	newline	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	You	.	.	36.799	.	voice	2.B- 2.dd 2.ff
+.	.	came	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	me	.	C	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+4iv7	F:min7	_	.	.	38.289	.	voice	4F 4a- 4cc 4ee-
+.	.	when	.	.	.	.	.	.
+2.v7	G:min7	I	.	.	38.786	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	was	.	.	.	.	.	.
+.	.	lone-	.	(C	.	.	.	.
+.	.	-ly,	.	c)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+4i7	C:min7	.	.	.	40.277	.	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	and	.	.	40.774	.	voice	2.B- 2.dd 2.ff
+.	.	no-	.	.	.	.	.	.
+.	.	-one	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	cared	.	D	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+.	.	_	.	.	.	.	.	.
+4iv7	F:min7	_	.	.	42.264	.	voice	4F 4a- 4cc 4ee-
+.	.	_	.	.	.	.	.	.
+2.v7	G:min7	_	.	.	42.761	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+4i7	C:min7	.	.	.	44.252	newline	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	You	.	.	44.749	.	voice	2.B- 2.dd 2.ff
+.	.	made	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	see	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+4iv7	F:min7	_	.	.	46.24	.	voice	4F 4a- 4cc 4ee-
+.	.	that	.	.	.	.	.	.
+2.v7	G:min7	I	.	.	46.737	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	was	.	.	.	.	.	.
+.	.	on-	.	(C	.	.	.	.
+.	.	-ly	.	c)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+4i7	C:min7	.	.	.	48.228	.	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	just	.	.	48.725	.	voice	2.B- 2.dd 2.ff
+.	.	run-	.	.	.	.	.	.
+.	.	-nin'	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	scared!	.	D	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+4iv7	F:min7	_	.	.	50.217	.	voice	4F 4a- 4cc 4ee-
+.	.	_	.	.	.	.	.	.
+4v7	G:min7	_	.	.	50.714	.	voice	4G 4b- 4dd 4ff
+.	.	.	.	.	.	.	.	.
+4-III	E-:maj	.	.	.	51.211	.	voice	2E-- 2g- 2b--
+4IV	F:maj	.	.	.	51.708	.	voice	4F 4a 4cc
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+4i7	C:min7	.	.	.	52.205	newline	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	I	.	.	52.701	.	voice	2.B- 2.dd 2.ff
+.	.	saw	.	.	.	.	.	.
+.	.	your	.	.	.	.	.	.
+.	.	face	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+4iv7	F:min7	_	.	.	54.189	.	voice	4F 4a- 4cc 4ee-
+.	.	and	.	.	.	.	.	.
+2.v7	G:min7	some-	.	.	54.685	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	-thin'	.	.	.	.	.	.
+.	.	told	.	(C	.	.	.	.
+.	.	me	.	c)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+4i7	C:min7	.	.	.	56.172	.	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	you	.	.	56.668	.	voice	2.B- 2.dd 2.ff
+.	.	were	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	one!	.	E	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+4iv7	F:min7	_	.	.	58.156	.	voice	4F 4a- 4cc 4ee-
+2.v7	G:min7	_	.	.	58.652	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+4i7	C:min7	.	.	.	60.14	newline	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	You	.	.	60.636	.	voice	2.B- 2.dd 2.ff
+.	.	smiled	.	.	.	.	.	.
+.	.	at	.	.	.	.	.	.
+.	.	me	.	F	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+4iv7	F:min7	_	.	.	62.124	.	voice	4F 4a- 4cc 4ee-
+.	.	and	.	.	.	.	.	.
+2.v7	G:min7	now	.	.	62.62	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	_	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	see	.	F	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+4-VI7	A-:maj7	.	.	.	64.108	.	voice	4A-- 4cc- 4ee-- 4gg
+4v7	G:min7	my	.	.	64.604	.	voice	4G 4b- 4dd 4ff
+2iv7	F:min7	life's	.	.	65.1	.	voice	2F 2a- 2cc 2ee-
+.	.	be-	.	.	.	.	.	.
+.	.	-gun	.	E	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+4IVe	F:maj/2	_	.	.	66.092	.	voice	4F 4a 4cc
+.	.	_	.	.	.	.	.	.
+2.iv7	F:min7	_	.	.	66.588	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+1iv7	F:min7	_	.	.	68.076	.	voice	1F 1a- 1cc 1ee-
+.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+4-VI7	A-:maj7	.	.	.	70.06	newline	synth	1A-- 1cc- 1ee-- 1gg
+4v7	G:min7	.	.	.	70.562	.	synth	4G 4b- 4dd 4ff
+2iv7	F:min7	.	.	.	71.064	.	synth	2F 2a- 2cc 2ee-
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+4IVe	F:maj/2	.	.	.	72.068	.	synth	1F 1a 1cc
+2.iv7	F:min7	.	.	.	72.57	.	synth	2F 2a- 2cc 2ee-
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1iv7	F:min7	.	.	.	74.076	.	synth	1F 1a- 1cc 1ee-
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4i7	C:min7	La-	.	(A	76.084	newline	voice	4C 4e- 4g 4b
+.	.	-dy,	.	a)	.	.	.	.
+4-VII	B-:maj	.	.	.	76.574	.	voice	4B- 4dd 4ff
+2-VI7	A-:maj7	.	.	.	77.064	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	.	Pret-	.	.	.	.	.
+.	.	.	-ty	.	.	.	.	.
+.	.	.	la	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+4v7	G:min7	.	_	.	78.044	.	voice	4G 4b- 4dd 4ff
+2.iv7	F:min7	.	dy!	.	78.534	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	You	.	.	.	.	.	.
+.	.	brought	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	in	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+4i7	C:min7	.	.	.	80.004	.	voice	4C 4e- 4g 4b
+.	.	from	.	.	.	.	.	.
+4-VII	B-:maj	out	.	.	80.494	.	voice	4B- 4dd 4ff
+.	.	the	.	.	.	.	.	.
+2-VI7	A-:maj7	rain.	.	G	80.984	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	.	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+4v7	G:min7	.	.	.	81.964	.	voice	2G 2b- 2dd 2ff
+2iv7	F:min7	.	.	.	82.454	.	voice	4F 4a- 4cc 4ee-
+.	.	.	Yeah!	.	.	.	.	.
+4V7b	G:7/3	.	_	.	83.434	.	voice	4g 4B 4dd 4ff
+.	.	And	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+4i7	C:min7	may-	.	(A	83.924	newline	voice	4C 4e- 4g 4b
+.	.	-be,	.	a)	.	.	.	.
+4-VII	B-:maj	_	.	.	84.42	.	voice	4B- 4dd 4ff
+.	.	_	.	.	.	.	.	.
+2-VI7	A-:maj7	.	.	.	84.915	.	voice	2A-- 2cc- 2ee-- 2gg
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+4v7	G:min7	.	.	.	85.907	.	voice	4G 4b- 4dd 4ff
+2.iv7	F:min7	.	.	.	86.402	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	my	.	.	.	.	.	.
+.	.	life	.	.	.	.	.	.
+.	.	will	.	.	.	.	.	.
+.	.	ne	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+4-VI7	A-:maj7	_	.	.	87.889	.	voice	4A-- 4cc- 4ee-- 4gg
+.	.	ver	.	.	.	.	.	.
+4v7	G:min7	be	.	.	88.385	.	voice	4G 4b- 4dd 4ff
+.	.	the	.	.	.	.	.	.
+2iv7	F:min7	same.	.	G	88.88	.	voice	2F 2a- 2cc 2ee-
+.	.	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+4IVe	F:maj/2	.	.	.	89.872	.	voice	1F 1a 1cc
+2.iv7	F:min7	.	.	.	90.367	.	voice	2F 2a- 2cc 2ee-
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1iv7	F:min7	.	.	.	91.854	.	voice	1F 1a- 1cc 1ee-
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+4i7	C:min7	.	.	.	93.837	newline	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	Once	.	.	94.338	.	voice	2.B- 2.dd 2.ff
+.	.	I	.	.	.	.	.	.
+.	.	was	.	.	.	.	.	.
+.	.	filled	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+4iv7	F:min7	_	.	.	95.84	.	voice	4F 4a- 4cc 4ee-
+.	.	with	.	.	.	.	.	.
+2.v7	G:min7	des-	.	(H	96.341	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	-per-	.	.	.	.	.	.
+.	.	-ra-	.	.	.	.	.	.
+.	.	-tion,	.	h)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+4i7	C:min7	.	.	.	97.844	.	voice	4C 4e- 4g 4b
+.	.	a	.	.	.	.	.	.
+2.-VII	B-:maj	so-	.	.	98.345	.	voice	2.B- 2.dd 2.ff
+.	.	-li-	.	.	.	.	.	.
+.	.	-ta-	.	.	.	.	.	.
+.	.	-ry	.	.	.	.	.	.
+.	.	man	.	I	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+4iv7	F:min7	_	.	.	99.848	.	voice	4F 4a- 4cc 4ee-
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2.v7	G:min7	_	.	.	100.349	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+4i7	C:min7	.	.	.	101.852	newline	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	You	.	.	102.346	.	voice	2.B- 2.dd 2.ff
+.	.	gave	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	hope	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+4iv7	F:min7	_	.	.	103.828	.	voice	4F 4a- 4cc 4ee-
+.	.	and	.	.	.	.	.	.
+2.v7	G:min7	in-	.	(H	104.322	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	-spi-	.	.	.	.	.	.
+.	.	-ra-	.	.	.	.	.	.
+.	.	-tion,	.	h)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+4i7	C:min7	.	.	.	105.804	.	voice	4C 4e- 4g 4b
+.	.	like	.	.	.	.	.	.
+2.-VII	B-:maj	on-	.	.	106.298	.	voice	2.B- 2.dd 2.ff
+.	.	-ly	.	.	.	.	.	.
+.	.	true	.	.	.	.	.	.
+.	.	love	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	can!	.	I	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+4iv7	F:min7	_	.	.	107.78	.	voice	4.F 4.a- 4.cc 4.ee-
+4v7	G:min7	.	.	.	108.274	.	voice	8G 8b- 8dd 8ff
+.	.	_	.	.	.	.	.	.
+4-III	E-:maj	.	.	.	108.768	.	voice	2E-- 2g- 2b--
+4IV	F:maj	.	.	.	109.262	.	voice	4F 4a 4cc
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+4i7	C:min7	.	.	.	109.756	newline	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	Now	.	.	110.253	.	voice	2.B- 2.dd 2.ff
+.	.	I	.	.	.	.	.	.
+.	.	be-	.	.	.	.	.	.
+.	.	-lieve	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+4iv7	F:min7	_	.	.	111.744	.	voice	4F 4a- 4cc 4ee-
+.	.	in	.	.	.	.	.	.
+2.v7	G:min7	what	.	.	112.241	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	you're	.	.	.	.	.	.
+.	.	sa-	.	(J	.	.	.	.
+.	.	-yin	.	j)	.	.	.	.
+.	.	',	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+4i7	C:min7	.	.	.	113.732	.	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	I'm	.	.	114.229	.	voice	2.B- 2.dd 2.ff
+.	.	ten	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	feet	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	tall	.	K	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+4iv7	F:min7	_	.	.	115.72	.	voice	4F 4a- 4cc 4ee-
+2.v7	G:min7	_	.	.	116.217	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+4i7	C:min7	.	.	.	117.708	newline	voice	4C 4e- 4g 4b
+2.-VII	B-:maj	This	.	.	118.205	.	voice	2.B- 2.dd 2.ff
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	love	.	.	.	.	.	.
+.	.	don't	.	.	.	.	.	.
+.	.	need	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+4iv7	F:min7	_	.	.	119.698	.	voice	4F 4a- 4cc 4ee-
+.	.	no	.	.	.	.	.	.
+2.v7	G:min7	ex-	.	.	120.196	.	voice	2.G 2.b- 2.dd 2.ff
+.	.	-pla	.	(J	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	nin',	.	j)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+4-VI7	A-:maj7	.	.	.	121.688	.	voice	4A-- 4cc- 4ee-- 4gg
+4v7	G:min7	We've	.	.	122.186	.	voice	4G 4b- 4dd 4ff
+2iv7	F:min7	got	.	.	122.683	.	voice	2F 2a- 2cc 2ee-
+.	.	it	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	all!	.	K	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+4IVe	F:maj/2	_	.	.	123.678	.	voice	4F 4a 4cc
+.	.	_	.	.	.	.	.	.
+2.iv7	F:min7	_	.	.	124.176	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4i7	C:min7	Lady!	La-	(A	125.668	newline	voice	4C 4e- 4g 4b
+.	.	_	-dy,	a)	.	.	.	.
+4-VII	B-:maj	_	.	.	126.163	.	voice	4B- 4dd 4ff
+2-VI7	A-:maj7	.	.	.	126.657	.	voice	2A-- 2cc- 2ee-- 2gg
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+4v7	G:min7	.	.	.	127.646	.	voice	4G 4b- 4dd 4ff
+2.iv7	F:min7	.	.	.	128.14	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	.	you	.	.	.	.	.
+.	.	.	bring	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	up	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+4i7	C:min7	.	.	.	129.624	.	voice	4C 4e- 4g 4b
+.	.	.	when	.	.	.	.	.
+4-VII	B-:maj	.	I	.	130.118	.	voice	4B- 4dd 4ff
+.	.	.	am	(b	.	.	.	.
+2-VI7	A-:maj7	.	down.	B)	130.613	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	.	.	.	.	.	.	.
+.	.	Up,	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+4v7	G:min7	.	.	.	131.602	.	voice	4G 4b- 4dd 4ff
+.	.	when	.	.	.	.	.	.
+2iv7	F:min7	I	.	.	132.096	.	voice	2F 2a- 2cc 2ee-
+.	.	am	.	.	.	.	.	.
+.	.	down!	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V7b	G:7/3	_	.	.	133.085	.	voice	4g 4B 4dd 4ff
+.	.	_	And	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+4i7	C:min7	.	may-	.	133.58	newline	voice	4C 4e- 4g 4b
+.	.	.	-be,	.	.	.	.	.
+4-VII	B-:maj	.	_	.	133.977	.	voice	4B- 4dd 4ff
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-VI7	A-:maj7	May	.	(A	134.374	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be!	.	a)	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+*	*	*	*	*	*	*	*	*
+4v7	G:min7	_	.	.	135.169	.	voice	4G 4b- 4dd 4ff
+.	.	_	.	.	.	.	.	.
+2.iv7	F:min7	.	.	.	135.566	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	.	you're	.	.	.	.	.
+.	.	.	gon-	.	.	.	.	.
+.	.	.	-na	.	.	.	.	.
+.	.	.	change	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+4-VI7	A-:maj7	.	_	.	136.757	.	voice	4A-- 4cc- 4ee-- 4gg
+.	.	.	my	.	.	.	.	.
+4v7	G:min7	.	life	.	137.155	.	voice	4G 4b- 4dd 4ff
+.	.	.	a-	(b	.	.	.	.
+2iv7	F:min7	.	-round	B)	137.552	.	voice	2F 2a- 2cc 2ee-
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+4IVe	F:maj/2	.	_	.	138.346	.	voice	4F 4a 4cc
+.	.	.	_	.	.	.	.	.
+2.iv7	F:min7	.	_	.	138.743	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1-VI7	A-:maj7	.	.	.	141.524	newline	voice	1A-- 1cc- 1ee-- 1gg
+.	.	Na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+.	.	_	.	.	.	.	.	.
+1-VIId	B-:maj/b7	na	.	.	143.512	.	voice	1b- 1dd 1ff
+.	.	na	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	na...	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1-viom7	A-:hdim7	.	.	.	145.501	.	voice	1A-- 1cc-- 1aa######################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################## 1gg
+.	.	na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+.	.	_	.	.	.	.	.	.
+1i7	C:min7	na	.	.	147.489	.	voice	1C 1e- 1g 1b
+.	.	na	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	na...	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+1-VI7	A-:maj7	.	.	.	149.478	newline	voice	1A-- 1cc- 1ee-- 1gg
+.	.	na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+.	.	_	.	.	.	.	.	.
+1-VIId	B-:maj/b7	na	.	.	151.463	.	voice	1b- 1dd 1ff
+.	.	_	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	na...	.	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+1-viom7	A-:hdim7	.	.	.	153.449	.	voice	1A-- 1cc-- 1aa######################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################## 1gg
+.	.	na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+.	.	na	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+.	.	_	.	.	.	.	.	.
+1i7	C:min7	na	.	.	155.434	.	voice	1C 1e- 1g 1b
+.	.	na	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	na...	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+1-VI7	A-:maj7	.	.	.	157.42	newline	voice	1A-- 1cc- 1ee-- 1gg
+.	.	.	na	.	.	.	.	.
+.	.	.	na	.	.	.	.	.
+.	.	.	na	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+.	.	.	_	.	.	.	.	.
+1-VIId	B-:maj/b7	.	na	.	159.386	.	voice	1b- 1dd 1ff
+.	.	.	na	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	na...	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+1-viom7	A-:hdim7	.	.	.	161.352	.	voice	1A-- 1cc-- 1aa######################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################## 1gg
+.	.	.	na	.	.	.	.	.
+.	.	.	na	.	.	.	.	.
+.	.	.	na	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+*	*	*	*	*	*	*	*	*
+.	.	.	_	.	.	.	.	.
+1i7	C:min7	.	la	.	163.318	.	voice	1C 1e- 1g 1b
+.	.	.	la	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	la	.	.	.	.	.
+.	.	.	la	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+1iv7	F:min7	.	la...	.	165.284	newline	voice	1F 1a- 1cc 1ee-
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+1-VIId	B-:maj/b7	Whoa,	.	.	167.313	.	voice	1b- 1dd 1ff
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4i7	C:min7	la-	La-	(A	169.343	newline	voice	4C 4e- 4g 4b
+.	.	-dy!	-dy!	a)	.	.	.	.
+4-VII	B-:maj	_	.	.	169.837	.	voice	4B- 4dd 4ff
+.	.	.	.	.	.	.	.	.
+2-VI7	A-:maj7	Mm,	.	.	170.331	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	ah!	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+4v7	G:min7	.	.	.	171.32	.	voice	4G 4b- 4dd 4ff
+2.iv7	F:min7	.	.	.	171.814	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	.	You	.	.	.	.	.
+.	.	.	bring	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	up	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+4i7	C:min7	.	.	.	173.297	.	voice	4C 4e- 4g 4b
+.	.	.	when	.	.	.	.	.
+4-VII	B-:maj	.	I	.	173.792	.	voice	4B- 4dd 4ff
+.	.	.	am	(b	.	.	.	.
+2-VI7	A-:maj7	.	down!	B)	174.286	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	.	.	.	.	.	.	.
+.	.	Up	.	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+4v7	G:min7	.	.	.	175.275	.	voice	4G 4b- 4dd 4ff
+.	.	when	.	.	.	.	.	.
+2iv7	F:min7	I	.	.	175.769	.	voice	2F 2a- 2cc 2ee-
+.	.	am	.	(b	.	.	.	.
+.	.	down!	.	B)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V7b	G:7/3	_	.	.	176.758	.	voice	4g 4B 4dd 4ff
+.	.	_	And	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+4i7	C:min7	.	may-	(A	177.252	newline	voice	4C 4e- 4g 4b
+.	.	.	-be,	a)	.	.	.	.
+4-VII	B-:maj	.	_	.	177.747	.	voice	4B- 4dd 4ff
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-VI7	A-:maj7	_	.	.	178.243	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	_	.	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+4v7	G:min7	_	.	.	179.234	.	voice	4G 4b- 4dd 4ff
+.	.	_	.	.	.	.	.	.
+2.iv7	F:min7	.	.	.	179.729	.	voice	2.F 2.a- 2.cc 2.ee-
+.	.	.	you're	.	.	.	.	.
+.	.	.	gon-	.	.	.	.	.
+.	.	.	-na	.	.	.	.	.
+.	.	.	change	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92	=92
+4i7	C:min7	.	_	.	181.216	.	voice	4C 4e- 4g 4b
+.	.	.	my	.	.	.	.	.
+4-VII	B-:maj	.	life	.	181.712	.	voice	4B- 4dd 4ff
+.	.	.	a-	(b	.	.	.	.
+2-VI7	A-:maj7	_	-round!	B)	182.207	.	voice	2A-- 2cc- 2ee-- 2gg
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93
+4v7	G:min7	_	.	.	183.198	.	voice	4G 4b- 4dd 4ff
+2iv7	F:min7	_	.	.	183.694	.	voice	2F 2a- 2cc 2ee-
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	Ooh!	.	.	.	.	.
+4V7b	G:7/3	_	.	.	184.685	.	voice	4g 4B 4dd 4ff
+.	.	.	.	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94	=94
+4i7	C:min7	La-	La-	(A	185.18	newline	voice	4C 4e- 4g 4b
+.	.	-dy!	-dy!	a)	.	.	.	.
+2.-VII	B-:maj	_	.	.	185.679	.	voice	2.B- 2.dd 2.ff
+.	.	.	.	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95	=95
+4iv7	F:min7	.	.	.	187.174	.	voice	1F 1a- 1cc 1ee-
+2.v7	G:min7	.	.	.	187.673	.	voice	2G 2b- 2dd 2ff
+=96	=96	=96	=96	=96	=96	=96	=96	=96
+4i7	C:min7	.	.	.	189.168	.	voice	1C 1e- 1g 1b
+2.-VII	B-:maj	.	.	.	189.667	.	voice	2B- 2dd 2ff
+=97	=97	=97	=97	=97	=97	=97	=97	=97
+4iv7	F:min7	.	.	.	191.162	.	voice	1F 1a- 1cc 1ee-
+2.v7	G:min7	.	.	.	191.661	.	voice	2G 2b- 2dd 2ff
+=98	=98	=98	=98	=98	=98	=98	=98	=98
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+4i7	C:min7	.	.	.	193.157	newline	synth	1C 1e- 1g 1b
+2.-VII	B-:maj	.	.	.	193.647	.	synth	2B- 2dd 2ff
+=99	=99	=99	=99	=99	=99	=99	=99	=99
+4iv7	F:min7	.	.	.	195.119	.	synth	1F 1a- 1cc 1ee-
+2.v7	G:min7	.	.	.	195.609	.	synth	2G 2b- 2dd 2ff
+=100	=100	=100	=100	=100	=100	=100	=100	=100
+4i7	C:min7	.	.	.	197.081	.	synth	1C 1e- 1g 1b
+2.-VII	B-:maj	.	.	.	197.571	.	synth	2B- 2dd 2ff
+=101	=101	=101	=101	=101	=101	=101	=101	=101
+4iv7	F:min7	.	.	.	199.043	.	synth	2F 2a- 2cc 2ee-
+4v7	G:min7	.	.	.	199.533	.	synth	4G 4b- 4dd 4ff
+4-III	E-:maj	.	.	.	200.024	.	synth	2E-- 2g- 2b--
+.	.	.	Ooh!	.	.	.	.	.
+4IV	F:maj	.	.	.	200.514	.	synth	4F 4a 4cc
+=102	=102	=102	=102	=102	=102	=102	=102	=102
+4i7	C:min7	.	La-	.	201.005	newline	synth	4C 4e- 4g 4b
+.	.	.	-dy!	.	.	.	.	.
+2.-VII	B-:maj	.	.	.	201.502	.	synth	2.B- 2.dd 2.ff
+.	.	.	.	.	.	.	.	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103
+4iv7	F:min7	.	.	.	202.993	.	synth	4F 4a- 4cc 4ee-
+2.v7	G:min7	.	.	.	203.49	.	synth	2.G 2.b- 2.dd 2.ff
+.	.	.	You	.	.	.	.	.
+.	.	.	bring	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	up	.	.	.	.	.
+=104	=104	=104	=104	=104	=104	=104	=104	=104
+4i7	C:min7	.	.	.	204.981	.	synth	4C 4e- 4g 4b
+.	.	.	when	.	.	.	.	.
+2.-VII	B-:maj	.	I	.	205.478	.	synth	2.B- 2.dd 2.ff
+.	.	.	am	(b	.	.	.	.
+.	.	.	down.	B)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=105	=105	=105	=105	=105	=105	=105	=105	=105
+4iv7	F:min7	.	.	.	206.969	.	synth	2F 2a- 2cc 2ee-
+2.v7	G:min7	.	.	.	207.466	.	synth	2G 2b- 2dd 2ff
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	And	.	.	.	.	.
+=106	=106	=106	=106	=106	=106	=106	=106	=106
+4i7	C:min7	.	may-	(A	208.957	newline	synth	4C 4e- 4g 4b
+.	.	.	-be,	a)	.	.	.	.
+2.-VII	B-:maj	.	_	.	209.452	.	synth	2.B- 2.dd 2.ff
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=107	=107	=107	=107	=107	=107	=107	=107	=107
+4iv7	F:min7	.	.	.	210.939	.	synth	4F 4a- 4cc 4ee-
+2.v7	G:min7	.	.	.	211.434	.	synth	2.G 2.b- 2.dd 2.ff
+.	.	.	you're	.	.	.	.	.
+.	.	.	gon-	.	.	.	.	.
+.	.	.	-na	.	.	.	.	.
+.	.	.	change	.	.	.	.	.
+=108	=108	=108	=108	=108	=108	=108	=108	=108
+4i7	C:min7	.	_	.	212.921	.	synth	4C 4e- 4g 4b
+.	.	.	my	.	.	.	.	.
+2.-VII	B-:maj	.	life	.	213.416	.	synth	2.B- 2.dd 2.ff
+.	.	.	a-	(b	.	.	.	.
+.	.	.	-round!	B)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=109	=109	=109	=109	=109	=109	=109	=109	=109
+4iv7	F:min7	.	.	.	214.903	.	synth	2F 2a- 2cc 2ee-
+4v7	G:min7	.	.	.	215.399	.	synth	4G 4b- 4dd 4ff
+4-III	E-:maj	.	.	.	215.894	.	synth	2E-- 2g- 2b--
+.	.	.	Ooh!	.	.	.	.	.
+4IV	F:maj	.	.	.	216.39	.	synth	4F 4a 4cc
+=110	=110	=110	=110	=110	=110	=110	=110	=110
+4i7	C:min7	.	La-	(A	216.885	newline	synth	4C 4e- 4g 4b
+.	.	.	-dy!	a)	.	.	.	.
+2.-VII	B-:maj	.	.	.	217.385	.	synth	2.B- 2.dd 2.ff
+.	.	.	.	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111	=111
+4iv7	F:min7	.	.	.	218.883	.	synth	1F 1a- 1cc 1ee-
+2.v7	G:min7	.	.	.	219.383	.	synth	2G 2b- 2dd 2ff
+=112	=112	=112	=112	=112	=112	=112	=112	=112
+4i7	C:min7	.	.	.	220.881	.	synth	1C 1e- 1g 1b
+2.-VII	B-:maj	.	.	.	221.38	.	synth	2B- 2dd 2ff
+=113	=113	=113	=113	=113	=113	=113	=113	=113
+4iv7	F:min7	.	.	.	222.879	.	synth	1F 1a- 1cc 1ee-
+2.v7	G:min7	.	.	.	223.378	.	synth	2G 2b- 2dd 2ff
+=114	=114	=114	=114	=114	=114	=114	=114	=114
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+4i7	C:min7	.	.	.	224.877	newline	synth	1C 1e- 1g 1b
+2.-VII	B-:maj	.	.	.	225.373	.	synth	2B- 2dd 2ff
+=115	=115	=115	=115	=115	=115	=115	=115	=115
+4iv7	F:min7	.	.	.	226.86	.	synth	1F 1a- 1cc 1ee-
+2.v7	G:min7	.	.	.	227.355	.	synth	2G 2b- 2dd 2ff
+=116	=116	=116	=116	=116	=116	=116	=116	=116
+4i7	C:min7	.	.	.	228.843	.	synth	1C 1e- 1g 1b
+2.-VII	B-:maj	.	.	.	229.338	.	synth	2B- 2dd 2ff
+=117	=117	=117	=117	=117	=117	=117	=117	=117
+4iv7	F:min7	.	.	.	230.825	.	synth	2F 2a- 2cc 2ee-
+4v7	G:min7	.	.	.	231.321	.	synth	4G 4b- 4dd 4ff
+4-III	E-:maj	.	.	.	231.817	.	synth	2E-- 2g- 2b--
+.	.	.	Ooh!	.	.	.	.	.
+4IV	F:maj	.	.	.	232.313	.	synth	4F 4a 4cc
+=118	=118	=118	=118	=118	=118	=118	=118	=118
+4i7	C:min7	La-	.	(A	232.56	newline	synth	4C 4e- 4g 4b
+.	.	-dy!	.	a)	.	.	.	.
+2.-VII	B-:maj	.	.	.	232.808	.	synth	2.B- 2.dd 2.ff
+.	.	.	.	.	.	.	.	.
+=119	=119	=119	=119	=119	=119	=119	=119	=119
+4iv7	F:min7	.	.	.	238.013	.	synth	4F 4a- 4cc 4ee-
+2.v7	G:min7	.	.	.	.	.	synth	2.G 2.b- 2.dd 2.ff
+.	.	You	.	.	.	.	.	.
+.	.	bring	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	up	.	.	.	.	.	.
+=120	=120	=120	=120	=120	=120	=120	=120	=120
+4i7	C:min7	.	.	.	.	.	synth	4C 4e- 4g 4b
+.	.	when	.	.	.	.	.	.
+2.-VII	B-:maj	I	.	.	.	.	synth	2.B- 2.dd 2.ff
+.	.	am	.	(b	.	.	.	.
+.	.	down!	.	B)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=121	=121	=121	=121	=121	=121	=121	=121	=121
+4iv7	F:min7	.	.	.	.	.	synth	1F 1a- 1cc 1ee-
+4v7	G:min7	.	.	.	.	.	synth	4G 4b- 4dd 4ff
+4-III	E-:maj	.	.	.	.	.	synth	4E-- 4g- 4b--
+4IV	F:maj	.	.	.	.	.	synth	4F 4a 4cc
+1r;	N	.	.	.	238.261	.	r	1r;
+1r;	N	.	.	.	241.307	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1981/07/11
+!!!BillboardPeak: 8
+!!!BillboardWeeksOnChart: 22
+!!!COC: Commodores
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Lady (You Bring Me Up)
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 35
+!!!SampleID#: 0716
+!!!SampleTargetRank: 36
+!!!MBID: cc4d1b5e-26fc-4870-a3da-393719dad43a

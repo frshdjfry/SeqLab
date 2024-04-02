@@ -1,0 +1,572 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*E:	*E:	*	*	*	*	*	*E:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1I	E:maj	.	.	0.395	newline	guitar	1E 1g# 1b
+=2	=2	=2	=2	=2	=2	=2	=2
+1I	E:maj	.	.	2.166	.	guitar	1E 1g# 1b
+=3	=3	=3	=3	=3	=3	=3	=3
+1I	E:maj	.	.	3.937	.	guitar	1E 1g# 1b
+=4	=4	=4	=4	=4	=4	=4	=4
+1I	E:maj	.	.	5.708	.	guitar	1E 1g# 1b
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	E:maj	.	.	7.479	newline	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1I	E:maj	.	.	9.222	.	voice	1E 1g# 1b
+=7	=7	=7	=7	=7	=7	=7	=7
+1I	E:maj	.	.	10.965	.	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+1I	E:maj	.	.	12.708	.	voice	1E 1g# 1b
+=9	=9	=9	=9	=9	=9	=9	=9
+1I	E:maj	.	.	14.45	newline	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1IV	A:maj	kiss	.	16.184	.	voice	1A 1cc# 1ee
+.	.	me	.	.	.	.	.
+.	.	once	.	.	.	.	.
+.	.	or	.	.	.	.	.
+.	.	twice	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Then	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+1IV	A:maj	say	.	17.919	.	voice	1A 1cc# 1ee
+.	.	it's	.	.	.	.	.
+.	.	ve-	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+.	.	nice	A	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	then	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1I	E:maj	run	B	19.653	.	voice	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1I	E:maj	.	.	21.387	.	voice	1E 1g# 1b
+=14	=14	=14	=14	=14	=14	=14	=14
+1V	B:maj	.	.	23.121	newline	voice	1B 1dd# 1ff#
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2-VI	C:maj	do	.	24.854	.	voice	2C 2e 2g
+.	.	what	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V	B:maj	big	.	25.72	.	voice	2B 2dd# 2ff#
+.	.	sis-	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1I	E:maj	done-	B	26.586	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1I	E:maj	.	.	28.319	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	-Well,	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	da-	.	30.052	newline	voice	1E 1g# 1b
+.	.	-ted	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	big	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1I	E:maj	_	.	31.77	.	voice	1E 1g# 1b
+.	.	-ter	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	And	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1I	E:maj	took	.	33.488	.	voice	1E 1g# 1b
+.	.	her	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	show	C	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1I	E:maj	_	.	35.206	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1I	E:maj	went	.	36.923	newline	voice	1E 1g# 1b
+.	.	for	.	.	.	.	.
+.	.	some	.	.	.	.	.
+.	.	can-	(D	.	.	.	.
+.	.	-dy	d)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	A-	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1I	E:maj	-long	.	38.687	.	voice	1E 1g# 1b
+.	.	came	.	.	.	.	.
+.	.	Jim	.	.	.	.	.
+.	.	Dan-	(D	.	.	.	.
+.	.	-dy	d)	.	.	.	.
+.	.	And	(D	.	.	.	.
+.	.	they	d)	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1r	N	snuck	.	40.452	.	voice	1r
+.	.	right	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	door	C	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1I	E:maj	_	.	42.216	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1r	N	.	.	43.98	.	voice	1r
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	E:maj	.	.	45.744	->newline	voice	1E 1g# 1b
+=28	=28	=28	=28	=28	=28	=28	=28
+1I	E:maj	.	.	47.467	.	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1I	E:maj	.	.	49.19	.	voice	1E 1g# 1b
+=30	=30	=30	=30	=30	=30	=30	=30
+1I	E:maj	.	.	50.913	.	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1IV	A:maj	kiss	.	52.636	newline	voice	1A 1cc# 1ee
+.	.	me	.	.	.	.	.
+.	.	once	.	.	.	.	.
+.	.	or	.	.	.	.	.
+.	.	twice	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Then	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1IV	A:maj	say	.	54.359	.	voice	1A 1cc# 1ee
+.	.	it's	.	.	.	.	.
+.	.	ve-	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+.	.	nice	A	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	then	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+1I	E:maj	run	B	56.082	.	voice	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1I	E:maj	.	.	57.804	.	voice	1E 1g# 1b
+=35	=35	=35	=35	=35	=35	=35	=35
+1V	B:maj	.	.	59.527	newline	voice	1B 1dd# 1ff#
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+2-VI	C:maj	do	.	61.242	.	voice	2C 2e 2g
+.	.	what	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V	B:maj	big	.	62.099	.	voice	2B 2dd# 2ff#
+.	.	sis-	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1I	E:maj	done-	B	62.957	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1I	E:maj	.	.	64.671	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	-Ev'-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	time	.	66.386	newline	voice	1E 1g# 1b
+.	.	I	.	.	.	.	.
+.	.	see	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+1I	E:maj	_	.	68.086	.	voice	1E 1g# 1b
+.	.	-ter	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Well	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+1I	E:maj	got	.	69.787	.	voice	1E 1g# 1b
+.	.	some-	.	.	.	.	.
+.	.	-bo-	.	.	.	.	.
+.	.	-dy	.	.	.	.	.
+.	.	new	E	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1I	E:maj	_	.	71.487	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	She's	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1I	E:maj	mean	.	73.187	newline	voice	1E 1g# 1b
+.	.	and	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+.	.	e-	(F	.	.	.	.
+.	.	-vil	f)	.	.	.	.
+.	.	like	.	.	.	.	.
+.	.	that	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1I	E:maj	lit-	.	74.944	.	voice	1E 1g# 1b
+.	.	-tle	.	.	.	.	.
+.	.	old	G	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Boll	G	.	.	.	.
+.	.	Wee-	(F	.	.	.	.
+.	.	-vil	f)	.	.	.	.
+.	.	guess	.	.	.	.	.
+.	.	I'll	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1r	N	try	.	76.701	.	voice	1r
+.	.	my	.	.	.	.	.
+.	.	luck	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	you	E	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1I	E:maj	_	.	78.458	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1r	N	.	.	80.215	.	voice	1r
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	E:maj	.	.	81.972	->newline	voice	1E 1g# 1b
+=49	=49	=49	=49	=49	=49	=49	=49
+1I	E:maj	.	.	83.701	.	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1I	E:maj	.	.	85.43	.	voice	1E 1g# 1b
+=51	=51	=51	=51	=51	=51	=51	=51
+1I	E:maj	.	.	87.159	.	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+1IV	A:maj	kiss	.	88.888	newline	voice	1A 1cc# 1ee
+.	.	me	.	.	.	.	.
+.	.	once	.	.	.	.	.
+.	.	or	.	.	.	.	.
+.	.	twice	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Then	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+1IV	A:maj	say	.	90.607	.	voice	1A 1cc# 1ee
+.	.	it's	.	.	.	.	.
+.	.	ve-	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+.	.	nice	A	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	then	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1I	E:maj	run	B	92.325	.	voice	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1I	E:maj	.	.	94.044	.	voice	1E 1g# 1b
+=56	=56	=56	=56	=56	=56	=56	=56
+1V	B:maj	.	.	95.762	newline	voice	1B 1dd# 1ff#
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+2-VI	C:maj	do	.	97.473	.	voice	2C 2e 2g
+.	.	what	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V	B:maj	big	.	98.329	.	voice	2B 2dd# 2ff#
+.	.	sis-	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1I	E:maj	done-	B	99.184	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1I	E:maj	.	.	100.895	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	-Well,	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	used	.	102.605	newline	voice	1E 1g# 1b
+.	.	to	.	.	.	.	.
+.	.	pull	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	pig-	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1I	E:maj	_	.	104.311	.	voice	1E 1g# 1b
+.	.	-tails	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	And	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1I	E:maj	pinch	.	106.016	.	voice	1E 1g# 1b
+.	.	your	.	.	.	.	.
+.	.	turned-	.	.	.	.	.
+.	.	-up	.	.	.	.	.
+.	.	nose	H	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1I	E:maj	_	.	107.721	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	But	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1I	E:maj	you	.	109.426	newline	voice	1E 1g# 1b
+.	.	been	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	gro-	(I	.	.	.	.
+.	.	-win'	i)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	And	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+1I	E:maj	ba-	.	111.193	.	voice	1E 1g# 1b
+.	.	-by,	.	.	.	.	.
+.	.	it's	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	been	.	.	.	.	.
+.	.	sho-	(I	.	.	.	.
+.	.	-win'	i)	.	.	.	.
+.	.	From	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+1r	N	head	.	112.96	.	voice	1r
+.	.	down	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	toes	H	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+1I	E:maj	_	.	114.726	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+1r	N	.	.	116.493	.	voice	1r
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+1I	E:maj	.	.	118.26	->newline	voice	1E 1g# 1b
+=70	=70	=70	=70	=70	=70	=70	=70
+1I	E:maj	.	.	119.984	.	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1I	E:maj	.	.	121.708	.	voice	1E 1g# 1b
+=72	=72	=72	=72	=72	=72	=72	=72
+1I	E:maj	.	.	123.433	.	voice	1E 1g# 1b
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+1IV	A:maj	kiss	.	125.157	newline	voice	1A 1cc# 1ee
+.	.	me	.	.	.	.	.
+.	.	once	.	.	.	.	.
+.	.	or	.	.	.	.	.
+.	.	twice	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Then	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+1IV	A:maj	say	.	126.864	.	voice	1A 1cc# 1ee
+.	.	it's	.	.	.	.	.
+.	.	ve-	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+.	.	nice	A	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	then	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1I	E:maj	run	B	128.571	.	voice	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1I	E:maj	.	.	130.278	.	voice	1E 1g# 1b
+=77	=77	=77	=77	=77	=77	=77	=77
+1V	B:maj	.	.	131.985	newline	voice	1B 1dd# 1ff#
+.	.	Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+2-VI	C:maj	do	.	133.688	.	voice	2C 2e 2g
+.	.	what	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V	B:maj	big	.	134.539	.	voice	2B 2dd# 2ff#
+.	.	sis-	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+1I	E:maj	done-	B	135.39	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+1I	E:maj	.	.	137.092	.	voice	1E 1g# 1b
+=81	=81	=81	=81	=81	=81	=81	=81
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1V	B:maj	.	.	138.794	newline	voice	1B 1dd# 1ff#
+.	.	-Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+2-VI	C:maj	do	.	140.513	.	voice	2C 2e 2g
+.	.	what	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V	B:maj	big	.	141.372	.	voice	2B 2dd# 2ff#
+.	.	sis-	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+1I	E:maj	done-	B	142.231	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1I	E:maj	.	.	143.95	.	voice	1E 1g# 1b
+=85	=85	=85	=85	=85	=85	=85	=85
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+1V	B:maj	.	.	145.668	newline	voice	1B 1dd# 1ff#
+.	.	-Lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	sis-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+2-VI	C:maj	do	.	146.659	.	voice	2C 2e 2g
+.	.	what	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V	B:maj	big	.	147.154	.	voice	2B 2dd# 2ff#
+.	.	sis-	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+1I	E:maj	done-	B	147.649	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1I	E:maj	.	.	148.639	.	voice	1E 1g# 1b
+1r;	N	.	.	149.63	.	r	1r;
+1r;	N	.	.	152.028	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1961/10/30
+!!!BillboardPeak: 5
+!!!BillboardWeeksOnChart: 13
+!!!COC: Elvis Presley
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Little Sister
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 34
+!!!SampleID#: 0159
+!!!SampleTargetRank: 35
+!!!MBID: f986439c-311d-43dd-9a27-3721c37b94f8

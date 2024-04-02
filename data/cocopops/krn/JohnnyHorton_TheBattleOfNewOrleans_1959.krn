@@ -1,0 +1,761 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*A:	*A:	*	*	*	*	*	*A:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+1I	A:maj	.	.	0.65	.	banjo	1A 1cc# 1ee
+=2	=2	=2	=2	=2	=2	=2	=2
+1I	A:maj	.	.	0.982	.	banjo	1A 1cc# 1ee
+=3	=3	=3	=3	=3	=3	=3	=3
+1I	A:maj	.	.	3.798	newline	guitar	1A 1cc# 1ee
+=4	=4	=4	=4	=4	=4	=4	=4
+1IV	D:maj	.	.	5.126	.	guitar	1D 1f# 1a
+=5	=5	=5	=5	=5	=5	=5	=5
+1V7	E:7	.	.	6.454	.	guitar	1E 1g# 1b 1dd
+=6	=6	=6	=6	=6	=6	=6	=6
+1I	A:maj	.	.	7.782	.	guitar	1A 1cc# 1ee
+=7	=7	=7	=7	=7	=7	=7	=7
+1I	A:maj	.	.	9.11	.	guitar	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+.	.	In	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	A:maj	eight-	.	10.438	newline	voice	1A 1cc# 1ee
+.	.	-teen	.	.	.	.	.
+.	.	four-	.	.	.	.	.
+.	.	-teen	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1IV	D:maj	took	.	11.775	.	voice	1D 1f# 1a
+.	.	a	.	.	.	.	.
+.	.	lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	trip	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	A-	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1V7	E:7	-long	.	13.112	.	voice	1E 1g# 1b 1dd
+.	.	with	.	.	.	.	.
+.	.	Col-	.	.	.	.	.
+.	.	-onel	.	.	.	.	.
+.	.	Jack-	.	.	.	.	.
+.	.	-son	.	.	.	.	.
+.	.	down	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+1I	A:maj	migh-	.	14.449	.	voice	1A 1cc# 1ee
+.	.	-ty	.	.	.	.	.
+.	.	Mi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ssipp	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1I	A:maj	took	.	15.786	newline	voice	1A 1cc# 1ee
+.	.	a	.	.	.	.	.
+.	.	lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	-con	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1IV	D:maj	took	.	17.143	.	voice	1D 1f# 1a
+.	.	a	.	.	.	.	.
+.	.	lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+.	.	beans	B	.	.	.	.
+.	.	And	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1V7	E:7	caught	.	18.501	.	voice	1E 1g# 1b 1dd
+.	.	the	.	.	.	.	.
+.	.	bloo-	.	.	.	.	.
+.	.	-dy	.	.	.	.	.
+.	.	Bri-	.	.	.	.	.
+.	.	-tish	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1I	A:maj	town	.	19.858	.	voice	1A 1cc# 1ee
+.	.	of	.	.	.	.	.
+.	.	New	.	.	.	.	.
+.	.	Or-	.	.	.	.	.
+.	.	-leans	B	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	A:maj	fire	.	21.216	newline	voice	1A 1cc# 1ee
+.	.	our	.	.	.	.	.
+.	.	guns	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1I	A:maj	Bri-	.	22.576	.	voice	1A 1cc# 1ee
+.	.	-tish	.	.	.	.	.
+.	.	kept	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	com-	(C	.	.	.	.
+.	.	-in'	c)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	There	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1I	A:maj	wa-	.	23.936	.	voice	1A 1cc# 1ee
+.	.	-sn't	.	.	.	.	.
+.	.	nigh	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	ma-	.	.	.	.	.
+.	.	-ny	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	there	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2V	E:maj	was	.	25.296	.	voice	2E 2g# 2b
+.	.	a	.	.	.	.	.
+.	.	while	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+2I	A:maj	-go	D	25.976	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1I	A:maj	fire	.	26.656	newline	voice	1A 1cc# 1ee
+.	.	once	.	.	.	.	.
+.	.	more	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1I	A:maj	_	.	28.009	.	voice	1A 1cc# 1ee
+.	.	be-	.	.	.	.	.
+.	.	-gan	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	run-	(C	.	.	.	.
+.	.	-nin'	c)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	On	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1I	A:maj	down	.	29.363	.	voice	1A 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	Mi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ppi	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2V	E:maj	Gulf	.	30.716	.	voice	2E 2g# 2b
+.	.	of	.	.	.	.	.
+.	.	Me-	.	.	.	.	.
+.	.	-xi-	.	.	.	.	.
+2I	A:maj	-co	D	31.393	.	voice	2A 2cc# 2ee
+=24	=24	=24	=24	=24	=24	=24	=24
+1I	A:maj	.	.	32.07	.	voice	1A 1cc# 1ee
+=25	=25	=25	=25	=25	=25	=25	=25
+1I	A:maj	.	.	33.424	.	voice	1A 1cc# 1ee
+.	.	We	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	A:maj	looked	.	34.777	newline	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+.	.	down	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	ri-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1IV	D:maj	seed	.	36.139	.	voice	1D 1f# 1a
+.	.	the	.	.	.	.	.
+.	.	Bri-	.	.	.	.	.
+.	.	-tish	.	.	.	.	.
+.	.	come	C	.	.	.	.
+.	.	And	.	.	.	.	.
+.	.	there	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1V7	E:7	must	.	37.501	.	voice	1E 1g# 1b 1dd
+.	.	have	.	.	.	.	.
+.	.	been	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	hun-	.	.	.	.	.
+.	.	-dred	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	'em	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1I	A:maj	bea-	.	38.863	.	voice	1A 1cc# 1ee
+.	.	-tin'	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	drum	C	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	They	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1I	A:maj	stepped	.	40.225	newline	voice	1A 1cc# 1ee
+.	.	so	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	high	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1IV	D:maj	made	.	41.584	.	voice	1D 1f# 1a
+.	.	their	.	.	.	.	.
+.	.	bu-	.	.	.	.	.
+.	.	-gles	.	.	.	.	.
+.	.	ring	E	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1V7	E:7	stood	.	42.943	.	voice	1E 1g# 1b 1dd
+.	.	be-	.	.	.	.	.
+.	.	-hind	.	.	.	.	.
+.	.	our	.	.	.	.	.
+.	.	cot-	.	.	.	.	.
+.	.	-ton	.	.	.	.	.
+.	.	bales	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+1I	A:maj	di-	.	44.302	.	voice	1A 1cc# 1ee
+.	.	-dn't	.	.	.	.	.
+.	.	say	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	thing	E	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	A:maj	fire	.	45.661	newline	voice	1A 1cc# 1ee
+.	.	our	.	.	.	.	.
+.	.	guns	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1I	A:maj	Bri-	.	47.034	.	voice	1A 1cc# 1ee
+.	.	-tish	.	.	.	.	.
+.	.	kept	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	com-	(C	.	.	.	.
+.	.	-in'	c)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	There	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1I	A:maj	wa-	.	48.406	.	voice	1A 1cc# 1ee
+.	.	-sn't	.	.	.	.	.
+.	.	nigh	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	ma-	.	.	.	.	.
+.	.	-ny	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	there	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2V	E:maj	was	.	49.779	.	voice	2E 2g# 2b
+.	.	a	.	.	.	.	.
+.	.	while	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+2I	A:maj	-go	D	50.465	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1I	A:maj	fire	.	51.151	newline	voice	1A 1cc# 1ee
+.	.	once	.	.	.	.	.
+.	.	more	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1I	A:maj	_	.	52.498	.	voice	1A 1cc# 1ee
+.	.	be-	.	.	.	.	.
+.	.	-gan	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	run-	(C	.	.	.	.
+.	.	-nin'	c)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	On	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+1I	A:maj	down	.	53.844	.	voice	1A 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	Mi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ppi	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2V	E:maj	Gulf	.	55.19	.	voice	2E 2g# 2b
+.	.	of	.	.	.	.	.
+.	.	Me-	.	.	.	.	.
+.	.	-xi-	.	.	.	.	.
+2I	A:maj	-co	D	55.864	.	voice	2A 2cc# 2ee
+=42	=42	=42	=42	=42	=42	=42	=42
+1I	A:maj	.	.	56.537	.	voice	1A 1cc# 1ee
+=43	=43	=43	=43	=43	=43	=43	=43
+1I	A:maj	.	.	57.883	.	voice	1A 1cc# 1ee
+.	.	Old	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	A:maj	Hi-	.	59.23	newline	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+.	.	-ckory	.	.	.	.	.
+.	.	said	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	we	.	.	.	.	.
+.	.	could	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1IV	D:maj	take	.	60.585	.	voice	1D 1f# 1a
+.	.	'em	.	.	.	.	.
+.	.	by	.	.	.	.	.
+.	.	sur-	.	.	.	.	.
+.	.	-prise	F	.	.	.	.
+.	.	If	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1V7	E:7	di-	.	61.941	.	voice	1E 1g# 1b 1dd
+.	.	-dn't	.	.	.	.	.
+.	.	fire	.	.	.	.	.
+.	.	our	.	.	.	.	.
+.	.	musk-	.	.	.	.	.
+.	.	-ets	.	.	.	.	.
+.	.	'till	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1I	A:maj	looked	.	63.297	.	voice	1A 1cc# 1ee
+.	.	'em	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	eyes	F	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1I	A:maj	held	.	64.653	newline	voice	1A 1cc# 1ee
+.	.	our	.	.	.	.	.
+.	.	fire	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	'till	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1IV	D:maj	seed	.	65.892	.	voice	1D 1f# 1a
+.	.	their	.	.	.	.	.
+.	.	fa-	.	.	.	.	.
+.	.	-ces	.	.	.	.	.
+.	.	well	.	.	.	.	.
+.	.	Then	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1V7	E:7	open-	.	67.13	.	voice	1E 1g# 1b 1dd
+.	.	-ed	.	.	.	.	.
+.	.	up	.	.	.	.	.
+.	.	our	.	.	.	.	.
+.	.	squi-	.	.	.	.	.
+.	.	-rrel	.	.	.	.	.
+.	.	guns	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1I;	A:maj	rea-	.	68.369	.	voice	1A; 1cc#; 1ee;
+.	.	-lly	.	.	.	.	.
+.	.	gave	.	.	.	.	.
+.	.	'em	.	.	.	.	.
+.	.	Well	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	A:maj	fire	.	70.846	newline	r	1A 1cc# 1ee
+.	.	our	.	.	.	.	.
+.	.	guns	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+1I	A:maj	Bri-	.	72.22	.	r	1A 1cc# 1ee
+.	.	-tish	.	.	.	.	.
+.	.	kept	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	com-	(C	.	.	.	.
+.	.	-in'	c)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	There	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1I	A:maj	wa-	.	73.594	.	r	1A 1cc# 1ee
+.	.	-sn't	.	.	.	.	.
+.	.	nigh	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	ma-	.	.	.	.	.
+.	.	-ny	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	there	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+2V	E:maj	was	.	74.968	.	r	2E 2g# 2b
+.	.	a	.	.	.	.	.
+.	.	while	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+2I	A:maj	-go	D	75.655	.	r	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+1I	A:maj	fire	.	76.342	newline	r	1A 1cc# 1ee
+.	.	once	.	.	.	.	.
+.	.	more	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+1I	A:maj	_	.	77.689	.	r	1A 1cc# 1ee
+.	.	be-	.	.	.	.	.
+.	.	-gan	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	run-	(C	.	.	.	.
+.	.	-nin'	c)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	On	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1I	A:maj	down	.	79.036	.	r	1A 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	Mi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ppi	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+2V	E:maj	Gulf	.	80.382	.	r	2E 2g# 2b
+.	.	of	.	.	.	.	.
+.	.	Me-	.	.	.	.	.
+.	.	-xi-	.	.	.	.	.
+2I	A:maj	-co	D	81.056	.	r	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1I	A:maj	.	.	81.729	.	r	1A 1cc# 1ee
+=61	=61	=61	=61	=61	=61	=61	=61
+1I	A:maj	.	.	83.076	.	r	1A 1cc# 1ee
+.	.	Yeah	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1I	A:maj	ran	.	84.423	newline	r	1A 1cc# 1ee
+.	.	through	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	brier-	.	.	.	.	.
+.	.	-s	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1I	A:maj	ran	.	85.756	.	r	1A 1cc# 1ee
+.	.	through	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	bram-	.	.	.	.	.
+.	.	-bles	.	.	.	.	.
+.	.	And	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1I	A:maj	ran	.	87.09	.	r	1A 1cc# 1ee
+.	.	through	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	bu-	.	.	.	.	.
+.	.	-shes	.	.	.	.	.
+.	.	where	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+2V	E:maj	ra-	.	88.424	.	r	2E 2g# 2b
+.	.	-bbit	.	.	.	.	.
+.	.	coul-	.	.	.	.	.
+.	.	-dn't	.	.	.	.	.
+2I	A:maj	go	D	89.091	.	r	2A 2cc# 2ee
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	They	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+1I	A:maj	ran	.	89.758	newline	r	1A 1cc# 1ee
+.	.	so	.	.	.	.	.
+.	.	fast	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+1I	A:maj	hounds	.	91.116	.	r	1A 1cc# 1ee
+.	.	coul-	.	.	.	.	.
+.	.	-dn't	.	.	.	.	.
+.	.	catch	.	.	.	.	.
+.	.	'em	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	On	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+1I	A:maj	down	.	92.475	.	r	1A 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	Mi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ppi	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+2V	E:maj	Gulf	.	93.834	.	r	2E 2g# 2b
+.	.	of	.	.	.	.	.
+.	.	Me-	.	.	.	.	.
+.	.	-xi-	.	.	.	.	.
+2I	A:maj	-co	D	94.513	.	r	2A 2cc# 2ee
+=70	=70	=70	=70	=70	=70	=70	=70
+1I	A:maj	.	.	95.193	newline	r	1A 1cc# 1ee
+=71	=71	=71	=71	=71	=71	=71	=71
+1I	A:maj	.	.	96.538	.	r	1A 1cc# 1ee
+=72	=72	=72	=72	=72	=72	=72	=72
+1I	A:maj	.	.	97.883	.	r	1A 1cc# 1ee
+=73	=73	=73	=73	=73	=73	=73	=73
+1I	A:maj	.	.	99.228	.	r	1A 1cc# 1ee
+.	.	We	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	A:maj	fire	.	100.574	newline	r	1A 1cc# 1ee
+.	.	our	.	.	.	.	.
+.	.	can-	.	.	.	.	.
+.	.	-non	.	.	.	.	.
+.	.	'till	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1IV	D:maj	bar-	.	101.919	.	r	1D 1f# 1a
+.	.	-rel	.	.	.	.	.
+.	.	melt-	.	.	.	.	.
+.	.	-ed	.	.	.	.	.
+.	.	down	G	.	.	.	.
+.	.	So	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1V7	E:7	grabbed	.	103.265	.	r	1E 1g# 1b 1dd
+.	.	an	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-lli-	.	.	.	.	.
+.	.	-ga-	.	.	.	.	.
+.	.	-tor	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+1I	A:maj	fought	.	104.611	.	r	1A 1cc# 1ee
+.	.	a-	.	.	.	.	.
+.	.	-no-	.	.	.	.	.
+.	.	-ther	.	.	.	.	.
+.	.	round	G	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+1I	A:maj	filled	.	105.957	newline	r	1A 1cc# 1ee
+.	.	his	.	.	.	.	.
+.	.	head	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	ca-	.	.	.	.	.
+.	.	-nnon-	.	.	.	.	.
+.	.	-balls	.	.	.	.	.
+.	.	'n	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+1IV	D:maj	pow-	.	107.31	.	r	1D 1f# 1a
+.	.	-dered	.	.	.	.	.
+.	.	his	.	.	.	.	.
+.	.	be-	.	.	.	.	.
+.	.	-hind	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	And	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+1V7	E:7	when	.	108.663	.	r	1E 1g# 1b 1dd
+.	.	we	.	.	.	.	.
+.	.	touched	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	pow-	.	.	.	.	.
+.	.	-der	.	.	.	.	.
+.	.	off	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+1I	A:maj	ga-	.	110.017	.	r	1A 1cc# 1ee
+.	.	-tor	.	.	.	.	.
+.	.	lost	.	.	.	.	.
+.	.	his	.	.	.	.	.
+.	.	mind	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	A:maj	fire	.	111.37	newline	r	1A 1cc# 1ee
+.	.	our	.	.	.	.	.
+.	.	guns	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+1I	A:maj	Bri-	.	112.738	.	r	1A 1cc# 1ee
+.	.	-tish	.	.	.	.	.
+.	.	kept	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	com-	(C	.	.	.	.
+.	.	-in'	c)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	There	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1I	A:maj	wa-	.	114.106	.	r	1A 1cc# 1ee
+.	.	-sn't	.	.	.	.	.
+.	.	nigh	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	ma-	.	.	.	.	.
+.	.	-ny	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	there	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+2V	E:maj	was	.	115.474	.	r	2E 2g# 2b
+.	.	a	.	.	.	.	.
+.	.	while	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+2I	A:maj	-go	D	116.158	.	r	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	We	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+1I	A:maj	fire	.	116.842	newline	r	1A 1cc# 1ee
+.	.	once	.	.	.	.	.
+.	.	more	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+1I	A:maj	_	.	118.19	.	r	1A 1cc# 1ee
+.	.	be-	.	.	.	.	.
+.	.	-gan	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	run-	(C	.	.	.	.
+.	.	-nin'	c)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	On	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1I	A:maj	down	.	119.539	.	r	1A 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	Mi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ppi	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89
+2V	E:maj	Gulf	.	120.888	.	r	2E 2g# 2b
+.	.	of	.	.	.	.	.
+.	.	Me-	.	.	.	.	.
+.	.	-xi-	.	.	.	.	.
+2I	A:maj	-co	D	121.562	.	r	2A 2cc# 2ee
+=90	=90	=90	=90	=90	=90	=90	=90
+1I	A:maj	.	.	122.237	.	r	1A 1cc# 1ee
+=91	=91	=91	=91	=91	=91	=91	=91
+1I	A:maj	.	.	123.586	.	r	1A 1cc# 1ee
+.	.	Yeah	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92
+*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1I	A:maj	ran	.	124.934	newline	r	1A 1cc# 1ee
+.	.	through	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	brier-	.	.	.	.	.
+.	.	-s	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93
+1I	A:maj	ran	.	126.286	.	r	1A 1cc# 1ee
+.	.	through	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	bram-	.	.	.	.	.
+.	.	-bles	.	.	.	.	.
+.	.	And	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94
+1I	A:maj	ran	.	127.638	.	r	1A 1cc# 1ee
+.	.	through	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	bu-	.	.	.	.	.
+.	.	-shes	.	.	.	.	.
+.	.	where	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+2V	E:maj	ra-	.	128.99	.	r	2E 2g# 2b
+.	.	-bbit	.	.	.	.	.
+.	.	coul-	.	.	.	.	.
+.	.	-dn't	.	.	.	.	.
+2I	A:maj	go	D	129.666	.	r	2A 2cc# 2ee
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	They	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96
+1I	A:maj	ran	.	130.342	newline	r	1A 1cc# 1ee
+.	.	so	.	.	.	.	.
+.	.	fast	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97
+1I	A:maj	hounds	.	131.708	.	r	1A 1cc# 1ee
+.	.	coul-	.	.	.	.	.
+.	.	-dn't	.	.	.	.	.
+.	.	catch	.	.	.	.	.
+.	.	'em	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	On	.	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98
+1I	A:maj	down	.	133.074	.	r	1A 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	Mi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ssi-	.	.	.	.	.
+.	.	-ppi	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99
+2V	E:maj	Gulf	.	134.44	.	r	2E 2g# 2b
+.	.	of	.	.	.	.	.
+.	.	Me-	.	.	.	.	.
+.	.	-xi-	.	.	.	.	.
+2I	A:maj	-co	D	135.123	.	r	2A 2cc# 2ee
+=100	=100	=100	=100	=100	=100	=100	=100
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1I	A:maj	_	.	135.806	newline	r	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101
+1I	A:maj	.	.	137.158	.	r	1A 1cc# 1ee
+=102	=102	=102	=102	=102	=102	=102	=102
+1I	A:maj	.	.	138.51	.	r	1A 1cc# 1ee
+=103	=103	=103	=103	=103	=103	=103	=103
+1I	A:maj	.	.	139.861	.	r	1A 1cc# 1ee
+=104	=104	=104	=104	=104	=104	=104	=104
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+1I	A:maj	.	.	141.213	newline	r	1A 1cc# 1ee
+=105	=105	=105	=105	=105	=105	=105	=105
+1I	A:maj	.	.	142.553	.	r	1A 1cc# 1ee
+=106	=106	=106	=106	=106	=106	=106	=106
+1I	A:maj	.	.	143.894	.	r	1A 1cc# 1ee
+=107	=107	=107	=107	=107	=107	=107	=107
+1I	A:maj	.	.	145.234	.	r	1A 1cc# 1ee
+=108	=108	=108	=108	=108	=108	=108	=108
+1I	A:maj	.	.	146.574	newline	voice	1A 1cc# 1ee
+=109	=109	=109	=109	=109	=109	=109	=109
+1I	A:maj	.	.	147.886	.	voice	1A 1cc# 1ee
+=110	=110	=110	=110	=110	=110	=110	=110
+1I	A:maj	.	.	149.198	.	voice	1A 1cc# 1ee
+=111	=111	=111	=111	=111	=111	=111	=111
+1I	A:maj	.	.	150.509	.	voice	1A 1cc# 1ee
+1r;	N	.	.	151.821	.	r	1r;
+1r;	N	.	.	152.551	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1959/04/27, 1959/08/24
+!!!BillboardPeak: 1, 1
+!!!BillboardWeeksOnChart: 20, 20
+!!!COC: Johnny Horton
+!!!EMD: I made the banjo introduction a part of the introduction. -Nat
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: The Battle Of New Orleans
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 93, 25
+!!!SampleID#: 500, 873
+!!!SampleTargetRank: 93, 26
+!!!MBID: 5b679242-8fa4-4d90-8645-03b67d25757d

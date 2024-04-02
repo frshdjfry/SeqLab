@@ -1,0 +1,136 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*g:	*g:	*	*	*	*g:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1i	G:min	0.959	newline	r	1G 1b- 1dd
+=2	=2	=2	=2	=2	=2
+1i	G:min	4.734	.	r	1G 1b- 1dd
+=3	=3	=3	=3	=3	=3
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+2i	G:min	8.509	newline	voice	2G 2b- 2dd
+2iv	C:min	10.39	.	voice	2C 2e- 2g
+=4	=4	=4	=4	=4	=4
+2V7	D:7	12.271	.	voice	2D 2f# 2a 2cc
+4iv	C:min	14.153	.	voice	4C 4e- 4g
+4V7	D:7	15.093	.	voice	4D 4f# 4a 4cc
+=5	=5	=5	=5	=5	=5
+2i	G:min	16.034	newline	voice	2G 2b- 2dd
+2iv	C:min	17.934	.	voice	2C 2e- 2g
+=6	=6	=6	=6	=6	=6
+2V7	D:7	19.834	.	voice	2D 2f# 2a 2cc
+4iv	C:min	21.734	.	voice	4C 4e- 4g
+4V7	D:7	22.683	.	voice	4D 4f# 4a 4cc
+=7	=7	=7	=7	=7	=7
+1I	G:maj	23.633	.	voice	1G 1b 1dd
+=8	=8	=8	=8	=8	=8
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	G:maj	27.433	newline	voice	1G 1b 1dd
+=9	=9	=9	=9	=9	=9
+1vi	E:min	31.261	.	voice	1E- 1g- 1b-
+=10	=10	=10	=10	=10	=10
+1IV	C:maj	35.088	newline	voice	1C 1e 1g
+=11	=11	=11	=11	=11	=11
+1V7	D:7	38.926	.	voice	1D 1f# 1a 1cc
+=12	=12	=12	=12	=12	=12
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+2i	G:min	42.763	newline	voice	2G 2b- 2dd
+2iv	C:min	44.631	.	voice	2C 2e- 2g
+=13	=13	=13	=13	=13	=13
+2V7	D:7	46.499	.	voice	2D 2f# 2a 2cc
+4iv	C:min	48.367	.	voice	4C 4e- 4g
+4V7	D:7	49.302	.	voice	4D 4f# 4a 4cc
+=14	=14	=14	=14	=14	=14
+2i	G:min	50.236	newline	voice	2G 2b- 2dd
+2iv	C:min	52.154	.	voice	2C 2e- 2g
+=15	=15	=15	=15	=15	=15
+2V7	D:7	54.072	.	voice	2D 2f# 2a 2cc
+4iv	C:min	55.99	.	voice	4C 4e- 4g
+4V7	D:7	56.949	.	voice	4D 4f# 4a 4cc
+=16	=16	=16	=16	=16	=16
+1I	G:maj	57.908	.	voice	1G 1b 1dd
+=17	=17	=17	=17	=17	=17
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	G:maj	61.743	newline	voice	1G 1b 1dd
+=18	=18	=18	=18	=18	=18
+1vi	E:min	65.55	.	voice	1E- 1g- 1b-
+=19	=19	=19	=19	=19	=19
+1IV	C:maj	69.357	newline	voice	1C 1e 1g
+=20	=20	=20	=20	=20	=20
+1V7	D:7	73.146	.	voice	1D 1f# 1a 1cc
+=21	=21	=21	=21	=21	=21
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*A-:	*A-:	*	*	*	*A-:
+1I	A-:maj	76.935	newline	voice	1A- 1cc 1ee-
+=22	=22	=22	=22	=22	=22
+1vi	F:min	80.706	.	voice	1F 1a- 1cc
+=23	=23	=23	=23	=23	=23
+1IV	D-:maj	84.478	newline	voice	1D- 1f 1a-
+=24	=24	=24	=24	=24	=24
+1V7	E-:7	88.264	.	voice	1E- 1g 1b- 1dd-
+=25	=25	=25	=25	=25	=25
+*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo
+2i	A-:min	92.051	newline	strings	2A- 2cc- 2ee-
+2iv	D-:min	93.931	.	strings	2D- 2f- 2a-
+=26	=26	=26	=26	=26	=26
+2V7	E-:7	95.811	.	strings	2E- 2g 2b- 2dd-
+4iv	D-:min	97.691	.	strings	4D- 4f- 4a-
+4V7	E-:7	98.631	.	strings	4E- 4g 4b- 4dd-
+=27	=27	=27	=27	=27	=27
+2i	A-:min	99.571	newline	strings	2A- 2cc- 2ee-
+2iv	D-:min	101.449	.	strings	2D- 2f- 2a-
+=28	=28	=28	=28	=28	=28
+2V7	E-:7	103.327	.	strings	2E- 2g 2b- 2dd-
+4iv	D-:min	105.206	.	strings	4D- 4f- 4a-
+4V7	E-:7	106.145	.	strings	4E- 4g 4b- 4dd-
+=29	=29	=29	=29	=29	=29
+1I	A-:maj	107.084	.	strings	1A- 1cc 1ee-
+=30	=30	=30	=30	=30	=30
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	A-:maj	110.841	newline	voice	1A- 1cc 1ee-
+=31	=31	=31	=31	=31	=31
+1vi	F:min	114.607	.	voice	1F 1a- 1cc
+=32	=32	=32	=32	=32	=32
+1IV	D-:maj	118.372	newline	voice	1D- 1f 1a-
+=33	=33	=33	=33	=33	=33
+1V7	E-:7	122.106	.	voice	1E- 1g 1b- 1dd-
+=34	=34	=34	=34	=34	=34
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*A:	*A:	*	*	*	*A:
+1I	A:maj	125.84	newline	voice	1A 1cc# 1ee
+=35	=35	=35	=35	=35	=35
+1vi	F#:min	129.495	.	voice	1F# 1a 1cc#
+=36	=36	=36	=36	=36	=36
+1IV	D:maj	133.149	newline	voice	1D 1f# 1a
+=37	=37	=37	=37	=37	=37
+1V7	E:7	136.831	.	voice	1E 1g# 1b 1dd
+=38	=38	=38	=38	=38	=38
+*>B_fadeout	*>B_fadeout	*>B_fadeout	*>B_fadeout	*>B_fadeout	*>B_fadeout
+*B-:	*B-:	*	*	*	*B-:
+1I	B-:maj	140.513	newline	voice	1B- 1dd 1ff
+=39	=39	=39	=39	=39	=39
+1vi	G:min	142.299	.	voice	1G 1b- 1dd
+=40	=40	=40	=40	=40	=40
+1IV	E-:maj	144.084	.	voice	1E- 1g 1b-
+=41	=41	=41	=41	=41	=41
+1V7	F:7	145.87	.	voice	1F 1a 1cc 1ee-
+1r;	N	147.656	.	r	1r;
+1r;	N	151.85	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: You Don't Own Me
+!!!COC: Lesley Gore
+!!!BillboardChartDate: 1964/03/07
+!!!BillboardPeak: 2
+!!!BillboardWeeksOnChart: 13
+!!!SampleTargetRank: 14
+!!!SampleActualRank: 13
+!!!SampleID#: 1211
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

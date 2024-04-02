@@ -1,0 +1,171 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*D:	*D:	*	*	*	*D:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1V7	A:11	0.325	newline	trumpets	1A 1cc# 1ee 1gg
+=2	=2	=2	=2	=2	=2
+1iiib	F#:min/b3	3.519	.	trumpets	1f# 1A 1cc#
+=3	=3	=3	=3	=3	=3
+1V7	A:11	6.712	.	trumpets	1A 1cc# 1ee 1gg
+=4	=4	=4	=4	=4	=4
+1iiib	F#:min/b3	9.906	.	trumpets	1f# 1A 1cc#
+=5	=5	=5	=5	=5	=5
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1V7	A:11	13.1	newline	voice	1A 1cc# 1ee 1gg
+=6	=6	=6	=6	=6	=6
+1iiib	F#:min/b3	16.08	.	voice	1f# 1A 1cc#
+=7	=7	=7	=7	=7	=7
+1V7	A:11	19.061	.	voice	1A 1cc# 1ee 1gg
+=8	=8	=8	=8	=8	=8
+1iiib	F#:min/b3	22.042	.	voice	1f# 1A 1cc#
+=9	=9	=9	=9	=9	=9
+1V7	A:11	25.023	newline	voice	1A 1cc# 1ee 1gg
+=10	=10	=10	=10	=10	=10
+1iiib	F#:min/b3	28.066	.	voice	1f# 1A 1cc#
+=11	=11	=11	=11	=11	=11
+1V7	A:11	31.109	.	voice	1A 1cc# 1ee 1gg
+=12	=12	=12	=12	=12	=12
+1V7	A:11	34.153	.	voice	1A 1cc# 1ee 1gg
+=13	=13	=13	=13	=13	=13
+1V	A:maj	37.196	newline	voice	1A 1cc# 1ee
+=14	=14	=14	=14	=14	=14
+*>D_verse	*>D_verse	*>D_verse	*>D_verse	*>D_verse	*>D_verse
+1I7	D:maj9	40.263	newline	voice	1D 1f# 1a 1cc#
+=15	=15	=15	=15	=15	=15
+1I7	D:maj9	43.304	.	voice	1D 1f# 1a 1cc#
+=16	=16	=16	=16	=16	=16
+1V7	A:11	46.345	.	voice	1A 1cc# 1ee 1gg
+=17	=17	=17	=17	=17	=17
+1V7	A:11	49.386	.	voice	1A 1cc# 1ee 1gg
+=18	=18	=18	=18	=18	=18
+1I7	D:maj9	52.426	newline	voice	1D 1f# 1a 1cc#
+=19	=19	=19	=19	=19	=19
+1I7	D:maj9	55.506	.	voice	1D 1f# 1a 1cc#
+=20	=20	=20	=20	=20	=20
+1V7	A:11	58.585	.	voice	1A 1cc# 1ee 1gg
+=21	=21	=21	=21	=21	=21
+1V7	A:11	61.665	.	voice	1A 1cc# 1ee 1gg
+=22	=22	=22	=22	=22	=22
+*>B_prechorus	*>B_prechorus	*>B_prechorus	*>B_prechorus	*>B_prechorus	*>B_prechorus
+1V7	A:11	64.745	newline	voice	1A 1cc# 1ee 1gg
+=23	=23	=23	=23	=23	=23
+2iii7	F#:min7	67.796	.	voice	2F# 2a 2cc# 2ee
+2VI7	B:7	69.322	.	voice	2B 2dd# 2ff# 2aa
+=24	=24	=24	=24	=24	=24
+1V7	A:11	70.848	.	voice	1A 1cc# 1ee 1gg
+=25	=25	=25	=25	=25	=25
+2iii7	F#:min7	73.899	.	voice	2F# 2a 2cc# 2ee
+2VI7	B:7	75.425	.	voice	2B 2dd# 2ff# 2aa
+=26	=26	=26	=26	=26	=26
+1V7	A:11	76.951	newline	voice	1A 1cc# 1ee 1gg
+=27	=27	=27	=27	=27	=27
+1iii7	F#:min7	80.026	.	voice	1F# 1a 1cc# 1ee
+=28	=28	=28	=28	=28	=28
+1IV7	G:maj7	83.102	.	voice	1G 1b 1dd 1ff#
+=29	=29	=29	=29	=29	=29
+1V7	A:11	86.178	.	voice	1A 1cc# 1ee 1gg
+=30	=30	=30	=30	=30	=30
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1V7	A:11	89.254	newline	voice	1A 1cc# 1ee 1gg
+=31	=31	=31	=31	=31	=31
+1iiib	F#:min/b3	92.308	.	voice	1f# 1A 1cc#
+=32	=32	=32	=32	=32	=32
+1V7	A:11	95.363	.	voice	1A 1cc# 1ee 1gg
+=33	=33	=33	=33	=33	=33
+1iiib	F#:min/b3	98.417	.	voice	1f# 1A 1cc#
+=34	=34	=34	=34	=34	=34
+1V7	A:11	101.472	newline	voice	1A 1cc# 1ee 1gg
+=35	=35	=35	=35	=35	=35
+1iiib	F#:min/b3	104.511	.	voice	1f# 1A 1cc#
+=36	=36	=36	=36	=36	=36
+1V7	A:11	107.549	.	voice	1A 1cc# 1ee 1gg
+=37	=37	=37	=37	=37	=37
+1V7	A:11	110.588	.	voice	1A 1cc# 1ee 1gg
+=38	=38	=38	=38	=38	=38
+1V7	A:11	113.627	newline	voice	1A 1cc# 1ee 1gg
+=39	=39	=39	=39	=39	=39
+1V7	A:11	116.653	.	voice	1A 1cc# 1ee 1gg
+=40	=40	=40	=40	=40	=40
+1V	A:1	119.68	.	voice	1A 1cc# 1ee
+=41	=41	=41	=41	=41	=41
+*>D_verse	*>D_verse	*>D_verse	*>D_verse	*>D_verse	*>D_verse
+1I7	D:maj9	122.707	newline	strings	1D 1f# 1a 1cc#
+=42	=42	=42	=42	=42	=42
+1I7	D:maj9	125.734	.	strings	1D 1f# 1a 1cc#
+=43	=43	=43	=43	=43	=43
+1V7	A:11	128.761	.	strings	1A 1cc# 1ee 1gg
+=44	=44	=44	=44	=44	=44
+1V7	A:11	131.789	.	strings	1A 1cc# 1ee 1gg
+=45	=45	=45	=45	=45	=45
+1I7	D:maj9	134.816	newline	strings	1D 1f# 1a 1cc#
+=46	=46	=46	=46	=46	=46
+1I7	D:maj9	137.871	.	strings	1D 1f# 1a 1cc#
+=47	=47	=47	=47	=47	=47
+1V7	A:11	140.927	.	strings	1A 1cc# 1ee 1gg
+=48	=48	=48	=48	=48	=48
+1V7	A:11	143.982	.	strings	1A 1cc# 1ee 1gg
+=49	=49	=49	=49	=49	=49
+*>B_prechorus	*>B_prechorus	*>B_prechorus	*>B_prechorus	*>B_prechorus	*>B_prechorus
+1V7	A:11	147.038	newline	voice	1A 1cc# 1ee 1gg
+=50	=50	=50	=50	=50	=50
+2iii7	F#:min7	150.094	.	voice	2F# 2a 2cc# 2ee
+2VI7	B:7	151.622	.	voice	2B 2dd# 2ff# 2aa
+=51	=51	=51	=51	=51	=51
+1V7	A:11	153.15	.	voice	1A 1cc# 1ee 1gg
+=52	=52	=52	=52	=52	=52
+2iii7	F#:min7	156.206	.	voice	2F# 2a 2cc# 2ee
+2VI7	B:7	157.734	.	voice	2B 2dd# 2ff# 2aa
+=53	=53	=53	=53	=53	=53
+1V7	A:11	159.262	newline	voice	1A 1cc# 1ee 1gg
+=54	=54	=54	=54	=54	=54
+1iii7	F#:min7	162.352	.	voice	1F# 1a 1cc# 1ee
+=55	=55	=55	=55	=55	=55
+1IV7	G:maj7	165.443	.	voice	1G 1b 1dd 1ff#
+=56	=56	=56	=56	=56	=56
+1V7	A:11	168.533	.	voice	1A 1cc# 1ee 1gg
+=57	=57	=57	=57	=57	=57
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1V7	A:11	171.624	newline	voice	1A 1cc# 1ee 1gg
+=58	=58	=58	=58	=58	=58
+1iiib	F#:min/b3	174.68	.	voice	1f# 1A 1cc#
+=59	=59	=59	=59	=59	=59
+1V7	A:11	177.735	.	voice	1A 1cc# 1ee 1gg
+=60	=60	=60	=60	=60	=60
+1iiib	F#:min/b3	180.791	.	voice	1f# 1A 1cc#
+=61	=61	=61	=61	=61	=61
+1V7	A:11	183.846	newline	voice	1A 1cc# 1ee 1gg
+=62	=62	=62	=62	=62	=62
+1iiib	F#:min/b3	186.908	.	voice	1f# 1A 1cc#
+=63	=63	=63	=63	=63	=63
+1V7	A:11	189.969	.	voice	1A 1cc# 1ee 1gg
+=64	=64	=64	=64	=64	=64
+1iiib	F#:min/b3	193.03	.	voice	1f# 1A 1cc#
+=65	=65	=65	=65	=65	=65
+1V7	A:11	196.091	newline	fadeout voice	1A 1cc# 1ee 1gg
+=66	=66	=66	=66	=66	=66
+1iiib	F#:min/b3	199.18	.	fadeout voice	1f# 1A 1cc#
+=67	=67	=67	=67	=67	=67
+1V7	A:11	202.269	.	fadeout voice	1A 1cc# 1ee 1gg
+=68	=68	=68	=68	=68	=68
+1iiib	F#:min/b3	205.359	.	fadeout voice	1f# 1A 1cc#
+1r;	N	208.448	.	r	1r;
+1r;	N	211.2	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Hey You! Get Off My Mountain
+!!!COC: The Dramatics
+!!!BillboardChartDate: 1973/05/26
+!!!BillboardPeak: 43
+!!!BillboardWeeksOnChart: 12
+!!!SampleTargetRank: 64
+!!!SampleActualRank: 65
+!!!SampleID#: 1020
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

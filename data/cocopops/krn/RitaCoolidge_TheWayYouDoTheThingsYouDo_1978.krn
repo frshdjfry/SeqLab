@@ -1,0 +1,245 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*E:	*E:	*	*	*	*E:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1Ic	E:maj/5	0.464	newline	guitar	1e 1g# 1B
+=2	=2	=2	=2	=2	=2
+1Ic	E:maj/5	2.737	.	guitar	1e 1g# 1B
+.	E-:maj/5	3.873	.	guitar	.
+.	D:maj/5	4.441	.	guitar	.
+=3	=3	=3	=3	=3	=3
+1Im7	E:7	5.009	newline	guitar	1E 1g# 1b 1dd#
+=4	=4	=4	=4	=4	=4
+1Im7	E:7	7.234	.	guitar	1E 1g# 1b 1dd#
+=5	=5	=5	=5	=5	=5
+1Im7	E:7	9.459	.	guitar	1E 1g# 1b 1dd#
+=6	=6	=6	=6	=6	=6
+1Im7	E:7	11.684	.	guitar	1E 1g# 1b 1dd#
+=7	=7	=7	=7	=7	=7
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	E:7	13.909	newline	voice	1E 1g# 1b 1dd#
+=8	=8	=8	=8	=8	=8
+1Im7	E:7	16.145	.	voice	1E 1g# 1b 1dd#
+=9	=9	=9	=9	=9	=9
+1Im7	E:7	18.381	.	voice	1E 1g# 1b 1dd#
+=10	=10	=10	=10	=10	=10
+1Im7	E:7	20.616	.	voice	1E 1g# 1b 1dd#
+=11	=11	=11	=11	=11	=11
+1Im7	E:7	22.852	newline	voice	1E 1g# 1b 1dd#
+=12	=12	=12	=12	=12	=12
+1Im7	E:7	25.045	.	voice	1E 1g# 1b 1dd#
+=13	=13	=13	=13	=13	=13
+1Im7	E:7	27.238	.	voice	1E 1g# 1b 1dd#
+=14	=14	=14	=14	=14	=14
+1Im7	E:7	29.432	.	voice	1E 1g# 1b 1dd#
+=15	=15	=15	=15	=15	=15
+1IVm7	A:7	31.625	newline	voice	1A 1cc# 1ee 1gg#
+=16	=16	=16	=16	=16	=16
+1IVm7	A:7	33.841	.	voice	1A 1cc# 1ee 1gg#
+=17	=17	=17	=17	=17	=17
+1Im7	E:7	36.057	.	voice	1E 1g# 1b 1dd#
+=18	=18	=18	=18	=18	=18
+1Im7	E:7	38.273	.	voice	1E 1g# 1b 1dd#
+=19	=19	=19	=19	=19	=19
+1Im7	E:7	40.49	newline	voice	1E 1g# 1b 1dd#
+=20	=20	=20	=20	=20	=20
+1Im7	E:7	42.711	.	voice	1E 1g# 1b 1dd#
+=21	=21	=21	=21	=21	=21
+1Im7	E:7	44.931	.	voice	1E 1g# 1b 1dd#
+=22	=22	=22	=22	=22	=22
+4Im7	E:7	47.152	.	voice	4E 4g# 4b 4dd#
+2.V	B:maj	47.707	.	voice	2B 2dd# 2ff#
+=23	=23	=23	=23	=23	=23
+1V7	B:7	49.373	newline	voice	1B 1dd# 1ff# 1aa
+=24	=24	=24	=24	=24	=24
+1IVm7	A:7	51.582	.	voice	1A 1cc# 1ee 1gg#
+=25	=25	=25	=25	=25	=25
+1V7	B:7	53.792	.	voice	1B 1dd# 1ff# 1aa
+=26	=26	=26	=26	=26	=26
+1IVm7	A:7	56.001	.	voice	1A 1cc# 1ee 1gg#
+=27	=27	=27	=27	=27	=27
+1Im7	E:7	58.211	newline	voice	1E 1g# 1b 1dd#
+=28	=28	=28	=28	=28	=28
+1Im7	E:7	60.419	.	voice	1E 1g# 1b 1dd#
+=29	=29	=29	=29	=29	=29
+1Im7	E:7	62.627	.	voice	1E 1g# 1b 1dd#
+=30	=30	=30	=30	=30	=30
+1Im7	E:7	64.836	.	voice	1E 1g# 1b 1dd#
+=31	=31	=31	=31	=31	=31
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	E:7	67.044	newline	voice	1E 1g# 1b 1dd#
+=32	=32	=32	=32	=32	=32
+1Im7	E:7	69.301	.	voice	1E 1g# 1b 1dd#
+=33	=33	=33	=33	=33	=33
+1Im7	E:7	71.558	.	voice	1E 1g# 1b 1dd#
+=34	=34	=34	=34	=34	=34
+1Im7	E:7	73.815	.	voice	1E 1g# 1b 1dd#
+=35	=35	=35	=35	=35	=35
+1Im7	E:7	76.072	newline	voice	1E 1g# 1b 1dd#
+=36	=36	=36	=36	=36	=36
+1Im7	E:7	78.279	.	voice	1E 1g# 1b 1dd#
+=37	=37	=37	=37	=37	=37
+1Im7	E:7	80.486	.	voice	1E 1g# 1b 1dd#
+=38	=38	=38	=38	=38	=38
+1Im7	E:7	82.693	.	voice	1E 1g# 1b 1dd#
+=39	=39	=39	=39	=39	=39
+1IVm7	A:7	84.9	newline	voice	1A 1cc# 1ee 1gg#
+=40	=40	=40	=40	=40	=40
+1IVm7	A:7	87.112	.	voice	1A 1cc# 1ee 1gg#
+=41	=41	=41	=41	=41	=41
+1Im7	E:7	89.324	.	voice	1E 1g# 1b 1dd#
+=42	=42	=42	=42	=42	=42
+1Im7	E:7	91.537	.	voice	1E 1g# 1b 1dd#
+=43	=43	=43	=43	=43	=43
+1Im7	E:7	93.749	newline	voice	1E 1g# 1b 1dd#
+=44	=44	=44	=44	=44	=44
+1Im7	E:7	95.959	.	voice	1E 1g# 1b 1dd#
+=45	=45	=45	=45	=45	=45
+1Im7	E:7	98.169	.	voice	1E 1g# 1b 1dd#
+=46	=46	=46	=46	=46	=46
+4Im7	E:7	100.379	.	voice	4E 4g# 4b 4dd#
+2.V7	B:7	100.932	.	voice	2B 2dd# 2ff# 2aa
+=47	=47	=47	=47	=47	=47
+1V7	B:7	102.589	newline	voice	1B 1dd# 1ff# 1aa
+=48	=48	=48	=48	=48	=48
+1IVm7	A:7	104.804	.	voice	1A 1cc# 1ee 1gg#
+=49	=49	=49	=49	=49	=49
+1V7	B:7	107.019	.	voice	1B 1dd# 1ff# 1aa
+=50	=50	=50	=50	=50	=50
+1IVm7	A:7	109.234	.	voice	1A 1cc# 1ee 1gg#
+=51	=51	=51	=51	=51	=51
+1Im7	E:7	111.449	newline	voice	1E 1g# 1b 1dd#
+=52	=52	=52	=52	=52	=52
+1Im7	E:7	113.66	.	voice	1E 1g# 1b 1dd#
+=53	=53	=53	=53	=53	=53
+1Im7	E:7	115.87	.	voice	1E 1g# 1b 1dd#
+=54	=54	=54	=54	=54	=54
+1Im7	E:7	118.081	.	voice	1E 1g# 1b 1dd#
+=55	=55	=55	=55	=55	=55
+*>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo
+1Im7	E:7	120.291	newline	guitar	1E 1g# 1b 1dd#
+=56	=56	=56	=56	=56	=56
+1Im7	E:7	122.505	.	guitar	1E 1g# 1b 1dd#
+=57	=57	=57	=57	=57	=57
+1Im7	E:7	124.72	.	guitar	1E 1g# 1b 1dd#
+=58	=58	=58	=58	=58	=58
+1Im7	E:7	126.934	.	guitar	1E 1g# 1b 1dd#
+=59	=59	=59	=59	=59	=59
+1Im7	E:7	129.148	newline	guitar	1E 1g# 1b 1dd#
+=60	=60	=60	=60	=60	=60
+1Im7	E:7	131.376	.	guitar	1E 1g# 1b 1dd#
+=61	=61	=61	=61	=61	=61
+1Im7	E:7	133.603	.	guitar	1E 1g# 1b 1dd#
+=62	=62	=62	=62	=62	=62
+4Im7	E:7	135.83	.	guitar	4E 4g# 4b 4dd#
+2.V7	B:7	136.387	.	guitar	2B 2dd# 2ff# 2aa
+=63	=63	=63	=63	=63	=63
+1V7	B:7	138.057	newline	guitar	1B 1dd# 1ff# 1aa
+=64	=64	=64	=64	=64	=64
+1IVm7	A:7	140.256	.	guitar	1A 1cc# 1ee 1gg#
+=65	=65	=65	=65	=65	=65
+1V7	B:7	142.455	.	guitar	1B 1dd# 1ff# 1aa
+=66	=66	=66	=66	=66	=66
+1IVm7	A:7	144.654	.	guitar	1A 1cc# 1ee 1gg#
+=67	=67	=67	=67	=67	=67
+1Im7	E:7	146.853	newline	guitar	1E 1g# 1b 1dd#
+=68	=68	=68	=68	=68	=68
+1Im7	E:7	149.065	.	guitar	1E 1g# 1b 1dd#
+=69	=69	=69	=69	=69	=69
+*F:	*F:	*	*	*	*F:
+1Im7	F:7	151.277	.	guitar	1F 1a 1cc 1ee
+=70	=70	=70	=70	=70	=70
+1Im7	F:7	153.49	.	guitar	1F 1a 1cc 1ee
+=71	=71	=71	=71	=71	=71
+*>C2_verse	*>C2_verse	*>C2_verse	*>C2_verse	*>C2_verse	*>C2_verse
+1Im7	F:7	155.702	newline	voice	1F 1a 1cc 1ee
+=72	=72	=72	=72	=72	=72
+1Im7	F:7	157.9	.	voice	1F 1a 1cc 1ee
+=73	=73	=73	=73	=73	=73
+1Im7	F:7	160.098	.	voice	1F 1a 1cc 1ee
+=74	=74	=74	=74	=74	=74
+1Im7	F:7	162.295	.	voice	1F 1a 1cc 1ee
+=75	=75	=75	=75	=75	=75
+1Im7	F:7	164.493	newline	voice	1F 1a 1cc 1ee
+=76	=76	=76	=76	=76	=76
+1Im7	F:7	166.705	.	voice	1F 1a 1cc 1ee
+=77	=77	=77	=77	=77	=77
+1Im7	F:7	168.917	.	voice	1F 1a 1cc 1ee
+=78	=78	=78	=78	=78	=78
+4Im7	F:7	171.129	.	voice	4F 4a 4cc 4ee
+2.V7	C:7	171.682	.	voice	2C 2e 2g 2b-
+=79	=79	=79	=79	=79	=79
+1V7	C:7	173.341	newline	voice	1C 1e 1g 1b-
+=80	=80	=80	=80	=80	=80
+1IVm7	B-:7	175.544	.	voice	1B- 1dd 1ff 1aa
+=81	=81	=81	=81	=81	=81
+1V7	C:7	177.746	.	voice	1C 1e 1g 1b-
+=82	=82	=82	=82	=82	=82
+1IVm7	B-:7	179.949	.	voice	1B- 1dd 1ff 1aa
+=83	=83	=83	=83	=83	=83
+1Im7	F:7	182.151	newline	voice	1F 1a 1cc 1ee
+=84	=84	=84	=84	=84	=84
+1Im7	F:7	184.33	.	voice	1F 1a 1cc 1ee
+=85	=85	=85	=85	=85	=85
+1Im7	F:7	186.509	.	voice	1F 1a 1cc 1ee
+=86	=86	=86	=86	=86	=86
+1Im7	F:7	188.688	.	voice	1F 1a 1cc 1ee
+=87	=87	=87	=87	=87	=87
+*>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro
+1Im7	F:7	190.867	newline	voice	1F 1a 1cc 1ee
+=88	=88	=88	=88	=88	=88
+2Im7	F:7	193.075	.	voice	2F 2a 2cc 2ee
+4-III	A-:maj	194.179	.	voice	4A- 4cc 4ee-
+4IV	B-:maj	194.731	.	voice	4B- 4dd 4ff
+=89	=89	=89	=89	=89	=89
+1Im7	F:7	195.283	.	voice	1F 1a 1cc 1ee
+=90	=90	=90	=90	=90	=90
+2Im7	F:7	197.491	.	voice	2F 2a 2cc 2ee
+4-III	A-:maj	198.595	.	voice	4A- 4cc 4ee-
+4IV	B-:maj	199.147	.	voice	4B- 4dd 4ff
+=91	=91	=91	=91	=91	=91
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1Im7	F:7	199.699	newline	voice	1F 1a 1cc 1ee
+=92	=92	=92	=92	=92	=92
+2Im7	F:7	201.902	.	voice	2F 2a 2cc 2ee
+4-III	A-:maj	203.004	.	voice	4A- 4cc 4ee-
+4IV	B-:maj	203.555	.	voice	4B- 4dd 4ff
+=93	=93	=93	=93	=93	=93
+1Im7	F:7	204.106	.	voice	1F 1a 1cc 1ee
+=94	=94	=94	=94	=94	=94
+2Im7	F:7	206.309	.	voice	2F 2a 2cc 2ee
+4-III	A-:maj	207.411	.	voice	4A- 4cc 4ee-
+4IV	B-:maj	207.962	.	voice	4B- 4dd 4ff
+=95	=95	=95	=95	=95	=95
+1Im7	F:7	208.512	newline	voice	1F 1a 1cc 1ee
+=96	=96	=96	=96	=96	=96
+2Im7	F:7	210.278	.	voice	2F 2a 2cc 2ee
+4-III	A-:maj	211.161	.	voice	4A- 4cc 4ee-
+4IV	B-:maj	211.602	.	voice	4B- 4dd 4ff
+=97	=97	=97	=97	=97	=97
+1Im7	F:7	212.044	.	voice	1F 1a 1cc 1ee
+=98	=98	=98	=98	=98	=98
+2Im7	F:7	213.809	.	voice	2F 2a 2cc 2ee
+4-III	A-:maj	214.692	.	voice	4A- 4cc 4ee-
+4IV	B-:maj	215.133	.	voice	4B- 4dd 4ff
+1r;	N	215.575	.	r	1r;
+1r;	N	218.816	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: The Way You Do The Things You Do
+!!!COC: Rita Coolidge
+!!!BillboardChartDate: 1978/01/21
+!!!BillboardPeak: 20
+!!!BillboardWeeksOnChart: 11
+!!!SampleTargetRank: 74
+!!!SampleActualRank: 73
+!!!SampleID#: 0291
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

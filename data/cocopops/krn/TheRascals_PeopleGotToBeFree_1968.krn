@@ -1,0 +1,585 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*F:	*F:	*	*	*	*	*	*F:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2IV	B-:maj	All	.	0.255	newline	voice	2B- 2dd 2ff
+.	.	the	.	.	.	.	.
+.	.	world	.	.	.	.	.
+2I	F:maj	o-	.	1.223	.	voice	2F 2a 2cc
+.	.	-ver,	.	.	.	.	.
+.	.	so	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2V	C:maj	ea-	.	2.191	.	voice	2C 2e 2g
+.	.	-sy	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	see	A	.	.	.	.
+2I	F:maj	_	.	3.159	.	voice	2F 2a 2cc
+.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2IV	B-:maj	Pe-	.	4.127	.	voice	2B- 2dd 2ff
+.	.	-o-	.	.	.	.	.
+.	.	-ple	.	.	.	.	.
+.	.	every-	.	.	.	.	.
+2I	F:maj	-where	.	5.095	.	voice	2F 2a 2cc
+.	.	just	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2V	C:maj	wan-	.	6.062	.	voice	2C 2e 2g
+.	.	-na	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	free	A	.	.	.	.
+2I	F:maj	_	.	7.03	.	voice	2F 2a 2cc
+.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+2IV	B-:maj	Lis-	.	7.998	newline	voice	2B- 2dd 2ff
+.	.	-ten,	.	.	.	.	.
+.	.	please	.	.	.	.	.
+2I	F:maj	lis-	.	8.931	.	voice	2F 2a 2cc
+.	.	-ten,	.	.	.	.	.
+.	.	that's	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2V	C:maj	way	.	9.863	.	voice	2C 2e 2g
+.	.	it	.	.	.	.	.
+.	.	should	.	.	.	.	.
+2I	F:maj	be	A	10.796	.	voice	2F 2a 2cc
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+2IV	B-:maj	Deep	.	11.728	.	voice	2B- 2dd 2ff
+.	.	in	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	val-	.	.	.	.	.
+2I	F:maj	_	.	12.661	.	voice	2F 2a 2cc
+.	.	-ley,	A	.	.	.	.
+.	.	peo-	.	.	.	.	.
+.	.	-ple	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+*M2/4	*M2/4	*	*	*M2/4	*M2/4	*M2/4	*
+2V	C:maj	got	.	13.594	.	voice	2C 2e 2g
+.	.	to	.	.	.	.	.
+.	.	be	A	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+*M4/4	*M4/4	*	*	*M4/4	*M4/4	*M4/4	*
+1I	F:maj	free	A	14.526	newline	trumpet	1F 1a 1cc
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1V	C:maj	.	.	16.447	.	trumpet	1C 1e 1g
+=11	=11	=11	=11	=11	=11	=11	=11
+1I	F:maj	.	.	18.368	.	trumpet	1F 1a 1cc
+=12	=12	=12	=12	=12	=12	=12	=12
+1V	C:maj	.	.	20.29	.	trumpet	1C 1e 1g
+=13	=13	=13	=13	=13	=13	=13	=13
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	.	.	22.211	newline	voice	1F 1a 1cc
+.	.	You	.	.	.	.	.
+.	.	should	.	.	.	.	.
+.	.	see	A	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1V	C:maj	_	.	24.098	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1vi	D:min	love-	.	25.984	.	voice	1D 1f 1a
+.	.	-ly,	.	.	.	.	.
+.	.	love-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	world	.	.	.	.	.
+.	.	this	.	.	.	.	.
+.	.	could	.	.	.	.	.
+.	.	be	A	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1iii	A:min	_	.	27.871	.	voice	1A 1cc 1ee
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1IV	B-:maj	.	.	29.758	newline	voice	1B- 1dd 1ff
+.	.	E-	.	.	.	.	.
+.	.	-ve-	.	.	.	.	.
+.	.	-ry-	.	.	.	.	.
+.	.	-one	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1I	F:maj	_	.	31.622	.	voice	1F 1a 1cc
+.	.	learned	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	live	.	.	.	.	.
+.	.	to-	.	.	.	.	.
+.	.	-ge-	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1r	N	_	.	33.487	.	voice	1r
+.	.	-ther	b	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1r	N	.	.	35.351	.	voice	1r
+.	.	han	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1I	F:maj	.	.	37.216	newline	voice	1F 1a 1cc
+.	.	Seems	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	me	A	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1V	C:maj	_	.	39.129	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	such	.	.	.	.	.
+.	.	an	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1vi	D:min	ea-	.	41.042	.	voice	1D 1f 1a
+.	.	-sy,	.	.	.	.	.
+.	.	eas-	.	.	.	.	.
+.	.	-sy	.	.	.	.	.
+.	.	thing	.	.	.	.	.
+.	.	should	.	.	.	.	.
+.	.	be	A	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1iii	A:min	_	.	42.955	.	voice	1A 1cc 1ee
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1IV	B-:maj	.	.	44.868	newline	voice	1B- 1dd 1ff
+.	.	Uh	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+.	.	can't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	me	A	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1I	F:maj	_	.	46.702	.	voice	1F 1a 1cc
+.	.	learn	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	love	.	.	.	.	.
+.	.	one	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1r	N	'o-	.	48.536	.	voice	1r
+.	.	-ther	b	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1r	N	No,	.	50.37	.	voice	1r
+.	.	hea-	.	.	.	.	.
+.	.	-ven	.	.	.	.	.
+.	.	now	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2IV	B-:maj	All	.	52.205	newline	voice	2B- 2dd 2ff
+.	.	the	.	.	.	.	.
+.	.	world	.	.	.	.	.
+2I	F:maj	o-	.	53.163	.	voice	2F 2a 2cc
+.	.	-ver,	.	.	.	.	.
+.	.	so	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2V	C:maj	ea-	.	54.122	.	voice	2C 2e 2g
+.	.	-sy	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	see	A	.	.	.	.
+2I	F:maj	.	.	55.08	.	voice	2F 2a 2cc
+.	.	Uh	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+2IV	B-:maj	Pe-	.	56.039	.	voice	2B- 2dd 2ff
+.	.	-o-	.	.	.	.	.
+.	.	-ple	.	.	.	.	.
+.	.	every-	.	.	.	.	.
+2I	F:maj	-where	.	56.997	.	voice	2F 2a 2cc
+.	.	just	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+2V	C:maj	wan-	.	57.956	.	voice	2C 2e 2g
+.	.	-na	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	free	A	.	.	.	.
+2I	F:maj	_	.	58.914	.	voice	2F 2a 2cc
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2IV	B-:maj	can't	.	59.873	newline	voice	2B- 2dd 2ff
+.	.	un-	.	.	.	.	.
+.	.	-der-	.	.	.	.	.
+.	.	-stand	.	.	.	.	.
+2I	F:maj	_	.	60.83	.	voice	2F 2a 2cc
+.	.	it,	.	.	.	.	.
+.	.	so	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2V	C:maj	sim-	.	61.787	.	voice	2C 2e 2g
+.	.	-ple	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	me	A	.	.	.	.
+2I	F:maj	.	.	62.744	.	voice	2F 2a 2cc
+=35	=35	=35	=35	=35	=35	=35	=35
+2IV	B-:maj	Peo-	.	63.701	.	voice	2B- 2dd 2ff
+.	.	-ple	.	.	.	.	.
+.	.	every-	.	.	.	.	.
+.	.	-where	.	.	.	.	.
+2I	F:maj	_	.	64.658	.	voice	2F 2a 2cc
+.	.	just	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+*M2/4	*M2/4	*	*	*M2/4	*M2/4	*M2/4	*
+2V	C:maj	goy	.	65.615	.	voice	2C 2e 2g
+.	.	to	.	.	.	.	.
+.	.	be	A	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+*M4/4	*M4/4	*	*	*M4/4	*M4/4	*M4/4	*
+1I	F:maj	free	A	66.572	newline	trumpet	1F 1a 1cc
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1V	C:maj	.	.	68.474	.	trumpet	1C 1e 1g
+=39	=39	=39	=39	=39	=39	=39	=39
+1I	F:maj	.	.	70.375	.	trumpet	1F 1a 1cc
+=40	=40	=40	=40	=40	=40	=40	=40
+1V	C:maj	.	.	72.277	.	trumpet	1C 1e 1g
+=41	=41	=41	=41	=41	=41	=41	=41
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	.	.	74.179	newline	voice	1F 1a 1cc
+.	.	If	.	.	.	.	.
+.	.	there's	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	man	C	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1V	C:maj	_	.	76.073	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	who	.	.	.	.	.
+.	.	is	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1vi	D:min	down	.	77.967	.	voice	1D 1f 1a
+.	.	and	.	.	.	.	.
+.	.	needs	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	hel-	.	.	.	.	.
+.	.	-ping	.	.	.	.	.
+.	.	hand	C	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1iii	A:min	_	.	79.861	.	voice	1A 1cc 1ee
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	All	.	.	.	.	.
+.	.	it	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1IV	B-:maj	takes	.	81.755	newline	voice	1B- 1dd 1ff
+.	.	is	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	un-	.	.	.	.	.
+.	.	-der-	.	.	.	.	.
+.	.	-stand	C	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1I	F:maj	_	.	83.603	.	voice	1F 1a 1cc
+.	.	and	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	pull	.	.	.	.	.
+.	.	him	.	.	.	.	.
+.	.	through	D	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1r	N	_	.	85.451	.	voice	1r
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1r	N	Ah	.	87.299	.	voice	1r
+.	.	Ah	.	.	.	.	.
+.	.	ha	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1I	F:maj	.	.	89.147	newline	voice	1F 1a 1cc
+.	.	It	.	.	.	.	.
+.	.	seems	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	me,	A	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1V	C:maj	_	.	91.046	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	we	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1vi	D:min	solve	.	92.946	.	voice	1D 1f 1a
+.	.	it	.	.	.	.	.
+.	.	in-	.	.	.	.	.
+.	.	-di-	.	.	.	.	.
+.	.	-vi-	.	.	.	.	.
+.	.	-du-	D	.	.	.	.
+.	.	-a-	.	.	.	.	.
+.	.	-ly	A	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+1iii	A:min	_	.	94.845	.	voice	1A 1cc 1ee
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+1IV	B-:maj	.	.	96.744	newline	voice	1B- 1dd 1ff
+.	.	And	.	.	.	.	.
+.	.	I'll	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	do	.	.	.	.	.
+.	.	un-	.	.	.	.	.
+.	.	-to	.	.	.	.	.
+.	.	you	D	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1I	F:maj	_	.	98.576	.	voice	1F 1a 1cc
+.	.	what	.	.	.	.	.
+.	.	you	D	.	.	.	.
+.	.	do	D	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	me	A	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1r	N	_	.	100.409	.	voice	1r
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Said	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+1r	N	no,	.	102.241	.	voice	1r
+.	.	no,	.	.	.	.	.
+.	.	no	.	.	.	.	.
+.	.	There'll	.	.	.	.	.
+.	.	be	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2IV	B-:maj	shou-	.	104.073	newline	voice	2B- 2dd 2ff
+.	.	-tin'	.	.	.	.	.
+.	.	from	.	.	.	.	.
+.	.	the	.	.	.	.	.
+2I	F:maj	moun-	.	105.031	.	voice	2F 2a 2cc
+.	.	-tains	.	.	.	.	.
+.	.	on	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+2V	C:maj	out	.	105.988	.	voice	2C 2e 2g
+.	.	to	.	.	.	.	.
+.	.	sea	A	.	.	.	.
+2I	F:maj	.	.	106.946	.	voice	2F 2a 2cc
+=59	=59	=59	=59	=59	=59	=59	=59
+2IV	B-:maj	No	.	107.903	.	voice	2B- 2dd 2ff
+.	.	two	.	.	.	.	.
+.	.	ways	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+2I	F:maj	-bout	.	108.861	.	voice	2F 2a 2cc
+.	.	it,	.	.	.	.	.
+.	.	peo-	.	.	.	.	.
+.	.	-ple	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+2V	C:maj	have	.	109.818	.	voice	2C 2e 2g
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+2I	F:maj	free	A	110.775	.	voice	2F 2a 2cc
+.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+2IV	B-:maj	Ask	.	111.733	newline	voice	2B- 2dd 2ff
+.	.	me	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	o-	.	.	.	.	.
+2I	F:maj	-pi-	.	112.693	.	voice	2F 2a 2cc
+.	.	-nion,	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	o-	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+2V	C:maj	-pi-	.	113.652	.	voice	2C 2e 2g
+.	.	-nion	.	.	.	.	.
+.	.	will	.	.	.	.	.
+2I	F:maj	be	A	114.612	.	voice	2F 2a 2cc
+.	.	.	.	.	.	.	.
+.	.	It's	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+2IV	B-:maj	na-	.	115.571	.	voice	2B- 2dd 2ff
+.	.	-tural	.	.	.	.	.
+.	.	si-	.	.	.	.	.
+.	.	-tu-	.	.	.	.	.
+2I	F:maj	-a-	.	116.531	.	voice	2F 2a 2cc
+.	.	-tion	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+*M2/4	*M2/4	*	*	*M2/4	*M2/4	*M2/4	*
+2V	C:maj	man	.	117.491	.	voice	2C 2e 2g
+.	.	to	.	.	.	.	.
+.	.	be	A	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+*M4/4	*M4/4	*	*	*M4/4	*M4/4	*M4/4	*
+1I	F:maj	free	A	118.45	newline	trumpet	1F 1a 1cc
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+1V	C:maj	.	.	120.341	.	trumpet	1C 1e 1g
+=67	=67	=67	=67	=67	=67	=67	=67
+1I	F:maj	.	.	122.232	.	trumpet	1F 1a 1cc
+=68	=68	=68	=68	=68	=68	=68	=68
+1V	C:maj	Get	.	124.122	.	trumpet	1C 1e 1g
+.	.	right	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	board	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	now	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1I	F:maj	.	.	126.013	newline	trumpet	1F 1a 1cc
+=70	=70	=70	=70	=70	=70	=70	=70
+1-III	A-:maj	.	.	127.896	.	trumpet	1A- 1cc 1ee-
+=71	=71	=71	=71	=71	=71	=71	=71
+1-VI	D-:maj	.	.	129.778	.	trumpet	1D- 1f 1a-
+=72	=72	=72	=72	=72	=72	=72	=72
+1V	C:maj	.	.	131.661	.	trumpet	1C 1e 1g
+.	.	yeah	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2IV	B-:maj	Oh,	.	133.543	newline	voice	2B- 2dd 2ff
+.	.	what	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	fee-	.	.	.	.	.
+2I	F:maj	_	.	134.502	.	voice	2F 2a 2cc
+.	.	-lin's	.	.	.	.	.
+.	.	just	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+2V	C:maj	come	.	135.462	.	voice	2C 2e 2g
+.	.	o-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	me	A	.	.	.	.
+2I	F:maj	_	.	136.421	.	voice	2F 2a 2cc
+.	.	.	.	.	.	.	.
+.	.	It's	.	.	.	.	.
+.	.	e-	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+2IV	B-:maj	-nough	.	137.38	.	voice	2B- 2dd 2ff
+.	.	to	.	.	.	.	.
+.	.	move	.	.	.	.	.
+.	.	a	.	.	.	.	.
+2I	F:maj	moun-	.	138.339	.	voice	2F 2a 2cc
+.	.	-tain,	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+2V	C:maj	blind	.	139.299	.	voice	2C 2e 2g
+.	.	man	.	.	.	.	.
+2I	F:maj	see	A	140.258	.	voice	2F 2a 2cc
+.	.	.	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+2IV	B-:maj	Eve-	.	141.217	newline	voice	2B- 2dd 2ff
+.	.	-ry-	.	.	.	.	.
+.	.	-bo-	.	.	.	.	.
+.	.	-dy's	.	.	.	.	.
+2I	F:maj	dan-	.	142.16	.	voice	2F 2a 2cc
+.	.	-cin',	.	.	.	.	.
+.	.	come	.	.	.	.	.
+.	.	on,	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+2V	C:maj	_	.	143.102	.	voice	2C 2e 2g
+.	.	let's	.	.	.	.	.
+.	.	go	.	.	.	.	.
+2I	F:maj	see	A	144.045	.	voice	2F 2a 2cc
+.	.	.	.	.	.	.	.
+.	.	It's	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+2IV	B-:maj	peace	.	144.987	.	voice	2B- 2dd 2ff
+.	.	in	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	val-	.	.	.	.	.
+2I	F:maj	_	.	145.93	.	voice	2F 2a 2cc
+.	.	-ley,	A	.	.	.	.
+.	.	now	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+*M2/4	*M2/4	*	*	*M2/4	*M2/4	*M2/4	*
+2V	C:maj	want	.	146.872	.	voice	2C 2e 2g
+.	.	to	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+*M4/4	*M4/4	*	*	*M4/4	*M4/4	*M4/4	*
+1I	F:maj	free	A	147.815	newline	trumpet	1F 1a 1cc
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+1V	C:maj	.	.	149.736	.	trumpet	1C 1e 1g
+=83	=83	=83	=83	=83	=83	=83	=83
+1I	F:maj	.	.	151.656	.	trumpet	1F 1a 1cc
+=84	=84	=84	=84	=84	=84	=84	=84
+1V	C:maj	.	.	153.577	.	trumpet	1C 1e 1g
+=85	=85	=85	=85	=85	=85	=85	=85
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1I	F:maj	.	.	155.498	newline	guitar	1F 1a 1cc
+=86	=86	=86	=86	=86	=86	=86	=86
+1V	C:maj	.	.	157.4	.	guitar	1C 1e 1g
+=87	=87	=87	=87	=87	=87	=87	=87
+1I	F:maj	.	.	159.302	.	guitar	1F 1a 1cc
+=88	=88	=88	=88	=88	=88	=88	=88
+1V	C:maj	.	.	161.204	.	guitar	1C 1e 1g
+=89	=89	=89	=89	=89	=89	=89	=89
+1I	F:maj	.	.	163.106	newline	guitar	1F 1a 1cc
+=90	=90	=90	=90	=90	=90	=90	=90
+1V	C:maj	.	.	164.99	.	guitar	1C 1e 1g
+=91	=91	=91	=91	=91	=91	=91	=91
+1I	F:maj	.	.	166.874	.	guitar	1F 1a 1cc
+=92	=92	=92	=92	=92	=92	=92	=92
+1V	C:maj	.	.	168.758	.	guitar	1C 1e 1g
+=93	=93	=93	=93	=93	=93	=93	=93
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+1I	F:maj	.	.	170.642	newline	guitar	1F 1a 1cc
+=94	=94	=94	=94	=94	=94	=94	=94
+1V	C:maj	.	.	171.803	.	guitar	1C 1e 1g
+=95	=95	=95	=95	=95	=95	=95	=95
+1I	F:maj	.	.	172.965	.	guitar	1F 1a 1cc
+=96	=96	=96	=96	=96	=96	=96	=96
+1V	C:maj	.	.	174.126	.	guitar	1C 1e 1g
+=97	=97	=97	=97	=97	=97	=97	=97
+1I	F:maj	.	.	175.287	.	guitar	1F 1a 1cc
+=98	=98	=98	=98	=98	=98	=98	=98
+1V	C:maj	.	.	176.448	.	guitar	1C 1e 1g
+1r;	N	.	.	177.609	.	r	1r;
+1r;	N	.	.	181.682	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1968/07/20
+!!!BillboardPeak: 1
+!!!BillboardWeeksOnChart: 14
+!!!COC: The Rascals
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: People Got To Be Free
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 64
+!!!SampleID#: 0191
+!!!SampleTargetRank: 66
+!!!MBID: c8e1a9e1-7519-4c23-8bf3-e3ee76fe19ab

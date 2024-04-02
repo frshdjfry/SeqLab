@@ -1,0 +1,177 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*C:	*C:	*	*	*	*C:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro
+1I	C:maj	0.209	newline	r	1C 1e 1g
+=2	=2	=2	=2	=2	=2
+1IV	F:maj	3.44	.	r	1F 1a 1cc
+=3	=3	=3	=3	=3	=3
+1I	C:maj	6.67	.	r	1C 1e 1g
+=4	=4	=4	=4	=4	=4
+1I	C:maj	9.901	.	r	1C 1e 1g
+=5	=5	=5	=5	=5	=5
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+1I	C:maj	13.131	newline	voice	1C 1e 1g
+=6	=6	=6	=6	=6	=6
+1IV	F:maj	16.141	.	voice	1F 1a 1cc
+=7	=7	=7	=7	=7	=7
+1I	C:maj	19.15	.	voice	1C 1e 1g
+=8	=8	=8	=8	=8	=8
+1I	C:maj	22.16	.	voice	1C 1e 1g
+=9	=9	=9	=9	=9	=9
+1I	C:maj	25.169	newline	voice	1C 1e 1g
+=10	=10	=10	=10	=10	=10
+1IV	F:maj	28.195	.	voice	1F 1a 1cc
+=11	=11	=11	=11	=11	=11
+1I	C:maj	31.221	.	voice	1C 1e 1g
+=12	=12	=12	=12	=12	=12
+1I	C:maj	34.247	.	voice	1C 1e 1g
+=13	=13	=13	=13	=13	=13
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1IV	F:maj	37.272	newline	voice	1F 1a 1cc
+=14	=14	=14	=14	=14	=14
+1IV	F:maj	40.313	.	voice	1F 1a 1cc
+=15	=15	=15	=15	=15	=15
+1I	C:maj	43.354	.	voice	1C 1e 1g
+=16	=16	=16	=16	=16	=16
+1I	C:maj	46.395	.	voice	1C 1e 1g
+=17	=17	=17	=17	=17	=17
+1I	C:maj	49.435	newline	voice	1C 1e 1g
+=18	=18	=18	=18	=18	=18
+1IV	F:maj	52.467	.	voice	1F 1a 1cc
+=19	=19	=19	=19	=19	=19
+1I	C:maj	55.499	.	voice	1C 1e 1g
+=20	=20	=20	=20	=20	=20
+1I	C:maj	58.53	.	voice	1C 1e 1g
+=21	=21	=21	=21	=21	=21
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+1I	C:maj	61.562	newline	voice	1C 1e 1g
+=22	=22	=22	=22	=22	=22
+1IV	F:maj	64.546	.	voice	1F 1a 1cc
+=23	=23	=23	=23	=23	=23
+1I	C:maj	67.529	.	voice	1C 1e 1g
+=24	=24	=24	=24	=24	=24
+1I	C:maj	70.513	.	voice	1C 1e 1g
+=25	=25	=25	=25	=25	=25
+1I	C:maj	73.497	newline	voice	1C 1e 1g
+=26	=26	=26	=26	=26	=26
+1IV	F:maj	76.538	.	voice	1F 1a 1cc
+=27	=27	=27	=27	=27	=27
+1I	C:maj	79.579	.	voice	1C 1e 1g
+=28	=28	=28	=28	=28	=28
+1I	C:maj	82.62	.	voice	1C 1e 1g
+=29	=29	=29	=29	=29	=29
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1IV	F:maj	85.661	newline	voice	1F 1a 1cc
+=30	=30	=30	=30	=30	=30
+1IV	F:maj	88.654	.	voice	1F 1a 1cc
+=31	=31	=31	=31	=31	=31
+1I	C:maj	91.646	.	voice	1C 1e 1g
+=32	=32	=32	=32	=32	=32
+1I	C:maj	94.638	.	voice	1C 1e 1g
+=33	=33	=33	=33	=33	=33
+1I	C:maj	97.631	newline	voice	1C 1e 1g
+=34	=34	=34	=34	=34	=34
+1IV	F:maj	100.669	.	voice	1F 1a 1cc
+=35	=35	=35	=35	=35	=35
+1I	C:maj	103.707	.	voice	1C 1e 1g
+=36	=36	=36	=36	=36	=36
+1I	C:maj	106.745	.	voice	1C 1e 1g
+=37	=37	=37	=37	=37	=37
+*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain
+1I	C:maj	109.783	newline	voice	1C 1e 1g
+=38	=38	=38	=38	=38	=38
+1V	G:maj	112.8	.	voice	1G 1b 1dd
+=39	=39	=39	=39	=39	=39
+1I	C:maj	115.816	.	voice	1C 1e 1g
+=40	=40	=40	=40	=40	=40
+1I	C:maj	118.833	.	voice	1C 1e 1g
+=41	=41	=41	=41	=41	=41
+*>B2_chorus	*>B2_chorus	*>B2_chorus	*>B2_chorus	*>B2_chorus	*>B2_chorus
+1IV	F:maj	121.85	newline	voice	1F 1a 1cc
+=42	=42	=42	=42	=42	=42
+1IV	F:maj	124.804	.	voice	1F 1a 1cc
+=43	=43	=43	=43	=43	=43
+1I	C:maj	127.758	.	voice	1C 1e 1g
+=44	=44	=44	=44	=44	=44
+1I	C:maj	130.712	.	voice	1C 1e 1g
+=45	=45	=45	=45	=45	=45
+1V	G:maj	133.667	newline	voice	1G 1b 1dd
+=46	=46	=46	=46	=46	=46
+1IV	F:maj	136.606	.	voice	1F 1a 1cc
+=47	=47	=47	=47	=47	=47
+1I	C:maj	139.544	.	voice	1C 1e 1g
+=48	=48	=48	=48	=48	=48
+1I	C:maj	142.483	.	voice	1C 1e 1g
+=49	=49	=49	=49	=49	=49
+1IV	F:maj	145.422	newline	voice	1F 1a 1cc
+=50	=50	=50	=50	=50	=50
+1IV	F:maj	148.364	.	voice	1F 1a 1cc
+=51	=51	=51	=51	=51	=51
+1I	C:maj	151.305	.	voice	1C 1e 1g
+=52	=52	=52	=52	=52	=52
+1I	C:maj	154.247	.	voice	1C 1e 1g
+=53	=53	=53	=53	=53	=53
+1I	C:maj	157.189	newline	voice	1C 1e 1g
+=54	=54	=54	=54	=54	=54
+1IV	F:maj	160.143	.	voice	1F 1a 1cc
+=55	=55	=55	=55	=55	=55
+1I	C:maj	163.098	.	voice	1C 1e 1g
+=56	=56	=56	=56	=56	=56
+1I	C:maj	166.052	.	voice	1C 1e 1g
+=57	=57	=57	=57	=57	=57
+*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain
+1I	C:maj	169.006	newline	voice	1C 1e 1g
+=58	=58	=58	=58	=58	=58
+1V	G:maj	171.959	.	voice	1G 1b 1dd
+=59	=59	=59	=59	=59	=59
+1I	C:maj	174.912	.	voice	1C 1e 1g
+=60	=60	=60	=60	=60	=60
+1I	C:maj	177.865	.	voice	1C 1e 1g
+=61	=61	=61	=61	=61	=61
+*>A_outro_instrumental	*>A_outro_instrumental	*>A_outro_instrumental	*>A_outro_instrumental	*>A_outro_instrumental	*>A_outro_instrumental
+1I	C:maj	180.818	newline	flute	1C 1e 1g
+=62	=62	=62	=62	=62	=62
+1IV	F:maj	183.846	.	flute	1F 1a 1cc
+=63	=63	=63	=63	=63	=63
+1I	C:maj	186.873	.	flute	1C 1e 1g
+=64	=64	=64	=64	=64	=64
+1I	C:maj	189.9	.	flute	1C 1e 1g
+=65	=65	=65	=65	=65	=65
+1I	C:maj	192.928	newline	flute	1C 1e 1g
+=66	=66	=66	=66	=66	=66
+1IV	F:maj	195.937	.	flute	1F 1a 1cc
+=67	=67	=67	=67	=67	=67
+1I	C:maj	198.946	.	flute	1C 1e 1g
+=68	=68	=68	=68	=68	=68
+1I	C:maj	201.955	.	flute	1C 1e 1g
+=69	=69	=69	=69	=69	=69
+*>_fadeout_flute_B_outro	*>_fadeout_flute_B_outro	*>_fadeout_flute_B_outro	*>_fadeout_flute_B_outro	*>_fadeout_flute_B_outro	*>_fadeout_flute_B_outro
+1IV	F:maj	204.964	newline	flute	1F 1a 1cc
+=70	=70	=70	=70	=70	=70
+1IV	F:maj	207.99	.	flute	1F 1a 1cc
+=71	=71	=71	=71	=71	=71
+1I	C:maj	211.015	.	flute	1C 1e 1g
+=72	=72	=72	=72	=72	=72
+1I	C:maj	214.041	.	flute	1C 1e 1g
+1r;	N	221.983	.	r	1r;
+1r;	N	226.717	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Loving Her Was Easier (Than Anything I'll Ever Do Again)
+!!!COC: Kris Kristofferson
+!!!BillboardChartDate: 1971/09/25
+!!!BillboardPeak: 26
+!!!BillboardWeeksOnChart: 13
+!!!SampleTargetRank: 40
+!!!SampleActualRank: 41
+!!!SampleID#: 1135
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

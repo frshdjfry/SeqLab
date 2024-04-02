@@ -1,0 +1,175 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*C:	*C:	*	*	*	*C:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+1IVm7	F:7	0.418	newline	trumpet	1F 1a 1cc 1ee
+=2	=2	=2	=2	=2	=2
+1IVm7	F:7	2.33	.	trumpet	1F 1a 1cc 1ee
+=3	=3	=3	=3	=3	=3
+1Im7	C:7	4.242	.	trumpet	1C 1e 1g 1b
+=4	=4	=4	=4	=4	=4
+1Im7	C:7	6.154	.	trumpet	1C 1e 1g 1b
+=5	=5	=5	=5	=5	=5
+1II7	D:7	8.066	newline	trumpet	1D 1f# 1a 1cc
+=6	=6	=6	=6	=6	=6
+1II7	D:7	9.949	.	trumpet	1D 1f# 1a 1cc
+=7	=7	=7	=7	=7	=7
+1V7	G:7	11.832	.	trumpet	1G 1b 1dd 1ff
+=8	=8	=8	=8	=8	=8
+1V7	G:7	13.715	.	trumpet	1G 1b 1dd 1ff
+=9	=9	=9	=9	=9	=9
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1Im7	C:7	15.597	newline	trumpet	1C 1e 1g 1b
+=10	=10	=10	=10	=10	=10
+1Im7	C:7	17.471	.	trumpet	1C 1e 1g 1b
+=11	=11	=11	=11	=11	=11
+1Im7	C:7	19.344	.	trumpet	1C 1e 1g 1b
+=12	=12	=12	=12	=12	=12
+1Im7	C:7	21.217	.	trumpet	1C 1e 1g 1b
+=13	=13	=13	=13	=13	=13
+1IVm7	F:7	23.09	newline	trumpet	1F 1a 1cc 1ee
+=14	=14	=14	=14	=14	=14
+1IVm7	F:7	24.982	.	trumpet	1F 1a 1cc 1ee
+=15	=15	=15	=15	=15	=15
+1Im7	C:7	26.874	.	trumpet	1C 1e 1g 1b
+=16	=16	=16	=16	=16	=16
+1Im7	C:7	28.765	.	trumpet	1C 1e 1g 1b
+=17	=17	=17	=17	=17	=17
+1V7	G:7	30.657	newline	trumpet	1G 1b 1dd 1ff
+=18	=18	=18	=18	=18	=18
+1IVm7	F:7	32.513	.	trumpet	1F 1a 1cc 1ee
+=19	=19	=19	=19	=19	=19
+1Im7	C:7	34.37	.	trumpet	1C 1e 1g 1b
+=20	=20	=20	=20	=20	=20
+1Im7	C:7	36.227	.	trumpet	1C 1e 1g 1b
+=21	=21	=21	=21	=21	=21
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1Im7	C:7	38.083	newline	trumpet	1C 1e 1g 1b
+=22	=22	=22	=22	=22	=22
+1Im7	C:7	39.964	.	trumpet	1C 1e 1g 1b
+=23	=23	=23	=23	=23	=23
+1Im7	C:7	41.845	.	trumpet	1C 1e 1g 1b
+=24	=24	=24	=24	=24	=24
+1Im7	C:7	43.727	.	trumpet	1C 1e 1g 1b
+=25	=25	=25	=25	=25	=25
+1IVm7	F:7	45.608	newline	trumpet	1F 1a 1cc 1ee
+=26	=26	=26	=26	=26	=26
+1IVm7	F:7	47.47	.	trumpet	1F 1a 1cc 1ee
+=27	=27	=27	=27	=27	=27
+1Im7	C:7	49.332	.	trumpet	1C 1e 1g 1b
+=28	=28	=28	=28	=28	=28
+1Im7	C:7	51.194	.	trumpet	1C 1e 1g 1b
+=29	=29	=29	=29	=29	=29
+1V7	G:7	53.057	newline	trumpet	1G 1b 1dd 1ff
+=30	=30	=30	=30	=30	=30
+1IVm7	F:7	54.937	.	trumpet	1F 1a 1cc 1ee
+=31	=31	=31	=31	=31	=31
+1Im7	C:7	56.817	.	trumpet	1C 1e 1g 1b
+=32	=32	=32	=32	=32	=32
+1Im7	C:7	58.697	.	trumpet	1C 1e 1g 1b
+=33	=33	=33	=33	=33	=33
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+1IVm7	F:7	60.576	newline	trumpet	1F 1a 1cc 1ee
+=34	=34	=34	=34	=34	=34
+1IVm7	F:7	62.48	.	trumpet	1F 1a 1cc 1ee
+=35	=35	=35	=35	=35	=35
+1Im7	C:7	64.383	.	trumpet	1C 1e 1g 1b
+=36	=36	=36	=36	=36	=36
+1Im7	C:7	66.286	.	trumpet	1C 1e 1g 1b
+=37	=37	=37	=37	=37	=37
+1II7	D:7	68.189	newline	trumpet	1D 1f# 1a 1cc
+=38	=38	=38	=38	=38	=38
+1II7	D:7	70.053	.	trumpet	1D 1f# 1a 1cc
+=39	=39	=39	=39	=39	=39
+1V7	G:7	71.918	.	trumpet	1G 1b 1dd 1ff
+=40	=40	=40	=40	=40	=40
+1V7	G:7	73.782	.	trumpet	1G 1b 1dd 1ff
+=41	=41	=41	=41	=41	=41
+*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1Im7	C:7	75.646	newline	saxophone	1C 1e 1g 1b
+=42	=42	=42	=42	=42	=42
+1Im7	C:7	77.5	.	saxophone	1C 1e 1g 1b
+=43	=43	=43	=43	=43	=43
+1Im7	C:7	79.355	.	saxophone	1C 1e 1g 1b
+=44	=44	=44	=44	=44	=44
+1Im7	C:7	81.209	.	saxophone	1C 1e 1g 1b
+=45	=45	=45	=45	=45	=45
+1IVm7	F:7	83.063	newline	saxophone	1F 1a 1cc 1ee
+=46	=46	=46	=46	=46	=46
+1IVm7	F:7	84.929	.	saxophone	1F 1a 1cc 1ee
+=47	=47	=47	=47	=47	=47
+1Im7	C:7	86.795	.	saxophone	1C 1e 1g 1b
+=48	=48	=48	=48	=48	=48
+1Im7	C:7	88.661	.	saxophone	1C 1e 1g 1b
+=49	=49	=49	=49	=49	=49
+1V7	G:7	90.526	newline	saxophone	1G 1b 1dd 1ff
+=50	=50	=50	=50	=50	=50
+1IVm7	F:7	92.378	.	saxophone	1F 1a 1cc 1ee
+=51	=51	=51	=51	=51	=51
+1Im7	C:7	94.23	.	saxophone	1C 1e 1g 1b
+=52	=52	=52	=52	=52	=52
+1Im7	C:7	96.081	.	saxophone	1C 1e 1g 1b
+=53	=53	=53	=53	=53	=53
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+1IVm7	F:7	97.933	newline	trumpet	1F 1a 1cc 1ee
+=54	=54	=54	=54	=54	=54
+1IVm7	F:7	99.845	.	trumpet	1F 1a 1cc 1ee
+=55	=55	=55	=55	=55	=55
+1Im7	C:7	101.758	.	trumpet	1C 1e 1g 1b
+=56	=56	=56	=56	=56	=56
+1Im7	C:7	103.67	.	trumpet	1C 1e 1g 1b
+=57	=57	=57	=57	=57	=57
+1II7	D:7	105.582	newline	trumpet	1D 1f# 1a 1cc
+=58	=58	=58	=58	=58	=58
+1II7	D:7	107.458	.	trumpet	1D 1f# 1a 1cc
+=59	=59	=59	=59	=59	=59
+1V7	G:7	109.334	.	trumpet	1G 1b 1dd 1ff
+=60	=60	=60	=60	=60	=60
+1V7	G:7	111.21	.	trumpet	1G 1b 1dd 1ff
+=61	=61	=61	=61	=61	=61
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1Im7	C:7	113.086	newline	trumpet	1C 1e 1g 1b
+=62	=62	=62	=62	=62	=62
+1Im7	C:7	114.935	.	trumpet	1C 1e 1g 1b
+=63	=63	=63	=63	=63	=63
+1Im7	C:7	116.784	.	trumpet	1C 1e 1g 1b
+=64	=64	=64	=64	=64	=64
+1Im7	C:7	118.632	.	trumpet	1C 1e 1g 1b
+=65	=65	=65	=65	=65	=65
+1IVm7	F:7	120.481	newline	trumpet	1F 1a 1cc 1ee
+=66	=66	=66	=66	=66	=66
+1IVm7	F:7	122.351	.	trumpet	1F 1a 1cc 1ee
+=67	=67	=67	=67	=67	=67
+1Im7	C:7	124.221	.	trumpet	1C 1e 1g 1b
+=68	=68	=68	=68	=68	=68
+1Im7	C:7	126.091	.	trumpet	1C 1e 1g 1b
+=69	=69	=69	=69	=69	=69
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1V7	G:7	127.96	newline	trumpet	1G 1b 1dd 1ff
+=70	=70	=70	=70	=70	=70
+1IVm7	F:7	129.244	.	trumpet	1F 1a 1cc 1ee
+=71	=71	=71	=71	=71	=71
+1Im7	C:7	130.529	.	trumpet	1C 1e 1g 1b
+=72	=72	=72	=72	=72	=72
+1Im7	C:7	131.813	.	trumpet	1C 1e 1g 1b
+1r;	N	133.097	.	r	1r;
+1r;	N	137.117	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: 20-75
+!!!COC: Willie Mitchell
+!!!BillboardChartDate: 1964/10/31
+!!!BillboardPeak: 31
+!!!BillboardWeeksOnChart: 10
+!!!SampleTargetRank: 40
+!!!SampleActualRank: 40
+!!!SampleID#: 1247
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

@@ -1,0 +1,138 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*G-:	*G-:	*	*	*	*G-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1V+	D-:aug	1.687	newline	r	1D- 1f 1a
+=2	=2	=2	=2	=2	=2
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	G-:maj	5.132	newline	voice	1G- 1b- 1dd-
+=3	=3	=3	=3	=3	=3
+1I	G-:maj	8.478	.	voice	1G- 1b- 1dd-
+=4	=4	=4	=4	=4	=4
+1V	D-:maj	11.823	.	voice	1D- 1f 1a-
+=5	=5	=5	=5	=5	=5
+1V	D-:maj	15.169	.	voice	1D- 1f 1a-
+=6	=6	=6	=6	=6	=6
+2.II	A-:maj	18.515	newline	voice	2A- 2cc 2ee-
+4IId	A-:maj/7	20.982	.	voice	4a- 4cc 4ee-
+=7	=7	=7	=7	=7	=7
+1I	G-:maj	21.804	.	voice	1G- 1b- 1dd-
+=8	=8	=8	=8	=8	=8
+2V	D-:maj	25.092	.	voice	2D- 2f 2a-
+2I	G-:maj	26.737	.	voice	2G- 2b- 2dd-
+=9	=9	=9	=9	=9	=9
+1V	D-:maj	28.381	.	voice	1D- 1f 1a-
+=10	=10	=10	=10	=10	=10
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	G-:maj	31.67	newline	voice	1G- 1b- 1dd-
+=11	=11	=11	=11	=11	=11
+1I	G-:maj	34.96	.	voice	1G- 1b- 1dd-
+=12	=12	=12	=12	=12	=12
+1V	D-:maj	38.25	.	voice	1D- 1f 1a-
+=13	=13	=13	=13	=13	=13
+1V	D-:maj	41.541	.	voice	1D- 1f 1a-
+=14	=14	=14	=14	=14	=14
+2.II	A-:maj	44.831	newline	voice	2A- 2cc 2ee-
+4IId	A-:maj/7	47.285	.	voice	4a- 4cc 4ee-
+=15	=15	=15	=15	=15	=15
+1I	G-:maj	48.103	.	voice	1G- 1b- 1dd-
+=16	=16	=16	=16	=16	=16
+2V	D-:maj	51.375	.	voice	2D- 2f 2a-
+2I	G-:maj	53.011	.	voice	2G- 2b- 2dd-
+=17	=17	=17	=17	=17	=17
+1V	D-:maj	54.647	.	voice	1D- 1f 1a-
+=18	=18	=18	=18	=18	=18
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+1I	G-:maj	57.919	newline	voice	1G- 1b- 1dd-
+=19	=19	=19	=19	=19	=19
+1I	G-:maj	61.229	.	voice	1G- 1b- 1dd-
+=20	=20	=20	=20	=20	=20
+1V	D-:maj	64.538	.	voice	1D- 1f 1a-
+=21	=21	=21	=21	=21	=21
+1V	D-:maj	67.848	.	voice	1D- 1f 1a-
+=22	=22	=22	=22	=22	=22
+1VI	E-:maj	71.158	newline	voice	1E- 1g 1b-
+=23	=23	=23	=23	=23	=23
+1VI	E-:maj	74.438	.	voice	1E- 1g 1b-
+=24	=24	=24	=24	=24	=24
+2II	A-:maj	77.719	.	voice	2A- 2cc 2ee-
+2VI7b	E-:7/3	79.359	.	voice	2e- 2G 2b- 2dd-
+=25	=25	=25	=25	=25	=25
+1II	A-:maj	80.999	.	voice	1A- 1cc 1ee-
+=26	=26	=26	=26	=26	=26
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	G-:maj	84.279	newline	voice	1G- 1b- 1dd-
+=27	=27	=27	=27	=27	=27
+1I	G-:maj	87.569	.	voice	1G- 1b- 1dd-
+=28	=28	=28	=28	=28	=28
+1V	D-:maj	90.859	.	voice	1D- 1f 1a-
+=29	=29	=29	=29	=29	=29
+1V	D-:maj	94.148	.	voice	1D- 1f 1a-
+=30	=30	=30	=30	=30	=30
+2.II	A-:maj	97.438	newline	voice	2A- 2cc 2ee-
+4IId	A-:maj/7	99.906	.	voice	4a- 4cc 4ee-
+=31	=31	=31	=31	=31	=31
+1I	G-:maj	100.729	.	voice	1G- 1b- 1dd-
+=32	=32	=32	=32	=32	=32
+2V	D-:maj	104.02	.	voice	2D- 2f 2a-
+2V	D-:maj	105.665	.	voice	2D- 2f 2a-
+=33	=33	=33	=33	=33	=33
+1V	D-:maj	107.311	.	voice	1D- 1f 1a-
+=34	=34	=34	=34	=34	=34
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+1I	G-:maj	110.602	newline	voice	1G- 1b- 1dd-
+=35	=35	=35	=35	=35	=35
+1I	G-:maj	113.899	.	voice	1G- 1b- 1dd-
+=36	=36	=36	=36	=36	=36
+1V	D-:maj	117.196	.	voice	1D- 1f 1a-
+=37	=37	=37	=37	=37	=37
+1V	D-:maj	120.493	.	voice	1D- 1f 1a-
+=38	=38	=38	=38	=38	=38
+1VI	E-:maj	123.79	newline	voice	1E- 1g 1b-
+=39	=39	=39	=39	=39	=39
+1VI	E-:maj	127.004	.	voice	1E- 1g 1b-
+=40	=40	=40	=40	=40	=40
+2II	A-:maj	130.218	.	voice	2A- 2cc 2ee-
+2VI7b	E-:7/3	131.824	.	voice	2e- 2G 2b- 2dd-
+=41	=41	=41	=41	=41	=41
+1II	A-:maj	133.431	.	voice	1A- 1cc 1ee-
+=42	=42	=42	=42	=42	=42
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	G-:maj	136.645	newline	voice	1G- 1b- 1dd-
+=43	=43	=43	=43	=43	=43
+1I	G-:maj	139.94	.	voice	1G- 1b- 1dd-
+=44	=44	=44	=44	=44	=44
+1V	D-:maj	143.235	.	voice	1D- 1f 1a-
+=45	=45	=45	=45	=45	=45
+1V	D-:maj	146.529	.	voice	1D- 1f 1a-
+=46	=46	=46	=46	=46	=46
+2.II	A-:maj	149.824	newline	voice	2A- 2cc 2ee-
+4IId	A-:maj/7	152.421	.	voice	4a- 4cc 4ee-
+=47	=47	=47	=47	=47	=47
+1I	G-:maj	153.287	.	voice	1G- 1b- 1dd-
+=48	=48	=48	=48	=48	=48
+2V	D-:maj	156.751	.	voice	2D- 2f 2a-
+2I	G-:maj	158.482	.	voice	2G- 2b- 2dd-
+=49	=49	=49	=49	=49	=49
+1V7	D-:9	160.214	.	voice	1D- 1f 1a- 1cc-
+1r;	N	163.677	.	r	1r;
+1r;	N	164.807	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: This Should Go On Forever
+!!!COC: Rod Bernard
+!!!BillboardChartDate: 1959/03/16
+!!!BillboardPeak: 20
+!!!BillboardWeeksOnChart: 11
+!!!SampleTargetRank: 61
+!!!SampleActualRank: 60
+!!!SampleID#: 0707
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

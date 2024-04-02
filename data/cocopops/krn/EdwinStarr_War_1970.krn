@@ -1,0 +1,839 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*e-:	*e-:	*	*	*	*	*	*	*e-:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1r	N	.	.	.	0.348	newline	r	1r
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2i	E-:min	War	War	.	4.853	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	Huh!	Huh!	.	5.953	.	voice	2G-- 2b-- 2dd--
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+2i	E-:1	Yeah	.	.	7.052	.	voice	2E- 2g- 2b-
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	What	.	8.152	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	8.702	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+2i	E-:min	.	good	.	9.252	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	10.352	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+2i	E-:1	.	No-	.	11.451	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Ah	.	.	.	.	.	.
+.	.	ha	.	.	.	.	.	.
+4iv	A-:1	.	.	.	12.551	.	voice	4A- 4cc- 4ee-
+.	.	_	.	.	.	.	.	.
+4-III	G-:maj	_	.	.	13.101	.	voice	4G-- 4b-- 4dd--
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+2i	E-:min	.	War	.	13.651	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	Huh!	Huh!	.	14.726	.	voice	2G-- 2b-- 2dd--
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Yeah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+2i	E-:1	_	.	.	15.802	.	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	What	.	16.877	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	17.415	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+2i	E-:min	.	good	.	17.953	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	19.028	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+2i	E-:1	.	No-	.	20.104	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Say	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-gain	.	.	.	.	.	.
+4iv	A-:1	_	.	.	21.179	.	voice	4A- 4cc- 4ee-
+.	.	ya'll	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4-III	G-:maj	_	.	.	21.717	.	voice	4G-- 4b-- 4dd--
+.	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+2i	E-:min	.	War	.	22.255	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Huh!	.	.	.	.	.	.
+2-III	G-:maj	.	Huh!	.	23.328	.	voice	2G-- 2b-- 2dd--
+.	.	Good	.	.	.	.	.	.
+.	.	god!	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+2i	E-:1	.	.	.	24.402	.	voice	2E- 2g- 2b-
+4iv	A-:1	.	What	.	25.475	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	26.012	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+2i	E-:min	.	good	.	26.549	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	27.622	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+2i	E-:1	.	No-	.	28.696	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	Lis-	.	.	.	.	.	.
+.	.	-ten	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*
+4iv	A-:1	Ah	.	.	29.769	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	30.306	.	voice	4G-- 4b-- 4dd--
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1i	E-:min	war!	War	.	30.843	newline	voice	1E- 1g- 1b-
+.	.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	de-	.	.	.	.	.	.
+.	.	-spise	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1i	E-:min	_	.	.	33.081	.	voice	1E- 1g- 1b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	'cause	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1i	E-:min	means	.	.	35.32	.	voice	1E- 1g- 1b-
+.	.	de-	.	.	.	.	.	.
+.	.	-struc-	.	.	.	.	.	.
+.	.	-tion	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1i	E-:min	in-	.	.	37.558	.	voice	1E- 1g- 1b-
+.	.	-noc-	.	.	.	.	.	.
+.	.	-cent	.	.	.	.	.	.
+.	.	lives	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+1i	E-:min	War	.	.	39.796	newline	voice	1E- 1g- 1b-
+.	.	means	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	tears	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	thous-	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1i	E-:min	_	.	.	42.061	.	voice	1E- 1g- 1b-
+.	.	-ands	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	mo-	.	.	.	.	.	.
+.	.	-thers	.	.	.	.	.	.
+.	.	eyes	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	when	.	.	.	.	.	.
+.	.	their	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1i	E-:min	sons	.	.	44.326	.	voice	1E- 1g- 1b-
+.	.	go	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fight	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+1i	E-:min	lose	.	.	46.591	.	voice	1E- 1g- 1b-
+.	.	their	.	.	.	.	.	.
+.	.	lives	.	A	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	said	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2i	E-:min	war!	War	.	48.856	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*
+2-III	G-:maj	Huh!	Huh!	.	49.958	.	voice	2G-- 2b-- 2dd--
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Good	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+2i	E-:1	god	.	.	51.06	.	voice	2E- 2g- 2b-
+.	.	ya'll!	.	.	.	.	.	.
+4iv	A-:1	.	What	.	52.162	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	52.714	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+2i	E-:min	.	good	.	53.265	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	54.367	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+2i	E-:1	.	No-	.	55.469	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	Get	.	.	.	.	.	.
+.	.	say	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4iv	A-:1	.	.	.	56.571	.	voice	4A- 4cc- 4ee-
+.	.	.	.	.	.	.	.	.
+4-III	G-:maj	.	.	.	57.122	.	voice	4G-- 4b-- 4dd--
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+2i	E-:min	.	War	.	57.673	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	Woh	Huh!	.	58.762	.	voice	2G-- 2b-- 2dd--
+.	.	_	.	.	.	.	.	.
+.	.	woh	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+2i	E-:1	woh	.	.	59.85	.	voice	2E- 2g- 2b-
+.	.	_	.	.	.	.	.	.
+.	.	Lord	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4iv	A-:1	.	What	.	60.938	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	61.482	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+2i	E-:min	.	good	.	62.026	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	63.114	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+2i	E-:1	.	No-	.	64.202	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	Lis-	.	.	.	.	.	.
+.	.	-ten	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	.	.	65.29	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	65.834	.	voice	4G-- 4b-- 4dd--
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+*	*	*	*	*	*	*	*	*
+2i	E-:min	.	War	.	66.378	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	It	.	.	.	.	.	.
+.	.	ain't	.	.	.	.	.	.
+2-III	G-:maj	no-	.	.	67.458	.	voice	2G-- 2b-- 2dd--
+.	.	-thin'	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+2i	E-:1	heart-	.	.	68.539	.	voice	2E- 2g- 2b-
+.	.	-break	.	B	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	.	.	69.619	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	70.159	.	voice	4G-- 4b-- 4dd--
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+2i	E-:min	.	War	.	70.699	.	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	Friend	.	.	.	.	.	.
+2-III	G-:maj	on-	.	.	71.78	.	voice	2G-- 2b-- 2dd--
+.	.	-ly	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+2i	E-:1	un-	.	.	72.86	.	voice	2E- 2g- 2b-
+.	.	-der-	.	.	.	.	.	.
+.	.	-ta-	.	(B	.	.	.	.
+.	.	-ker	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*
+4iv	A-:1	Ah	.	.	73.94	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	74.481	.	voice	4G-- 4b-- 4dd--
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1i	E-:min	war!	.	.	75.021	newline	voice	1E- 1g- 1b-
+.	.	.	.	.	.	.	.	.
+.	.	It's	.	.	.	.	.	.
+.	.	an	.	.	.	.	.	.
+.	.	en-	.	.	.	.	.	.
+.	.	-e-	.	.	.	.	.	.
+.	.	-my	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+1i	E-:min	all	.	.	77.293	.	voice	1E- 1g- 1b-
+.	.	man-	.	.	.	.	.	.
+.	.	-kind	.	A	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+1i	E-:min	.	.	.	79.565	.	voice	1E- 1g- 1b-
+.	.	The	.	.	.	.	.	.
+.	.	point	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	war	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	blows	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+1i	E-:min	_	.	.	81.836	.	voice	1E- 1g- 1b-
+.	.	_	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	mind	.	A	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1i	E-:min	War	.	.	84.108	newline	voice	1E- 1g- 1b-
+.	.	has	.	.	.	.	.	.
+.	.	caused	.	.	.	.	.	.
+.	.	un-	.	.	.	.	.	.
+.	.	-rest	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	wi-	.	.	.	.	.	.
+.	.	-thin	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1i	E-:min	young-	.	.	86.364	.	voice	1E- 1g- 1b-
+.	.	-er	.	.	.	.	.	.
+.	.	gen-	.	.	.	.	.	.
+.	.	-er-	.	.	.	.	.	.
+.	.	-a-	.	.	.	.	.	.
+.	.	-tion	.	c	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	In-	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+1i	E-:min	-duc-	.	(C	88.621	.	voice	1E- 1g- 1b-
+.	.	-tion	.	c)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	de-	.	.	.	.	.	.
+.	.	-struc-	.	(C	.	.	.	.
+.	.	-tion	.	c)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Who	.	.	.	.	.	.
+.	.	wants	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+1i	E-:min	to	.	.	90.877	.	voice	1E- 1g- 1b-
+.	.	die?	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Ah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2i	E-:min	war!	War	.	93.133	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.
+.	.	Good	.	.	.	.	.	.
+2-III	G-:maj	god	Huh!	.	94.233	.	voice	2G-- 2b-- 2dd--
+.	.	.	.	.	.	.	.	.
+.	.	ya'll!	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+2i	E-:1	.	.	.	95.334	.	voice	2E- 2g- 2b-
+4iv	A-:1	.	What	.	96.434	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	96.984	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+*	*	*	*	*	*	*	*	*
+2i	E-:min	.	good	.	97.534	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	98.635	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+2i	E-:1	.	No-	.	99.735	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Say	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	say	.	.	100.835	.	voice	4A- 4cc- 4ee-
+.	.	it	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4-III	G-:maj	say	.	.	101.385	.	voice	4G-- 4b-- 4dd--
+.	.	it!	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+2i	E-:min	.	War	.	101.936	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Uh-	.	.	.	.	.	.
+2-III	G-:maj	-huh	Huh!	.	103.033	.	voice	2G-- 2b-- 2dd--
+.	.	.	.	.	.	.	.	.
+.	.	yeah	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+2i	E-:1	Huh!	.	.	104.13	.	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	What	.	105.227	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	105.775	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+2i	E-:min	.	good	.	106.324	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	107.421	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+2i	E-:1	.	No-	.	108.518	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	Lis-	.	.	.	.	.	.
+.	.	-ten	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	.	.	109.615	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	110.163	.	voice	4G-- 4b-- 4dd--
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+*	*	*	*	*	*	*	*	*
+2i	E-:min	.	War	.	110.712	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	It	.	.	.	.	.	.
+.	.	ain't	.	.	.	.	.	.
+2-III	G-:maj	no-	.	.	111.811	.	voice	2G-- 2b-- 2dd--
+.	.	-thin'	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	heart-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+2i	E-:1	_	.	.	112.911	.	voice	2E- 2g- 2b-
+.	.	-break	.	(B	.	.	.	.
+.	.	Uh	.	b)	.	.	.	.
+4iv	A-:1	.	.	.	114.011	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	114.56	.	voice	4G-- 4b-- 4dd--
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+2i	E-:min	.	War	.	115.11	.	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	It's	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	one	.	.	.	.	.	.
+2-III	G-:maj	_	.	.	116.21	.	voice	2G-- 2b-- 2dd--
+.	.	friend	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	that's	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+2i	E-:1	un-	.	.	117.31	.	voice	2E- 2g- 2b-
+.	.	-der-	.	.	.	.	.	.
+.	.	-ta-	.	(B	.	.	.	.
+.	.	-ker	.	b)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4iv	A-:1	.	.	.	118.409	.	voice	2A- 2cc- 2ee-
+*	*	*	*	*	*	*	*	*
+.	.	Ah	.	.	.	.	.	.
+4-III	G-:maj	.	.	.	118.959	.	voice	4G-- 4b-- 4dd--
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1i	E-:min	war!	.	.	119.509	newline	voice	1E- 1g- 1b-
+.	.	.	.	.	.	.	.	.
+.	.	has	.	.	.	.	.	.
+.	.	sha-	.	.	.	.	.	.
+.	.	-ttered	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+1i	E-:min	ma-	.	.	121.739	.	voice	1E- 1g- 1b-
+.	.	-ny	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	young	.	.	.	.	.	.
+.	.	man's	.	.	.	.	.	.
+.	.	dreams	.	D	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+1i	E-:min	.	.	.	123.97	.	voice	1E- 1g- 1b-
+.	.	Made	.	.	.	.	.	.
+.	.	him	.	.	.	.	.	.
+.	.	dis-	.	.	.	.	.	.
+.	.	-a-	.	.	.	.	.	.
+.	.	-bled	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1i	E-:min	bit-	.	.	126.2	.	voice	1E- 1g- 1b-
+.	.	-ter	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	mean	.	D	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Life	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1i	E-:min	is	.	.	128.431	newline	voice	1E- 1g- 1b-
+.	.	much	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	short	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	pre-	.	.	.	.	.	.
+.	.	-cious	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	spend	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+1i	E-:min	fight-	.	.	130.695	.	voice	1E- 1g- 1b-
+.	.	-ing	.	.	.	.	.	.
+.	.	wars	.	.	.	.	.	.
+.	.	these	.	.	.	.	.	.
+.	.	days	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+1i	E-:min	War	.	.	132.959	.	voice	1E- 1g- 1b-
+.	.	can't	.	.	.	.	.	.
+.	.	give	.	.	.	.	.	.
+.	.	life	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	can	.	.	.	.	.	.
+.	.	on-	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+1i	E-:min	_	.	.	135.224	.	voice	1E- 1g- 1b-
+.	.	-ly	.	.	.	.	.	.
+.	.	take	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-way	.	B	.	.	.	.
+.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*
+.	.	Ah	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2i	E-:min	war!	War	.	137.488	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*
+2-III	G-:maj	.	Huh!	.	138.588	.	voice	2G-- 2b-- 2dd--
+.	.	Good	.	.	.	.	.	.
+.	.	god	.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+2i	E-:1	ya'll!	.	.	139.688	.	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	What	.	140.788	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	141.338	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+2i	E-:min	.	good	.	141.889	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	142.989	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+2i	E-:1	.	No-	.	144.089	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Say	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-gain	.	.	.	.	.	.
+4iv	A-:1	_	.	.	145.189	.	voice	4A- 4cc- 4ee-
+.	.	.	.	.	.	.	.	.
+4-III	G-:maj	.	.	.	145.739	.	voice	4G-- 4b-- 4dd--
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+2i	E-:min	.	War	.	146.289	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Ooh	.	.	.	.	.	.
+2-III	G-:maj	Woh	Huh!	.	147.391	.	voice	2G-- 2b-- 2dd--
+.	.	_	.	.	.	.	.	.
+.	.	woh	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+2i	E-:1	woh	.	.	148.494	.	voice	2E- 2g- 2b-
+.	.	_	.	.	.	.	.	.
+.	.	Lord	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4iv	A-:1	.	What	.	149.596	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	150.147	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+2i	E-:min	.	good	.	150.698	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	Ah	.	.	.	.	.	.
+2-III	G-:maj	ab-	.	.	151.8	.	voice	2G-- 2b-- 2dd--
+.	.	-so-	.	.	.	.	.	.
+.	.	-lu-	.	.	.	.	.	.
+.	.	-tely	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+2i	E-:1	.	No-	.	152.903	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	Lis-	.	.	.	.	.	.
+.	.	-ten	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	.	.	154.005	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	154.556	.	voice	4G-- 4b-- 4dd--
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+*	*	*	*	*	*	*	*	*
+2i	E-:min	.	War	.	155.107	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	It	.	.	.	.	.	.
+.	.	ain't	.	.	.	.	.	.
+2-III	G-:maj	no-	.	.	156.214	.	voice	2G-- 2b-- 2dd--
+.	.	-thin'	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	heart-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+2i	E-:1	_	.	.	157.322	.	voice	2E- 2g- 2b-
+.	.	-break	.	(B	.	.	.	.
+.	.	Uh	.	b)	.	.	.	.
+4iv	A-:1	.	.	.	158.429	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	158.983	.	voice	4G-- 4b-- 4dd--
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+2i	E-:min	.	War	.	159.536	.	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	Friend	.	.	.	.	.	.
+2-III	G-:maj	on-	.	.	160.644	.	voice	2G-- 2b-- 2dd--
+.	.	-ly	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+2i	E-:1	un-	.	.	161.751	.	voice	2E- 2g- 2b-
+.	.	-der-	.	.	.	.	.	.
+.	.	-ta-	.	(B	.	.	.	.
+.	.	-ker	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	.	.	162.858	.	voice	4.A- 4.cc- 4.ee-
+*	*	*	*	*	*	*	*	*
+.	.	Wooh!	.	.	.	.	.	.
+4-III	G-:maj	.	.	.	163.412	.	voice	8G-- 8b-- 8dd--
+.	.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1i	E-:min	.	.	.	163.966	newline	voice	1E- 1g- 1b-
+.	.	Peace	.	.	.	.	.	.
+.	.	love	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	un-	.	.	.	.	.	.
+.	.	-der-	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+1i	E-:min	-stand-	.	.	166.211	.	voice	1E- 1g- 1b-
+.	.	_	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	Tell	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+1i	E-:min	_	.	.	168.456	.	voice	1E- 1g- 1b-
+.	.	there	.	.	.	.	.	.
+.	.	no	.	.	.	.	.	.
+.	.	place	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	them	.	.	.	.	.	.
+.	.	to-	.	.	.	.	.	.
+.	.	-day?	.	B	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+1i	E-:min	.	.	.	170.701	.	voice	1E- 1g- 1b-
+.	.	.	.	.	.	.	.	.
+.	.	They	.	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+1i	E-:min	say	.	.	172.946	newline	voice	1E- 1g- 1b-
+.	.	we	.	.	.	.	.	.
+.	.	must	.	.	.	.	.	.
+.	.	fight	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+1i	E-:min	keep	.	.	175.226	.	voice	1E- 1g- 1b-
+.	.	our	.	.	.	.	.	.
+.	.	free-	.	.	.	.	.	.
+.	.	-dom	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	Lord	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+1i	E-:min	knows	.	.	177.505	.	voice	1E- 1g- 1b-
+.	.	there's	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	be	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	bet-	.	.	.	.	.	.
+.	.	-ter	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+1i	E-:min	way	.	B	179.785	.	voice	1E- 1g- 1b-
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Ah	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2i	E-:min	war!	War	.	182.064	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	god	Huh!	.	183.17	.	voice	2G-- 2b-- 2dd--
+.	.	.	.	.	.	.	.	.
+.	.	ya'll!	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+2i	E-:1	.	.	.	184.276	.	voice	2E- 2g- 2b-
+4iv	A-:1	.	What	.	185.383	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	185.936	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+2i	E-:min	.	good	.	186.489	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	You	.	.	.	.	.	.
+2-III	G-:maj	tell	.	.	187.595	.	voice	2G-- 2b-- 2dd--
+.	.	me	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+*	*	*	*	*	*	*	*	*
+2i	E-:1	Say	No-	.	188.701	.	voice	2E- 2g- 2b-
+.	.	it	-thin'	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	say	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	say	.	.	.	.	.	.
+.	.	it!	.	.	.	.	.	.
+4iv	A-:1	.	.	.	189.807	.	voice	4A- 4cc- 4ee-
+.	.	say	.	.	.	.	.	.
+4-III	G-:maj	_	.	.	190.36	.	voice	4G-- 4b-- 4dd--
+.	.	_	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+2i	E-:min	.	War	.	190.913	newline	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Good	.	.	.	.	.	.
+2-III	G-:maj	god	Huh!	.	192.017	.	voice	2G-- 2b-- 2dd--
+.	.	.	.	.	.	.	.	.
+.	.	man!	.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+2i	E-:1	.	.	.	193.12	.	voice	2E- 2g- 2b-
+.	.	.	.	.	.	.	.	.
+.	.	Huh!	.	.	.	.	.	.
+4iv	A-:1	.	What	.	194.224	.	voice	4.A- 4.cc- 4.ee-
+.	.	.	is	.	.	.	.	.
+4-III	G-:maj	.	.	.	194.776	.	voice	8G-- 8b-- 8dd--
+.	.	.	it	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+2i	E-:min	.	good	.	195.327	.	voice	2E- 2g- 2b-
+.	.	.	for?	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-III	G-:maj	Stand	.	.	196.431	.	voice	2G-- 2b-- 2dd--
+.	.	up	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	shout	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+2i	E-:1	.	No-	.	197.534	.	voice	2E- 2g- 2b-
+.	.	.	-thin'	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iv	A-:1	.	.	.	198.638	.	voice	2A- 2cc- 2ee-
+4-III	G-:maj	.	.	.	199.19	.	voice	4G-- 4b-- 4dd--
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+2i	E-:min	.	.	.	199.741	newline	voice	1E- 1g- 1b-
+2-III	G-:maj	.	.	.	200.581	.	voice	2G-- 2b-- 2dd--
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+2i	E-:1	.	.	.	201.42	.	voice	1E- 1g- 1b-
+4iv	A-:1	.	.	.	202.259	.	voice	4A- 4cc- 4ee-
+4-III	G-:maj	.	.	.	202.679	.	voice	4G-- 4b-- 4dd--
+=92	=92	=92	=92	=92	=92	=92	=92	=92
+2i	E-:min	.	.	.	203.098	.	voice	1E- 1g- 1b-
+2-III	G-:maj	.	.	.	203.938	.	voice	2G-- 2b-- 2dd--
+1r;	N	.	.	.	204.777	.	r	1r;
+1r;	N	.	.	.	208.744	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1970/07/25
+!!!BillboardPeak: 1
+!!!BillboardWeeksOnChart: 15
+!!!COC: Edwin Starr
+!!!EMD: Changed key to Eb minor, and changed [EA]:1 interpreted as major to minor; changed first two measures of N (drum roll) to 1 measure with fermata (its really rubato) - Nat Condit-Schultz 2017-01-26
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: War
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 25
+!!!SampleID#: 0893
+!!!SampleTargetRank: 24
+!!!MBID: 36412709-35b6-4e7c-8488-ed7f6fa0140b

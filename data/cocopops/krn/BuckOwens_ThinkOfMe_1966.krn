@@ -1,0 +1,183 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*B:	*B:	*	*	*	*B:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	B:maj	0.348	newline	guitar	1B 1dd# 1ff#
+=2	=2	=2	=2	=2	=2
+1V7	F#:7	2.13	.	guitar	1F# 1a# 1cc# 1ee
+=3	=3	=3	=3	=3	=3
+1I	B:maj	3.911	.	guitar	1B 1dd# 1ff#
+=4	=4	=4	=4	=4	=4
+1V7	F#:7	5.692	.	guitar	1F# 1a# 1cc# 1ee
+=5	=5	=5	=5	=5	=5
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	B:maj	7.474	newline	voice	1B 1dd# 1ff#
+=6	=6	=6	=6	=6	=6
+1IV	E:maj	9.234	.	voice	1E 1g# 1b
+=7	=7	=7	=7	=7	=7
+1V7	F#:7	10.993	.	voice	1F# 1a# 1cc# 1ee
+=8	=8	=8	=8	=8	=8
+1I	B:maj	12.753	.	voice	1B 1dd# 1ff#
+=9	=9	=9	=9	=9	=9
+1I	B:maj	14.513	newline	voice	1B 1dd# 1ff#
+=10	=10	=10	=10	=10	=10
+1IV	E:maj	16.289	.	voice	1E 1g# 1b
+=11	=11	=11	=11	=11	=11
+1V7	F#:7	18.066	.	voice	1F# 1a# 1cc# 1ee
+=12	=12	=12	=12	=12	=12
+1I	B:maj	19.843	.	voice	1B 1dd# 1ff#
+=13	=13	=13	=13	=13	=13
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+1I	B:maj	21.619	newline	voice	1B 1dd# 1ff#
+=14	=14	=14	=14	=14	=14
+1IV	E:maj	23.411	.	voice	1E 1g# 1b
+=15	=15	=15	=15	=15	=15
+1V7	F#:7	25.203	.	voice	1F# 1a# 1cc# 1ee
+=16	=16	=16	=16	=16	=16
+1I	B:maj	26.995	.	voice	1B 1dd# 1ff#
+=17	=17	=17	=17	=17	=17
+1I	B:maj	28.787	newline	voice	1B 1dd# 1ff#
+=18	=18	=18	=18	=18	=18
+1IV	E:maj	30.547	.	voice	1E 1g# 1b
+=19	=19	=19	=19	=19	=19
+1V7	F#:7	32.307	.	voice	1F# 1a# 1cc# 1ee
+=20	=20	=20	=20	=20	=20
+1I	B:maj	34.068	.	voice	1B 1dd# 1ff#
+=21	=21	=21	=21	=21	=21
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	B:maj	35.828	newline	voice	1B 1dd# 1ff#
+=22	=22	=22	=22	=22	=22
+1IV	E:maj	37.612	.	voice	1E 1g# 1b
+=23	=23	=23	=23	=23	=23
+1V7	F#:7	39.396	.	voice	1F# 1a# 1cc# 1ee
+=24	=24	=24	=24	=24	=24
+1I	B:maj	41.18	.	voice	1B 1dd# 1ff#
+=25	=25	=25	=25	=25	=25
+1I	B:maj	42.963	newline	voice	1B 1dd# 1ff#
+=26	=26	=26	=26	=26	=26
+1IV	E:maj	44.736	.	voice	1E 1g# 1b
+=27	=27	=27	=27	=27	=27
+1V7	F#:7	46.508	.	voice	1F# 1a# 1cc# 1ee
+=28	=28	=28	=28	=28	=28
+1I	B:maj	48.281	.	voice	1B 1dd# 1ff#
+=29	=29	=29	=29	=29	=29
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+1I	B:maj	50.053	newline	voice	1B 1dd# 1ff#
+=30	=30	=30	=30	=30	=30
+1IV	E:maj	51.812	.	voice	1E 1g# 1b
+=31	=31	=31	=31	=31	=31
+1V7	F#:7	53.57	.	voice	1F# 1a# 1cc# 1ee
+=32	=32	=32	=32	=32	=32
+1I	B:maj	55.328	.	voice	1B 1dd# 1ff#
+=33	=33	=33	=33	=33	=33
+1I	B:maj	57.087	newline	voice	1B 1dd# 1ff#
+=34	=34	=34	=34	=34	=34
+1IV	E:maj	58.862	.	voice	1E 1g# 1b
+=35	=35	=35	=35	=35	=35
+1V7	F#:7	60.638	.	voice	1F# 1a# 1cc# 1ee
+=36	=36	=36	=36	=36	=36
+1I	B:maj	62.413	.	voice	1B 1dd# 1ff#
+=37	=37	=37	=37	=37	=37
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1I	B:maj	64.188	newline	voice	1B 1dd# 1ff#
+=38	=38	=38	=38	=38	=38
+1IV	E:maj	65.968	.	voice	1E 1g# 1b
+=39	=39	=39	=39	=39	=39
+1V7	F#:7	67.748	.	voice	1F# 1a# 1cc# 1ee
+=40	=40	=40	=40	=40	=40
+1I	B:maj	69.528	.	voice	1B 1dd# 1ff#
+=41	=41	=41	=41	=41	=41
+1I	B:maj	71.308	newline	voice	1B 1dd# 1ff#
+=42	=42	=42	=42	=42	=42
+1IV	E:maj	73.078	.	voice	1E 1g# 1b
+=43	=43	=43	=43	=43	=43
+1V7	F#:7	74.849	.	voice	1F# 1a# 1cc# 1ee
+=44	=44	=44	=44	=44	=44
+1I	B:maj	76.619	.	voice	1B 1dd# 1ff#
+=45	=45	=45	=45	=45	=45
+*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo
+1I	B:maj	78.39	newline	guitar	1B 1dd# 1ff#
+=46	=46	=46	=46	=46	=46
+1V7	F#:7	80.173	.	guitar	1F# 1a# 1cc# 1ee
+=47	=47	=47	=47	=47	=47
+1I	B:maj	81.956	.	guitar	1B 1dd# 1ff#
+=48	=48	=48	=48	=48	=48
+1V7	F#:7	83.739	.	guitar	1F# 1a# 1cc# 1ee
+=49	=49	=49	=49	=49	=49
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+1I	B:maj	85.522	newline	voice	1B 1dd# 1ff#
+=50	=50	=50	=50	=50	=50
+1IV	E:maj	87.304	.	voice	1E 1g# 1b
+=51	=51	=51	=51	=51	=51
+1V7	F#:7	89.086	.	voice	1F# 1a# 1cc# 1ee
+=52	=52	=52	=52	=52	=52
+1I	B:maj	90.868	.	voice	1B 1dd# 1ff#
+=53	=53	=53	=53	=53	=53
+1I	B:maj	92.649	newline	voice	1B 1dd# 1ff#
+=54	=54	=54	=54	=54	=54
+1IV	E:maj	94.396	.	voice	1E 1g# 1b
+=55	=55	=55	=55	=55	=55
+1V7	F#:7	96.143	.	voice	1F# 1a# 1cc# 1ee
+=56	=56	=56	=56	=56	=56
+1I	B:maj	97.89	.	voice	1B 1dd# 1ff#
+=57	=57	=57	=57	=57	=57
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+1I	B:maj	99.637	newline	voice	1B 1dd# 1ff#
+=58	=58	=58	=58	=58	=58
+1IV	E:maj	101.411	.	voice	1E 1g# 1b
+=59	=59	=59	=59	=59	=59
+1V7	F#:7	103.185	.	voice	1F# 1a# 1cc# 1ee
+=60	=60	=60	=60	=60	=60
+1I	B:maj	104.959	.	voice	1B 1dd# 1ff#
+=61	=61	=61	=61	=61	=61
+1I	B:maj	106.733	newline	voice	1B 1dd# 1ff#
+=62	=62	=62	=62	=62	=62
+1IV	E:maj	108.512	.	voice	1E 1g# 1b
+=63	=63	=63	=63	=63	=63
+1V7	F#:7	110.29	.	voice	1F# 1a# 1cc# 1ee
+=64	=64	=64	=64	=64	=64
+1I	B:maj	112.069	.	voice	1B 1dd# 1ff#
+=65	=65	=65	=65	=65	=65
+*>B2_chorus	*>B2_chorus	*>B2_chorus	*>B2_chorus	*>B2_chorus	*>B2_chorus
+1I	B:maj	113.847	newline	voice	1B 1dd# 1ff#
+=66	=66	=66	=66	=66	=66
+1IV	E:maj	115.636	.	voice	1E 1g# 1b
+=67	=67	=67	=67	=67	=67
+1V7	F#:7	117.425	.	voice	1F# 1a# 1cc# 1ee
+=68	=68	=68	=68	=68	=68
+1I	B:maj	119.214	.	voice	1B 1dd# 1ff#
+=69	=69	=69	=69	=69	=69
+1I	B:maj	121.003	newline	voice	1B 1dd# 1ff#
+=70	=70	=70	=70	=70	=70
+1IV	E:maj	122.779	.	voice	1E 1g# 1b
+=71	=71	=71	=71	=71	=71
+1V7	F#:7	124.556	.	voice	1F# 1a# 1cc# 1ee
+=72	=72	=72	=72	=72	=72
+1I	B:maj	126.332	.	voice	1B 1dd# 1ff#
+=73	=73	=73	=73	=73	=73
+1V7	F#:7	128.109	newline	voice	1F# 1a# 1cc# 1ee
+=74	=74	=74	=74	=74	=74
+1I	B:maj	129.899	.	voice	1B 1dd# 1ff#
+=75	=75	=75	=75	=75	=75
+1I	B:maj	131.689	.	voice	1B 1dd# 1ff#
+1r;	N	134.374	.	r	1r;
+1r;	N	139.938	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Think Of Me
+!!!COC: Buck Owens
+!!!BillboardChartDate: 1966/05/28
+!!!BillboardPeak: 74
+!!!BillboardWeeksOnChart: 5
+!!!SampleTargetRank: 99
+!!!SampleActualRank: 99
+!!!SampleID#: 1154
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

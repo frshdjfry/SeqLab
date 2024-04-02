@@ -1,0 +1,664 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*C:	*C:	*	*	*	*	*	*	*C:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	.	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1IV7	F:maj7	.	.	.	9.905	newline	r	1F 1a 1cc 1ee
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+1IV7	F:maj7	.	.	.	.	.	r	1F 1a 1cc 1ee
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1I7	C:maj7	.	.	.	.	.	r	1C 1e 1g 1b
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1vi7	A:min7	.	.	.	.	.	r	1A 1cc 1ee 1gg
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	was	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1ii7	D:min7	sit-	.	.	19.195	newline	voice	1D 1f 1a 1cc
+.	.	-tin'	.	.	.	.	.	.
+.	.	all	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-lone	.	A	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	wat-	.	.	.	.	.	.
+.	.	-chin'	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+1V7	G:11	peo-	.	.	.	.	voice	1G 1b 1dd 1ff
+.	.	-ple	.	.	.	.	.	.
+.	.	get	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	on	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	each	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+.	.	_	.	.	.	.	.	.
+1I7	C:maj7	o-	.	(B	.	.	voice	1C 1e 1g 1b
+.	.	-ther	.	b)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1vi7	A:min7	.	.	.	.	.	voice	1A 1cc 1ee 1gg
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	They	.	.	.	.	.	.
+.	.	were	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1ii7	D:min7	dan-	.	.	.	newline	voice	1D 1f 1a 1cc
+.	.	-cin'	.	.	.	.	.	.
+.	.	'cross	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	floor	.	C	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	tur-	.	.	.	.	.	.
+.	.	-nin',	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+.	.	_	.	.	.	.	.	.
+1V7	G:11	mo-	.	.	.	.	voice	1G 1b 1dd 1ff
+.	.	-vin'	.	.	.	.	.	.
+.	.	back	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	forth	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	they	.	.	.	.	.	.
+.	.	were	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+.	.	_	.	.	.	.	.	.
+1I7	C:maj7	lo-	.	(B	.	.	voice	1C 1e 1g 1b
+.	.	-vers	.	b)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+*	*	*	*	*	*	*	*	*
+2v7	G:min7	.	.	.	.	.	voice	2G 2b- 2dd 2ff
+2Im7	C:7	One	One	.	.	.	voice	2C 2e 2g 2b
+.	.	_	.	.	.	.	.	.
+.	.	more	more	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1IV7	F:maj7	lone-	lone-	.	38.11	newline	voice	1F 1a 1cc 1ee
+.	.	-ly	-ly	.	.	.	.	.
+.	.	night	night	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	for	for	.	.	.	.	.
+.	.	me	me	D	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1iii7	E:min7	_	.	.	.	.	voice	1E 1g 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	looked	looked	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	up	up	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1IV7	F:maj7	.	.	.	.	.	voice	1F 1a 1cc 1ee
+.	.	.	.	.	.	.	.	.
+.	.	what	what	.	.	.	.	.
+.	.	did	did	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	see	see?	D	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+.	.	_	_	.	.	.	.	.
+1V	G:sus4(b7)	_	_	.	.	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1IV7	F:maj7	Se-	.	.	47.555	newline	voice	1F 1a 1cc 1ee
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	mo-	.	.	.	.	.	.
+.	.	-vin'	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+1IV7	F:maj7	'cross	.	.	.	.	voice	1F 1a 1cc 1ee
+.	.	the	.	.	.	.	.	.
+.	.	floor,	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.	.
+.	.	-tin	.	.	.	.	.	.
+.	.	more	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1I7	C:maj7	se-	.	.	.	.	voice	1C 1e 1g 1b
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	Se-	.	.	.	.	.
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1vi7	A:min7	.	se-	.	.	.	voice	1A 1cc 1ee 1gg
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+*	*	*	*	*	*	*	*	*
+1IV7	F:maj7	Se-	.	.	56.96	newline	voice	1F 1a 1cc 1ee
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Se-	.	.	.	.	.
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Get-	.	.	.	.	.	.
+.	.	-tin'	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1IV7	F:maj7	down	_	.	.	.	voice	1F 1a 1cc 1ee
+.	.	.	_	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.
+.	.	move	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	y-	.	.	.	.	.	.
+.	.	-you	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1I7	C:maj7	se-	_	.	.	.	voice	1C 1e 1g 1b
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+4.iii7	E:min9	.	.	.	.	.	voice	1E 1g 1b 1dd
+4vi	A:sus4(b7)	.	.	.	.	.	voice	4A 4cc 4ee
+4.VI7	A:7	.	.	.	.	.	voice	4A 4cc# 4ee 4gg
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+1IV7	F:maj7	.	.	.	66.285	newline	flute	1F 1a 1cc 1ee
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+1iii7	E:min7	.	.	.	.	.	flute	1E 1g 1b 1dd
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+1IV7	F:maj7	.	.	.	.	.	flute	1F 1a 1cc 1ee
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+1V	G:sus4(b7)	.	.	.	.	.	flute	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1ii7	D:min7	up	.	.	75.735	newline	voice	1D 1f 1a 1cc
+.	.	and	.	.	.	.	.	.
+.	.	took	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	your	.	.	.	.	.	.
+.	.	hand	.	E	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+.	.	_	.	.	.	.	.	.
+1V7	G:11	both	.	.	.	.	voice	1G 1b 1dd 1ff
+.	.	be-	.	.	.	.	.	.
+.	.	-gan	.	E	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	dance	.	E	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+.	.	_	.	.	.	.	.	.
+1I7	C:maj7	mu-	.	(G	.	.	voice	1C 1e 1g 1b
+.	.	-sic	.	g)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+1vi7	A:min7	.	.	.	.	.	voice	1A 1cc 1ee 1gg
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	Ooh,	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	your	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+1ii7	D:min7	ma-	.	.	85.015	newline	voice	1D 1f 1a 1cc
+.	.	-gic	.	.	.	.	.	.
+.	.	cast	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	spell	.	F	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	did-	.	.	.	.	.	.
+.	.	-n't	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+.	.	_	.	.	.	.	.	.
+1V7	G:11	take	.	.	.	.	voice	1G 1b 1dd 1ff
+.	.	long	.	.	.	.	.	.
+.	.	'till	.	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	fell	.	F	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+.	.	_	.	.	.	.	.	.
+1I7	C:maj7	knew	.	(G	.	.	voice	1C 1e 1g 1b
+.	.	it	.	g)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+2v7	G:min7	.	.	.	.	.	voice	2G 2b- 2dd 2ff
+.	.	_	.	.	.	.	.	.
+2Im7	C:7	No	.	.	.	.	voice	2C 2e 2g 2b
+.	.	_	.	.	.	.	.	.
+.	.	more	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1IV7	F:maj7	lone-	lone-	.	94.32	newline	voice	1F 1a 1cc 1ee
+.	.	-ly	-ly	.	.	.	.	.
+.	.	nights	nights	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	for	for	.	.	.	.	.
+.	.	me	me	D	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1iii7	E:min7	_	.	.	.	.	voice	1E 1g 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	This	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	how	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+*	*	*	*	*	*	*	*	*
+1IV7	F:maj7	_	Ha,	.	.	.	voice	1F 1a 1cc 1ee
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+.	.	gon-	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	D	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+1V	G:sus4(b7)	_	_	.	.	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1IV7	F:maj7	Se-	Ooh	.	103.73	newline	voice	1F 1a 1cc 1ee
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	mo-	.	.	.	.	.	.
+.	.	-vin'	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1IV7	F:maj7	'cross	.	.	.	.	voice	1F 1a 1cc 1ee
+.	.	the	.	.	.	.	.	.
+.	.	floor,	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.	.
+.	.	-tin	.	.	.	.	.	.
+.	.	more	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+1I7	C:maj7	se-	.	.	.	.	voice	1C 1e 1g 1b
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	Se-	.	.	.	.	.
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+1vi7	A:min7	.	se-	.	.	.	voice	1A 1cc 1ee 1gg
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+1IV7	F:maj7	Se-	.	.	113.095	newline	voice	1F 1a 1cc 1ee
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Se-	.	.	.	.	.
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Get-	.	.	.	.	.	.
+.	.	-tin'	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1IV7	F:maj7	down	_	.	.	.	voice	1F 1a 1cc 1ee
+.	.	.	_	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.
+.	.	move	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	y-	.	.	.	.	.	.
+.	.	-you	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1I7	C:maj7	se-	_	.	.	.	voice	1C 1e 1g 1b
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+4.iii7	E:min9	.	.	.	.	.	voice	2E 2g 2b 2dd
+4vi	A:sus4(b7)	.	.	.	.	.	voice	8A 8cc 8ee
+.	.	.	.	.	.	.	.	.
+4.VI7	A:7	(Grunt)	.	.	.	.	voice	4.A 4.cc# 4.ee 4.gg
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+1ii7	D:min7	.	.	.	141.015	newline	guitar	1D 1f 1a 1cc
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+1V7	G:11	.	.	.	.	.	guitar	1G 1b 1dd 1ff
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+1I7	C:maj7	.	.	.	.	.	guitar	1C 1e 1g 1b
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+1vi7	A:min7	.	.	.	.	.	guitar	1A 1cc 1ee 1gg
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+1ii7	D:min7	.	.	.	.	newline	guitar	1D 1f 1a 1cc
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+1V7	G:11	.	.	.	.	.	guitar	1G 1b 1dd 1ff
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+1I7	C:maj7	.	.	.	.	.	guitar	1C 1e 1g 1b
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+2v7	G:min7	.	.	.	.	.	guitar	2G 2b- 2dd 2ff
+.	.	_	.	.	.	.	.	.
+2Im7	C:7	No	.	.	.	.	guitar	2C 2e 2g 2b
+.	.	_	.	.	.	.	.	.
+.	.	more	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1IV7	F:maj7	lone-	lone-	.	159.725	newline	voice	1F 1a 1cc 1ee
+.	.	-ly	-ly	.	.	.	.	.
+.	.	nights	nights	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	for	for	.	.	.	.	.
+.	.	me	me	D	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1iii7	E:min7	_	.	.	.	.	voice	1E 1g 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	This	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	how	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+1IV7	F:maj7	_	Ha	.	.	.	voice	1F 1a 1cc 1ee
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*
+.	.	it's	.	.	.	.	.	.
+.	.	gon-	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	D	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+1V	G:sus4(b7)	_	_	.	.	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1IV7	F:maj7	Se-	.	.	169.07	newline	voice	1F 1a 1cc 1ee
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	(Vocalizing)	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	mo-	.	.	.	.	.	.
+.	.	-vin'	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+1IV7	F:maj7	'cross	_	.	.	.	voice	1F 1a 1cc 1ee
+.	.	the	.	.	.	.	.	.
+.	.	floor,	.	C	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.	.
+.	.	-tin	.	.	.	.	.	.
+.	.	more	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+1I7	C:maj7	se-	.	.	.	.	voice	1C 1e 1g 1b
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+1vi7	A:min7	.	.	.	.	.	voice	1A 1cc 1ee 1gg
+.	.	.	So	.	.	.	.	.
+.	.	.	se-	.	.	.	.	.
+.	.	.	-xy	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+1IV7	F:maj7	Se-	.	.	178.435	newline	voice	1F 1a 1cc 1ee
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Se-	.	.	.	.	.
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Get-	.	.	.	.	.	.
+.	.	-tin'	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+1IV7	F:maj7	down	_	.	.	.	voice	1F 1a 1cc 1ee
+.	.	.	_	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.
+.	.	move	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	y-	.	.	.	.	.	.
+.	.	-you	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+1I7	C:maj7	se-	_	.	.	.	voice	1C 1e 1g 1b
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+4.iii7	E:min9	.	.	.	.	.	voice	4.E 4.g 4.b 4.dd
+.	.	.	.	.	.	.	.	.
+4vi	A:sus4(b7)	.	Se	.	.	.	voice	4A 4cc 4ee
+.	.	.	.	.	.	.	.	.
+4.VI7	A:7	Ooh,	xy,	.	.	.	voice	4.A 4.cc# 4.ee 4.gg
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+1IV7	F:maj7	Se-	ah	.	187.825	newline	voice	1F 1a 1cc 1ee
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Get-	.	.	.	.	.	.
+.	.	-tin'	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+1IV7	F:maj7	down	.	.	.	.	voice	1F 1a 1cc 1ee
+.	.	with	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.
+.	.	move	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	y-	.	.	.	.	.	.
+.	.	-you	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1I7	C:maj7	se-	.	.	.	.	voice	1C 1e 1g 1b
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	Se-	.	.	.	.	.
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+1vi7	A:min7	.	_	.	.	.	voice	1A 1cc 1ee 1gg
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+1IV7	F:maj7	Se-	.	.	197.075	newline	voice	1F 1a 1cc 1ee
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Se-	.	.	.	.	.
+.	.	.	-xy	.	.	.	.	.
+.	.	.	eyes	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Get-	.	.	.	.	.	.
+.	.	-tin'	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1IV7	F:maj7	down	_	.	.	.	voice	1F 1a 1cc 1ee
+.	.	.	_	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.
+.	.	move	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	y-	.	.	.	.	.	.
+.	.	-you	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+1I7	C:maj7	se-	_	.	.	.	voice	1C 1e 1g 1b
+.	.	-xy	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+4.iii7	E:min9	.	.	.	.	.	voice	1E 1g 1b 1dd
+4vi	A:sus4(b7)	.	.	.	.	.	voice	4A 4cc 4ee
+4.VI7	A:7	.	.	.	.	.	voice	4A 4cc# 4ee 4gg
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+1IV7	F:maj7	.	.	.	206.685	newline	voice	1F 1a 1cc 1ee
+1r;	N	.	.	.	.	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1980/03/08
+!!!BillboardPeak: 5
+!!!BillboardWeeksOnChart: 21
+!!!COC: Dr. Hook
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Sexy Eyes
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 48
+!!!SampleID#: 0831
+!!!SampleTargetRank: 48

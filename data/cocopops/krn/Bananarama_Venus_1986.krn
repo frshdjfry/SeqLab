@@ -1,0 +1,642 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*e:	*e:	*	*	*e:	*e:	*e:	*e:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>A_trans	*>A_trans	*	*	*>A_trans	*>A_trans	*>A_trans	*
+1v	B:sus4(b7)	.	.	1.022	newline	synthesizer	1B 1dd 1ff#
+=2	=2	=2	=2	=2	=2	=2	=2
+1v	B:sus4(b7)	.	.	3.084	.	synthesizer	1B 1dd 1ff#
+=3	=3	=3	=3	=3	=3	=3	=3
+*>B2_intro	*>B2_intro	*	*	*>B2_intro	*>B2_intro	*>B2_intro	*
+2i	E:min	.	.	5.146	newline	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	6.102	.	synthesizer	2A 2cc# 2ee
+=4	=4	=4	=4	=4	=4	=4	=4
+2i	E:min	.	.	7.058	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	8.014	.	synthesizer	2A 2cc# 2ee
+=5	=5	=5	=5	=5	=5	=5	=5
+*>A_trans	*>A_trans	*	*	*>A_trans	*>A_trans	*>A_trans	*
+1v	B:sus4(b7)	.	.	8.97	newline	synthesizer	1B 1dd 1ff#
+=6	=6	=6	=6	=6	=6	=6	=6
+1v	B:sus4(b7)	.	.	10.88	.	synthesizer	1B 1dd 1ff#
+=7	=7	=7	=7	=7	=7	=7	=7
+*>B2_instrumental	*>B2_instrumental	*	*	*>B2_instrumental	*>B2_instrumental	*>B2_instrumental	*
+2i	E:min	.	.	12.789	newline	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	13.746	.	synthesizer	2A 2cc# 2ee
+=8	=8	=8	=8	=8	=8	=8	=8
+2i	E:min	.	.	14.702	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	15.658	.	synthesizer	2A 2cc# 2ee
+=9	=9	=9	=9	=9	=9	=9	=9
+2i	E:min	.	.	16.614	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	17.571	.	synthesizer	2A 2cc# 2ee
+=10	=10	=10	=10	=10	=10	=10	=10
+2i	E:min	.	.	18.527	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	19.483	.	synthesizer	2A 2cc# 2ee
+=11	=11	=11	=11	=11	=11	=11	=11
+*>B_verse	*>B_verse	*	*	*>B_verse	*>B_verse	*>B_verse	*
+2i	E:min	God-	.	20.439	newline	voice	2E 2g 2b
+.	.	-dess	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+2IV	A:maj6	moun-	.	21.386	.	voice	2A 2cc# 2ee
+.	.	-tain	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	top	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+2i	E:min	.	.	22.334	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	23.281	.	voice	2A 2cc# 2ee
+=13	=13	=13	=13	=13	=13	=13	=13
+2i	E:min	bur-	.	24.228	.	voice	2E 2g 2b
+.	.	-ning	.	.	.	.	.
+.	.	like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+2IV	A:maj6	sil-	.	25.175	.	voice	2A 2cc# 2ee
+.	.	-ver	.	.	.	.	.
+.	.	flame	A	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2i	E:min	.	.	26.122	.	voice	2E 2g 2b
+2IV	A:maj6	.	.	27.07	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2i	E:min	sum-	.	28.017	newline	voice	3...E 3...g 3...b
+.	.	-mit	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	beau-	.	.	.	.	.
+2IV	A:maj6	.	.	28.972	.	voice	4.A 4.cc# 4.ee
+.	.	-ty	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	love	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2i	E:min	.	.	29.928	.	voice	2E 2g 2b
+2IV	A:maj6	.	.	30.883	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2i	E:min	Ve-	.	31.839	.	voice	2E 2g 2b
+.	.	-nus	.	.	.	.	.
+.	.	was	.	.	.	.	.
+.	.	her	.	.	.	.	.
+2IV	A:maj6	name	A	32.794	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1i	E:min	.	.	33.75	.	voice	1E 1g 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	She's	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+*>C_chorus	*>C_chorus	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*
+2iv7	A:min7	got	.	35.661	newline	voice	2A 2cc 2ee 2gg
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2-VII	D:maj6	.	.	36.616	.	voice	2D 2f# 2a
+=20	=20	=20	=20	=20	=20	=20	=20
+2iv7	A:min7	.	.	37.572	.	voice	3...A 3...cc 3...ee 3...gg
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2-VII	D:maj6	.	.	38.527	.	voice	4.D 4.f# 4.a
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2i	E:min	got	.	39.483	.	voice	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	40.438	.	voice	2A 2cc# 2ee
+=22	=22	=22	=22	=22	=22	=22	=22
+2i	E:min	.	.	41.394	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	42.349	.	voice	2A 2cc# 2ee
+=23	=23	=23	=23	=23	=23	=23	=23
+1-VI	C:maj	.	.	43.305	newline	voice	1C- 1e- 1g-
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	Ve-	.	.	.	.	.
+.	.	-nus	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2v	B:sus4(b7)	.	.	45.221	.	voice	2B 2dd 2ff#
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V7	B:7	fi-	(B	46.179	.	voice	2B 2dd# 2ff# 2aa
+.	.	-re	b)	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2i	E:min	_	.	47.137	.	voice	2E 2g 2b
+.	.	de-	.	.	.	.	.
+.	.	-si-	(B	.	.	.	.
+.	.	-re	b)	.	.	.	.
+2IV	A:maj6	.	.	48.095	.	voice	2A 2cc# 2ee
+=26	=26	=26	=26	=26	=26	=26	=26
+2i	E:min	.	.	49.054	.	voice	2E 2g 2b
+2IV	A:maj6	.	.	50.012	.	voice	2A 2cc# 2ee
+.	.	Well	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1-VI	C:maj	.	.	50.97	newline	voice	1C- 1e- 1g-
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	Ve-	.	.	.	.	.
+.	.	-nus	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+2v	B:sus4(b7)	.	.	52.881	.	voice	2B 2dd 2ff#
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V7	B:7	fi-	(B	53.836	.	voice	2B 2dd# 2ff# 2aa
+.	.	-re	b)	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+2i	E:min	_	.	54.792	.	voice	2E 2g 2b
+.	.	de-	.	.	.	.	.
+.	.	-si-	(B	.	.	.	.
+.	.	-re	b)	.	.	.	.
+2IV	A:maj6	.	.	55.747	.	voice	2A 2cc# 2ee
+=30	=30	=30	=30	=30	=30	=30	=30
+2i	E:min	.	.	56.703	.	voice	2E 2g 2b
+2IV	A:maj6	.	.	57.659	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	Her	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+*>B_verse	*>B_verse	*	*	*>B_verse	*>B_verse	*>B_verse	*
+2i	E:min	wea-	.	58.614	newline	voice	2E 2g 2b
+.	.	-pons	.	.	.	.	.
+.	.	were	.	.	.	.	.
+.	.	her	.	.	.	.	.
+2IV	A:maj6	cry-	.	59.566	.	voice	2A 2cc# 2ee
+.	.	-stal	.	.	.	.	.
+.	.	eyes	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+2i	E:min	.	.	60.518	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	61.471	.	voice	2A 2cc# 2ee
+=33	=33	=33	=33	=33	=33	=33	=33
+2i	E:min	ma-	.	62.423	.	voice	2E 2g 2b
+.	.	-king	.	.	.	.	.
+.	.	ev'-	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+2IV	A:maj6	man	.	63.375	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.
+.	.	mad	C	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2i	E:min	.	.	64.327	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	65.279	.	voice	2A 2cc# 2ee
+=35	=35	=35	=35	=35	=35	=35	=35
+2i	E:min	black	.	66.232	newline	voice	2E 2g 2b
+.	.	as	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	dark	.	.	.	.	.
+2IV	A:maj6	_	.	67.189	.	voice	2A 2cc# 2ee
+.	.	night	.	.	.	.	.
+.	.	she	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+2i	E:min	_	.	68.147	.	voice	2E 2g 2b
+.	.	was	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	69.105	.	voice	2A 2cc# 2ee
+.	.	got	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	no	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2i	E:min	_	.	70.062	.	voice	2E 2g 2b
+.	.	one	.	.	.	.	.
+.	.	else	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2IV	A:maj6	had	C	71.02	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1i	E:min	.	.	71.978	.	voice	1E 1g 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	She's	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+*>C_chorus	*>C_chorus	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*
+2iv7	A:min7	got	.	73.893	newline	voice	2A 2cc 2ee 2gg
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2-VII	D:maj6	.	.	74.849	.	voice	2D 2f# 2a
+=40	=40	=40	=40	=40	=40	=40	=40
+2iv7	A:min7	.	.	75.804	.	voice	3...A 3...cc 3...ee 3...gg
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2-VII	D:maj6	.	.	76.76	.	voice	4.D 4.f# 4.a
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2i	E:min	got	.	77.715	.	voice	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	78.671	.	voice	2A 2cc# 2ee
+=42	=42	=42	=42	=42	=42	=42	=42
+2i	E:min	.	.	79.626	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	80.581	.	voice	2A 2cc# 2ee
+=43	=43	=43	=43	=43	=43	=43	=43
+1-VI	C:maj	.	.	81.537	newline	voice	1C- 1e- 1g-
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	Ve-	.	.	.	.	.
+.	.	-nus	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+2v	B:sus4(b7)	.	.	83.443	.	voice	2B 2dd 2ff#
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V7	B:7	fi-	(B	84.396	.	voice	2B 2dd# 2ff# 2aa
+.	.	-re	b)	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+2i	E:min	_	.	85.348	.	voice	2E 2g 2b
+.	.	de-	.	.	.	.	.
+.	.	-si-	(B	.	.	.	.
+.	.	-re	b)	.	.	.	.
+2IV	A:maj6	.	.	86.301	.	voice	2A 2cc# 2ee
+=46	=46	=46	=46	=46	=46	=46	=46
+2i	E:min	.	.	87.254	.	voice	2E 2g 2b
+2IV	A:maj6	.	.	88.207	.	voice	2A 2cc# 2ee
+.	.	Well	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1-VI	C:maj	.	.	89.16	newline	voice	1C- 1e- 1g-
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	Ve-	.	.	.	.	.
+.	.	-nus	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+2v	B:sus4(b7)	.	.	91.07	.	voice	2B 2dd 2ff#
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V7	B:7	fi-	(B	92.025	.	voice	2B 2dd# 2ff# 2aa
+.	.	-re	b)	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2i	E:min	_	.	92.98	.	voice	2E 2g 2b
+.	.	de-	.	.	.	.	.
+.	.	-si-	(B	.	.	.	.
+.	.	-re	b)	.	.	.	.
+2IV	A:maj6	.	.	93.935	.	voice	2A 2cc# 2ee
+=50	=50	=50	=50	=50	=50	=50	=50
+2i	E:min	.	.	94.889	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	95.844	.	voice	2A 2cc# 2ee
+=51	=51	=51	=51	=51	=51	=51	=51
+*>A_trans	*>A_trans	*	*	*>A_trans	*>A_trans	*>A_trans	*
+1v	B:sus4(b7)	.	.	96.799	newline	synthesizer	1B 1dd 1ff#
+=52	=52	=52	=52	=52	=52	=52	=52
+1v	B:sus4(b7)	.	.	98.722	.	synthesizer	1B 1dd 1ff#
+=53	=53	=53	=53	=53	=53	=53	=53
+*>B_solo	*>B_solo	*	*	*>B_solo	*>B_solo	*>B_solo	*
+2i	E:min	.	.	100.645	newline	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	101.597	.	synthesizer	2A 2cc# 2ee
+=54	=54	=54	=54	=54	=54	=54	=54
+2i	E:min	.	.	102.549	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	103.501	.	synthesizer	2A 2cc# 2ee
+=55	=55	=55	=55	=55	=55	=55	=55
+2i	E:min	.	.	104.452	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	105.404	.	synthesizer	2A 2cc# 2ee
+=56	=56	=56	=56	=56	=56	=56	=56
+2i	E:min	.	.	106.356	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	107.308	.	synthesizer	2A 2cc# 2ee
+=57	=57	=57	=57	=57	=57	=57	=57
+2i	E:min	.	.	108.26	newline	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	109.217	.	synthesizer	2A 2cc# 2ee
+=58	=58	=58	=58	=58	=58	=58	=58
+2i	E:min	.	.	110.174	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	111.13	.	synthesizer	2A 2cc# 2ee
+=59	=59	=59	=59	=59	=59	=59	=59
+2i	E:min	.	.	112.087	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	113.044	.	synthesizer	2A 2cc# 2ee
+=60	=60	=60	=60	=60	=60	=60	=60
+1i	E:min	(Ve-	.	114.001	.	synthesizer	1E 1g 1b
+.	.	-nus)	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	She's	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+*>C_chorus	*>C_chorus	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*
+2iv7	A:min7	got	.	115.914	newline	voice	2A 2cc 2ee 2gg
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2-VII	D:maj6	.	.	116.867	.	voice	2D 2f# 2a
+=62	=62	=62	=62	=62	=62	=62	=62
+2iv7	A:min7	.	.	117.82	.	voice	3...A 3...cc 3...ee 3...gg
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2-VII	D:maj6	.	.	118.773	.	voice	4.D 4.f# 4.a
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+2i	E:min	got	.	119.726	.	voice	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	120.679	.	voice	2A 2cc# 2ee
+=64	=64	=64	=64	=64	=64	=64	=64
+2i	E:min	.	.	121.632	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	122.585	.	voice	2A 2cc# 2ee
+=65	=65	=65	=65	=65	=65	=65	=65
+1-VI	C:maj	.	.	123.538	newline	voice	1C- 1e- 1g-
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	Ve-	.	.	.	.	.
+.	.	-nus	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+2v	B:sus4(b7)	.	.	125.453	.	voice	2B 2dd 2ff#
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V7	B:7	fi-	(B	126.411	.	voice	2B 2dd# 2ff# 2aa
+.	.	-re	b)	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+2i	E:min	_	.	127.368	.	voice	2E 2g 2b
+.	.	de-	.	.	.	.	.
+.	.	-si-	(B	.	.	.	.
+.	.	-re	b)	.	.	.	.
+2IV	A:maj6	.	.	128.325	.	voice	2A 2cc# 2ee
+=68	=68	=68	=68	=68	=68	=68	=68
+2i	E:min	.	.	129.283	.	voice	2E 2g 2b
+2IV	A:maj6	.	.	130.24	.	voice	2A 2cc# 2ee
+.	.	Well	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+1-VI	C:maj	.	.	131.197	newline	voice	1C- 1e- 1g-
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	Ve-	.	.	.	.	.
+.	.	-nus	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+2v	B:sus4(b7)	.	.	133.102	.	voice	2B 2dd 2ff#
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V7	B:7	fi-	(B	134.054	.	voice	2B 2dd# 2ff# 2aa
+.	.	-re	b)	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+2i	E:min	_	.	135.007	.	voice	2E 2g 2b
+.	.	de-	.	.	.	.	.
+.	.	-si-	(B	.	.	.	.
+.	.	-re	b)	.	.	.	.
+2IV	A:maj6	.	.	135.959	.	voice	2A 2cc# 2ee
+=72	=72	=72	=72	=72	=72	=72	=72
+2i	E:min	.	.	136.911	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	137.864	.	voice	2A 2cc# 2ee
+=73	=73	=73	=73	=73	=73	=73	=73
+*>B_verse	*>B_verse	*	*	*>B_verse	*>B_verse	*>B_verse	*
+2i	E:min	God-	.	138.816	newline	voice	2E 2g 2b
+.	.	-dess	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+2IV	A:maj	moun-	.	139.775	.	voice	2A 2cc# 2ee
+.	.	-tain	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	top	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+2i7	E:min7	.	.	140.734	.	voice	1E 1g 1b 1dd#
+2IV	A:maj	.	.	141.693	.	voice	2A 2cc# 2ee
+=75	=75	=75	=75	=75	=75	=75	=75
+2i	E:min	bur-	.	142.652	.	voice	2E 2g 2b
+.	.	-ning	.	.	.	.	.
+.	.	like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+2IV	A:maj	sil-	.	143.61	.	voice	2A 2cc# 2ee
+.	.	-ver	.	.	.	.	.
+.	.	flame	A	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+2i7	E:min7	.	.	144.569	.	voice	2E 2g 2b 2dd#
+2IV	A:maj	.	.	145.528	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+2i	E:min	sum-	.	146.487	newline	voice	3...E 3...g 3...b
+.	.	-mit	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	beau-	.	.	.	.	.
+2IV	A:maj	.	.	147.441	.	voice	4.A 4.cc# 4.ee
+.	.	-ty	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	love	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+2i7	E:min7	.	.	148.395	.	voice	2E 2g 2b 2dd#
+2IV	A:maj	.	.	149.349	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+2i	E:min	Ve-	.	150.303	.	voice	2E 2g 2b
+.	.	-nus	.	.	.	.	.
+.	.	was	.	.	.	.	.
+.	.	her	.	.	.	.	.
+2IV	A:maj	name	A	151.257	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+2i7	E:min7	.	.	152.211	.	voice	2E 2g 2b 2dd#
+2IV	A:maj	.	.	153.165	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	She's	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+*>C_chorus	*>C_chorus	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*
+2iv7	A:min7	got	.	154.12	newline	voice	2A 2cc 2ee 2gg
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2-VII	D:maj6	.	.	155.074	.	voice	2D 2f# 2a
+=82	=82	=82	=82	=82	=82	=82	=82
+2iv7	A:min7	.	.	156.028	.	voice	3...A 3...cc 3...ee 3...gg
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2-VII	D:maj6	.	.	156.982	.	voice	4.D 4.f# 4.a
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+2i	E:min	got	.	157.936	.	voice	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	158.89	.	voice	2A 2cc# 2ee
+=84	=84	=84	=84	=84	=84	=84	=84
+2i	E:min	.	.	159.844	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	160.798	.	voice	2A 2cc# 2ee
+=85	=85	=85	=85	=85	=85	=85	=85
+1-VI	C:maj	.	.	161.752	newline	voice	1C- 1e- 1g-
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	Ve-	.	.	.	.	.
+.	.	-nus	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+2v	B:sus4(b7)	.	.	163.663	.	voice	2B 2dd 2ff#
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V7	B:7	fi-	(B	164.619	.	voice	2B 2dd# 2ff# 2aa
+.	.	-re	b)	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+2i	E:min	_	.	165.575	.	voice	2E 2g 2b
+.	.	de-	.	.	.	.	.
+.	.	-si-	(B	.	.	.	.
+.	.	-re	b)	.	.	.	.
+2IV	A:maj6	.	.	166.53	.	voice	2A 2cc# 2ee
+=88	=88	=88	=88	=88	=88	=88	=88
+2i	E:min	.	.	167.486	.	voice	2E 2g 2b
+2IV	A:maj6	.	.	168.441	.	voice	2A 2cc# 2ee
+.	.	Well	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89
+1-VI	C:maj	.	.	169.397	newline	voice	1C- 1e- 1g-
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	Ve-	.	.	.	.	.
+.	.	-nus	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90
+2v	B:sus4(b7)	.	.	171.311	.	voice	2B 2dd 2ff#
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2V7	B:7	fi-	(B	172.268	.	voice	2B 2dd# 2ff# 2aa
+.	.	-re	b)	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91
+2i	E:min	_	.	173.225	.	voice	2E 2g 2b
+.	.	de-	.	.	.	.	.
+.	.	-si-	(B	.	.	.	.
+.	.	-re	b)	.	.	.	.
+2IV	A:maj6	.	.	174.182	.	voice	2A 2cc# 2ee
+=92	=92	=92	=92	=92	=92	=92	=92
+2i	E:min	.	.	175.139	.	voice	1E 1g 1b
+2IV	A:maj6	.	.	176.096	.	voice	2A 2cc# 2ee
+=93	=93	=93	=93	=93	=93	=93	=93
+*>A2_trans	*>A2_trans	*	*	*>A2_trans	*>A2_trans	*>A2_trans	*
+1v	B:sus4(b7)	.	.	177.053	newline	synthesizer	1B 1dd 1ff#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	(Ve-	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94
+1v	B:sus4(b7)	_	.	178.964	.	synthesizer	1B 1dd 1ff#
+.	.	nus	.	.	.	.	.
+.	.	was	.	.	.	.	.
+.	.	her	.	.	.	.	.
+.	.	name)	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+1v	B:sus4(b7)	.	.	180.876	.	synthesizer	1B 1dd 1ff#
+=96	=96	=96	=96	=96	=96	=96	=96
+1v	B:sus4(b7)	.	.	182.787	.	synthesizer	1B 1dd 1ff#
+=97	=97	=97	=97	=97	=97	=97	=97
+*>B2_outro	*>B2_outro	*	*	*>B2_outro	*>B2_outro	*>B2_outro	*
+2i	E:min	.	.	184.699	newline	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	185.657	.	synthesizer	2A 2cc# 2ee
+=98	=98	=98	=98	=98	=98	=98	=98
+2i	E:min	.	.	186.615	.	synthesizer	3...E 3...g 3...b
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2IV	A:maj6	.	.	187.573	.	synthesizer	4.A 4.cc# 4.ee
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99
+2i	E:min	got	.	188.531	.	synthesizer	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	189.489	.	synthesizer	2A 2cc# 2ee
+=100	=100	=100	=100	=100	=100	=100	=100
+2i	E:min	.	.	190.448	.	synthesizer	3...E 3...g 3...b
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2IV	A:maj6	.	.	191.406	.	synthesizer	4.A 4.cc# 4.ee
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101
+2i	E:min	got	.	192.364	newline	synthesizer	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	193.307	.	synthesizer	2A 2cc# 2ee
+=102	=102	=102	=102	=102	=102	=102	=102
+2i	E:min	.	.	194.251	.	synthesizer	3...E 3...g 3...b
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2IV	A:maj6	.	.	195.194	.	synthesizer	4.A 4.cc# 4.ee
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=103	=103	=103	=103	=103	=103	=103	=103
+2i	E:min	got	.	196.138	.	synthesizer	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	197.081	.	synthesizer	2A 2cc# 2ee
+=104	=104	=104	=104	=104	=104	=104	=104
+2i	E:min	.	.	198.024	.	synthesizer	3...E 3...g 3...b
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2IV	A:maj6	.	.	198.968	.	synthesizer	4.A 4.cc# 4.ee
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=105	=105	=105	=105	=105	=105	=105	=105
+*>_fadeout	*>_fadeout	*	*	*>_fadeout	*>_fadeout	*>_fadeout	*
+2i	E:min	got	.	199.911	newline	synthesizer	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	200.872	.	synthesizer	2A 2cc# 2ee
+=106	=106	=106	=106	=106	=106	=106	=106
+2i	E:min	.	.	201.832	.	synthesizer	3...E 3...g 3...b
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2IV	A:maj6	.	.	202.793	.	synthesizer	4.A 4.cc# 4.ee
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=107	=107	=107	=107	=107	=107	=107	=107
+2i	E:min	got	.	203.754	.	synthesizer	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	204.714	.	synthesizer	2A 2cc# 2ee
+=108	=108	=108	=108	=108	=108	=108	=108
+2i	E:min	.	.	205.675	.	synthesizer	3...E 3...g 3...b
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2IV	A:maj6	.	.	206.635	.	synthesizer	4.A 4.cc# 4.ee
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=109	=109	=109	=109	=109	=109	=109	=109
+2i	E:min	got	.	207.596	newline	synthesizer	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	208.562	.	synthesizer	2A 2cc# 2ee
+=110	=110	=110	=110	=110	=110	=110	=110
+2i	E:min	.	.	209.528	.	synthesizer	3...E 3...g 3...b
+.	.	Yeah	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+2IV	A:maj6	.	.	210.494	.	synthesizer	4.A 4.cc# 4.ee
+.	.	-by	.	.	.	.	.
+.	.	she's	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111
+2i	E:min	got	.	211.46	.	synthesizer	2E 2g 2b
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV	A:maj6	.	.	212.426	.	synthesizer	2A 2cc# 2ee
+=112	=112	=112	=112	=112	=112	=112	=112
+2i	E:min	.	.	213.392	.	synthesizer	1E 1g 1b
+2IV	A:maj6	.	.	214.357	.	synthesizer	2A 2cc# 2ee
+1r;	N	.	.	217.014	.	r	1r;
+1r;	N	.	.	222.302	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1986/11/01
+!!!BillboardPeak: 1
+!!!BillboardWeeksOnChart: 19
+!!!COC: Bananarama
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Venus
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 99
+!!!SampleID#: 0981
+!!!SampleTargetRank: 97
+!!!MBID: 2a24f995-1f22-4c78-86c3-10f4590a4ba7

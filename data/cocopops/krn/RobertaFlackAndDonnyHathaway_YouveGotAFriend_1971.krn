@@ -1,0 +1,185 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*A-:	*A-:	*	*	*	*A-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	A-:maj	2.115	newline	synth	1A- 1cc 1ee-
+=2	=2	=2	=2	=2	=2
+1IVc	D-:maj/5	5.089	.	synth	1d- 1f 1A-
+=3	=3	=3	=3	=3	=3
+1I	A-:maj	8.064	.	synth	1A- 1cc 1ee-
+=4	=4	=4	=4	=4	=4
+2viio7	G:hdim7	11.039	.	synth	2G 2b- 2dd- 2ff
+2III7	C:7	12.526	.	synth	2C 2e 2g 2b-
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1vi	F:min	14.014	newline	voice	1F 1a- 1cc
+=6	=6	=6	=6	=6	=6
+2III7c	C:7/5	16.974	.	voice	2c 2e 2G 2b-
+2III7	C:7	18.454	.	voice	2C 2e 2g 2b-
+=7	=7	=7	=7	=7	=7
+2vi	F:min	19.934	.	voice	2F 2a- 2cc
+2III7c	C:7/5	21.414	.	voice	2c 2e 2G 2b-
+=8	=8	=8	=8	=8	=8
+4vib	F:min/b3	22.894	.	voice	4f 4A- 4cc
+4III7c	C:7/5	23.634	.	voice	4c 4e 4G 4b-
+2vi	F:min	24.374	.	voice	2F 2a- 2cc
+=9	=9	=9	=9	=9	=9
+1ii7	B-:min7	25.854	newline	voice	1B- 1dd- 1ff 1aa-
+=10	=10	=10	=10	=10	=10
+1V7	E-:7	28.777	.	voice	1E- 1g 1b- 1dd-
+=11	=11	=11	=11	=11	=11
+1I	A-:maj	31.7	.	voice	1A- 1cc 1ee-
+=12	=12	=12	=12	=12	=12
+1I	A-:maj	34.623	.	voice	1A- 1cc 1ee-
+=13	=13	=13	=13	=13	=13
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+1viio7	G:hdim7	37.547	newline	voice	1G 1b- 1dd- 1ff
+=14	=14	=14	=14	=14	=14
+1III7	C:7	40.456	.	voice	1C 1e 1g 1b-
+=15	=15	=15	=15	=15	=15
+2vi	F:min	43.366	.	voice	2F 2a- 2cc
+2III7c	C:7/5	44.82	.	voice	2c 2e 2G 2b-
+=16	=16	=16	=16	=16	=16
+4vib	F:min/b3	46.275	.	voice	4f 4A- 4cc
+4III7c	C:7/5	47.003	.	voice	4c 4e 4G 4b-
+2vi	F:min	47.73	.	voice	2F 2a- 2cc
+=17	=17	=17	=17	=17	=17
+1ii7	B-:min7	49.185	newline	voice	1B- 1dd- 1ff 1aa-
+=18	=18	=18	=18	=18	=18
+1iii7	C:min7	52.129	.	voice	1C 1e- 1g 1b-
+=19	=19	=19	=19	=19	=19
+1V7	E-:11	55.073	.	voice	1E- 1g 1b- 1dd-
+=20	=20	=20	=20	=20	=20
+1V	E-:maj	58.017	.	voice	1E- 1g 1b-
+=21	=21	=21	=21	=21	=21
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1I	A-:maj	60.961	newline	voice	1A- 1cc 1ee-
+=22	=22	=22	=22	=22	=22
+1Im7	A-:7	63.861	.	voice	1A- 1cc 1ee- 1gg
+=23	=23	=23	=23	=23	=23
+1IV	D-:maj	66.761	.	voice	1D- 1f 1a-
+=24	=24	=24	=24	=24	=24
+1IV	D-:maj	69.661	.	voice	1D- 1f 1a-
+=25	=25	=25	=25	=25	=25
+1I	A-:maj	72.561	newline	voice	1A- 1cc 1ee-
+=26	=26	=26	=26	=26	=26
+1I	A-:maj	75.428	.	voice	1A- 1cc 1ee-
+=27	=27	=27	=27	=27	=27
+1V7	E-:7	78.294	.	voice	1E- 1g 1b- 1dd-
+=28	=28	=28	=28	=28	=28
+1V7	E-:7	81.161	.	voice	1E- 1g 1b- 1dd-
+=29	=29	=29	=29	=29	=29
+1I	A-:maj	84.028	newline	voice	1A- 1cc 1ee-
+=30	=30	=30	=30	=30	=30
+1I7	A-:maj7	86.869	.	voice	1A- 1cc 1ee- 1gg
+=31	=31	=31	=31	=31	=31
+1IV	D-:maj	89.711	.	voice	1D- 1f 1a-
+=32	=32	=32	=32	=32	=32
+4-VII	G-:maj	92.552	.	voice	4G- 4b- 4dd-
+2.IV	D-:maj	93.263	.	voice	2D- 2f 2a-
+=33	=33	=33	=33	=33	=33
+2IV7	D-:maj7	95.394	newline	voice	2D- 2f 2a- 2cc
+2iii7	C:min7	96.768	.	voice	2C 2e- 2g 2b-
+=34	=34	=34	=34	=34	=34
+1ii7	B-:min7	98.141	.	voice	1B- 1dd- 1ff 1aa-
+=35	=35	=35	=35	=35	=35
+1I	A-:maj	100.889	.	voice	1A- 1cc 1ee-
+=36	=36	=36	=36	=36	=36
+*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge
+1-VII	G-:maj(9)	103.636	newline	voice	1G- 1b- 1dd-
+=37	=37	=37	=37	=37	=37
+1IV	D-:maj	106.436	.	voice	1D- 1f 1a-
+=38	=38	=38	=38	=38	=38
+1I	A-:maj	109.235	.	voice	1A- 1cc 1ee-
+=39	=39	=39	=39	=39	=39
+1I	A-:maj	112.035	.	voice	1A- 1cc 1ee-
+=40	=40	=40	=40	=40	=40
+1IV	D-:maj	114.834	newline	voice	1D- 1f 1a-
+=41	=41	=41	=41	=41	=41
+1-VIIm7	G-:7	117.562	.	voice	1G- 1b- 1dd- 1ff
+=42	=42	=42	=42	=42	=42
+1vi7	F:min7	120.29	.	voice	1F 1a- 1cc 1ee-
+=43	=43	=43	=43	=43	=43
+1ii7	B-:min7	123.017	.	voice	1B- 1dd- 1ff 1aa-
+=44	=44	=44	=44	=44	=44
+1V7	E-:11	125.745	.	voice	1E- 1g 1b- 1dd-
+=45	=45	=45	=45	=45	=45
+1V	E-:maj	128.472	.	voice	1E- 1g 1b-
+=46	=46	=46	=46	=46	=46
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1I	A-:maj	131.2	newline	voice	1A- 1cc 1ee-
+=47	=47	=47	=47	=47	=47
+1Im7	A-:7	134.098	.	voice	1A- 1cc 1ee- 1gg
+=48	=48	=48	=48	=48	=48
+1IV	D-:maj	136.997	.	voice	1D- 1f 1a-
+=49	=49	=49	=49	=49	=49
+1IV	D-:maj	139.895	.	voice	1D- 1f 1a-
+=50	=50	=50	=50	=50	=50
+1I	A-:maj	142.793	newline	voice	1A- 1cc 1ee-
+=51	=51	=51	=51	=51	=51
+1I	A-:maj	145.571	.	voice	1A- 1cc 1ee-
+=52	=52	=52	=52	=52	=52
+1V7	E-:7	148.349	.	voice	1E- 1g 1b- 1dd-
+=53	=53	=53	=53	=53	=53
+1V7	E-:7	151.127	.	voice	1E- 1g 1b- 1dd-
+=54	=54	=54	=54	=54	=54
+1I	A-:maj	153.905	newline	voice	1A- 1cc 1ee-
+=55	=55	=55	=55	=55	=55
+1I7	A-:maj7	156.671	.	voice	1A- 1cc 1ee- 1gg
+=56	=56	=56	=56	=56	=56
+1IV	D-:maj	159.438	.	voice	1D- 1f 1a-
+=57	=57	=57	=57	=57	=57
+4-VII	G-:maj	162.204	.	voice	4G- 4b- 4dd-
+2.IV	D-:maj	162.895	.	voice	2D- 2f 2a-
+=58	=58	=58	=58	=58	=58
+2IV7	D-:maj7	164.97	newline	voice	2D- 2f 2a- 2cc
+2iii7	C:min7	166.31	.	voice	2C 2e- 2g 2b-
+=59	=59	=59	=59	=59	=59
+1ii7	B-:min7	167.65	.	voice	1B- 1dd- 1ff 1aa-
+=60	=60	=60	=60	=60	=60
+*>F_outro	*>F_outro	*>F_outro	*>F_outro	*>F_outro	*>F_outro
+1I	A-:maj	170.33	->newline	voice	1A- 1cc 1ee-
+=61	=61	=61	=61	=61	=61
+1IVc	D-:maj/5	173.138	.	voice	1d- 1f 1A-
+=62	=62	=62	=62	=62	=62
+1I	A-:maj	175.945	newline	voice	1A- 1cc 1ee-
+=63	=63	=63	=63	=63	=63
+1IVc	D-:maj/5	178.621	.	voice	1d- 1f 1A-
+=64	=64	=64	=64	=64	=64
+1I	A-:maj	181.297	newline	voice	1A- 1cc 1ee-
+=65	=65	=65	=65	=65	=65
+1IVc	D-:maj/5	184.046	.	voice	1d- 1f 1A-
+=66	=66	=66	=66	=66	=66
+1I	A-:maj	186.795	newline	voice	1A- 1cc 1ee-
+=67	=67	=67	=67	=67	=67
+1IVc	D-:maj/5	189.47	.	voice	1d- 1f 1A-
+=68	=68	=68	=68	=68	=68
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1I	A-:maj	192.145	newline	voice	1A- 1cc 1ee-
+=69	=69	=69	=69	=69	=69
+1IVc	D-:maj/5	194.843	.	voice	1d- 1f 1A-
+=70	=70	=70	=70	=70	=70
+1I	A-:maj	197.54	newline	voice	1A- 1cc 1ee-
+=71	=71	=71	=71	=71	=71
+1IVc	D-:maj/5	199.931	.	voice	1d- 1f 1A-
+1r;	N	202.321	.	r	1r;
+1r;	N	206.54	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: You've Got A Friend
+!!!COC: Roberta Flack & Donny Hathaway
+!!!BillboardChartDate: 1971/08/07, 1971/06/19
+!!!BillboardPeak: 29, 29
+!!!BillboardWeeksOnChart: 12, 12
+!!!SampleTargetRank: 32, 68
+!!!SampleActualRank: 31, 67
+!!!SampleID#: 4, 1229
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

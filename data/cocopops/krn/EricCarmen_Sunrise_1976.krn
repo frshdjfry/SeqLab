@@ -1,0 +1,642 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*a-:	*a-:	*	*	*	*	*	*a-:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1i	A-:5	.	.	4.39	newline	strings	1A- 1cc- 1ee-
+=2	=2	=2	=2	=2	=2	=2	=2
+1i	A-:5	.	.	7.93	.	strings	1A- 1cc- 1ee-
+=3	=3	=3	=3	=3	=3	=3	=3
+1i	A-:5	.	.	11.47	.	strings	1A- 1cc- 1ee-
+=4	=4	=4	=4	=4	=4	=4	=4
+1i	A-:5	.	.	15.01	.	strings	1A- 1cc- 1ee-
+=5	=5	=5	=5	=5	=5	=5	=5
+1i	A-:5	.	.	18.551	newline	piano	1A- 1cc- 1ee-
+=6	=6	=6	=6	=6	=6	=6	=6
+1i	A-:5	.	.	22.209	.	piano	1A- 1cc- 1ee-
+=7	=7	=7	=7	=7	=7	=7	=7
+1ib	A-:min/b3	.	.	25.868	newline	piano	1a- 1C- 1ee-
+=8	=8	=8	=8	=8	=8	=8	=8
+1IV	D-:sus2	.	.	29.477	.	piano	1D- 1f 1a-
+=9	=9	=9	=9	=9	=9	=9	=9
+2.-VI	F-:(3,7)	.	.	33.086	.	piano	1F-- 1a-- 1cc--
+4ic	A-:5/5	.	.	35.792	.	piano	4a- 4cc- 4E-
+=10	=10	=10	=10	=10	=10	=10	=10
+1i	A-:5	.	.	36.694	.	piano	1A- 1cc- 1ee-
+=11	=11	=11	=11	=11	=11	=11	=11
+1ib	A-:min/b3	.	.	40.303	newline	piano	1a- 1C- 1ee-
+=12	=12	=12	=12	=12	=12	=12	=12
+2.IV	D-:sus2	.	.	44.163	.	piano	1D- 1f 1a-
+4id	A-:5/b7	.	.	47.057	.	piano	4a- 4cc- 4ee-
+=13	=13	=13	=13	=13	=13	=13	=13
+1-vi	F-:(3,7)	.	.	48.022	.	piano	1F-- 1a######################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################## 1cc--
+=14	=14	=14	=14	=14	=14	=14	=14
+1id	A-:5/b7	.	.	51.882	.	piano	1a- 1cc- 1ee-
+=15	=15	=15	=15	=15	=15	=15	=15
+1ii7	B-:min7	.	.	55.742	newline	guitar	1B- 1dd- 1ff 1aa-
+=16	=16	=16	=16	=16	=16	=16	=16
+1VM7	E-:maj7	.	.	59.3	.	guitar	1E- 1g 1b- 1dd-
+=17	=17	=17	=17	=17	=17	=17	=17
+1ii7	B-:min7	.	.	62.858	.	guitar	1B- 1dd- 1ff 1aa-
+=18	=18	=18	=18	=18	=18	=18	=18
+1-VIId	G-:maj/b7	.	.	66.416	.	guitar	1g- 1b- 1dd-
+=19	=19	=19	=19	=19	=19	=19	=19
+1v7	E-:min7	.	.	69.974	newline	guitar	1E- 1g- 1b- 1dd-
+=20	=20	=20	=20	=20	=20	=20	=20
+1-IIIm7	B:7(11)	.	.	73.311	.	guitar	1C-- 1e-- 1g-- 1b-
+=21	=21	=21	=21	=21	=21	=21	=21
+1-VI7	E:maj7	.	.	76.648	.	guitar	1F-- 1a-- 1cc-- 1ee-
+=22	=22	=22	=22	=22	=22	=22	=22
+1-VI7	E:maj7	.	.	79.985	.	guitar	1F-- 1a-- 1cc-- 1ee-
+=23	=23	=23	=23	=23	=23	=23	=23
+*C:	*C:	*	*	*C:	*C:	*C:	*C:
+1V7	G:7	.	.	83.322	.	guitar	1G 1b 1dd 1ff
+1r;	N	.	.	86.659	.	r	1r;
+=24	=24	=24	=24	=24	=24	=24	=24
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+1I	C:maj	.	.	89.997	newline	guitar	1C 1e 1g
+=25	=25	=25	=25	=25	=25	=25	=25
+1I	C:maj	.	.	91.886	.	guitar	1C 1e 1g
+=26	=26	=26	=26	=26	=26	=26	=26
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	C:maj	Sun-	.	93.775	newline	voice	1C 1e 1g
+.	.	-rise	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1iii7	E:min7	.	.	95.667	.	voice	1E 1g 1b 1dd
+.	.	_	.	.	.	.	.
+.	.	shine	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	down	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1IV	F:maj	love	.	97.558	.	voice	1F 1a 1cc
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	world	.	.	.	.	.
+.	.	to-	.	.	.	.	.
+.	.	-day	A	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+2ii7	D:min7	_	.	99.45	.	voice	2D 2f 2a 2cc
+.	.	.	.	.	.	.	.
+2V7	G:7	.	.	100.396	.	voice	2G 2b 2dd 2ff
+.	.	M-	.	.	.	.	.
+.	.	-make	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+.	.	_	.	.	.	.	.
+1I	C:maj	mor-	.	101.342	newline	voice	1C 1e 1g
+.	.	-ning	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1iii7	E:min7	.	.	103.233	.	voice	1E 1g 1b 1dd
+.	.	_	.	.	.	.	.
+.	.	so	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	sweet	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	it-	.	.	.	.	.
+.	.	-'ll	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1IV	F:maj	have	.	105.124	.	voice	1F 1a 1cc
+.	.	to	.	.	.	.	.
+.	.	chase	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	blues	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	A	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2viio7	B:hdim7	_	.	107.015	.	voice	2B 2dd 2ff 2aa
+.	.	.	.	.	.	.	.
+2III7	E:7	.	.	107.961	.	voice	2E 2g# 2b 2dd
+.	.	_	.	.	.	.	.
+.	.	Oh,	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1vi	A:min	moon	.	108.907	newline	voice	1A 1cc 1ee
+.	.	_	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	stars	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	have	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+2v	G:min	gone	B	110.774	.	voice	2G 2b- 2dd
+.	.	.	.	.	.	.	.
+2Im7	C:7	.	.	111.708	.	voice	2C 2e 2g 2b
+.	.	and	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	can	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1IV7	F:maj7	see	.	112.642	.	voice	1F 1a 1cc 1ee
+.	.	the	.	.	.	.	.
+.	.	light	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	dawn	B	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1II7	D:7	_	.	114.509	.	voice	1D 1f# 1a 1cc
+.	.	.	.	.	.	.	.
+.	.	L-	.	.	.	.	.
+.	.	-like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+2Ic	C:maj/5	gol-	.	116.376	newline	voice	2c 2e 2G
+.	.	-den	.	.	.	.	.
+.	.	smile	.	.	.	.	.
+2VI7	A:7	_	.	117.338	.	voice	2A 2cc# 2ee 2gg
+.	.	.	.	.	.	.	.
+.	.	bright-	.	.	.	.	.
+.	.	-'ning	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+.	.	_	.	.	.	.	.
+2iio7	D:hdim7	up	.	118.3	.	voice	2D 2f 2a- 2cc
+.	.	the	.	.	.	.	.
+.	.	brand	.	.	.	.	.
+2V7	G:7(b9)	_	.	119.262	.	voice	2G 2b 2dd 2ff
+.	.	new	.	.	.	.	.
+.	.	day	A	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+1I	C:maj	_	.	120.224	newline	piano	1C 1e 1g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2Vf	G:maj/4	.	.	122.069	.	piano	1G 1b 1dd
+2IVc	F:maj/5	.	.	122.991	.	piano	2f 2a 2C
+=42	=42	=42	=42	=42	=42	=42	=42
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	C:maj	Sun-	.	123.914	newline	voice	1C 1e 1g
+.	.	-rise	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1iii7	E:min7	.	.	125.809	.	voice	1E 1g 1b 1dd
+.	.	_	.	.	.	.	.
+.	.	come	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	wrap	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1IV	F:maj	warmth	.	127.704	.	voice	1F 1a 1cc
+.	.	of	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	crim-	.	.	.	.	.
+.	.	-son	.	.	.	.	.
+.	.	sky	C	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+2ii7	D:min7	_	.	129.599	.	voice	2D 2f 2a 2cc
+.	.	.	.	.	.	.	.
+2V7	G:7	.	.	130.547	.	voice	2G 2b 2dd 2ff
+.	.	I	.	.	.	.	.
+.	.	spent	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+.	.	_	.	.	.	.	.
+1I	C:maj	long	.	131.494	newline	voice	1C 1e 1g
+.	.	time	C	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1iii7	E:min7	.	.	133.372	.	voice	1E 1g 1b 1dd
+.	.	_	.	.	.	.	.
+.	.	be-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-lie	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	ving	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1IV	F:maj	dream	.	135.25	.	voice	1F 1a 1cc
+.	.	_	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	had	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	passed	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	by	C	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2viio7	B:hdim7	_	.	137.128	.	voice	2B 2dd 2ff 2aa
+.	.	.	.	.	.	.	.
+2III7	E:7	.	.	138.067	.	voice	2E 2g# 2b 2dd
+.	.	But	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1vi	A:min	moon	.	139.006	newline	voice	1A 1cc 1ee
+.	.	_	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	stars	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	have	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+2v	G:min	gone	B	140.872	.	voice	2G 2b- 2dd
+.	.	.	.	.	.	.	.
+2Im7	C:7	.	.	141.805	.	voice	2C 2e 2g 2b
+.	.	and	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	can	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+1IV7	F:maj7	see	.	142.737	.	voice	1F 1a 1cc 1ee
+.	.	the	.	.	.	.	.
+.	.	light	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	dawn	B	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+1II7	D:7	_	.	144.603	.	voice	1D 1f# 1a 1cc
+.	.	.	.	.	.	.	.
+.	.	L-	.	.	.	.	.
+.	.	-like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+2Ic	C:maj/5	gol-	.	146.469	newline	voice	2c 2e 2G
+.	.	-den	.	.	.	.	.
+.	.	smile	.	.	.	.	.
+2VI7	A:7	_	.	147.413	.	voice	2A 2cc# 2ee 2gg
+.	.	.	.	.	.	.	.
+.	.	bright-	.	.	.	.	.
+.	.	-'ning	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+.	.	_	.	.	.	.	.
+2iio7	D:hdim7	up	.	148.357	.	voice	2D 2f 2a- 2cc
+.	.	the	.	.	.	.	.
+.	.	mor	.	.	.	.	.
+2V7	G:7(b9)	_	.	149.301	.	voice	2G 2b 2dd 2ff
+.	.	ning	.	.	.	.	.
+.	.	sky	C	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+1I	C:maj	_	.	150.245	newline	piano	1C 1e 1g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+*A-:	*A-:	*	*	*	*	*	*A-:
+1I	A-:maj	.	.	152.095	.	piano	1A- 1cc 1ee-
+=58	=58	=58	=58	=58	=58	=58	=58
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1ii	B-:min	.	.	153.945	newline	voice	1B- 1dd- 1ff
+.	.	From	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	bed	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	can	.	.	.	.	.
+.	.	hear	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1VM7	E-:maj7	_	.	155.874	.	voice	1E- 1g 1b- 1dd-
+.	.	_	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	world	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	out-	.	.	.	.	.
+.	.	-side	D	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1ii7	B-:min7	.	.	157.804	.	voice	1B- 1dd- 1ff 1aa-
+.	.	I	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	up,	.	.	.	.	.
+.	.	throw	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	win	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1Vd	E-:maj/b7	_	.	159.733	.	voice	1e- 1g 1b-
+.	.	_	.	.	.	.	.
+.	.	dow	.	.	.	.	.
+.	.	o	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	pen	.	.	.	.	.
+.	.	wide,	D	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1iii	C:min	.	.	161.662	newline	voice	1C 1e- 1g
+.	.	take	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	breath	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	that	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+2vi	F:min	fresh	.	163.607	.	voice	2F 2a- 2cc
+.	.	_	.	.	.	.	.
+2vid	F:min/b7	air	.	164.579	.	voice	2f 2a- 2cc
+=64	=64	=64	=64	=64	=64	=64	=64
+2IV	D-:maj	.	.	165.552	.	voice	2D- 2f 2a-
+.	.	take	.	.	.	.	.
+.	.	a	.	.	.	.	.
+2IVd	D-:maj/b7	breath	.	166.524	.	voice	2d- 2f 2a-
+.	.	of	.	.	.	.	.
+.	.	that	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+2-VIIb	G-:maj/3	fresh	.	167.496	.	voice	2g- 2B- 2dd-
+.	.	_	.	.	.	.	.
+2-II	A:maj	air,	.	168.469	.	voice	2B-- 2dd- 2ff-
+=66	=66	=66	=66	=66	=66	=66	=66
+*C:	*C:	*	*	*	*	*	*C:
+2V	G:maj	fresh	.	169.441	newline	voice	2.G 2.b 2.dd
+2Vd	G:maj/b7	.	.	170.4	.	voice	4g 4b 4dd
+.	.	_	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+2Vg	G:maj/6	air!	.	171.359	.	voice	1G 1b 1dd
+2Vc	G:maj/5	.	.	172.318	.	voice	2g 2b 2D
+=68	=68	=68	=68	=68	=68	=68	=68
+1r	N	.	.	173.277	.	piano	1r
+=69	=69	=69	=69	=69	=69	=69	=69
+*M3/4	*M3/4	*	*	*M3/4	*M3/4	*M3/4	*
+2.r	N	.	.	175.196	.	piano	2.r
+=70	=70	=70	=70	=70	=70	=70	=70
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*M4/4	*M4/4	*	*	*M4/4	*M4/4	*M4/4	*
+1I	C:maj	Sun-	.	176.634	newline	voice	1C 1e 1g
+.	.	-rise	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1iii7	E:min7	.	.	178.55	.	voice	1E 1g 1b 1dd
+.	.	_	.	.	.	.	.
+.	.	shine	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	down	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	lit-	.	.	.	.	.
+.	.	-tle	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+1IV	F:maj	love	.	180.466	.	voice	1F 1a 1cc
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	world	.	.	.	.	.
+.	.	to-	.	.	.	.	.
+.	.	-day	A	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+2ii7	D:min7	_	.	182.381	.	voice	2D 2f 2a 2cc
+.	.	.	.	.	.	.	.
+2V7	G:7	.	.	183.339	.	voice	2G 2b 2dd 2ff
+.	.	M-	.	.	.	.	.
+.	.	-make	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+.	.	_	.	.	.	.	.
+1I	C:maj	mor-	.	184.297	newline	voice	1C 1e 1g
+.	.	-ning	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1iii7	E:min7	.	.	186.188	.	voice	1E 1g 1b 1dd
+.	.	_	.	.	.	.	.
+.	.	so	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	sweet	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	it-	.	.	.	.	.
+.	.	-'ll	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1IV	F:maj	have	.	188.078	.	voice	1F 1a 1cc
+.	.	to	.	.	.	.	.
+.	.	chase	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	blues	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	A	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+2viio7	B:hdim7	_	.	189.968	.	voice	2B 2dd 2ff 2aa
+.	.	.	.	.	.	.	.
+2III7	E:7	.	.	190.913	.	voice	2E 2g# 2b 2dd
+.	.	_	.	.	.	.	.
+.	.	Oh,	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+1vi	A:min	moon	.	191.859	newline	voice	1A 1cc 1ee
+.	.	_	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	stars	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	have	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+2v	G:min	gone	B	193.734	.	voice	2G 2b- 2dd
+.	.	.	.	.	.	.	.
+2Im7	C:7	.	.	194.672	.	voice	2C 2e 2g 2b
+.	.	and	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	can	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+1IV7	F:maj7	see	.	195.609	.	voice	1F 1a 1cc 1ee
+.	.	the	.	.	.	.	.
+.	.	light	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	dawn	B	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+1II7	D:7	_	.	197.485	.	voice	1D 1f# 1a 1cc
+.	.	.	.	.	.	.	.
+.	.	L-	.	.	.	.	.
+.	.	-like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+2Ic	C:maj/5	gol-	.	199.36	newline	voice	2c 2e 2G
+.	.	-den	.	.	.	.	.
+.	.	smile	.	.	.	.	.
+2VI7	A:7	_	.	200.3	.	voice	2A 2cc# 2ee 2gg
+.	.	.	.	.	.	.	.
+.	.	bright-	.	.	.	.	.
+.	.	-'ning	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+.	.	_	.	.	.	.	.
+2iio7	D:hdim7	up	.	201.24	.	voice	2D 2f 2a- 2cc
+.	.	the	.	.	.	.	.
+.	.	brand	.	.	.	.	.
+2V7	G:7(b9)	_	.	202.18	.	voice	2G 2b 2dd 2ff
+.	.	new	.	.	.	.	.
+.	.	day	A	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+2-VI	A-:maj	_	.	203.12	newline	guitar	2A- 2cc 2ee-
+2-VId	A-:maj/b7	.	.	204.059	.	guitar	2a- 2cc 2ee-
+=85	=85	=85	=85	=85	=85	=85	=85
+2-VIg	A-:maj/6	.	.	204.997	.	guitar	2A- 2cc 2ee-
+.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Brand	.	.	.	.	.
+2-VIc	A-:maj/5	_	.	205.936	.	guitar	2a- 2cc 2E-
+.	.	new	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+2-VI	A-:maj	day	A	206.875	.	guitar	1A- 1cc 1ee-
+2-VId	A-:maj/b7	.	.	207.813	.	guitar	2a- 2cc 2ee-
+=87	=87	=87	=87	=87	=87	=87	=87
+2-VIg	A-:maj/6	_	.	208.752	.	guitar	2.A- 2.cc 2.ee-
+2-VIc	A-:maj/5	.	.	209.691	.	guitar	4a- 4cc 4E-
+.	.	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1I	C:maj	.	.	210.63	newline	piano	1C 1e 1g
+=89	=89	=89	=89	=89	=89	=89	=89
+1-III	E-:maj	.	.	212.399	.	piano	1E- 1g 1b-
+=90	=90	=90	=90	=90	=90	=90	=90
+1-VII	B-:maj	.	.	214.169	.	piano	1B- 1dd 1ff
+=91	=91	=91	=91	=91	=91	=91	=91
+1IV	F:maj	.	.	215.939	.	piano	1F 1a 1cc
+=92	=92	=92	=92	=92	=92	=92	=92
+1I	C:maj	.	.	217.709	newline	piano	1C 1e 1g
+=93	=93	=93	=93	=93	=93	=93	=93
+1-III	E-:maj	.	.	219.463	.	piano	1E- 1g 1b-
+=94	=94	=94	=94	=94	=94	=94	=94
+1-VII	B-:maj	.	.	221.216	.	piano	1B- 1dd 1ff
+=95	=95	=95	=95	=95	=95	=95	=95
+1IV	F:maj	.	.	222.97	.	piano	1F 1a 1cc
+=96	=96	=96	=96	=96	=96	=96	=96
+1I	C:maj	.	.	224.723	newline	guitar	1C 1e 1g
+=97	=97	=97	=97	=97	=97	=97	=97
+1-III	E-:maj	.	.	226.484	.	guitar	1E- 1g 1b-
+=98	=98	=98	=98	=98	=98	=98	=98
+1-VII	B-:maj	.	.	228.244	.	guitar	1B- 1dd 1ff
+=99	=99	=99	=99	=99	=99	=99	=99
+1IV	F:maj	.	.	230.005	.	guitar	1F 1a 1cc
+=100	=100	=100	=100	=100	=100	=100	=100
+1I	C:maj	.	.	231.765	newline	guitar	1C 1e 1g
+=101	=101	=101	=101	=101	=101	=101	=101
+1-III	E-:maj	.	.	233.511	.	guitar	1E- 1g 1b-
+=102	=102	=102	=102	=102	=102	=102	=102
+1-VII	B-:maj	.	.	235.257	.	guitar	1B- 1dd 1ff
+=103	=103	=103	=103	=103	=103	=103	=103
+1IV	F:maj	.	.	237.003	.	guitar	1F 1a 1cc
+=104	=104	=104	=104	=104	=104	=104	=104
+1I	C:maj	.	.	238.749	newline	guitar	1C 1e 1g
+=105	=105	=105	=105	=105	=105	=105	=105
+1-III	E-:maj	.	.	240.484	.	guitar	1E- 1g 1b-
+=106	=106	=106	=106	=106	=106	=106	=106
+1-VII	B-:maj	.	.	242.22	.	guitar	1B- 1dd 1ff
+=107	=107	=107	=107	=107	=107	=107	=107
+1IV	F:maj	.	.	243.955	.	guitar	1F 1a 1cc
+=108	=108	=108	=108	=108	=108	=108	=108
+1I	C:maj	.	.	245.691	newline	guitar	1C 1e 1g
+=109	=109	=109	=109	=109	=109	=109	=109
+1-III	E-:maj	.	.	247.433	.	guitar	1E- 1g 1b-
+=110	=110	=110	=110	=110	=110	=110	=110
+1-VII	B-:maj	.	.	249.176	.	guitar	1B- 1dd 1ff
+=111	=111	=111	=111	=111	=111	=111	=111
+1IV	F:maj	.	.	250.918	.	guitar	1F 1a 1cc
+=112	=112	=112	=112	=112	=112	=112	=112
+1I	C:maj	.	.	252.66	newline	trumpet	1C 1e 1g
+=113	=113	=113	=113	=113	=113	=113	=113
+1-III	E-:maj	.	.	254.436	.	trumpet	1E- 1g 1b-
+=114	=114	=114	=114	=114	=114	=114	=114
+1-VII	B-:maj	.	.	256.212	.	trumpet	1B- 1dd 1ff
+=115	=115	=115	=115	=115	=115	=115	=115
+1IV	F:maj	.	.	257.988	.	trumpet	1F 1a 1cc
+=116	=116	=116	=116	=116	=116	=116	=116
+1I	C:maj	.	.	259.764	newline	guitar	1C 1e 1g
+=117	=117	=117	=117	=117	=117	=117	=117
+1-III	E-:maj	.	.	261.479	.	guitar	1E- 1g 1b-
+=118	=118	=118	=118	=118	=118	=118	=118
+1-VII	B-:maj	.	.	263.194	.	guitar	1B- 1dd 1ff
+=119	=119	=119	=119	=119	=119	=119	=119
+1IV	F:maj	.	.	264.909	.	guitar	1F 1a 1cc
+=120	=120	=120	=120	=120	=120	=120	=120
+1r	N	.	.	266.624	newline	guitar	1r
+=121	=121	=121	=121	=121	=121	=121	=121
+1-III	E-:maj	.	.	268.314	.	guitar	1E- 1g 1b-
+=122	=122	=122	=122	=122	=122	=122	=122
+1-VII	B-:maj	.	.	270.004	.	guitar	1B- 1dd 1ff
+=123	=123	=123	=123	=123	=123	=123	=123
+1IV	F:maj	.	.	271.694	.	guitar	1F 1a 1cc
+=124	=124	=124	=124	=124	=124	=124	=124
+1I	C:maj	.	.	273.384	newline	guitar	1C 1e 1g
+=125	=125	=125	=125	=125	=125	=125	=125
+1-III	E-:maj	.	.	275.08	.	guitar	1E- 1g 1b-
+=126	=126	=126	=126	=126	=126	=126	=126
+1-VII	B-:maj	.	.	276.775	.	guitar	1B- 1dd 1ff
+=127	=127	=127	=127	=127	=127	=127	=127
+1IV	F:maj	.	.	278.471	.	guitar	1F 1a 1cc
+=128	=128	=128	=128	=128	=128	=128	=128
+1I	C:maj	.	.	280.166	newline	guitar	1C 1e 1g
+=129	=129	=129	=129	=129	=129	=129	=129
+1-III	E-:maj	.	.	281.849	.	guitar	1E- 1g 1b-
+=130	=130	=130	=130	=130	=130	=130	=130
+1-VII	B-:maj	.	.	283.532	.	guitar	1B- 1dd 1ff
+=131	=131	=131	=131	=131	=131	=131	=131
+1IV	F:maj	.	.	285.215	.	guitar	1F 1a 1cc
+=132	=132	=132	=132	=132	=132	=132	=132
+1I	C:maj	.	.	286.898	newline	guitar	1C 1e 1g
+=133	=133	=133	=133	=133	=133	=133	=133
+1-III	E-:maj	.	.	288.605	.	guitar	1E- 1g 1b-
+=134	=134	=134	=134	=134	=134	=134	=134
+1-VII	B-:maj	.	.	290.311	.	guitar	1B- 1dd 1ff
+=135	=135	=135	=135	=135	=135	=135	=135
+1IV	F:maj	.	.	292.018	.	guitar	1F 1a 1cc
+=136	=136	=136	=136	=136	=136	=136	=136
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+1I	C:maj	.	.	293.724	newline	guitar	1C 1e 1g
+=137	=137	=137	=137	=137	=137	=137	=137
+1-III	E-:maj	.	.	295.413	.	guitar	1E- 1g 1b-
+=138	=138	=138	=138	=138	=138	=138	=138
+1-VII	B-:maj	.	.	297.102	.	guitar	1B- 1dd 1ff
+=139	=139	=139	=139	=139	=139	=139	=139
+1IV	F:maj	.	.	298.791	.	guitar	1F 1a 1cc
+=140	=140	=140	=140	=140	=140	=140	=140
+1I	C:maj	.	.	300.48	newline	guitar	1C 1e 1g
+=141	=141	=141	=141	=141	=141	=141	=141
+1-III	E-:maj	.	.	302.159	.	guitar	1E- 1g 1b-
+=142	=142	=142	=142	=142	=142	=142	=142
+1-VII	B-:maj	.	.	303.837	.	guitar	1B- 1dd 1ff
+=143	=143	=143	=143	=143	=143	=143	=143
+1IV	F:maj	.	.	305.516	.	guitar	1F 1a 1cc
+=144	=144	=144	=144	=144	=144	=144	=144
+1I	C:maj	.	.	307.194	newline	guitar	1C 1e 1g
+=145	=145	=145	=145	=145	=145	=145	=145
+1-III	E-:maj	.	.	308.904	.	guitar	1E- 1g 1b-
+=146	=146	=146	=146	=146	=146	=146	=146
+1-VII	B-:maj	.	.	310.614	.	guitar	1B- 1dd 1ff
+=147	=147	=147	=147	=147	=147	=147	=147
+1IV	F:maj	.	.	312.324	.	guitar	1F 1a 1cc
+=148	=148	=148	=148	=148	=148	=148	=148
+1I	C:maj	.	.	314.034	newline	guitar	1C 1e 1g
+=149	=149	=149	=149	=149	=149	=149	=149
+1-III	E-:maj	.	.	315.431	.	guitar	1E- 1g 1b-
+=150	=150	=150	=150	=150	=150	=150	=150
+1-VII	B-:maj	.	.	316.829	.	guitar	1B- 1dd 1ff
+=151	=151	=151	=151	=151	=151	=151	=151
+1IV	F:maj	.	.	318.226	.	guitar	1F 1a 1cc
+1r;	N	.	.	319.623	.	r	1r;
+1r;	N	.	.	321.149	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1976/08/28
+!!!BillboardPeak: 34
+!!!BillboardWeeksOnChart: 10
+!!!COC: Eric Carmen
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Sunrise
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 66
+!!!SampleID#: 0655
+!!!SampleTargetRank: 67
+!!!MBID: db8decae-4862-484f-b437-942856cc8173

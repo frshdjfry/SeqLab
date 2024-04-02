@@ -1,0 +1,201 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*d:	*d:	*	*	*	*d:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1i	D:min	6.217	newline	organ	1D 1f 1a
+=2	=2	=2	=2	=2	=2
+1i	D:min	8.291	newline	organ	1D 1f 1a
+=3	=3	=3	=3	=3	=3
+1i	D:min	10.351	.	organ	1D 1f 1a
+=4	=4	=4	=4	=4	=4
+1i	D:min	12.41	.	organ	1D 1f 1a
+=5	=5	=5	=5	=5	=5
+1i	D:min	14.469	.	organ	1D 1f 1a
+=6	=6	=6	=6	=6	=6
+1i7	D:min7	16.528	newline	organ	1D 1f 1a 1cc#
+=7	=7	=7	=7	=7	=7
+1i7	D:min7	18.557	.	organ	1D 1f 1a 1cc#
+=8	=8	=8	=8	=8	=8
+1i7	D:min7	20.585	.	organ	1D 1f 1a 1cc#
+=9	=9	=9	=9	=9	=9
+1i7	D:min7	22.613	.	organ	1D 1f 1a 1cc#
+=10	=10	=10	=10	=10	=10
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1i7	D:min7	24.641	newline	voice	1D 1f 1a 1cc#
+=11	=11	=11	=11	=11	=11
+1i7	D:min7	26.676	.	voice	1D 1f 1a 1cc#
+=12	=12	=12	=12	=12	=12
+1i7	D:min7	28.71	.	voice	1D 1f 1a 1cc#
+=13	=13	=13	=13	=13	=13
+1i7	D:min7	30.744	.	voice	1D 1f 1a 1cc#
+=14	=14	=14	=14	=14	=14
+1i7	D:min7	32.778	newline	voice	1D 1f 1a 1cc#
+=15	=15	=15	=15	=15	=15
+1i7	D:min7	34.808	.	voice	1D 1f 1a 1cc#
+=16	=16	=16	=16	=16	=16
+1i7	D:min7	36.838	.	voice	1D 1f 1a 1cc#
+=17	=17	=17	=17	=17	=17
+1i7	D:min7	38.868	.	voice	1D 1f 1a 1cc#
+=18	=18	=18	=18	=18	=18
+1r	N	40.897	newline	voice	1r
+=19	=19	=19	=19	=19	=19
+1r	N	42.937	.	voice	1r
+=20	=20	=20	=20	=20	=20
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1iv	G:sus4(b7,9,13)	44.978	newline	voice	1G 1b- 1dd
+=21	=21	=21	=21	=21	=21
+1II	E:maj	46.978	.	voice	1E 1g# 1b
+=22	=22	=22	=22	=22	=22
+1iv	G:sus4(b7,9,13)	48.979	.	voice	1G 1b- 1dd
+=23	=23	=23	=23	=23	=23
+1II	E:maj	50.979	.	voice	1E 1g# 1b
+=24	=24	=24	=24	=24	=24
+1v	A:sus4(b7,9,13)	52.98	newline	voice	1A 1cc 1ee
+=25	=25	=25	=25	=25	=25
+1III	F#:maj	54.982	.	voice	1F 1a 1cc
+=26	=26	=26	=26	=26	=26
+1v	A:sus4(b7,9,13)	56.984	.	voice	1A 1cc 1ee
+=27	=27	=27	=27	=27	=27
+1III	F#:maj	58.985	.	voice	1F 1a 1cc
+=28	=28	=28	=28	=28	=28
+1VI	B:maj	60.987	newline	voice	1B- 1dd 1ff
+=29	=29	=29	=29	=29	=29
+1VI	B:maj	63.024	.	voice	1B- 1dd 1ff
+=30	=30	=30	=30	=30	=30
+1i	D:min	65.06	.	voice	1D 1f 1a
+=31	=31	=31	=31	=31	=31
+1i	D:min	67.096	.	voice	1D 1f 1a
+=32	=32	=32	=32	=32	=32
+*>B2_interlude	*>B2_interlude	*>B2_interlude	*>B2_interlude	*>B2_interlude	*>B2_interlude
+1i7	D:min7	69.133	newline	organ	1D 1f 1a 1cc#
+=33	=33	=33	=33	=33	=33
+1i7	D:min7	71.186	.	organ	1D 1f 1a 1cc#
+=34	=34	=34	=34	=34	=34
+1i7	D:min7	73.238	.	organ	1D 1f 1a 1cc#
+=35	=35	=35	=35	=35	=35
+1i7	D:min7	75.291	.	organ	1D 1f 1a 1cc#
+=36	=36	=36	=36	=36	=36
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1i7	D:min7	77.344	newline	voice	1D 1f 1a 1cc#
+=37	=37	=37	=37	=37	=37
+1i7	D:min7	79.385	.	voice	1D 1f 1a 1cc#
+=38	=38	=38	=38	=38	=38
+1i7	D:min7	81.426	.	voice	1D 1f 1a 1cc#
+=39	=39	=39	=39	=39	=39
+1i7	D:min7	83.467	.	voice	1D 1f 1a 1cc#
+=40	=40	=40	=40	=40	=40
+1i7	D:min7	85.508	newline	voice	1D 1f 1a 1cc#
+=41	=41	=41	=41	=41	=41
+1i7	D:min7	87.521	.	voice	1D 1f 1a 1cc#
+=42	=42	=42	=42	=42	=42
+1i7	D:min7	89.535	.	voice	1D 1f 1a 1cc#
+=43	=43	=43	=43	=43	=43
+1i7	D:min7	91.549	.	voice	1D 1f 1a 1cc#
+=44	=44	=44	=44	=44	=44
+1r	N	93.562	newline	voice	1r
+=45	=45	=45	=45	=45	=45
+1r	N	95.59	.	voice	1r
+=46	=46	=46	=46	=46	=46
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1iv	G:sus4(b7,9,13)	97.619	newline	voice	1G 1b- 1dd
+=47	=47	=47	=47	=47	=47
+1II	E:maj	99.569	.	voice	1E 1g# 1b
+=48	=48	=48	=48	=48	=48
+1iv	G:sus4(b7,9,13)	101.519	.	voice	1G 1b- 1dd
+=49	=49	=49	=49	=49	=49
+1II	E:maj	103.47	.	voice	1E 1g# 1b
+=50	=50	=50	=50	=50	=50
+1v	A:sus4(b7,9,13)	105.42	newline	voice	1A 1cc 1ee
+=51	=51	=51	=51	=51	=51
+1III	F#:maj	107.348	.	voice	1F 1a 1cc
+=52	=52	=52	=52	=52	=52
+1v	A:sus4(b7,9,13)	109.276	.	voice	1A 1cc 1ee
+=53	=53	=53	=53	=53	=53
+1III	F#:maj	111.204	.	voice	1F 1a 1cc
+=54	=54	=54	=54	=54	=54
+1VI	B:maj	113.131	newline	voice	1B- 1dd 1ff
+=55	=55	=55	=55	=55	=55
+1VI	B:maj	115.065	.	voice	1B- 1dd 1ff
+=56	=56	=56	=56	=56	=56
+1i	D:min	116.998	.	voice	1D 1f 1a
+=57	=57	=57	=57	=57	=57
+1i	D:min	118.932	.	voice	1D 1f 1a
+=58	=58	=58	=58	=58	=58
+*>B3_interlude	*>B3_interlude	*>B3_interlude	*>B3_interlude	*>B3_interlude	*>B3_interlude
+1i7	D:min7	120.865	newline	organ	1D 1f 1a 1cc#
+=59	=59	=59	=59	=59	=59
+1i7	D:min7	122.881	.	organ	1D 1f 1a 1cc#
+=60	=60	=60	=60	=60	=60
+1i7	D:min7	124.898	.	organ	1D 1f 1a 1cc#
+=61	=61	=61	=61	=61	=61
+1i7	D:min7	126.915	.	organ	1D 1f 1a 1cc#
+=62	=62	=62	=62	=62	=62
+1i7	D:min7	128.931	newline	organ	1D 1f 1a 1cc#
+=63	=63	=63	=63	=63	=63
+1i7	D:min7	130.904	.	organ	1D 1f 1a 1cc#
+=64	=64	=64	=64	=64	=64
+1i7	D:min7	132.878	.	organ	1D 1f 1a 1cc#
+=65	=65	=65	=65	=65	=65
+1i7	D:min7	134.851	.	organ	1D 1f 1a 1cc#
+=66	=66	=66	=66	=66	=66
+1r	N	136.824	newline	organ	1r
+=67	=67	=67	=67	=67	=67
+1r	N	138.808	.	organ	1r
+=68	=68	=68	=68	=68	=68
+1r	N	140.792	.	organ	1r
+=69	=69	=69	=69	=69	=69
+1r	N	142.777	.	organ	1r
+=70	=70	=70	=70	=70	=70
+*>B4_interlude	*>B4_interlude	*>B4_interlude	*>B4_interlude	*>B4_interlude	*>B4_interlude
+1i7	D:min7	144.761	newline	organ	1D 1f 1a 1cc#
+=71	=71	=71	=71	=71	=71
+1i7	D:min7	146.763	.	organ	1D 1f 1a 1cc#
+=72	=72	=72	=72	=72	=72
+1i7	D:min7	148.766	.	organ	1D 1f 1a 1cc#
+=73	=73	=73	=73	=73	=73
+1i7	D:min7	150.769	.	organ	1D 1f 1a 1cc#
+=74	=74	=74	=74	=74	=74
+1i7	D:min7	152.771	newline	organ	1D 1f 1a 1cc#
+=75	=75	=75	=75	=75	=75
+1i7	D:min7	154.775	.	organ	1D 1f 1a 1cc#
+=76	=76	=76	=76	=76	=76
+1i7	D:min7	156.779	.	organ	1D 1f 1a 1cc#
+=77	=77	=77	=77	=77	=77
+1i7	D:min7	158.783	.	organ	1D 1f 1a 1cc#
+=78	=78	=78	=78	=78	=78
+*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo
+1i	D:min	160.787	newline	organ	1D 1f 1a
+=79	=79	=79	=79	=79	=79
+1i	D:min	162.849	.	organ	1D 1f 1a
+=80	=80	=80	=80	=80	=80
+1i	D:min	164.912	.	organ	1D 1f 1a
+=81	=81	=81	=81	=81	=81
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+2i	D:min	166.974	.	organ	2D 2f 2a
+=82	=82	=82	=82	=82	=82
+*>D2_outro	*>D2_outro	*>D2_outro	*>D2_outro	*>D2_outro	*>D2_outro
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1i7	D:min7	168.005	newline	organ	1D 1f 1a 1cc#
+=83	=83	=83	=83	=83	=83
+1i7	D:min7	170.003	.	organ	1D 1f 1a 1cc#
+1r;	N	172.001	.	r	1r;
+1r;	N	174.483	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: In-A-Gadda-Da-Vida
+!!!COC: Iron Butterfly
+!!!BillboardChartDate: 1968/11/02
+!!!BillboardPeak: 30
+!!!BillboardWeeksOnChart: 17
+!!!SampleTargetRank: 31
+!!!SampleActualRank: 30
+!!!SampleID#: 0261
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

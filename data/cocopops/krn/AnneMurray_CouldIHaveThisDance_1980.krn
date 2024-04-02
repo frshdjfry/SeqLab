@@ -1,0 +1,421 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M3/4	*M3/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*A:	*A:	*	*	*	*	*	*A:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	.	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+2.I	A:maj	.	.	0.95	newline	guitar	2.A 2.cc# 2.ee
+=2	=2	=2	=2	=2	=2	=2	=2
+2.I7	A:maj7	.	.	.	.	guitar	2.A 2.cc# 2.ee 2.gg#
+=3	=3	=3	=3	=3	=3	=3	=3
+2.ii7	B:min7	.	.	.	.	guitar	2.B 2.dd 2.ff# 2.aa
+=4	=4	=4	=4	=4	=4	=4	=4
+2.V	E:sus4(b7)	.	.	.	.	guitar	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	I'll	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.I	A:maj	al-	.	9.275	newline	voice	2.A 2.cc# 2.ee
+.	.	-ways	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	re-	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2.Im7	A:7	-mem-	.	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	-ber	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+2.IV	D:maj	song	.	.	.	voice	2.D 2.f# 2.a
+.	.	they	.	.	.	.	.
+.	.	were	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2.V	E:maj	pla-	.	.	.	voice	2.E 2.g# 2.b
+.	.	-ying	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	The	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+2.IV	D:maj	first	.	17.265	newline	voice	2.D 2.f# 2.a
+.	.	time	.	.	.	.	.
+.	.	we	.	.	.	.	.
+.	.	danced	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2.V	E:maj	_	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2.I	A:maj	knew	A	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+2.V	E:maj	.	.	.	.	voice	2.E 2.g# 2.b
+.	.	As	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2.I	A:maj	swayed	.	25.41	newline	voice	2.A 2.cc# 2.ee
+.	.	to	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2.Im7	A:7	mu-	.	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	-sic,	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2.IV	D:maj	held	.	.	.	voice	2.D 2.f# 2.a
+.	.	to	.	.	.	.	.
+.	.	each	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2.V	E:maj	o-	.	.	.	voice	2.E 2.g# 2.b
+.	.	-ther,	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2.IV	D:maj	I	.	33.7	newline	voice	2.D 2.f# 2.a
+.	.	fell	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	love	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2.V	E:maj	_	.	.	.	voice	2.E 2.g# 2.b
+.	.	with	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2.I	A:maj	you	A	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2.V	E:maj	.	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.I	A:maj	I	.	41.955	newline	voice	2.A 2.cc# 2.ee
+.	.	have	.	.	.	.	.
+.	.	this	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+2.Im7	A:7	dance	.	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	.	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2.IV	D:maj	rest	.	.	.	voice	2.D 2.f# 2.a
+.	.	of	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2.IV	D:maj	life,	B	.	.	voice	2.D 2.f# 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2.V	E:maj	you	.	50.185	newline	voice	2.E 2.g# 2.b
+.	.	be	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+2.V	E:maj	part-	.	.	.	voice	2.E 2.g# 2.b
+.	.	-ner	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+2.IV	D:maj	e	.	.	.	voice	2.D 2.f# 2.a
+.	.	_	.	.	.	.	.
+.	.	ry	.	.	.	.	.
+.	.	night,	B	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+2.V	E:maj	_	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+2.I	A:maj	when	.	58.37	newline	voice	2.A 2.cc# 2.ee
+.	.	we're	.	.	.	.	.
+.	.	to-	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2.Im7	A:7	-ge-	.	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	-ther	.	.	.	.	.
+.	.	it	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+2.IV	D:maj	feels	.	.	.	voice	2.D 2.f# 2.a
+.	.	so	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+2.iv	D:min	right	B	.	.	voice	2.D 2.f 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2.I	A:maj	I	.	66.51	newline	voice	2.A 2.cc# 2.ee
+.	.	have	.	.	.	.	.
+.	.	this	.	.	.	.	.
+.	.	dance	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2.I	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+2.V	E:maj	rest	.	.	.	voice	2.E 2.g# 2.b
+.	.	of	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+2.I	A:maj	life	B	72.595	newline	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2.V	E:maj	.	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	I'll	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.I	A:maj	al-	.	76.755	newline	voice	2.A 2.cc# 2.ee
+.	.	-ways	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	re-	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+2.Im7	A:7	-mem-	.	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	-ber	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2.IV	D:maj	that	.	.	.	voice	2.D 2.f# 2.a
+.	.	ma-	.	.	.	.	.
+.	.	-gic	.	.	.	.	.
+.	.	mo-	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2.V	E:maj	_	.	.	.	voice	2.E 2.g# 2.b
+.	.	-ment,	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	When	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+2.IV	D:maj	I	.	85.005	newline	voice	2.D 2.f# 2.a
+.	.	held	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	close	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+2.V	E:maj	_	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+2.I	A:maj	me	C	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+2.V	E:maj	.	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	As	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+2.I	A:maj	we	.	93.165	newline	voice	2.A 2.cc# 2.ee
+.	.	move	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	to-	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+2.Im7	A:7	-ge-	(D	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	-ther,	d)	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+2.IV	D:maj	I	.	.	.	voice	2.D 2.f# 2.a
+.	.	knew	.	.	.	.	.
+.	.	for-	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2.V	E:maj	-e-	.	.	.	voice	2.E 2.g# 2.b
+.	.	-ver,	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+2.IV	D:maj	you're	.	101.47	newline	voice	2.D 2.f# 2.a
+.	.	all	.	.	.	.	.
+.	.	I'll	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+2.V	E:maj	e-	(D	.	.	voice	2.E 2.g# 2.b
+.	.	-ver	d)	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+2.I	A:maj	need	C	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+2.V	E:maj	.	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.I	A:maj	I	.	109.715	newline	voice	2.A 2.cc# 2.ee
+.	.	have	.	.	.	.	.
+.	.	this	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+2.Im7	A:7	dance	.	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	.	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+2.IV	D:maj	rest	.	.	.	voice	2.D 2.f# 2.a
+.	.	of	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+2.IV	D:maj	life,	B	.	.	voice	2.D 2.f# 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+2.V	E:maj	you	.	117.965	newline	voice	2.E 2.g# 2.b
+.	.	be	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+2.V	E:maj	part-	.	.	.	voice	2.E 2.g# 2.b
+.	.	-ner	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+2.IV	D:maj	ev	(D	.	.	voice	2.D 2.f# 2.a
+.	.	_	.	.	.	.	.
+.	.	ry	.	.	.	.	.
+.	.	night,	B	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+2.V	E:maj	_	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+2.I	A:maj	when	.	126.18	newline	voice	2.A 2.cc# 2.ee
+.	.	we're	.	.	.	.	.
+.	.	to-	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+2.Im7	A:7	-ge-	(D	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	-ther	d)	.	.	.	.
+.	.	it	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+2.IV	D:maj	feels	.	.	.	voice	2.D 2.f# 2.a
+.	.	so	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+2.iv	D:min	right	B	.	.	voice	2.D 2.f 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+2.I	A:maj	I	.	134.485	newline	voice	2.A 2.cc# 2.ee
+.	.	have	.	.	.	.	.
+.	.	this	.	.	.	.	.
+.	.	dance	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+2.I	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+2.V	E:maj	rest	.	.	.	voice	2.E 2.g# 2.b
+.	.	of	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+2.I	A:maj	life	B	140.665	newline	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+2.V	E:maj	.	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.I	A:maj	I	.	144.82	newline	voice	2.A 2.cc# 2.ee
+.	.	have	.	.	.	.	.
+.	.	this	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+2.I	A:maj	dance	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+2.IV	D:maj	rest	.	.	.	voice	2.D 2.f# 2.a
+.	.	of	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+2.IV	D:maj	life,	B	.	.	voice	2.D 2.f# 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+2.V	E:maj	you	.	153.105	newline	voice	2.E 2.g# 2.b
+.	.	be	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+2.V	E:maj	part-	.	.	.	voice	2.E 2.g# 2.b
+.	.	-ner	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+2.IV	D:maj	e	.	.	.	voice	2.D 2.f# 2.a
+.	.	_	.	.	.	.	.
+.	.	ry	.	.	.	.	.
+.	.	night,	B	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+2.V	E:maj	_	.	.	.	voice	2.E 2.g# 2.b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+2.I	A:maj	when	.	161.38	newline	voice	2.A 2.cc# 2.ee
+.	.	we're	.	.	.	.	.
+.	.	to-	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+2.Im7	A:7	-ge-	(D	.	.	voice	2.A 2.cc# 2.ee 2.gg#
+.	.	-ther	d)	.	.	.	.
+.	.	it	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+2.IV	D:maj	feels	.	.	.	voice	2.D 2.f# 2.a
+.	.	so	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+2.iv	D:min	right	B	.	.	voice	2.D 2.f 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Could	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+2.I	A:maj	I	.	169.68	newline	voice	2.A 2.cc# 2.ee
+.	.	have	.	.	.	.	.
+.	.	this	.	.	.	.	.
+.	.	dance	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+2.I	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+2.V	E:maj	rest	.	.	.	voice	2.E 2.g# 2.b
+=86	=86	=86	=86	=86	=86	=86	=86
+2.V	E:maj	of	.	.	.	voice	2.E 2.g# 2.b
+.	.	my	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Coda	*>Label>Coda	*>Label>Coda	*>Label>Coda	*>Label>Coda	*>Label>Coda	*>Label>Coda	*>Label>Coda
+2.I	A:maj	life	B	177.975	newline	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+2.I	A:maj	.	.	.	.	guitar	2.A 2.cc# 2.ee
+=89	=89	=89	=89	=89	=89	=89	=89
+2.IV	D:maj	.	.	.	.	guitar	2.D 2.f# 2.a
+=90	=90	=90	=90	=90	=90	=90	=90
+2.V	E:maj	.	.	.	.	guitar	2.E 2.g# 2.b
+=91	=91	=91	=91	=91	=91	=91	=91
+2.I;	A:maj	.	.	.	.	guitar	2A; 2cc#; 2ee;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1980/10/11
+!!!BillboardPeak: 33
+!!!BillboardWeeksOnChart: 14
+!!!COC: Anne Murray
+!!!EMD: Changed key down one full step. - Nat Condit-Schultz 2019-10-14
+!!!EMD: The was based on the live version (1997) of the song. I shortened it to match the single version of song. Had to remove timestamps - Nat Condit-Schultz 2019-10-14
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Could I Have This Dance
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 41
+!!!SampleID#: 0199
+!!!SampleTargetRank: 40

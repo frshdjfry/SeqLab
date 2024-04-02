@@ -1,0 +1,678 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*e:	*e:	*	*	*e:	*e:	*e:	*e:
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1r	N	.	.	0.418	newline	drums	1r
+=2	=2	=2	=2	=2	=2	=2	=2
+1r	N	.	.	2.845	.	drums	1r
+=3	=3	=3	=3	=3	=3	=3	=3
+1r	N	.	.	5.272	.	drums	1r
+=4	=4	=4	=4	=4	=4	=4	=4
+1r	N	.	.	7.699	.	drums	1r
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2ib	E:min/b3	.	.	10.126	newline	voice	2e 2G 2b
+.	.	The	.	.	.	.	.
+.	.	pro-	.	.	.	.	.
+.	.	-blem	.	.	.	.	.
+.	.	is	.	.	.	.	.
+2v	B:min	all	.	11.305	.	voice	2B 2dd 2ff#
+.	.	in-	.	.	.	.	.
+.	.	-side	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2-VI7	C:maj7	head	A	12.484	.	voice	2C- 2e- 2g- 2b
+.	.	she	.	.	.	.	.
+.	.	said	A	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	me	B	.	.	.	.
+2V7	B:7(b9)	_	.	13.664	.	voice	2B 2dd# 2ff# 2aa
+.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+2i	E:min	.	.	14.843	.	voice	2E 2g 2b
+.	.	The	.	.	.	.	.
+.	.	an-	.	.	.	.	.
+.	.	-swer	.	.	.	.	.
+.	.	is	.	.	.	.	.
+2V7b	B:7/3	eas-	(B	16.022	.	voice	2b 2D# 2ff# 2aa
+.	.	-y	b)	.	.	.	.
+.	.	if	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2V7c	B:7/5	take	.	17.201	.	voice	2b 2dd# 2F# 2a
+.	.	it	.	.	.	.	.
+.	.	lo-	.	.	.	.	.
+.	.	-gi-	.	.	.	.	.
+.	.	-cally	B	.	.	.	.
+2V7	B:7(b9)	_	.	18.38	.	voice	2B 2dd# 2ff# 2aa
+.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+2i	E:min	.	.	19.559	newline	voice	2q2.250000E 2q2.250000g 2q2.250000b
+.	.	I'd	.	.	.	.	.
+.	.	like	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	help	.	.	.	.	.
+2vb	B:min/b3	.	.	20.737	.	voice	4..b 4..D 4..ff#
+.	.	you	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	your	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2-VI7	C:maj7	stru-	.	21.915	.	voice	2q2.750000C- 2q2.750000e- 2q2.750000g- 2q2.750000b
+.	.	-ggle	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	b	.	.	.	.
+.	.	free	B	.	.	.	.
+2V7	B:7(b9)	.	.	23.092	.	voice	6...B 6...dd# 6...ff# 6...aa
+.	.	there	.	.	.	.	.
+.	.	must	.	.	.	.	.
+.	.	be	b	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2i	E:min	_	.	24.27	.	voice	2q2.750000E 2q2.750000g 2q2.750000b
+.	.	.	.	.	.	.	.
+.	.	fif-	.	.	.	.	.
+.	.	-ty	b	.	.	.	.
+.	.	ways	.	.	.	.	.
+2iv7	A:min7	.	.	25.448	.	voice	6...A 6...cc 6...ee 6...gg
+.	.	to	.	.	.	.	.
+.	.	leave	B	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	lov-	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1i	E:min	_	.	26.626	.	voice	1E 1g 1b
+.	.	-er	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2ib	E:min/b3	.	.	28.981	newline	voice	2e 2G 2b
+.	.	She	.	.	.	.	.
+.	.	said	.	.	.	.	.
+.	.	It's	.	.	.	.	.
+2vb	B:min/b3	rea-	(B	30.166	.	voice	2b 2D 2ff#
+.	.	-lly	b)	.	.	.	.
+.	.	not	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	ha-	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2-VI7	C:maj7	-bit	.	31.35	.	voice	2C- 2e- 2g- 2b
+.	.	to	.	.	.	.	.
+.	.	in-	.	.	.	.	.
+.	.	-trude	C	.	.	.	.
+2V7	B:7(b9)	.	.	32.534	.	voice	2B 2dd# 2ff# 2aa
+.	.	fur-	.	.	.	.	.
+.	.	-ther	.	.	.	.	.
+.	.	more	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2i	E:min	_	.	33.719	.	voice	2E 2g 2b
+.	.	I	.	.	.	.	.
+.	.	hope	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	mea-	(B	.	.	.	.
+2V7b	B:7/3	_	.	34.903	.	voice	2b 2D# 2ff# 2aa
+.	.	-ing	b)	.	.	.	.
+.	.	won't	.	.	.	.	.
+.	.	be	b	.	.	.	.
+.	.	lost	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2V7c	B:7/5	_	.	36.088	.	voice	2b 2dd# 2F# 2a
+.	.	or	.	.	.	.	.
+.	.	mis-	.	.	.	.	.
+.	.	-con-	.	.	.	.	.
+2V7	B:7(b9)	-strued	C	37.272	.	voice	2B 2dd# 2ff# 2aa
+.	.	But	.	.	.	.	.
+.	.	I'll	.	.	.	.	.
+.	.	re-	(b	.	.	.	.
+.	.	-peat	B)	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2i	E:min	_	.	38.456	newline	voice	2E 2g 2b
+.	.	my	.	.	.	.	.
+.	.	self	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2vb	B:min/b3	.	.	39.634	.	voice	2b 2D 2ff#
+.	.	.	.	.	.	.	.
+.	.	at	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	risk	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2-VI7	C:maj7	_	.	40.811	.	voice	3...C- 3...e- 3...g- 3...b
+.	.	of	.	.	.	.	.
+.	.	be-	b	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	crude	C	.	.	.	.
+2V7	B:7(b9)	.	.	41.988	.	voice	4.B 4.dd# 4.ff# 4.aa
+.	.	There	.	.	.	.	.
+.	.	must	.	.	.	.	.
+.	.	be	B	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2i	E:min	.	.	43.166	.	voice	2q2.750000E 2q2.750000g 2q2.750000b
+.	.	fif-	.	.	.	.	.
+.	.	-ty	b	.	.	.	.
+.	.	ways	.	.	.	.	.
+2iv7	A:min7	.	.	44.343	.	voice	6...A 6...cc 6...ee 6...gg
+.	.	to	.	.	.	.	.
+.	.	leave	B	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	lov-	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1i	E:min	_	.	45.52	.	voice	1E 1g 1b
+.	.	-er	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2i	E:min	.	.	47.875	newline	voice	3...E 3...g 3...b
+.	.	Fif-	.	.	.	.	.
+.	.	-ty	b	.	.	.	.
+.	.	ways	.	.	.	.	.
+2iv7	A:min7	.	.	49.04	.	voice	4.A 4.cc 4.ee 4.gg
+.	.	to	.	.	.	.	.
+.	.	leave	B	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	lov-	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1i	E:min	_	.	50.205	.	voice	1E 1g 1b
+.	.	-er	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ya	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	slip	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*G:	*G:	*	*	*	*	*	*G:
+1I	G:maj	back	D	52.535	newline	voice	1G 1b 1dd
+.	.	Jack	D	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	new	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1-III	B-:maj6	plan	E	54.882	.	voice	1B- 1dd 1ff
+.	.	_	.	.	.	.	.
+.	.	Stan	E	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	need	B	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	B	.	.	.	.
+.	.	coy	F	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1IV	C:maj	_	.	57.228	.	voice	1C 1e 1g
+.	.	Roy	F	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Just	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	your-	.	.	.	.	.
+.	.	-self	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1I	G:maj	free	B	59.575	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	Hop	G	.	.	.	.
+.	.	on	G	.	.	.	.
+.	.	the	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1I	G:maj	bus	H	61.921	newline	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.
+.	.	Gus	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	need	B	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	dis-	.	.	.	.	.
+.	.	-cuss	H	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1-III	B-:maj6	_	.	64.247	.	voice	1B- 1dd 1ff
+.	.	much	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	drop	G	.	.	.	.
+.	.	off	G	.	.	.	.
+.	.	the	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1IV	C:maj	key	B	66.573	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.
+.	.	Lee	B	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	your-	.	.	.	.	.
+.	.	-self	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1I	G:maj	free	B	68.9	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ooh	.	.	.	.	.
+.	.	Slip	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1I	G:maj	back	D	71.226	newline	voice	1G 1b 1dd
+.	.	Jack	D	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Make	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	new	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1-III	B-:maj6	plan	E	73.552	.	voice	1B- 1dd 1ff
+.	.	_	.	.	.	.	.
+.	.	Stan	E	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	need	B	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	B	.	.	.	.
+.	.	coy	F	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+1IV	C:maj	_	.	75.878	.	voice	1C 1e 1g
+.	.	Roy	F	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ya	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	lis-	.	.	.	.	.
+.	.	-ten	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	me	B	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1I	G:maj	_	.	78.204	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Hop	G	.	.	.	.
+.	.	on	G	.	.	.	.
+.	.	the	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1I	G:maj	bus	H	80.53	newline	voice	1G 1b 1dd
+.	.	Gus	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	need	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	dis-	.	.	.	.	.
+.	.	-cuss	H	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1-III	B-:maj6	_	.	82.887	.	voice	1B- 1dd 1ff
+.	.	much	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	drop	G	.	.	.	.
+.	.	off	G	.	.	.	.
+.	.	the	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1IV	C:maj	key	B	85.245	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.
+.	.	Lee	B	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	your-	.	.	.	.	.
+.	.	-self	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+1I	G:maj	_	.	87.602	newline	drums	1G 1b 1dd
+.	.	free	B	.	.	.	.
+.	.	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1I	G:maj	.	.	89.967	.	drums	1G 1b 1dd
+=40	=40	=40	=40	=40	=40	=40	=40
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*e:	*e:	*	*	*	*	*	*e:
+2ib	E:min/b3	.	.	92.332	newline	voice	3...e 3...G 3...b
+.	.	She	.	.	.	.	.
+.	.	said	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	grieves	B	.	.	.	.
+2v	B:min	.	.	93.532	.	voice	4.B 4.dd 4.ff#
+.	.	me	b	.	.	.	.
+.	.	so	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2-VI7	C:maj7	see	B	94.732	.	voice	2C- 2e- 2g- 2b
+.	.	you	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	such	.	.	.	.	.
+2V7	B:7(b9)	pain	I	95.931	.	voice	2B 2dd# 2ff# 2aa
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	wish	.	.	.	.	.
+.	.	there	.	.	.	.	.
+.	.	was	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+2i	E:min	_	.	97.131	.	voice	2E 2g 2b
+.	.	some-	.	.	.	.	.
+.	.	-thin'	b	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	could	.	.	.	.	.
+2V7b	B:7/3	do	.	98.331	.	voice	2b 2D# 2ff# 2aa
+.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+2V7c	B:7/5	make	.	99.531	.	voice	3...b 3...dd# 3...F# 3...a
+.	.	you	.	.	.	.	.
+.	.	smile	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-gain	I	.	.	.	.
+2V7	B:7(b9)	.	.	100.73	.	voice	4.B 4.dd# 4.ff# 4.aa
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	said	.	.	.	.	.
+.	.	that	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+2i	E:min	I	.	101.93	newline	voice	2E 2g 2b
+.	.	a-	.	.	.	.	.
+.	.	-pre-	(B	.	.	.	.
+.	.	-ci-	b)	.	.	.	.
+.	.	-ate	.	.	.	.	.
+.	.	that	.	.	.	.	.
+2vb	B:min/b3	.	.	103.112	.	voice	2b 2D 2ff#
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	would	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+2-VI7	C:maj7	_	.	104.294	.	voice	3...C- 3...e- 3...g- 3...b
+.	.	you	.	.	.	.	.
+.	.	please	B	.	.	.	.
+.	.	ex-	.	.	.	.	.
+.	.	-plain	I	.	.	.	.
+2V7	B:7(b9)	.	.	105.476	.	voice	4.B 4.dd# 4.ff# 4.aa
+.	.	a-	.	.	.	.	.
+.	.	-bout	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	fif-	.	.	.	.	.
+.	.	-ty	b	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+2i	E:min	ways	I	106.658	.	voice	2E 2g 2b
+2iv7	A:min7	.	.	107.84	.	voice	2A 2cc 2ee 2gg
+=47	=47	=47	=47	=47	=47	=47	=47
+1i	E:min	.	.	109.022	.	voice	1E 1g 1b
+=48	=48	=48	=48	=48	=48	=48	=48
+2ib	E:min/b3	.	.	111.386	newline	voice	2e 2G 2b
+.	.	She	.	.	.	.	.
+.	.	said	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+2vb	B:min/b3	don't	.	112.571	.	voice	2b 2D 2ff#
+.	.	we	b	.	.	.	.
+.	.	both	.	.	.	.	.
+.	.	just	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2-VI7	C:maj7	sleep	B	113.756	.	voice	3...C- 3...e- 3...g- 3...b
+.	.	on	.	.	.	.	.
+.	.	it	J	.	.	.	.
+.	.	to-	.	.	.	.	.
+.	.	-night	K	.	.	.	.
+2V7	B:7(b9)	.	.	114.94	.	voice	4.B 4.dd# 4.ff# 4.aa
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	be-	(b	.	.	.	.
+.	.	-lieve	B)	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+2i	E:min	_	.	116.125	.	voice	2q2.250000E 2q2.250000g 2q2.250000b
+.	.	in	J	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	mor-	.	.	.	.	.
+2V7b	B:7/3	.	.	117.31	.	voice	4..b 4..D# 4..ff# 4..aa
+.	.	-ning	b	.	.	.	.
+.	.	you'll	.	.	.	.	.
+.	.	be-	b	.	.	.	.
+.	.	-gin	J	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+2V7c	B:7/5	_	.	118.495	.	voice	2b 2dd# 2F# 2a
+.	.	to	.	.	.	.	.
+.	.	see	B	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	light	K	.	.	.	.
+2V7	B:7(b9)	.	.	119.68	.	voice	2B 2dd# 2ff# 2aa
+.	.	And	.	.	.	.	.
+.	.	then	.	.	.	.	.
+.	.	she	b	.	.	.	.
+.	.	kissed	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+2i	E:min	_	.	120.865	newline	voice	2E 2g 2b
+.	.	me	b	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	I	.	.	.	.	.
+2vb	B:min/b3	re-	(b	122.053	.	voice	2b 2D 2ff#
+.	.	-a-	.	.	.	.	.
+.	.	-lized	K)	.	.	.	.
+.	.	she	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+2-VI7	C:maj7	pro-	.	123.242	.	voice	2C- 2e- 2g- 2b
+.	.	-ba-	.	.	.	.	.
+.	.	-bly	b	.	.	.	.
+.	.	was	.	.	.	.	.
+.	.	right	K	.	.	.	.
+2V7	B:7(b9)	.	.	124.43	.	voice	2B 2dd# 2ff# 2aa
+.	.	there	.	.	.	.	.
+.	.	must	.	.	.	.	.
+.	.	be	b	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+2i	E:min	_	.	125.619	.	voice	3...E 3...g 3...b
+.	.	.	.	.	.	.	.
+.	.	fif-	.	.	.	.	.
+.	.	-ty	b	.	.	.	.
+.	.	ways	J	.	.	.	.
+2iv7	A:min7	.	.	126.807	.	voice	4.A 4.cc 4.ee 4.gg
+.	.	to	.	.	.	.	.
+.	.	leave	b	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	lov-	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1i	E:min	-er	.	127.995	.	voice	1E 1g 1b
+.	.	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+2i	E:min	.	.	130.372	newline	voice	3...E 3...g 3...b
+.	.	Fif-	.	.	.	.	.
+.	.	-ty	b	.	.	.	.
+.	.	ways	J	.	.	.	.
+2iv7	A:min7	.	.	131.57	.	voice	4.A 4.cc 4.ee 4.gg
+.	.	to	.	.	.	.	.
+.	.	leave	B	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	lov-	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+1i	E:min	_	.	132.767	.	voice	1E 1g 1b
+.	.	-er	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ya	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	slip	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*G:	*G:	*	*	*	*	*	*G:
+1I	G:maj	back	D	135.162	newline	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	Jack	.	.	.	.	.
+.	.	.	D	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	new	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1-III	B-:maj6	plan	E	137.515	.	voice	1B- 1dd 1ff
+.	.	_	.	.	.	.	.
+.	.	Stan	E	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	need	B	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	B	.	.	.	.
+.	.	coy	F	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1IV	C:maj	_	.	139.868	.	voice	1C 1e 1g
+.	.	Roy	F	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Just	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	your-	.	.	.	.	.
+.	.	-self	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1I	G:maj	free	B	142.22	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	Or	.	.	.	.	.
+.	.	ya	.	.	.	.	.
+.	.	hop	G	.	.	.	.
+.	.	on	G	.	.	.	.
+.	.	the	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1I	G:maj	bus	H	144.573	newline	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.
+.	.	Gus	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	need	B	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	dis-	H	.	.	.	.
+.	.	-cuss	H	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1-III	B-:maj6	_	.	146.911	.	voice	1B- 1dd 1ff
+.	.	much	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	drop	G	.	.	.	.
+.	.	off	G	.	.	.	.
+.	.	the	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1IV	C:maj	key	B	149.248	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.
+.	.	Lee	B	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	your-	.	.	.	.	.
+.	.	-self	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+1I	G:maj	free	B	151.586	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	Slip	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+1I	G:maj	back	D	153.924	newline	voice	1G 1b 1dd
+.	.	Jack	D	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Make	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	new	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+1-III	B-:maj6	plan	E	156.285	.	voice	1B- 1dd 1ff
+.	.	_	.	.	.	.	.
+.	.	Stan	E	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	need	B	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	B	.	.	.	.
+.	.	coy	F	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+1IV	C:maj	_	.	158.647	.	voice	1C 1e 1g
+.	.	Roy	F	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ya	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	lis-	.	.	.	.	.
+.	.	-ten	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	me	B	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+1I	G:maj	_	.	161.009	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Hop	G	.	.	.	.
+.	.	on	G	.	.	.	.
+.	.	the	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+1I	G:maj	bus	H	163.371	newline	voice	1G 1b 1dd
+.	.	Gus	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	need	B	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	dis-	.	.	.	.	.
+.	.	-cuss	H	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1-III	B-:maj6	_	.	165.702	.	voice	1B- 1dd 1ff
+.	.	much	H	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	drop	G	.	.	.	.
+.	.	off	G	.	.	.	.
+.	.	the	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+1IV	C:maj	key	B	168.034	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.
+.	.	Lee	B	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	your-	.	.	.	.	.
+.	.	-self	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout
+1r	N	_	.	170.365	newline	drums	1r
+.	.	free	B	.	.	.	.
+.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+1r	N	.	.	172.757	.	drums	1r
+=75	=75	=75	=75	=75	=75	=75	=75
+1r	N	.	.	175.149	.	drums	1r
+=76	=76	=76	=76	=76	=76	=76	=76
+1r	N	.	.	177.541	.	drums	1r
+=77	=77	=77	=77	=77	=77	=77	=77
+1r	N	.	.	179.933	newline	drums	1r
+=78	=78	=78	=78	=78	=78	=78	=78
+1r	N	.	.	182.092	.	drums	1r
+=79	=79	=79	=79	=79	=79	=79	=79
+1r	N	.	.	184.252	.	drums	1r
+=80	=80	=80	=80	=80	=80	=80	=80
+1r	N	.	.	186.411	.	drums	1r
+=81	=81	=81	=81	=81	=81	=81	=81
+1r	N	.	.	188.57	.	drums	1r
+1r;	N	.	.	190.729	.	r	1r;
+1r;	N	.	.	195.03	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1976/03/27
+!!!BillboardPeak: 1
+!!!BillboardWeeksOnChart: 17
+!!!COC: Paul Simon
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: 50 Ways To Leave Your Lover
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 29
+!!!SampleID#: 0824
+!!!SampleTargetRank: 31
+!!!MBID: dbd21958-7682-4cc7-98b8-24fb19782e1b

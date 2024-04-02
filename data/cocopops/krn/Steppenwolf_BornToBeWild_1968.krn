@@ -1,0 +1,572 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*E:	*E:	*	*	*	*	*	*E:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1I	E:maj	.	.	0.18	newline	.	1E 1g# 1b
+=2	=2	=2	=2	=2	=2	=2	=2
+1I	E:maj	.	.	1.922	.	.	1E 1g# 1b
+=3	=3	=3	=3	=3	=3	=3	=3
+1I	E:maj	.	.	3.664	.	.	1E 1g# 1b
+=4	=4	=4	=4	=4	=4	=4	=4
+1I	E:maj	.	.	5.406	.	.	1E 1g# 1b
+=5	=5	=5	=5	=5	=5	=5	=5
+1I	E:maj	.	.	7.149	.	.	1E 1g# 1b
+=6	=6	=6	=6	=6	=6	=6	=6
+1I	E:maj	.	.	8.891	.	.	1E 1g# 1b
+=7	=7	=7	=7	=7	=7	=7	=7
+1I	E:maj	.	.	10.633	.	.	1E 1g# 1b
+=8	=8	=8	=8	=8	=8	=8	=8
+1I	E:maj	.	.	12.375	.	.	1E 1g# 1b
+=9	=9	=9	=9	=9	=9	=9	=9
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	Get	.	14.118	newline	voice	1E 1g# 1b
+.	.	your	.	.	.	.	.
+.	.	mo-	.	.	.	.	.
+.	.	-tor	.	.	.	.	.
+.	.	run-	.	.	.	.	.
+.	.	-nin'	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1Im7	E:7(#9)	_	.	15.762	.	voice	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+1I	E:maj	Head	.	17.406	.	voice	1E 1g# 1b
+.	.	out	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	high-	(A	.	.	.	.
+.	.	-way	a)	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1Im7	E:7(#9)	.	.	19.051	.	voice	1E 1g# 1b 1dd#
+=13	=13	=13	=13	=13	=13	=13	=13
+1I	E:maj	Look-	.	20.695	.	voice	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	ad-	.	.	.	.	.
+.	.	-ven-	.	.	.	.	.
+.	.	-ture	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1Im7	E:7(#9)	_	.	22.339	.	voice	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	what	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1I	E:maj	e-	.	23.983	.	voice	1E 1g# 1b
+.	.	-ver	.	.	.	.	.
+.	.	comes	.	.	.	.	.
+.	.	our	(A	.	.	.	.
+.	.	way	a)	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1Im7	E:7(#9)	_	.	25.628	.	voice	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+2-III	G:maj	.	.	27.272	newline	.	2G 2b 2dd
+.	.	Yeah	.	.	.	.	.
+2IV	A:maj	dar-	.	28.111	.	.	2A 2cc# 2ee
+.	.	-lin'	.	.	.	.	.
+.	.	go	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1I	E:maj	make	.	28.949	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	ha-	.	.	.	.	.
+.	.	-ppen	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2-III	G:maj	.	.	30.627	.	.	2G 2b 2dd
+.	.	Take	.	.	.	.	.
+.	.	the	.	.	.	.	.
+2IV	A:maj	world	.	31.466	.	.	2A 2cc# 2ee
+.	.	in	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1I	E:maj	love	.	32.305	.	.	1E 1g# 1b
+.	.	em-	.	.	.	.	.
+.	.	-brace	B	.	.	.	.
+.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2-III	G:maj	.	.	33.982	.	.	2G 2b 2dd
+.	.	Fire	.	.	.	.	.
+2IV	A:maj	all	.	34.821	.	.	2A 2cc# 2ee
+.	.	of	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	guns	C	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1I	E:maj	_	.	35.66	.	.	1E 1g# 1b
+.	.	at	.	.	.	.	.
+.	.	once	C	.	.	.	.
+.	.	and	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2-III	G:maj	.	.	37.338	.	.	2G 2b 2dd
+.	.	ex-	.	.	.	.	.
+2IV	A:maj	-plode	.	38.177	.	.	2A 2cc# 2ee
+.	.	in-	.	.	.	.	.
+.	.	-to	.	.	.	.	.
+.	.	space	B	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1I	E:maj	_	.	39.015	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	I	.	40.693	newline	.	1E 1g# 1b
+.	.	like	.	.	.	.	.
+.	.	smoke	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	light-	.	.	.	.	.
+.	.	-nin'	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1Im7	E:7(#9)	_	.	42.334	.	.	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1I	E:maj	Heav-	.	43.976	.	.	1E 1g# 1b
+.	.	-y	.	.	.	.	.
+.	.	me-	.	.	.	.	.
+.	.	-tal	.	.	.	.	.
+.	.	thun-	(D	.	.	.	.
+.	.	-der	d)	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1Im7	E:7(#9)	.	.	45.617	.	.	1E 1g# 1b 1dd#
+=29	=29	=29	=29	=29	=29	=29	=29
+1I	E:maj	Rac-	.	47.258	.	.	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	wind	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1Im7	E:7(#9)	_	.	48.9	.	.	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1I	E:maj	feel-	.	50.541	.	.	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	un-	(D	.	.	.	.
+.	.	-der	d)	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1Im7	E:7(#9)	_	.	52.182	.	.	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+2-III	G:maj	.	.	53.824	newline	.	2G 2b 2dd
+.	.	Yeah	.	.	.	.	.
+2IV	A:maj	dar-	.	54.66	.	.	2A 2cc# 2ee
+.	.	-lin'	.	.	.	.	.
+.	.	go	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1I	E:maj	make	.	55.497	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	ha-	.	.	.	.	.
+.	.	-ppen	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+2-III	G:maj	.	.	57.17	.	.	2G 2b 2dd
+.	.	Take	.	.	.	.	.
+.	.	the	.	.	.	.	.
+2IV	A:maj	world	.	58.007	.	.	2A 2cc# 2ee
+.	.	in	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1I	E:maj	love	.	58.844	.	.	1E 1g# 1b
+.	.	em-	.	.	.	.	.
+.	.	-brace	B	.	.	.	.
+.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2-III	G:maj	.	.	60.517	.	.	2G 2b 2dd
+.	.	Fire	.	.	.	.	.
+2IV	A:maj	all	.	61.354	.	.	2A 2cc# 2ee
+.	.	of	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	guns	C	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1I	E:maj	_	.	62.19	.	.	1E 1g# 1b
+.	.	at	.	.	.	.	.
+.	.	once	C	.	.	.	.
+.	.	and	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+2-III	G:maj	.	.	63.864	.	.	2G 2b 2dd
+.	.	ex-	.	.	.	.	.
+2IV	A:maj	-plode	.	64.7	.	.	2A 2cc# 2ee
+.	.	in-	.	.	.	.	.
+.	.	-to	.	.	.	.	.
+.	.	space	B	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+1I	E:maj	_	.	65.537	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	E:maj	true	.	67.21	newline	.	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	nat-	.	.	.	.	.
+.	.	-ure's	.	.	.	.	.
+.	.	child	E	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1I	E:maj	_	.	68.87	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	we	.	.	.	.	.
+.	.	were	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1-III	G:maj	born	.	70.53	.	.	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	born	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	wild	E	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1-III	G:maj	_	.	72.19	.	.	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	we	.	.	.	.	.
+.	.	can	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1IV	A:maj	climb	.	73.85	newline	.	1A 1cc# 1ee
+.	.	_	.	.	.	.	.
+.	.	so	.	.	.	.	.
+.	.	high	F	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1-III	G:maj	.	.	75.516	.	.	1G 1b 1dd
+.	.	I	.	.	.	.	.
+.	.	ne-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1I	E:maj	die	F	77.182	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1I	E:maj	.	.	78.849	.	.	1E 1g# 1b
+=49	=49	=49	=49	=49	=49	=49	=49
+1I	E:maj	Born	.	80.515	newline	.	1E 1g# 1b
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1-VII	D:maj	wild	E	82.283	.	.	1D 1f# 1a
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1I	E:maj	.	.	84.05	.	.	1E 1g# 1b
+=52	=52	=52	=52	=52	=52	=52	=52
+1-VII	D:maj	.	.	85.818	.	.	1D 1f# 1a
+=53	=53	=53	=53	=53	=53	=53	=53
+1I	E:maj	Born	.	87.586	newline	voice	1E 1g# 1b
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1-VII	D:maj	wild	E	89.212	.	voice	1D 1f# 1a
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1I	E:maj	.	.	90.839	.	voice	1E 1g# 1b
+=56	=56	=56	=56	=56	=56	=56	=56
+1-VII	D:maj	.	.	92.466	.	voice	1D 1f# 1a
+=57	=57	=57	=57	=57	=57	=57	=57
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+1I	E:maj	.	.	94.093	newline	.	1E 1g# 1b
+=58	=58	=58	=58	=58	=58	=58	=58
+1I	E:maj	.	.	95.73	.	.	1E 1g# 1b
+=59	=59	=59	=59	=59	=59	=59	=59
+1I	E:maj	.	.	97.367	.	.	1E 1g# 1b
+=60	=60	=60	=60	=60	=60	=60	=60
+1I	E:maj	.	.	99.005	.	.	1E 1g# 1b
+=61	=61	=61	=61	=61	=61	=61	=61
+1I	E:maj	.	.	100.642	.	.	1E 1g# 1b
+=62	=62	=62	=62	=62	=62	=62	=62
+1I	E:maj	.	.	102.279	.	.	1E 1g# 1b
+=63	=63	=63	=63	=63	=63	=63	=63
+1I	E:maj	.	.	103.917	.	.	1E 1g# 1b
+=64	=64	=64	=64	=64	=64	=64	=64
+1I	E:maj	.	.	105.554	.	.	1E 1g# 1b
+=65	=65	=65	=65	=65	=65	=65	=65
+1I	E:maj	.	.	107.191	.	.	1E 1g# 1b
+=66	=66	=66	=66	=66	=66	=66	=66
+1I	E:maj	.	.	108.829	.	.	1E 1g# 1b
+=67	=67	=67	=67	=67	=67	=67	=67
+1I	E:maj	.	.	110.466	.	.	1E 1g# 1b
+=68	=68	=68	=68	=68	=68	=68	=68
+1I	E:maj	.	.	112.103	.	.	1E 1g# 1b
+=69	=69	=69	=69	=69	=69	=69	=69
+1I	E:maj	.	.	113.74	.	.	1E 1g# 1b
+=70	=70	=70	=70	=70	=70	=70	=70
+1I	E:maj	.	.	115.378	.	.	1E 1g# 1b
+=71	=71	=71	=71	=71	=71	=71	=71
+1I	E:maj	.	.	117.015	.	.	1E 1g# 1b
+=72	=72	=72	=72	=72	=72	=72	=72
+1I	E:maj	.	.	118.652	.	.	1E 1g# 1b
+=73	=73	=73	=73	=73	=73	=73	=73
+1I	E:maj	.	.	120.29	.	.	1E 1g# 1b
+=74	=74	=74	=74	=74	=74	=74	=74
+1I	E:maj	.	.	121.927	.	.	1E 1g# 1b
+=75	=75	=75	=75	=75	=75	=75	=75
+1I	E:maj	.	.	123.564	.	.	1E 1g# 1b
+=76	=76	=76	=76	=76	=76	=76	=76
+1I	E:maj	.	.	125.202	.	.	1E 1g# 1b
+=77	=77	=77	=77	=77	=77	=77	=77
+1r	N	.	.	126.839	newline	drums	1r
+=78	=78	=78	=78	=78	=78	=78	=78
+1r	N	.	.	128.493	.	drums	1r
+=79	=79	=79	=79	=79	=79	=79	=79
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	Get	.	130.148	newline	voice	1E 1g# 1b
+.	.	your	.	.	.	.	.
+.	.	mo-	.	.	.	.	.
+.	.	-tor	.	.	.	.	.
+.	.	run-	.	.	.	.	.
+.	.	-nin'	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+1Im7	E:7(#9)	_	.	131.795	.	voice	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+1I	E:maj	Head	.	133.442	.	voice	1E 1g# 1b
+.	.	out	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	high-	(A	.	.	.	.
+.	.	-way	a)	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+1Im7	E:7(#9)	.	.	135.089	.	voice	1E 1g# 1b 1dd#
+=83	=83	=83	=83	=83	=83	=83	=83
+1I	E:maj	Look-	.	136.736	.	voice	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	ad-	.	.	.	.	.
+.	.	-ven-	.	.	.	.	.
+.	.	-ture	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1Im7	E:7(#9)	_	.	138.383	.	voice	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	what	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+1I	E:maj	e-	.	140.03	.	voice	1E 1g# 1b
+.	.	-ver	.	.	.	.	.
+.	.	comes	.	.	.	.	.
+.	.	are	(A	.	.	.	.
+.	.	way	a)	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+1Im7	E:7(#9)	_	.	141.677	.	voice	1E 1g# 1b 1dd#
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+2-III	G:maj	.	.	143.324	newline	.	2G 2b 2dd
+.	.	Yeah	.	.	.	.	.
+2IV	A:maj	dar-	.	144.143	.	.	2A 2cc# 2ee
+.	.	-lin'	.	.	.	.	.
+.	.	go	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1I	E:maj	make	.	144.963	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	ha-	.	.	.	.	.
+.	.	-ppen	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89
+2-III	G:maj	.	.	146.601	.	.	2G 2b 2dd
+.	.	Take	.	.	.	.	.
+.	.	the	.	.	.	.	.
+2IV	A:maj	world	.	147.421	.	.	2A 2cc# 2ee
+.	.	in	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90
+1I	E:maj	love	.	148.24	.	.	1E 1g# 1b
+.	.	em-	.	.	.	.	.
+.	.	-brace	B	.	.	.	.
+.	.	.	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91
+2-III	G:maj	.	.	149.878	.	.	2G 2b 2dd
+.	.	Fire	.	.	.	.	.
+2IV	A:maj	all	.	150.698	.	.	2A 2cc# 2ee
+.	.	of	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	guns	C	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92
+1I	E:maj	_	.	151.517	.	.	1E 1g# 1b
+.	.	at	.	.	.	.	.
+.	.	once	C	.	.	.	.
+.	.	and	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93
+2-III	G:maj	.	.	153.156	.	.	2G 2b 2dd
+.	.	ex-	.	.	.	.	.
+2IV	A:maj	-plode	.	153.975	.	.	2A 2cc# 2ee
+.	.	in-	.	.	.	.	.
+.	.	-to	.	.	.	.	.
+.	.	space	B	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94
+1I	E:maj	_	.	154.794	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	E:maj	true	.	156.433	newline	.	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	nat-	.	.	.	.	.
+.	.	-ure's	.	.	.	.	.
+.	.	child	E	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96
+1I	E:maj	_	.	158.077	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	we	.	.	.	.	.
+.	.	were	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97
+1-III	G:maj	born	.	159.722	.	.	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	born	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	wild	E	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98
+1-III	G:maj	_	.	161.366	.	.	1G 1b 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	we	.	.	.	.	.
+.	.	can	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99
+1IV	A:maj	climb	.	163.011	newline	.	1A 1cc# 1ee
+.	.	_	.	.	.	.	.
+.	.	so	.	.	.	.	.
+.	.	high	F	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100
+1-III	G:maj	.	.	164.703	.	.	1G 1b 1dd
+.	.	I	.	.	.	.	.
+.	.	ne-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	wan-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101
+1I	E:maj	die	F	166.395	.	.	1E 1g# 1b
+.	.	_	.	.	.	.	.
+=102	=102	=102	=102	=102	=102	=102	=102
+1I	E:maj	.	.	168.087	.	.	1E 1g# 1b
+=103	=103	=103	=103	=103	=103	=103	=103
+1I	E:maj	Born	.	169.778	newline	.	1E 1g# 1b
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+=104	=104	=104	=104	=104	=104	=104	=104
+1-VII	D:maj	wild	E	171.504	.	.	1D 1f# 1a
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=105	=105	=105	=105	=105	=105	=105	=105
+1I	E:maj	.	.	173.23	.	.	1E 1g# 1b
+=106	=106	=106	=106	=106	=106	=106	=106
+1-VII	D:maj	.	.	174.955	.	.	1D 1f# 1a
+=107	=107	=107	=107	=107	=107	=107	=107
+1I	E:maj	Born	.	176.681	newline	.	1E 1g# 1b
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+=108	=108	=108	=108	=108	=108	=108	=108
+1-VII	D:maj	wild	E	178.332	.	.	1D 1f# 1a
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=109	=109	=109	=109	=109	=109	=109	=109
+1I	E:maj	.	.	179.984	.	.	1E 1g# 1b
+=110	=110	=110	=110	=110	=110	=110	=110
+1-VII	D:maj	.	.	181.635	.	.	1D 1f# 1a
+=111	=111	=111	=111	=111	=111	=111	=111
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1I	E:maj	.	.	183.287	newline	.	1E 1g# 1b
+=112	=112	=112	=112	=112	=112	=112	=112
+1I	E:maj	.	.	184.936	.	.	1E 1g# 1b
+=113	=113	=113	=113	=113	=113	=113	=113
+1I	E:maj	.	.	186.585	.	.	1E 1g# 1b
+=114	=114	=114	=114	=114	=114	=114	=114
+1I	E:maj	.	.	188.234	.	.	1E 1g# 1b
+=115	=115	=115	=115	=115	=115	=115	=115
+1I	E:maj	.	.	189.883	.	.	1E 1g# 1b
+=116	=116	=116	=116	=116	=116	=116	=116
+1I	E:maj	.	.	191.532	.	.	1E 1g# 1b
+=117	=117	=117	=117	=117	=117	=117	=117
+1I	E:maj	.	.	193.181	.	.	1E 1g# 1b
+=118	=118	=118	=118	=118	=118	=118	=118
+1I	E:maj	.	.	194.83	.	.	1E 1g# 1b
+=119	=119	=119	=119	=119	=119	=119	=119
+1I	E:maj	.	.	196.478	newline	fadeout	1E 1g# 1b
+=120	=120	=120	=120	=120	=120	=120	=120
+1I	E:maj	.	.	198.001	.	fadeout	1E 1g# 1b
+=121	=121	=121	=121	=121	=121	=121	=121
+1I	E:maj	.	.	199.523	.	fadeout	1E 1g# 1b
+=122	=122	=122	=122	=122	=122	=122	=122
+1I	E:maj	.	.	201.045	.	fadeout	1E 1g# 1b
+=123	=123	=123	=123	=123	=123	=123	=123
+1I	E:maj	.	.	202.567	.	fadeout	1E 1g# 1b
+=124	=124	=124	=124	=124	=124	=124	=124
+1I	E:maj	.	.	204.089	.	fadeout	1E 1g# 1b
+=125	=125	=125	=125	=125	=125	=125	=125
+1I	E:maj	.	.	205.611	.	fadeout	1E 1g# 1b
+=126	=126	=126	=126	=126	=126	=126	=126
+1I	E:maj	.	.	207.133	.	fadeout	1E 1g# 1b
+1r;	N	.	.	208.655	.	r	1r;
+1r;	N	.	.	209.502	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1968/10/05
+!!!BillboardPeak: 2
+!!!BillboardWeeksOnChart: 13
+!!!COC: Steppenwolf
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Born To Be Wild
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 23
+!!!SampleID#: 0841
+!!!SampleTargetRank: 22
+!!!MBID: 11e0f961-d6b7-4cce-ab3f-dc0ca92a1602

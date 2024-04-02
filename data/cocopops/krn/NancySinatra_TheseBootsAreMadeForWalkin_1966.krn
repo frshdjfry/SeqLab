@@ -1,0 +1,496 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*E:	*E:	*	*	*	*	*	*E:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	.	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1I	E:maj	.	.	0.25	newline	guitar	1E 1g# 1b
+=2	=2	=2	=2	=2	=2	=2	=2
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=3	=3	=3	=3	=3	=3	=3	=3
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=4	=4	=4	=4	=4	=4	=4	=4
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=5	=5	=5	=5	=5	=5	=5	=5
+1I	E:maj	.	.	6.05	newline	guitar	1E 1g# 1b
+=6	=6	=6	=6	=6	=6	=6	=6
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=7	=7	=7	=7	=7	=7	=7	=7
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=8	=8	=8	=8	=8	=8	=8	=8
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=9	=9	=9	=9	=9	=9	=9	=9
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	You	.	11.71	newline	voice	1E 1g# 1b
+.	.	keep	.	.	.	.	.
+.	.	say-	.	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1I	E:maj	you	.	.	.	voice	1E 1g# 1b
+.	.	got	.	.	.	.	.
+.	.	some-	.	.	.	.	.
+.	.	-thing	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+1I	E:maj	for	.	.	.	voice	1E 1g# 1b
+.	.	me	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+=13	=13	=13	=13	=13	=13	=13	=13
+1I	E:maj	Some-	.	17.595	newline	voice	1E 1g# 1b
+.	.	-thin'	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	call	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1I	E:maj	love	.	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	but	.	.	.	.	.
+.	.	con-	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1I	E:maj	-fess	A	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+=17	=17	=17	=17	=17	=17	=17	=17
+1IV	A:maj	You've	.	23.41	newline	voice	1A 1cc# 1ee
+.	.	been	.	.	.	.	.
+.	.	uh	.	.	.	.	.
+.	.	mess-	A	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1IV	A:maj	where	.	.	.	voice	1A 1cc# 1ee
+.	.	you	.	.	.	.	.
+.	.	shoul-	.	.	.	.	.
+.	.	-dn't-	.	.	.	.	.
+.	.	-a	.	.	.	.	.
+.	.	been	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1IV	A:maj	mess-	A	.	.	voice	1A 1cc# 1ee
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1IV	A:maj	.	.	.	.	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	now	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1I	E:maj	some-	.	29.2	newline	voice	1E 1g# 1b
+.	.	-one	.	.	.	.	.
+.	.	else	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	is	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1I	E:maj	get-	.	.	.	voice	1E 1g# 1b
+.	.	-tin'	.	.	.	.	.
+.	.	all	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	best	A	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1I	E:maj	_	.	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	These	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1-III	G:maj	boots	.	35	newline	voice	1G 1b 1dd
+.	.	are	.	.	.	.	.
+.	.	made	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	walk-	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1I	E:maj	_	.	.	.	voice	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1-III	G:maj	that's	.	.	.	voice	1G 1b 1dd
+.	.	just	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	they'll	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1I	E:maj	do	B	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1-III	G:maj	One	.	40.825	newline	voice	1G 1b 1dd
+.	.	of	.	.	.	.	.
+.	.	these	.	.	.	.	.
+.	.	days	.	.	.	.	.
+.	.	these	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1I	E:maj	boots	.	.	.	voice	1E 1g# 1b
+.	.	are	.	.	.	.	.
+.	.	gon-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1r	N	walk	.	.	.	voice	1r
+.	.	all	.	.	.	.	.
+.	.	ov-	.	.	.	.	.
+.	.	-er	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+1I	E:maj	you	B	45.19	newline	guitar	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=34	=34	=34	=34	=34	=34	=34	=34
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=35	=35	=35	=35	=35	=35	=35	=35
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=36	=36	=36	=36	=36	=36	=36	=36
+1I	E:maj	.	.	.	newline	guitar	1E 1g# 1b
+=37	=37	=37	=37	=37	=37	=37	=37
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=38	=38	=38	=38	=38	=38	=38	=38
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=39	=39	=39	=39	=39	=39	=39	=39
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=40	=40	=40	=40	=40	=40	=40	=40
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	You	.	56.86	newline	voice	1E 1g# 1b
+.	.	keep	.	.	.	.	.
+.	.	ly-	.	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+1I	E:maj	when	.	.	.	voice	1E 1g# 1b
+.	.	you	.	.	.	.	.
+.	.	ought-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ta	.	.	.	.	.
+.	.	be	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1I	E:maj	truth-	.	.	.	voice	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1I	E:maj	you	.	62.66	newline	voice	1E 1g# 1b
+.	.	keep	.	.	.	.	.
+.	.	los-	.	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1I	E:maj	when	.	.	.	voice	1E 1g# 1b
+.	.	you	.	.	.	.	.
+.	.	ought-	.	.	.	.	.
+.	.	-ta	.	.	.	.	.
+.	.	not	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1I	E:maj	bet	A	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+=48	=48	=48	=48	=48	=48	=48	=48
+1IV	A:maj	You	.	68.46	newline	voice	1A 1cc# 1ee
+.	.	keep	.	.	.	.	.
+.	.	same-	C	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1IV	A:maj	when	.	.	.	voice	1A 1cc# 1ee
+.	.	you	.	.	.	.	.
+.	.	ought-	.	.	.	.	.
+.	.	-ta	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1IV	A:maj	chang-	C	.	.	voice	1A 1cc# 1ee
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1IV	A:maj	.	.	.	.	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+.	.	Now	.	.	.	.	.
+.	.	what's	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+1I	E:maj	right	.	74.23	newline	voice	1E 1g# 1b
+.	.	is	.	.	.	.	.
+.	.	right	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	but	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+1I	E:maj	you	.	.	.	voice	1E 1g# 1b
+.	.	ain't	.	.	.	.	.
+.	.	been	.	.	.	.	.
+.	.	right	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1I	E:maj	yet	A	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	These	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1-III	G:maj	boots	.	80.035	newline	voice	1G 1b 1dd
+.	.	are	.	.	.	.	.
+.	.	made	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	for	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+1I	E:maj	walk-	.	.	.	voice	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1-III	G:maj	that's	.	.	.	voice	1G 1b 1dd
+.	.	just	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	they'll	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1I	E:maj	do	B	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1-III	G:maj	One	.	85.82	newline	voice	1G 1b 1dd
+.	.	of	.	.	.	.	.
+.	.	these	.	.	.	.	.
+.	.	days	.	.	.	.	.
+.	.	these	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1I	E:maj	boots	.	.	.	voice	1E 1g# 1b
+.	.	are	.	.	.	.	.
+.	.	gon-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1r	N	walk	.	.	.	voice	1r
+.	.	all	.	.	.	.	.
+.	.	ov-	.	.	.	.	.
+.	.	-er	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+1I	E:maj	you	B	90.165	newline	guitar	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=65	=65	=65	=65	=65	=65	=65	=65
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=66	=66	=66	=66	=66	=66	=66	=66
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=67	=67	=67	=67	=67	=67	=67	=67
+1I	E:maj	.	.	96.04	newline	guitar	1E 1g# 1b
+=68	=68	=68	=68	=68	=68	=68	=68
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=69	=69	=69	=69	=69	=69	=69	=69
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=70	=70	=70	=70	=70	=70	=70	=70
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=71	=71	=71	=71	=71	=71	=71	=71
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E:maj	You	.	101.745	newline	voice	1E 1g# 1b
+.	.	keep	.	.	.	.	.
+.	.	play-	.	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+1I	E:maj	where	.	.	.	voice	1E 1g# 1b
+.	.	you	.	.	.	.	.
+.	.	should-	.	.	.	.	.
+.	.	-n't	.	.	.	.	.
+.	.	be	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+1I	E:maj	play-	.	.	.	voice	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1I	E:maj	you	.	107.685	newline	voice	1E 1g# 1b
+.	.	keep	.	.	.	.	.
+.	.	think-	.	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1I	E:maj	that	.	.	.	voice	1E 1g# 1b
+.	.	you'll	.	.	.	.	.
+.	.	ne-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	get	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+1I	E:maj	burnt	D	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	Hah	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+1IV	A:maj	_	.	113.535	newline	voice	1A 1cc# 1ee
+.	.	just	.	.	.	.	.
+.	.	found	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+1IV	A:maj	brande	.	.	.	voice	1A 1cc# 1ee
+.	.	new	.	.	.	.	.
+.	.	box	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	match-	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+1IV	A:maj	_	.	.	.	voice	1A 1cc# 1ee
+.	.	-es	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Yeah	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+1IV	A:maj	_	.	.	.	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+1I	E:maj	what	.	119.355	newline	voice	1E 1g# 1b
+.	.	he	.	.	.	.	.
+.	.	knows	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	ain't	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1I	E:maj	_	.	.	.	voice	1E 1g# 1b
+.	.	had	.	.	.	.	.
+.	.	time	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+1I	E:maj	learn	D	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+1I	E:maj	.	.	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	These	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1-III	G:maj	boots	.	125.205	newline	voice	1G 1b 1dd
+.	.	are	.	.	.	.	.
+.	.	made	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	walk-	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1I	E:maj	_	.	.	.	voice	1E 1g# 1b
+.	.	-in'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89
+1-III	G:maj	that's	.	.	.	voice	1G 1b 1dd
+.	.	just	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	they'll	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90
+1I	E:maj	do	B	.	.	voice	1E 1g# 1b
+.	.	.	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91
+1-III	G:maj	One	.	131.045	newline	voice	1G 1b 1dd
+.	.	of	.	.	.	.	.
+.	.	these	.	.	.	.	.
+.	.	days	.	.	.	.	.
+.	.	these	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92
+1I	E:maj	boots	.	.	.	voice	1E 1g# 1b
+.	.	are	.	.	.	.	.
+.	.	gon-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93
+1r	N	walk	.	.	.	voice	1r
+.	.	all	.	.	.	.	.
+.	.	ov-	.	.	.	.	.
+.	.	-er	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1I	E:maj	you	B	135.49	newline	guitar	1E 1g# 1b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=96	=96	=96	=96	=96	=96	=96	=96
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=97	=97	=97	=97	=97	=97	=97	=97
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=98	=98	=98	=98	=98	=98	=98	=98
+1I	E:maj	.	.	141.26	newline	guitar	1E 1g# 1b
+=99	=99	=99	=99	=99	=99	=99	=99
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=100	=100	=100	=100	=100	=100	=100	=100
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=101	=101	=101	=101	=101	=101	=101	=101
+1I	E:maj	.	.	.	.	guitar	1E 1g# 1b
+=102	=102	=102	=102	=102	=102	=102	=102
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+1I	E:maj	.	.	147.03	newline	brass	1E 1g# 1b
+=103	=103	=103	=103	=103	=103	=103	=103
+1I	E:maj	.	.	.	.	brass	1E 1g# 1b
+=104	=104	=104	=104	=104	=104	=104	=104
+1I	E:maj	.	.	.	.	brass	1E 1g# 1b
+=105	=105	=105	=105	=105	=105	=105	=105
+1I	E:maj	.	.	.	.	brass	1E 1g# 1b
+=106	=106	=106	=106	=106	=106	=106	=106
+1I	E:maj	.	.	152.69	newline	brass	1E 1g# 1b
+=107	=107	=107	=107	=107	=107	=107	=107
+1I	E:maj	.	.	.	.	brass	1E 1g# 1b
+=108	=108	=108	=108	=108	=108	=108	=108
+1I	E:maj	.	.	.	.	brass	1E 1g# 1b
+=109	=109	=109	=109	=109	=109	=109	=109
+1I	E:maj	.	.	.	.	brass	1E 1g# 1b
+=110	=110	=110	=110	=110	=110	=110	=110
+1I	E:maj	.	.	.	.	brass	1E 1g# 1b
+=111	=111	=111	=111	=111	=111	=111	=111
+1I	E:maj	.	.	.	.	brass	1E 1g# 1b
+1r;	N	.	.	.	.	r	1r;
+1r;	N	.	.	.	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1966/02/05
+!!!BillboardPeak: 1
+!!!BillboardWeeksOnChart: 14
+!!!COC: Nancy Sinatra
+"!!!EMD: The original transcription was in halftime and in the wrong key (F instead of E). It also had too many measures near the end and said ""organ"" when brass comes in. The timestamps seemed off too, so I removed them. -Nat"
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: These Boots Are Made For Walkin'
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 28
+!!!SampleID#: 0284
+!!!SampleTargetRank: 29

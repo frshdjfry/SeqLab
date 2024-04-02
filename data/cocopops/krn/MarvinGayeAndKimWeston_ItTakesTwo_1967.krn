@@ -1,0 +1,259 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*B-:	*B-:	*	*	*	*B-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse
+1I	B-:maj	0.686	newline	r	1B- 1dd 1ff
+=2	=2	=2	=2	=2	=2
+1I	B-:maj	2.315	.	r	1B- 1dd 1ff
+=3	=3	=3	=3	=3	=3
+1I	B-:maj	3.945	.	r	1B- 1dd 1ff
+=4	=4	=4	=4	=4	=4
+1I	B-:maj	5.574	.	r	1B- 1dd 1ff
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	B-:maj	7.204	newline	voice	1B- 1dd 1ff
+=6	=6	=6	=6	=6	=6
+1I	B-:maj	8.84	.	voice	1B- 1dd 1ff
+=7	=7	=7	=7	=7	=7
+1I	B-:maj	10.476	.	voice	1B- 1dd 1ff
+=8	=8	=8	=8	=8	=8
+1I	B-:maj	12.112	.	voice	1B- 1dd 1ff
+=9	=9	=9	=9	=9	=9
+1I	B-:maj	13.749	newline	voice	1B- 1dd 1ff
+=10	=10	=10	=10	=10	=10
+1I	B-:maj	15.367	.	voice	1B- 1dd 1ff
+=11	=11	=11	=11	=11	=11
+1I	B-:maj	16.985	.	voice	1B- 1dd 1ff
+=12	=12	=12	=12	=12	=12
+1I	B-:maj	18.603	.	voice	1B- 1dd 1ff
+=13	=13	=13	=13	=13	=13
+1I	B-:maj	20.221	newline	voice	1B- 1dd 1ff
+=14	=14	=14	=14	=14	=14
+1I	B-:maj	21.822	.	voice	1B- 1dd 1ff
+=15	=15	=15	=15	=15	=15
+1I	B-:maj	23.423	.	voice	1B- 1dd 1ff
+=16	=16	=16	=16	=16	=16
+1I	B-:maj	25.024	.	voice	1B- 1dd 1ff
+=17	=17	=17	=17	=17	=17
+1I	B-:maj	26.625	newline	voice	1B- 1dd 1ff
+=18	=18	=18	=18	=18	=18
+1I	B-:maj	28.24	.	voice	1B- 1dd 1ff
+=19	=19	=19	=19	=19	=19
+1I	B-:maj	29.855	.	voice	1B- 1dd 1ff
+=20	=20	=20	=20	=20	=20
+1Im7	B-:7	31.469	.	voice	1B- 1dd 1ff 1aa
+=21	=21	=21	=21	=21	=21
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	E-:maj	33.084	newline	voice	1E- 1g 1b-
+=22	=22	=22	=22	=22	=22
+1IV	E-:maj	34.685	.	voice	1E- 1g 1b-
+=23	=23	=23	=23	=23	=23
+1V	F:maj	36.285	.	voice	1F 1a 1cc
+=24	=24	=24	=24	=24	=24
+1V	F:maj	37.886	.	voice	1F 1a 1cc
+=25	=25	=25	=25	=25	=25
+1I	B-:maj	39.486	newline	voice	1B- 1dd 1ff
+=26	=26	=26	=26	=26	=26
+1I	B-:maj	41.073	.	voice	1B- 1dd 1ff
+=27	=27	=27	=27	=27	=27
+1I	B-:maj	42.659	.	voice	1B- 1dd 1ff
+=28	=28	=28	=28	=28	=28
+1I	B-:maj	44.246	.	voice	1B- 1dd 1ff
+=29	=29	=29	=29	=29	=29
+1IV	E-:maj	45.832	newline	voice	1E- 1g 1b-
+=30	=30	=30	=30	=30	=30
+1IV	E-:maj	47.415	.	voice	1E- 1g 1b-
+=31	=31	=31	=31	=31	=31
+1V	F:maj	48.998	.	voice	1F 1a 1cc
+=32	=32	=32	=32	=32	=32
+1V	F:maj	50.58	.	voice	1F 1a 1cc
+=33	=33	=33	=33	=33	=33
+*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse
+1I	B-:maj	52.163	newline	voice	1B- 1dd 1ff
+=34	=34	=34	=34	=34	=34
+1I	B-:maj	53.757	.	voice	1B- 1dd 1ff
+=35	=35	=35	=35	=35	=35
+1I	B-:maj	55.351	.	voice	1B- 1dd 1ff
+=36	=36	=36	=36	=36	=36
+1I	B-:maj	56.946	.	voice	1B- 1dd 1ff
+=37	=37	=37	=37	=37	=37
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	B-:maj	58.54	newline	voice	1B- 1dd 1ff
+=38	=38	=38	=38	=38	=38
+1I	B-:maj	60.119	.	voice	1B- 1dd 1ff
+=39	=39	=39	=39	=39	=39
+1I	B-:maj	61.697	.	voice	1B- 1dd 1ff
+=40	=40	=40	=40	=40	=40
+1I	B-:maj	63.276	.	voice	1B- 1dd 1ff
+=41	=41	=41	=41	=41	=41
+1I	B-:maj	64.855	newline	voice	1B- 1dd 1ff
+=42	=42	=42	=42	=42	=42
+1I	B-:maj	66.444	.	voice	1B- 1dd 1ff
+=43	=43	=43	=43	=43	=43
+1I	B-:maj	68.033	.	voice	1B- 1dd 1ff
+=44	=44	=44	=44	=44	=44
+1I	B-:maj	69.622	.	voice	1B- 1dd 1ff
+=45	=45	=45	=45	=45	=45
+1I	B-:maj	71.211	newline	voice	1B- 1dd 1ff
+=46	=46	=46	=46	=46	=46
+1I	B-:maj	72.791	.	voice	1B- 1dd 1ff
+=47	=47	=47	=47	=47	=47
+1I	B-:maj	74.371	.	voice	1B- 1dd 1ff
+=48	=48	=48	=48	=48	=48
+1I	B-:maj	75.951	.	voice	1B- 1dd 1ff
+=49	=49	=49	=49	=49	=49
+1I	B-:maj	77.532	newline	voice	1B- 1dd 1ff
+=50	=50	=50	=50	=50	=50
+1I	B-:maj	79.105	.	voice	1B- 1dd 1ff
+=51	=51	=51	=51	=51	=51
+1I	B-:maj	80.679	.	voice	1B- 1dd 1ff
+=52	=52	=52	=52	=52	=52
+1Im7	B-:7	82.253	.	voice	1B- 1dd 1ff 1aa
+=53	=53	=53	=53	=53	=53
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	E-:maj	83.827	newline	voice	1E- 1g 1b-
+=54	=54	=54	=54	=54	=54
+1IV	E-:maj	85.426	.	voice	1E- 1g 1b-
+=55	=55	=55	=55	=55	=55
+1V	F:maj	87.025	.	voice	1F 1a 1cc
+=56	=56	=56	=56	=56	=56
+1V	F:maj	88.624	.	voice	1F 1a 1cc
+=57	=57	=57	=57	=57	=57
+1I	B-:maj	90.223	newline	voice	1B- 1dd 1ff
+=58	=58	=58	=58	=58	=58
+1I	B-:maj	91.81	.	voice	1B- 1dd 1ff
+=59	=59	=59	=59	=59	=59
+1I	B-:maj	93.397	.	voice	1B- 1dd 1ff
+=60	=60	=60	=60	=60	=60
+1I	B-:maj	94.983	.	voice	1B- 1dd 1ff
+=61	=61	=61	=61	=61	=61
+1IV	E-:maj	96.57	newline	voice	1E- 1g 1b-
+=62	=62	=62	=62	=62	=62
+1IV	E-:maj	98.171	.	voice	1E- 1g 1b-
+=63	=63	=63	=63	=63	=63
+1V	F:maj	99.771	.	voice	1F 1a 1cc
+=64	=64	=64	=64	=64	=64
+1V	F:maj	101.371	.	voice	1F 1a 1cc
+=65	=65	=65	=65	=65	=65
+*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse
+1I	B-:maj	102.972	newline	voice	1B- 1dd 1ff
+=66	=66	=66	=66	=66	=66
+1I	B-:maj	104.551	.	voice	1B- 1dd 1ff
+=67	=67	=67	=67	=67	=67
+1I	B-:maj	106.129	.	voice	1B- 1dd 1ff
+=68	=68	=68	=68	=68	=68
+1I	B-:maj	107.708	.	voice	1B- 1dd 1ff
+=69	=69	=69	=69	=69	=69
+*>D_interlude	*>D_interlude	*>D_interlude	*>D_interlude	*>D_interlude	*>D_interlude
+1I	B-:maj	109.286	newline	voice	1B- 1dd 1ff
+=70	=70	=70	=70	=70	=70
+1I	B-:maj	110.887	.	voice	1B- 1dd 1ff
+=71	=71	=71	=71	=71	=71
+1I	B-:maj	112.488	.	voice	1B- 1dd 1ff
+=72	=72	=72	=72	=72	=72
+1Im7	B-:7	114.089	.	voice	1B- 1dd 1ff 1aa
+=73	=73	=73	=73	=73	=73
+1IVm7	E-:7	115.69	newline	voice	1E- 1g 1b- 1dd
+=74	=74	=74	=74	=74	=74
+1IVm7	E-:7	117.279	.	voice	1E- 1g 1b- 1dd
+=75	=75	=75	=75	=75	=75
+1V	F:maj	118.868	.	voice	1F 1a 1cc
+=76	=76	=76	=76	=76	=76
+1V	F:maj	120.457	.	voice	1F 1a 1cc
+=77	=77	=77	=77	=77	=77
+*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse	*>A_preverse
+1I	B-:maj	122.046	newline	voice	1B- 1dd 1ff
+=78	=78	=78	=78	=78	=78
+1I	B-:maj	123.609	.	voice	1B- 1dd 1ff
+=79	=79	=79	=79	=79	=79
+1I	B-:maj	125.172	.	voice	1B- 1dd 1ff
+=80	=80	=80	=80	=80	=80
+1I	B-:maj	126.735	.	voice	1B- 1dd 1ff
+=81	=81	=81	=81	=81	=81
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	B-:maj	128.299	newline	voice	1B- 1dd 1ff
+=82	=82	=82	=82	=82	=82
+1I	B-:maj	129.901	.	voice	1B- 1dd 1ff
+=83	=83	=83	=83	=83	=83
+1I	B-:maj	131.503	.	voice	1B- 1dd 1ff
+=84	=84	=84	=84	=84	=84
+1I	B-:maj	133.105	.	voice	1B- 1dd 1ff
+=85	=85	=85	=85	=85	=85
+1I	B-:maj	134.707	newline	voice	1B- 1dd 1ff
+=86	=86	=86	=86	=86	=86
+1I	B-:maj	136.278	.	voice	1B- 1dd 1ff
+=87	=87	=87	=87	=87	=87
+1I	B-:maj	137.849	.	voice	1B- 1dd 1ff
+=88	=88	=88	=88	=88	=88
+1I	B-:maj	139.42	.	voice	1B- 1dd 1ff
+=89	=89	=89	=89	=89	=89
+1I	B-:maj	140.991	newline	voice	1B- 1dd 1ff
+=90	=90	=90	=90	=90	=90
+1I	B-:maj	142.59	.	voice	1B- 1dd 1ff
+=91	=91	=91	=91	=91	=91
+1I	B-:maj	144.189	.	voice	1B- 1dd 1ff
+=92	=92	=92	=92	=92	=92
+1I	B-:maj	145.788	.	voice	1B- 1dd 1ff
+=93	=93	=93	=93	=93	=93
+1I	B-:maj	147.388	newline	voice	1B- 1dd 1ff
+=94	=94	=94	=94	=94	=94
+1I	B-:maj	148.946	.	voice	1B- 1dd 1ff
+=95	=95	=95	=95	=95	=95
+1I	B-:maj	150.504	.	voice	1B- 1dd 1ff
+=96	=96	=96	=96	=96	=96
+1Im7	B-:7	152.062	.	voice	1B- 1dd 1ff 1aa
+=97	=97	=97	=97	=97	=97
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	E-:maj	153.621	newline	voice	1E- 1g 1b-
+=98	=98	=98	=98	=98	=98
+1IV	E-:maj	155.197	.	voice	1E- 1g 1b-
+=99	=99	=99	=99	=99	=99
+1V	F:maj	156.773	.	voice	1F 1a 1cc
+=100	=100	=100	=100	=100	=100
+1V	F:maj	158.35	.	voice	1F 1a 1cc
+=101	=101	=101	=101	=101	=101
+1I	B-:maj	159.926	newline	voice	1B- 1dd 1ff
+=102	=102	=102	=102	=102	=102
+1I	B-:maj	161.511	.	voice	1B- 1dd 1ff
+=103	=103	=103	=103	=103	=103
+1I	B-:maj	163.096	.	voice	1B- 1dd 1ff
+=104	=104	=104	=104	=104	=104
+1I	B-:maj	164.681	.	voice	1B- 1dd 1ff
+=105	=105	=105	=105	=105	=105
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1IV	E-:maj	166.266	newline	voice	1E- 1g 1b-
+=106	=106	=106	=106	=106	=106
+1IV	E-:maj	167.849	.	voice	1E- 1g 1b-
+=107	=107	=107	=107	=107	=107
+1V	F:maj	169.431	.	voice	1F 1a 1cc
+=108	=108	=108	=108	=108	=108
+1V	F:maj	171.014	.	voice	1F 1a 1cc
+=109	=109	=109	=109	=109	=109
+1I	B-:maj	172.596	newline	voice	1B- 1dd 1ff
+=110	=110	=110	=110	=110	=110
+1I	B-:maj	173.49	.	voice	1B- 1dd 1ff
+=111	=111	=111	=111	=111	=111
+1I	B-:maj	174.383	.	voice	1B- 1dd 1ff
+=112	=112	=112	=112	=112	=112
+1I	B-:maj	175.276	.	voice	1B- 1dd 1ff
+1r;	N	176.17	.	r	1r;
+1r;	N	180.114	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: It Takes Two
+!!!COC: Marvin Gaye & Kim Weston
+!!!BillboardChartDate: 1967/01/07
+!!!BillboardPeak: 14
+!!!BillboardWeeksOnChart: 12
+!!!SampleTargetRank: 87
+!!!SampleActualRank: 88
+!!!SampleID#: 0280
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

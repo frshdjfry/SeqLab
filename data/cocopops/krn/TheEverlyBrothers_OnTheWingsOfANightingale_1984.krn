@@ -1,0 +1,206 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*A:	*A:	*	*	*	*A:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	A:maj	0.261	newline	synthesizer	1A 1cc# 1ee
+=2	=2	=2	=2	=2	=2
+2.I	A:maj	2.079	.	synthesizer	2A 2cc# 2ee
+4V	E:maj	3.443	.	synthesizer	4E 4g# 4b
+=3	=3	=3	=3	=3	=3
+1I	A:maj	3.897	.	synthesizer	1A 1cc# 1ee
+=4	=4	=4	=4	=4	=4
+2.I	A:maj	5.715	.	synthesizer	2A 2cc# 2ee
+4V	E:maj	7.078	.	synthesizer	4E 4g# 4b
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	A:maj	7.533	newline	voice	1A 1cc# 1ee
+=6	=6	=6	=6	=6	=6
+1V	E:maj	9.365	.	voice	1E 1g# 1b
+=7	=7	=7	=7	=7	=7
+1I	A:maj	11.197	.	voice	1A 1cc# 1ee
+=8	=8	=8	=8	=8	=8
+1IV	D:maj	13.029	.	voice	1D 1f# 1a
+=9	=9	=9	=9	=9	=9
+1IV	D:maj	14.861	newline	voice	1D 1f# 1a
+=10	=10	=10	=10	=10	=10
+1I	A:maj	16.224	.	voice	1A 1cc# 1ee
+=11	=11	=11	=11	=11	=11
+1I	A:maj	17.587	.	voice	1A 1cc# 1ee
+=12	=12	=12	=12	=12	=12
+2.I	A:maj	18.95	.	voice	2A 2cc# 2ee
+4V	E:maj	19.972	.	voice	4E 4g# 4b
+=13	=13	=13	=13	=13	=13
+1I	A:maj	20.313	newline	voice	1A 1cc# 1ee
+=14	=14	=14	=14	=14	=14
+1V	E:maj	22.089	.	voice	1E 1g# 1b
+=15	=15	=15	=15	=15	=15
+1I	A:maj	23.866	.	voice	1A 1cc# 1ee
+=16	=16	=16	=16	=16	=16
+1IV	D:maj	25.642	.	voice	1D 1f# 1a
+=17	=17	=17	=17	=17	=17
+1IV	D:maj	27.419	newline	voice	1D 1f# 1a
+=18	=18	=18	=18	=18	=18
+1I	A:maj	29.253	.	voice	1A 1cc# 1ee
+=19	=19	=19	=19	=19	=19
+1V	E:maj	31.088	.	voice	1E 1g# 1b
+=20	=20	=20	=20	=20	=20
+1V	E:maj	32.922	.	voice	1E 1g# 1b
+=21	=21	=21	=21	=21	=21
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	D:maj	34.757	newline	voice	1D 1f# 1a
+=22	=22	=22	=22	=22	=22
+1V	E:maj	36.552	.	voice	1E 1g# 1b
+=23	=23	=23	=23	=23	=23
+2I	A:maj	38.348	.	voice	2A 2cc# 2ee
+2Vb	E:maj/3	39.246	.	voice	2e 2G# 2b
+=24	=24	=24	=24	=24	=24
+1vi	F#:min	40.144	.	voice	1F# 1a 1cc#
+=25	=25	=25	=25	=25	=25
+1vi	F#:min	41.94	newline	voice	1F# 1a 1cc#
+=26	=26	=26	=26	=26	=26
+1vi	F#:min	43.762	.	voice	1F# 1a 1cc#
+=27	=27	=27	=27	=27	=27
+1V	E:sus4	45.583	.	voice	1E 1g# 1b
+=28	=28	=28	=28	=28	=28
+1V	E:maj	47.405	.	voice	1E 1g# 1b
+=29	=29	=29	=29	=29	=29
+1vi	F#:min	49.227	newline	.	1F# 1a 1cc#
+=30	=30	=30	=30	=30	=30
+1IV	D:maj	51.049	.	.	1D 1f# 1a
+=31	=31	=31	=31	=31	=31
+1vi	F#:min	52.871	.	.	1F# 1a 1cc#
+=32	=32	=32	=32	=32	=32
+1IV	D:maj	54.693	.	.	1D 1f# 1a
+=33	=33	=33	=33	=33	=33
+1vi	F#:min	56.516	.	.	1F# 1a 1cc#
+=34	=34	=34	=34	=34	=34
+1IV	D:maj	58.338	.	.	1D 1f# 1a
+=35	=35	=35	=35	=35	=35
+1I	A:maj	60.16	newline	.	1A 1cc# 1ee
+=36	=36	=36	=36	=36	=36
+2.I	A:maj	61.996	.	.	2A 2cc# 2ee
+4V	E:maj	63.373	.	.	4E 4g# 4b
+=37	=37	=37	=37	=37	=37
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	A:maj	63.832	newline	.	1A 1cc# 1ee
+=38	=38	=38	=38	=38	=38
+1V	E:maj	65.634	.	.	1E 1g# 1b
+=39	=39	=39	=39	=39	=39
+1I	A:maj	67.437	.	.	1A 1cc# 1ee
+=40	=40	=40	=40	=40	=40
+1IV	D:maj	69.239	.	.	1D 1f# 1a
+=41	=41	=41	=41	=41	=41
+1IV	D:maj	71.041	newline	.	1D 1f# 1a
+=42	=42	=42	=42	=42	=42
+1I	A:maj	72.406	.	.	1A 1cc# 1ee
+=43	=43	=43	=43	=43	=43
+1I	A:maj	73.771	.	.	1A 1cc# 1ee
+=44	=44	=44	=44	=44	=44
+2.I	A:maj	75.136	.	.	2A 2cc# 2ee
+4V	E:maj	76.16	.	.	4E 4g# 4b
+=45	=45	=45	=45	=45	=45
+1I	A:maj	76.501	newline	.	1A 1cc# 1ee
+=46	=46	=46	=46	=46	=46
+1V	E:maj	78.32	.	.	1E 1g# 1b
+=47	=47	=47	=47	=47	=47
+1I	A:maj	80.139	.	.	1A 1cc# 1ee
+=48	=48	=48	=48	=48	=48
+1IV	D:maj	81.958	.	.	1D 1f# 1a
+=49	=49	=49	=49	=49	=49
+1IV	D:maj	83.777	newline	.	1D 1f# 1a
+=50	=50	=50	=50	=50	=50
+1I	A:maj	85.593	.	.	1A 1cc# 1ee
+=51	=51	=51	=51	=51	=51
+1V	E:maj	87.408	.	.	1E 1g# 1b
+=52	=52	=52	=52	=52	=52
+1V	E:maj	89.224	.	.	1E 1g# 1b
+=53	=53	=53	=53	=53	=53
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	D:maj	91.04	newline	.	1D 1f# 1a
+=54	=54	=54	=54	=54	=54
+1V	E:maj	92.848	.	.	1E 1g# 1b
+=55	=55	=55	=55	=55	=55
+2I	A:maj	94.657	.	.	2A 2cc# 2ee
+2Vb	E:maj/3	95.561	.	.	2e 2G# 2b
+=56	=56	=56	=56	=56	=56
+1vi	F#:min	96.466	.	.	1F# 1a 1cc#
+=57	=57	=57	=57	=57	=57
+1vi	F#:min	98.274	newline	.	1F# 1a 1cc#
+=58	=58	=58	=58	=58	=58
+1vi	F#:min	100.088	.	.	1F# 1a 1cc#
+=59	=59	=59	=59	=59	=59
+1V	E:sus4	101.902	.	.	1E 1g# 1b
+=60	=60	=60	=60	=60	=60
+1V	E:maj	103.716	.	.	1E 1g# 1b
+=61	=61	=61	=61	=61	=61
+1vi	F#:min	105.53	newline	.	1F# 1a 1cc#
+=62	=62	=62	=62	=62	=62
+1IV	D:maj	107.341	.	.	1D 1f# 1a
+=63	=63	=63	=63	=63	=63
+1vi	F#:min	109.152	.	.	1F# 1a 1cc#
+=64	=64	=64	=64	=64	=64
+1IV	D:maj	110.963	.	.	1D 1f# 1a
+=65	=65	=65	=65	=65	=65
+1vi	F#:min	112.773	.	.	1F# 1a 1cc#
+=66	=66	=66	=66	=66	=66
+1IV	D:maj	114.584	.	.	1D 1f# 1a
+=67	=67	=67	=67	=67	=67
+1I	A:maj	116.395	newline	.	1A 1cc# 1ee
+=68	=68	=68	=68	=68	=68
+2.I	A:maj	118.262	.	.	2A 2cc# 2ee
+4V	E:maj	119.662	.	.	4E 4g# 4b
+=69	=69	=69	=69	=69	=69
+*>B_outro	*>B_outro	*>B_outro	*>B_outro	*>B_outro	*>B_outro
+1I	A:maj	120.129	newline	.	1A 1cc# 1ee
+=70	=70	=70	=70	=70	=70
+1V	E:maj	121.926	.	.	1E 1g# 1b
+=71	=71	=71	=71	=71	=71
+1I	A:maj	123.723	.	.	1A 1cc# 1ee
+=72	=72	=72	=72	=72	=72
+1IV	D:maj	125.521	.	.	1D 1f# 1a
+=73	=73	=73	=73	=73	=73
+1IV	D:maj	127.318	newline	.	1D 1f# 1a
+=74	=74	=74	=74	=74	=74
+1I	A:maj	129.142	.	.	1A 1cc# 1ee
+=75	=75	=75	=75	=75	=75
+1IV	D:maj	130.966	.	.	1D 1f# 1a
+=76	=76	=76	=76	=76	=76
+1I	A:maj	132.79	.	.	1A 1cc# 1ee
+=77	=77	=77	=77	=77	=77
+1IV	D:maj	134.614	.	.	1D 1f# 1a
+=78	=78	=78	=78	=78	=78
+1I	A:maj	136.438	.	.	1A 1cc# 1ee
+=79	=79	=79	=79	=79	=79
+1V	E:maj	138.262	newline	.	1E 1g# 1b
+=80	=80	=80	=80	=80	=80
+1Im7	A:7	140.078	.	.	1A 1cc# 1ee 1gg#
+=81	=81	=81	=81	=81	=81
+1IV	D:maj	141.895	.	.	1D 1f# 1a
+=82	=82	=82	=82	=82	=82
+1IV	D:maj	143.711	.	.	1D 1f# 1a
+=83	=83	=83	=83	=83	=83
+2I	A:maj	145.527	newline	voice	2A 2cc# 2ee
+2V	E:maj	146.425	.	voice	2E 2g# 2b
+=84	=84	=84	=84	=84	=84
+1I	A:maj	147.323	.	voice	1A 1cc# 1ee
+1r;	N	152.934	.	r	1r;
+1r;	N	156.238	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: On The Wings Of A Nightingale
+!!!COC: Everly Brothers
+!!!BillboardChartDate: 1984/11/03
+!!!BillboardPeak: 50
+!!!BillboardWeeksOnChart: 12
+!!!SampleTargetRank: 87
+!!!SampleActualRank: 88
+!!!SampleID#: 0809
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

@@ -1,0 +1,755 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*D:	*D:	*	*	*	*	*	*	*D:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+1r;	N	.	.	.	0.045	.	r	1r;
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+2I	D:maj	.	.	.	0.221	newline	guitar	1D 1f# 1a
+2IVc	G:maj/5	.	.	.	1.675	.	guitar	2g 2b 2D
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+2Vf	A:maj/4	.	.	.	3.13	.	guitar	1A 1cc# 1ee
+2IVc	G:maj/5	.	.	.	4.584	.	guitar	2g 2b 2D
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+2I	D:maj	.	.	.	6.038	newline	guitar	1D 1f# 1a
+2IVc	G:maj/5	.	.	.	7.43	.	guitar	2g 2b 2D
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+2Vf	A:maj/4	.	.	.	8.821	.	guitar	1A 1cc# 1ee
+2IVc	G:maj/5	.	.	.	10.213	.	guitar	2g 2b 2D
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	D:maj	I've	.	.	11.604	newline	voice	1D 1f# 1a
+.	.	been	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-round	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1Vb	A:maj/3	Been	.	.	14.351	.	voice	1a 1C# 1ee
+.	.	up	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	down	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1IVb	G:maj6/3	_	.	.	17.097	newline	voice	1g 1B 1dd
+.	.	just	.	.	.	.	.	.
+.	.	can't	.	.	.	.	.	.
+.	.	get	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-ny	.	.	.	.	.	.
+.	.	rel-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-lief	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1I	D:maj	.	.	.	19.85	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+1I	D:maj	swa-	.	.	22.602	newline	voice	1D 1f# 1a
+.	.	-llowed	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	pride	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+1Vb	A:maj/3	.	.	.	25.361	.	voice	1a 1C# 1ee
+.	.	Lived	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	lied	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	uh	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+1IVb	G:maj6/3	you	.	.	28.119	newline	voice	1g 1B 1dd
+.	.	still	.	.	.	.	.	.
+.	.	make	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	feel	.	.	.	.	.	.
+.	.	like	.	C	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	thief	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+1I	D:maj	.	.	.	30.899	.	voice	1D 1f# 1a
+.	.	You've	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+2V	A:sus4	steal-	.	.	33.678	newline	voice	2A 2cc# 2ee
+.	.	-ing	.	.	.	.	.	.
+.	.	your	.	.	.	.	.	.
+.	.	love	.	.	.	.	.	.
+2V	A:maj	_	.	.	35.042	.	voice	2A 2cc# 2ee
+.	.	a-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-way	.	.	.	.	.	.
+.	.	'cause	.	.	.	.	.	.
+.	.	uh	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+2IV	G:maj	you	.	.	36.407	.	voice	2G 2b 2dd
+.	.	ne-	.	.	.	.	.	.
+.	.	-ver	.	.	.	.	.	.
+.	.	give	.	D	.	.	.	.
+2I	D:maj	_	.	.	37.771	.	voice	2D 2f# 2a
+.	.	it	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1V	A:maj	Peel-	.	.	39.135	newline	voice	1A 1cc# 1ee
+.	.	-ing	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	years	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-way	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+2IV	G:maj	we	.	.	41.896	.	voice	2G 2b 2dd
+.	.	can't	.	.	.	.	.	.
+.	.	re-	.	.	.	.	.	.
+.	.	-live	.	D	.	.	.	.
+2I	D:maj	_	.	.	43.276	.	voice	2D 2f# 2a
+.	.	it	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+2IV	G:maj	I'll	.	.	44.656	newline	voice	2G 2b 2dd
+.	.	make	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	laugh	.	.	.	.	.	.
+2I	D:maj	_	.	.	46.019	.	voice	2D 2f# 2a
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	If	.	.	.	.	.	.
+.	.	uh	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+2IV	G:maj	you	.	.	47.382	.	voice	2G 2b 2dd
+.	.	make	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	cry	.	C	.	.	.	.
+2I	D:maj	_	.	.	48.744	.	voice	2D 2f# 2a
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1V	A:maj	.	.	.	50.107	newline	voice	1A 1cc# 1ee
+.	.	I	.	.	.	.	.	.
+.	.	be-	.	.	.	.	.	.
+.	.	-lieve	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+.	.	time	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+2I	D:maj	_	.	.	52.854	->newline	guitar	1D 1f# 1a
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2IV	G:maj	.	.	.	54.198	.	guitar	2G 2b 2dd
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+2V	A:maj	_	.	.	55.542	.	guitar	2A 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2IV	G:maj	.	.	.	56.887	.	guitar	2G 2b 2dd
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+2I	D:maj	.	.	.	58.231	newline	guitar	1D 1f# 1a
+2IV	G:maj	.	.	.	59.514	.	guitar	2G 2b 2dd
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+2V	A:maj	.	.	.	60.797	.	guitar	1A 1cc# 1ee
+2IV	G:maj	.	.	.	62.079	.	guitar	2G 2b 2dd
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	D:maj	You	.	.	63.362	newline	voice	1D 1f# 1a
+.	.	said	.	.	.	.	.	.
+.	.	we'd	.	.	.	.	.	.
+.	.	work	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	out	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	You	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+2V	A:sus4	said	.	.	65.961	.	voice	2A 2cc# 2ee
+.	.	that	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	had	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2V	A:maj	_	.	.	67.261	.	voice	2A 2cc# 2ee
+.	.	no	.	.	.	.	.	.
+.	.	doubt	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	that	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+1IV	G:maj	deep	.	.	68.561	newline	voice	1G 1b 1dd
+.	.	down	.	A	.	.	.	.
+.	.	we	.	.	.	.	.	.
+.	.	were	.	.	.	.	.	.
+.	.	rea-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-ly	.	.	.	.	.	.
+.	.	in	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	love	.	E	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+1I	D:maj	_	.	.	71.219	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+1I	D:maj	I'm	.	.	73.877	newline	voice	1D 1f# 1a
+.	.	tired	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	hold-	.	F	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-in'	.	.	.	.	.	.
+.	.	on	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+2V	A:sus4	feel-	.	.	76.544	.	voice	2A 2cc# 2ee
+.	.	-ing	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	know	.	F	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2V	A:maj	_	.	.	77.877	.	voice	2A 2cc# 2ee
+.	.	is	.	.	.	.	.	.
+.	.	gone	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+1IV	G:maj	.	.	.	79.21	newline	voice	1G 1b 1dd
+.	.	I	.	.	.	.	.	.
+.	.	do	.	.	.	.	.	.
+.	.	be-	.	.	.	.	.	.
+.	.	-lieve	.	.	.	.	.	.
+.	.	that	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	had	.	.	.	.	.	.
+.	.	e-	.	.	.	.	.	.
+.	.	-nough	.	E	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+1I	D:maj	.	.	.	81.869	.	voice	1D 1f# 1a
+.	.	I've	.	.	.	.	.	.
+.	.	had	.	.	.	.	.	.
+.	.	e-	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1V	A:maj	-nough	.	.	84.528	newline	voice	1A 1cc# 1ee
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	false-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-ness	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	worn	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+2IV	G:maj	_	.	.	87.187	.	voice	2G 2b 2dd
+.	.	out	.	.	.	.	.	.
+.	.	re-	.	.	.	.	.	.
+.	.	-la-	.	(F	.	.	.	.
+2I	D:maj	_	.	.	88.517	.	voice	2D 2f# 2a
+.	.	-tion	.	f)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	E-	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+1V	A:maj	-nough	.	.	89.846	newline	voice	1A 1cc# 1ee
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	jea-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-lous-	.	.	.	.	.	.
+.	.	-y	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+2IV	G:maj	in-	.	.	92.472	.	voice	2G 2b 2dd
+.	.	-to-	.	.	.	.	.	.
+.	.	-ler-	.	.	.	.	.	.
+.	.	-a-	.	(F	.	.	.	.
+2I	D:maj	_	.	.	93.784	.	voice	2D 2f# 2a
+.	.	-tion	.	f)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+2IV	G:maj	I'll	.	.	95.097	newline	voice	2G 2b 2dd
+.	.	make	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	laugh	.	.	.	.	.	.
+2I	D:maj	_	.	.	96.399	.	voice	2D 2f# 2a
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	And	.	.	.	.	.	.
+.	.	uh	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+2IV	G:maj	you	.	.	97.702	.	voice	2G 2b 2dd
+.	.	make	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	cry	.	C	.	.	.	.
+2I	D:maj	_	.	.	99.004	.	voice	2D 2f# 2a
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1V	A:maj	.	.	.	100.306	newline	voice	1A 1cc# 1ee
+.	.	I	.	.	.	.	.	.
+.	.	be-	.	.	.	.	.	.
+.	.	-lieve	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+.	.	time	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+2I	D:maj	_	.	.	103.005	newline	guitar	2.D 2.f# 2.a
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2IV	G:maj	.	.	.	104.318	.	guitar	4G 4b 4dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+1I	D:maj	_	.	.	105.63	.	guitar	1D 1f# 1a
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Time	.	.	.	.	.
+.	.	.	for	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	to	.	.	.	.	.
+.	.	.	fly	C	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1V	A:maj	.	_	.	108.255	newline	voice	1A 1cc# 1ee
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	_	.	.	.	.	.
+.	.	set	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+2IV	G:maj	_	_	.	110.901	.	voice	2G 2b 2dd
+.	.	my	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	self	.	.	.	.	.	.
+.	.	free	.	B	.	.	.	.
+2I	D:maj	_	Time	.	112.224	.	voice	2D 2f# 2a
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	for	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	to	.	.	.	.	.
+.	.	.	fly	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+1V	A:maj	.	_	.	113.547	newline	voice	1A 1cc# 1ee
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	And	.	.	.	.	.	.
+.	.	that's	.	.	.	.	.	.
+.	.	just	.	.	.	.	.	.
+.	.	how	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+2IV	G:maj	got	Ooh	.	116.234	.	voice	2G 2b 2dd
+.	.	to	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	_	B	.	.	.	.
+2I	D:maj	_	_	.	117.577	.	voice	2D 2f# 2a
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1IV	G:maj	.	.	.	118.92	newline	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	know	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	hurts	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	say	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	good-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1V	A:maj	-bye	.	C	121.47	.	voice	1A 1cc# 1ee
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+.	.	time	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+1IV	G:maj	_	.	.	124.02	newline	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+1V	A:maj	_	.	.	126.59	.	voice	1A 1cc# 1ee
+.	.	uh	.	.	.	.	.	.
+.	.	yeah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+1I	D:maj	_	.	.	129.16	newline	guitar	1D 1f# 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+1I	D:maj	.	.	.	131.772	.	guitar	1D 1f# 1a
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+1IV	G:maj	.	.	.	134.384	newline	guitar	1G 1b 1dd
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+1IV	G:maj	.	.	.	137.047	.	guitar	1G 1b 1dd
+.	.	Ooh	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	ba-	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+1V	A:sus4	_	.	.	139.71	newline	guitar	1A 1cc# 1ee
+.	.	-by	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+1V	A:maj	_	.	.	142.353	.	guitar	1A 1cc# 1ee
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+2I	D:maj	.	.	.	144.997	newline	guitar	1D 1f# 1a
+2IV	G:maj	.	.	.	146.264	.	guitar	2G 2b 2dd
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1I	D:maj	.	.	.	147.531	.	guitar	1D 1f# 1a
+.	.	Uh	.	.	.	.	.	.
+.	.	don't	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	know	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+.	.	Time	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1V	A:maj	_	Fly	.	150.065	newline	voice	1A 1cc# 1ee
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	set	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+2IV	G:maj	_	_	.	152.683	.	voice	2G 2b 2dd
+.	.	my	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	self	.	.	.	.	.	.
+.	.	free	_	B	.	.	.	.
+2I	D:maj	_	Time	.	153.993	.	voice	2D 2f# 2a
+.	.	_	.	.	.	.	.	.
+.	.	.	for	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Oh	to	.	.	.	.	.
+.	.	_	fly	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+1V	A:maj	_	_	.	155.302	newline	voice	1A 1cc# 1ee
+.	.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	that's	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	how	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+.	.	uh	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+2IV	G:maj	got	.	.	157.889	.	voice	2G 2b 2dd
+.	.	to	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	B	.	.	.	.
+2I	D:maj	_	.	.	159.182	.	voice	2D 2f# 2a
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+1IV	G:maj	_	.	.	160.476	newline	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	know	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	hurts	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	say	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	good-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+2V	A:sus4	-bye	.	C	163.075	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+2V	A:maj	time	.	.	164.374	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+1IV	G:maj	_	.	.	165.674	newline	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	uh	.	.	.	.	.	.
+.	.	yeah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+1V	A:maj	_	.	.	168.282	.	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+.	.	time	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+1IV	G:maj	_	.	.	170.891	newline	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	ee	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	ee	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+1V	A:maj	_	.	.	173.467	.	voice	1A 1cc# 1ee
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+.	.	time	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+2I	D:maj	_	.	.	176.043	newline	voice	2.D 2.f# 2.a
+2IV	G:maj	.	.	.	177.355	.	voice	4G 4b 4dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+2V	A:maj	_	.	.	178.666	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	it's	.	.	.	.	.
+2IV	G:maj	.	time	.	179.977	.	voice	2G 2b 2dd
+.	.	.	for	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	to	.	.	.	.	.
+.	.	.	fly	C	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+2I	D:maj	.	_	.	181.288	newline	voice	2D 2f# 2a
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+2IV	G:maj	.	_	.	182.583	.	voice	2G 2b 2dd
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+2V	A:maj	.	_	.	183.877	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+2IV	G:maj	time	.	.	185.171	.	voice	2G 2b 2dd
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+2I	D:maj	_	.	.	186.466	newline	voice	2.D 2.f# 2.a
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2IV	G:maj	.	.	.	187.753	.	voice	4G 4b 4dd
+.	.	_	.	.	.	.	.	.
+.	.	uh	.	.	.	.	.	.
+.	.	yeah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+2V	A:maj	_	.	.	189.039	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	it's	.	.	.	.	.	.
+2IV	G:maj	time	.	.	190.326	.	voice	2G 2b 2dd
+.	.	_	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	fly	.	C	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1IV	G:maj	_	.	.	191.613	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1I	D:maj	.	.	.	194.187	newline	voice	1D 1f# 1a
+1r;	N	.	.	.	213.133	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1980/05/31, 1980/07/05
+!!!BillboardPeak: 56, 56
+!!!BillboardWeeksOnChart: 13, 13
+!!!COC: REO Speedwagon
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Time For Me To Fly
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 90, 86
+!!!SampleID#: 268, 910
+!!!SampleTargetRank: 90, 85
+!!!MBID: c5fe0d86-90f5-4609-b7ce-be31a85e82f7

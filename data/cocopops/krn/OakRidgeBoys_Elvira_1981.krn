@@ -1,0 +1,520 @@
+**harm	**harte	**silbe	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*
+*C:	*C:	*	*	*	*	*	*	*	*C:
+*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1I	C:maj	.	.	.	.	0.418	newline	r	1C 1e 1g
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1I	C:maj	.	.	.	.	2.398	.	r	1C 1e 1g
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1I	C:maj	.	.	.	.	4.379	newline	r	1C 1e 1g
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1I	C:maj	.	.	.	.	6.304	.	r	1C 1e 1g
+.	.	.	.	.	.	.	.	.	.
+.	.	El-	El-	El-	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	C:maj	-vi-	-vi-	-vi-	(A	8.229	newline	voice	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1I	C:maj	.	.	.	.	10.122	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.	.
+.	.	El	El	El	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1I	C:maj	vi-	vi-	vi-	(A	12.015	newline	voice	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1I	C:maj	.	.	.	.	13.933	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.	.
+.	.	My	My	My	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1I	C:maj	heart's	heart's	heart's	.	15.852	newline	voice	1C 1e 1g
+.	.	on	on	on	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1V	G:maj	fi	fi	fi	(A	17.777	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.	.
+.	.	re	re	re	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	for	for	for	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	El	El	El	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1I	C:maj	vi-	vi-	vi-	(A	19.703	.	voice	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1I	C:maj	.	.	.	.	21.629	.	voice	1C 1e 1g
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1Im7	C:7	Eyes	.	.	.	23.555	newline	.	1C 1e 1g 1b
+.	.	that	.	.	.	.	.	.	.
+.	.	l-	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	-look	.	.	.	.	.	.	.
+.	.	like	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1Im7	C:7	Hea-	.	.	.	25.458	.	.	1C 1e 1g 1b
+.	.	-ven	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1Im7	C:7	Lips	.	.	.	27.361	.	.	1C 1e 1g 1b
+.	.	like	.	.	.	.	.	.	.
+.	.	cher-	.	.	.	.	.	.	.
+.	.	-ry	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	wine	.	.	B	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1Im7	C:7	.	.	.	.	29.264	.	.	1C 1e 1g 1b
+.	.	.	.	.	.	.	.	.	.
+.	.	That	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+.	.	_	.	.	.	.	.	.	.
+1Im7	C:7	girl	.	.	.	31.167	.	.	1C 1e 1g 1b
+.	.	can	.	.	.	.	.	.	.
+.	.	sure	.	.	.	.	.	.	.
+.	.	e-	.	.	.	.	.	.	.
+.	.	-nough	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+.	.	_	.	.	.	.	.	.	.
+1Im7	C:7	make	.	.	.	33.07	.	.	1C 1e 1g 1b
+.	.	my	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	lit-	.	.	.	.	.	.	.
+.	.	-tle	.	.	.	.	.	.	.
+.	.	light	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1V7	G:7	shine	.	.	B	34.973	newline	.	1G 1b 1dd 1ff
+.	.	_	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1V7	G:7	_	.	.	.	36.876	.	.	1G 1b 1dd 1ff
+.	.	_	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+.	.	_	.	.	.	.	.	.	.
+1Im7	C:7	I	.	.	.	38.779	newline	.	1C 1e 1g 1b
+.	.	get	.	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.	.
+.	.	fun-	.	.	.	.	.	.	.
+.	.	-ny	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	fee-	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1Im7	C:7	-ling	.	.	.	40.66	.	.	1C 1e 1g 1b
+.	.	_	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1IVm7	F:7	up	.	.	.	42.54	newline	.	1F 1a 1cc 1ee
+.	.	and	.	.	.	.	.	.	.
+.	.	down	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.	.
+.	.	spine	.	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1IVm7	F:7	_	.	.	.	44.421	.	.	1F 1a 1cc 1ee
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1Im7	C:7	cuz	.	.	.	46.302	newline	.	1C 1e 1g 1b
+.	.	I	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	know	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	that	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+.	.	_	.	.	.	.	.	.	.
+1V7	G:7	my	.	.	.	48.207	.	.	1G 1b 1dd 1ff
+.	.	_	.	.	.	.	.	.	.
+.	.	El-	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	-vi-	.	.	.	.	.	.	.
+.	.	-ra's	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+.	.	_	.	.	.	.	.	.	.
+1Im7	C:7	mine	.	.	B	50.112	newline	.	1C 1e 1g 1b
+.	.	_	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1Im7	C:7	.	.	.	.	52.007	.	.	1C 1e 1g 1b
+.	.	Cuz	.	.	.	.	.	.	.
+.	.	I'm	.	.	.	.	.	.	.
+.	.	sing-	.	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.	.
+.	.	El-	El-	El-	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	C:maj	-vi-	-vi-	-vi-	(A	53.902	newline	.	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1I	C:maj	.	.	.	.	55.832	.	.	1C 1e 1g
+.	.	.	.	.	.	.	.	.	.
+.	.	El	El	El	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1I	C:maj	vi-	vi-	vi-	(A	57.762	newline	.	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+1I	C:maj	.	.	.	.	59.639	.	.	1C 1e 1g
+.	.	.	.	.	.	.	.	.	.
+.	.	My	My	My	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1I	C:maj	heart's	heart's	heart's	.	61.516	newline	.	1C 1e 1g
+.	.	on	on	on	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1V	G:maj	fi	fi	fi	(A	63.406	.	.	1G 1b 1dd
+.	.	_	.	.	.	.	.	.	.
+.	.	re	re	re	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	for	for	for	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	El	El	El	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1I	C:maj	vi-	vi-	vi-	(A	65.296	.	.	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+1I	C:maj	.	.	.	.	67.186	.	.	1C 1e 1g
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1I	C:maj	Gid-	Gid-	Gid-	.	69.076	newline	.	1C 1e 1g
+.	.	-dy	-dy	-dy	.	.	.	.	.
+.	.	up	up	up,	.	.	.	.	.
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-oom,	.	.	.	.	.
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-pa-	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+1I	C:1	.	.	-oom,	.	70.011	.	.	1C 1e 1g
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-pa-	.	.	.	.	.
+.	.	.	.	-maow-	.	.	.	.	.
+.	.	.	.	-maow,	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+1I	C:maj	Gid-	Gid-	gid-	.	72.815	.	.	1C 1e 1g
+.	.	-dy	-dy	-dy	.	.	.	.	.
+.	.	up	up	up,	.	.	.	.	.
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-oom,	.	.	.	.	.
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-pa-	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+1I	C:1	.	.	-oom,	.	73.75	.	.	1C 1e 1g
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-pa-	.	.	.	.	.
+.	.	.	.	-maow	.	.	.	.	.
+.	.	.	.	maow	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+1I	C:maj	Hi-	Hi-	hi-	.	76.554	newline	.	1C 1e 1g
+.	.	-ho,	-ho,	-ho,	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+1V	G:maj	Sil	Sil	Sil-	.	78.454	.	.	1G 1b 1dd
+.	.	_	.	.	.	.	.	.	.
+.	.	ver	ver	-ver	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	a-	a-	a-	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+1I	C:maj	-way	-way	-way	C	80.353	.	.	1C 1e 1g
+.	.	_	_	_	.	.	.	.	.
+.	.	_	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+1I	C:maj	.	.	.	.	82.253	.	.	1C 1e 1g
+.	.	.	.	.	.	.	.	.	.
+.	.	To-	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1Im7	C:7	-night,	.	.	.	84.152	newline	.	1C 1e 1g 1b
+.	.	I'm	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	gon-	.	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.	.
+.	.	meet	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+1Im7	C:7	_	.	.	.	86.05	.	.	1C 1e 1g 1b
+.	.	her	.	.	d	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	at	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+1Im7	C:7	Hun-	.	.	.	87.947	.	.	1C 1e 1g 1b
+.	.	-gry	.	.	.	.	.	.	.
+.	.	House	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	Ca-	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	-fe	.	.	C	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+1Im7	C:7	.	.	.	.	89.844	.	.	1C 1e 1g 1b
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	And	.	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+1Im7	C:7	I'm	.	.	.	91.741	.	.	1C 1e 1g 1b
+.	.	gon-	.	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.	.
+.	.	give	.	.	.	.	.	.	.
+.	.	her	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+.	.	_	.	.	.	.	.	.	.
+1Im7	C:7	all	.	.	.	93.639	.	.	1C 1e 1g 1b
+.	.	the	.	.	.	.	.	.	.
+.	.	love	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.	.
+.	.	can,	.	.	E	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+1V7	G:7	_	.	.	.	95.536	newline	.	1G 1b 1dd 1ff
+.	.	_	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.	.
+.	.	am	.	.	E	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+1V7	G:7	_	.	.	.	97.411	.	.	1G 1b 1dd 1ff
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+.	.	_	.	.	.	.	.	.	.
+1Im7	C:7	She's	.	.	.	99.285	newline	.	1C 1e 1g 1b
+.	.	gon-	.	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.	.
+.	.	jump	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	hol	.	.	(D	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+1Im7	C:7	_	.	.	.	101.188	.	.	1C 1e 1g 1b
+.	.	ler	.	.	d)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	cuz	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+.	.	_	.	.	.	.	.	.	.
+1IVm7	F:7	saved	.	.	.	103.091	newline	.	1F 1a 1cc 1ee
+.	.	up	.	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.	.
+.	.	last	.	.	.	.	.	.	.
+.	.	two	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	dol	.	.	(D	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+1IVm7	F:7	_	.	.	.	104.964	.	.	1F 1a 1cc 1ee
+.	.	_	.	.	.	.	.	.	.
+.	.	lars	.	.	d)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+1Im7	C:7	We	.	.	.	106.837	newline	.	1C 1e 1g 1b
+.	.	gon-	.	.	.	.	.	.	.
+.	.	-na	.	.	.	.	.	.	.
+.	.	search	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+.	.	_	.	.	.	.	.	.	.
+1V7	G:7	find	.	.	.	108.752	.	.	1G 1b 1dd 1ff
+.	.	_	.	.	.	.	.	.	.
+.	.	that	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	prea-	.	.	.	.	.	.	.
+.	.	-cher	.	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+.	.	_	.	.	.	.	.	.	.
+1Im7	C:7	man	.	.	E	110.667	newline	.	1C 1e 1g 1b
+.	.	_	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+1Im7	C:7	.	.	.	.	112.532	.	.	1C 1e 1g 1b
+.	.	And	.	.	.	.	.	.	.
+.	.	I'll	.	.	.	.	.	.	.
+.	.	be	.	.	.	.	.	.	.
+.	.	sin-	.	.	.	.	.	.	.
+.	.	-gin',	.	.	.	.	.	.	.
+.	.	El-	El-	El-	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	C:maj	-vi-	-vi-	-vi-	(A	114.396	newline	.	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
+1I	C:maj	.	.	.	.	116.266	.	.	1C 1e 1g
+.	.	.	.	.	.	.	.	.	.
+.	.	El	El	El	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+1I	C:maj	vi-	vi-	vi-	(A	118.136	newline	.	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+1I	C:maj	.	.	.	.	120.046	.	.	1C 1e 1g
+.	.	.	.	.	.	.	.	.	.
+.	.	My	My	My	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+1I	C:maj	heart's	heart's	heart's	.	121.956	newline	.	1C 1e 1g
+.	.	on	on	on	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+1V	G:maj	fi	fi	fi	(A	123.843	.	.	1G 1b 1dd
+.	.	_	.	.	.	.	.	.	.
+.	.	re	re	re	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	for	for	for	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	El	El	El	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+1I	C:maj	vi-	vi-	vi-	(A	125.73	.	.	1C 1e 1g
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+1I	C:maj	.	.	.	.	127.616	.	.	1C 1e 1g
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1I	C:maj	Gid-	Gid-	Gid-	.	129.503	newline	.	1C 1e 1g
+.	.	-dy	-dy	-dy	.	.	.	.	.
+.	.	up	up	up,	.	.	.	.	.
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-oom,	.	.	.	.	.
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-pa-	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+1I	C:1	.	.	-oom,	.	130.431	.	.	1C 1e 1g
+.	.	.	.	_	.	.	.	.	.
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-pa-	.	.	.	.	.
+.	.	.	.	-maow-	.	.	.	.	.
+.	.	.	.	-maow,	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+1I	C:maj	Gid-	Gid-	gid-	.	133.214	.	.	1C 1e 1g
+.	.	-dy	-dy	-dy	.	.	.	.	.
+.	.	up	up	up,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	oom,	.	.	.	.	.
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-pa-	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+1I	C:1	.	.	-oom,	.	134.142	.	.	1C 1e 1g
+.	.	.	.	pa-	.	.	.	.	.
+.	.	.	.	-pa-	.	.	.	.	.
+.	.	.	.	-maow	.	.	.	.	.
+.	.	.	.	maow	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+1I	C:maj	Hi-	Hi-	hi-	.	136.926	newline	.	1C 1e 1g
+.	.	-ho,	-ho,	-ho,	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+1V	G:maj	Sil	Sil	Sil-	.	138.801	.	.	1G 1b 1dd
+.	.	_	.	.	.	.	.	.	.
+.	.	ver	ver	-ver	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	a-	a-	a-	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+1I	C:maj	-way	-way	-way	C	140.677	.	.	1C 1e 1g
+.	.	_	_	_	.	.	.	.	.
+.	.	_	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
+*D-:	*D-:	*	*	*	*	*D-:	*D-:	*D-:	*D-:
+1V	A-:maj	.	.	.	.	142.553	.	.	1A- 1cc 1ee-
+.	.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	El-	El-	El-	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	D-:maj	-vi-	-vi-	-vi-	(A	144.428	newline	.	1D- 1f 1a-
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+1I	D-:maj	.	.	.	.	146.335	.	.	1D- 1f 1a-
+.	.	.	.	.	.	.	.	.	.
+.	.	El	El	El	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+1I	D-:maj	vi-	vi-	vi-	(A	148.242	newline	.	1D- 1f 1a-
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+1I	D-:maj	.	.	.	.	150.139	.	.	1D- 1f 1a-
+.	.	.	.	.	.	.	.	.	.
+.	.	My	My	My	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+1I	D-:maj	heart's	heart's	heart's	.	152.035	newline	voice	1D- 1f 1a-
+.	.	on	on	on	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+1V	A-:maj	fi	fi	fi	(A	153.318	.	voice	1A- 1cc 1ee-
+.	.	_	.	.	.	.	.	.	.
+.	.	re	re	re	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	for	for	for	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+.	.	El	El	El	.	.	.	.	.
+.	.	_	.	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
+1I	D-:maj	vi-	vi-	vi-	(A	154.6	.	voice	1D- 1f 1a-
+.	.	-ra	-ra	-ra	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
+1I	D-:maj	.	.	.	.	155.883	.	voice	1D- 1f 1a-
+1r;	N	.	.	.	.	157.165	.	r	1r;
+1r;	N	.	.	.	.	161.155	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1981/05/30
+!!!BillboardPeak: 5
+!!!BillboardWeeksOnChart: 22
+!!!COC: Oak Ridge Boys
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Elvira
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 48
+!!!SampleID#: 0864
+!!!SampleTargetRank: 48
+!!!MBID: bfc6eaa1-6e58-4411-aaaa-c27b7f925ff7

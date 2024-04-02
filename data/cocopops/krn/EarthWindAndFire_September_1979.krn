@@ -1,0 +1,770 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*A:	*A:	*	*	*	*	*	*	*A:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	.	.	r	1r;
+1r;	N	.	.	.	.	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+2IV7	D:maj7	.	.	.	0.21	newline	r	1D 1f# 1a 1cc#
+4iii7	C#:min7	.	.	.	.	.	r	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	.	.	.	.	.	r	4b 4dd 4ff# 4A
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+2iii7	C#:min7	.	.	.	.	.	r	1C# 1e 1g# 1b
+2vi7	F#:min7	.	.	.	.	.	r	2F# 2a 2cc# 2ee
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+2IV7	D:maj7	.	.	.	.	.	r	1D 1f# 1a 1cc#
+4iii7	C#:min7	.	.	.	.	.	r	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	.	.	.	.	.	r	4b 4dd 4ff# 4A
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+2iii7	C#:min7	.	.	.	.	.	r	1C# 1e 1g# 1b
+2vi7	F#:min7	.	.	.	.	.	r	2F# 2a 2cc# 2ee
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+2IV7	D:maj7	.	.	.	8.22	newline	r	1D 1f# 1a 1cc#
+4iii7	C#:min7	.	.	.	.	.	r	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	.	.	.	.	.	r	4b 4dd 4ff# 4A
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+2III7	C#:7	.	.	.	.	.	r	1C# 1e# 1g# 1b
+2vi7	F#:min7	.	.	.	.	.	r	2F# 2a 2cc# 2ee
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1Im7	A:11	.	.	.	.	.	r	1A 1cc# 1ee 1gg#
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1Im7	A:11	.	.	.	.	.	r	1A 1cc# 1ee 1gg#
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1Im7	A:11	.	.	.	17.89	newline	r	1A 1cc# 1ee 1gg#
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+1Im7	A:11	.	.	.	.	.	r	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+.	.	Do	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	re-	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+2IV7	D:maj7	-mem-	.	(A	19.845	newline	voice	2.D 2.f# 2.a 2.cc#
+.	.	-ber	.	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	.	.	.	.	.	voice	4b 4dd 4ff# 4A
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+2iii7	C#:min7	twen-	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	-ty	.	.	.	.	.	.
+.	.	first	.	.	.	.	.	.
+.	.	night	.	B	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	Sep-	.	.	.	.	.	.
+.	.	-tem-	.	(A	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+2IV7	D:maj7	-ber?.	.	a)	.	.	voice	2.D 2.f# 2.a 2.cc#
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	Love	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	was	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+2iii7	C#:min7	chang-	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	-ing	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	minds	.	B	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	of	.	.	.	.	.	.
+.	.	pre-	.	.	.	.	.	.
+.	.	-ten-	.	(A	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+2IV7	D:maj7	-ders|	.	a)	27.555	newline	voice	2.D 2.f# 2.a 2.cc#
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	while	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	_	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+2III7	C#:7	chas-	.	.	.	.	voice	2C# 2e# 2g# 2b
+.	.	-ing	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	clouds	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	a-	.	.	.	.	.	.
+.	.	-way.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+.	.	Our	.	.	.	.	.	.
+.	.	hearts	.	.	.	.	.	.
+.	.	were	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+2IV7	D:maj7	ring-	.	(C	35.225	newline	voice	2D 2f# 2a 2cc#
+.	.	-ing	.	c)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+.	.	in	.	.	.	.	.	.
+4ii7d	B:min7/b7	the	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	key	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+2iii7	C#:min7	_	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	that	.	.	.	.	.	.
+.	.	our	.	.	.	.	.	.
+.	.	souls	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	were	.	(C	.	.	.	.
+.	.	sing-	.	c)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+2IV7	D:maj7	-ing|	.	.	.	.	voice	2.D 2.f# 2.a 2.cc#
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	as	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	we	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+2iii7	C#:min7	danced	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	in	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	night.	.	B	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	Re-	.	.	.	.	.	.
+.	.	-mem-	.	(A	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+2IV7	D:maj7	-ber	.	a)	42.955	newline	voice	2.D 2.f# 2.a 2.cc#
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	how	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	the	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+2III7	C#:7	stars	.	.	.	.	voice	2C# 2e# 2g# 2b
+.	.	stole	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	night	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	a-	.	.	.	.	.	.
+.	.	-way.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	_	.	.	.	.	.	.
+.	.	_	[Ah	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	ah	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	ah.]	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2ii7	B:min7	.	[Ba-	.	50.615	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	.	-de-	.	.	.	.	.
+.	.	.	-ya.]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+2iii7	C#:min7	.	Say	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	do	.	.	.	.	.
+.	.	.	you	.	.	.	.	.
+.	.	.	re-	.	.	.	.	.
+2vi7	F#:min7	.	-mem-	(A	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+2ii7	B:min7	.	[Ba-	.	.	.	voice	2.B 2.dd 2.ff# 2.aa
+.	.	.	-de-	.	.	.	.	.
+.	.	.	-ya]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	.	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+2I7b	A:maj9/3	.	danc-	.	.	.	voice	2a 2C# 2ee 2gg#
+.	.	.	-ing	.	.	.	.	.
+.	.	.	in	.	.	.	.	.
+.	.	.	Sep-	.	.	.	.	.
+2vi7	F#:min7	.	-tem-	(A	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber?.	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+2ii7	B:min7	.	[Ba-	.	58.33	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	.	-de-	.	.	.	.	.
+.	.	.	-ya]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+2iii7	C#:min7	.	ne-	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	-ver	.	.	.	.	.
+.	.	.	was	.	.	.	.	.
+.	.	.	a	.	.	.	.	.
+2vi7	F#:min7	.	cloud-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-y	.	.	.	.	.
+.	.	.	day.	D	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+1I	A:sus4(b7,9)	.	_	.	.	.	voice	1A 1cc# 1ee
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+1I	A:sus4(b7,9)	.	_	.	.	.	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2IV7	D:maj7	[Ba-	[Ba-	.	65.945	newline	voice	2D 2f# 2a 2cc#
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a,	.	.	.	.	.
+4iii7	C#:min7	Ba-	ba-	.	.	.	voice	4C# 4e 4g# 4b
+4I	A:maj6	-du-	-du-	.	.	.	voice	4A 4cc# 4ee
+.	.	-a,	-a,	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+2iii7	C#:min7	Ba-	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	ba-	.	.	.	.	.
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a,	.	.	.	.	.
+2vi7	F#:min11	Ba-	ba-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a,	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+2IV7	D:maj7	Ba-	Ba-	.	.	.	voice	2D 2f# 2a 2cc#
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a,	.	.	.	.	.
+4iii7	C#:min7	Ba-	ba-	.	.	.	voice	4C# 4e 4g# 4b
+4I	A:maj6	-du-	-du-	.	.	.	voice	4A 4cc# 4ee
+.	.	-a,	-a,	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+2iii7	C#:min7	Ba-	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	ba-	.	.	.	.	.
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a,	.	.	.	.	.
+2vi7	F#:min11	Ba-	ba-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a,	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+2ii7	B:min7	Ba-	Ba-	.	73.495	newline	voice	2B 2dd 2ff# 2aa
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a,	.	.	.	.	.
+2V7	E:9	Ba-	ba-	.	.	.	voice	2E 2g# 2b 2dd
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a,	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+2iii7	C#:min7	Ba-	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	Ba-	.	.	.	.	.
+.	.	-du-	-du-	.	.	.	.	.
+.	.	-a,	-a.]	.	.	.	.	.
+2vi7	F#:min7	ba-	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	-du	.	.	.	.	.	.
+.	.	way.]	.	D	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1Im7	A:11	.	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+.	.	My	.	.	.	.	.	.
+.	.	thoughts	.	.	.	.	.	.
+.	.	are	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+2IV7	D:maj7	with	.	.	81.025	newline	voice	2D 2f# 2a 2cc#
+.	.	you	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+.	.	Hold-	.	.	.	.	.	.
+4ii7d	B:min7/b7	-ing	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	hands	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+2iii7	C#:min7	_	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	with	.	.	.	.	.	.
+.	.	your	.	.	.	.	.	.
+.	.	heart	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	to	.	.	.	.	.	.
+.	.	see	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+2IV7	D:maj7	_	.	.	.	.	voice	2.D 2.f# 2.a 2.cc#
+.	.	you.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	On-	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	-ly	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+2iii7	C#:min7	blue	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	talk	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	love.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	Re-	.	.	.	.	.	.
+.	.	-mem-	.	(A	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+2IV7	D:maj7	-ber	.	a)	88.65	newline	voice	2.D 2.f# 2.a 2.cc#
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	how	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	we	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+2III7	C#:7	knew	.	.	.	.	voice	2C# 2e# 2g# 2b
+.	.	love	.	.	.	.	.	.
+.	.	was	.	.	.	.	.	.
+.	.	here	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	to	.	.	.	.	.	.
+.	.	stay.	.	D	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+.	.	Now	.	.	.	.	.	.
+.	.	De-	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+2IV7	D:maj7	-cem-	.	(A	96.25	newline	voice	2D 2f# 2a 2cc#
+.	.	-ber	.	a)	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+.	.	found	.	.	.	.	.	.
+4ii7d	B:min7/b7	the	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	love	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+2iii7	C#:min7	_	.	.	.	.	voice	3...C# 3...e 3...g# 3...b
+.	.	we	.	.	.	.	.	.
+.	.	shared	.	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4.F# 4.a 4.cc# 4.ee
+.	.	in	.	.	.	.	.	.
+.	.	Sep-	.	.	.	.	.	.
+.	.	-tem-	.	(A	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+2IV7	D:maj7	-ber.	.	a)	.	.	voice	3...D 3...f# 3...a 3...cc#
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	8C# 8e 8g# 8b
+.	.	On-	.	.	.	.	.	.
+4ii7d	B:min7/b7	-ly	.	.	.	.	voice	4b 4dd 4ff# 4A
+.	.	blue	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+2iii7	C#:min7	_	.	.	.	.	voice	2.C# 2.e 2.g# 2.b
+.	.	talk	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	love.	.	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4F# 4a 4cc# 4ee
+.	.	Re-	.	.	.	.	.	.
+.	.	-mem-	.	(A	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+2IV7	D:maj7	-ber	.	a)	103.89	newline	voice	2.D 2.f# 2.a 2.cc#
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+4iii7	C#:min7	.	.	.	.	.	voice	4C# 4e 4g# 4b
+4ii7d	B:min7/b7	.	.	.	.	.	voice	4b 4dd 4ff# 4A
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+2III7	C#:7	True	.	.	.	.	voice	2C# 2e# 2g# 2b
+.	.	love	.	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+.	.	share	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	to	.	.	.	.	.	.
+.	.	day	.	D	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	_	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	[Ah	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	ah	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	ah.]	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	yes	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2ii7	B:min7	_	[Ba-	.	111.46	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	_	-de-	.	.	.	.	.
+.	.	yes.	-ya.]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+2iii7	C#:min7	.	Say	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	do	.	.	.	.	.
+.	.	.	you	.	.	.	.	.
+.	.	.	re-	.	.	.	.	.
+2vi7	F#:min7	.	-mem-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+2ii7	B:min7	.	[Ba-	.	.	.	voice	2B 2dd 2ff# 2aa
+.	.	.	-de-	.	.	.	.	.
+.	.	.	-ya]	.	.	.	.	.
+2V7	E:9	[Ooh-	.	.	.	.	voice	2E 2g# 2b 2dd
+.	.	-oh.]	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+2I7b	A:maj9/3	_	danc-	.	.	.	voice	2a 2C# 2ee 2gg#
+.	.	.	-ing	.	.	.	.	.
+.	.	.	in	.	.	.	.	.
+.	.	.	Sep-	.	.	.	.	.
+2vi7	F#:min7	_	-tem-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	_	-ber?.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+2ii7	B:min7	_	[Ba-	.	119.08	newline	voice	2B 2dd 2ff# 2aa
+.	.	.	-de-	.	.	.	.	.
+.	.	.	-ya]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	2E 2g# 2b 2dd
+.	.	[Eh-	.	.	.	.	.	.
+.	.	-hey.]	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+2iii7	C#:min7	_	ne-	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	-ver	.	.	.	.	.
+.	.	.	was	.	.	.	.	.
+.	.	.	a	.	.	.	.	.
+2vi7	F#:min7	.	cloud-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-y	.	.	.	.	.
+.	.	.	day.	D	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+1Im7	A:11	.	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+*	*	*	*	*	*	*	*	*
+1Im7	A:11	.	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+.	.	There	There	.	.	.	.	.
+.	.	was	was	.	.	.	.	.
+.	.	a	a	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+2ii7	B:min7	Ba-	Ba-	.	126.59	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya.	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+2iii7	C#:min7	_	Say	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	do	.	.	.	.	.
+.	.	de-	you	.	.	.	.	.
+.	.	-ya.	re-	(A	.	.	.	.
+2vi7	F#:min7	.	-mem-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+2ii7	B:min7	[Ba-	[Ba-	.	.	.	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+2I7b	A:maj9/3	_	danc-	.	.	.	voice	2a 2C# 2ee 2gg#
+.	.	.	-ing	.	.	.	.	.
+.	.	de-	in	.	.	.	.	.
+.	.	-ya.]	Sep-	.	.	.	.	.
+2vi7	F#:min7	.	-tem-	(A	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber?.	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+2ii7	B:min7	[Ba-	[Ba-	.	134.19	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+2iii7	C#:min7	_	Gol-	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	-den	.	.	.	.	.
+.	.	de-	dreams	.	.	.	.	.
+.	.	-ya.	were	.	.	.	.	.
+2vi7	F#:min7	.	shi-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+.	.	de-	-ny	.	.	.	.	.
+.	.	-ya.]	days.	D	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+2ii7	B:min7	.	.	.	141.775	newline	voice	2B 2dd 2ff# 2aa
+.	.	The	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	bell	.	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	2E 2g# 2b 2dd
+.	.	was	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	ring-	.	(C	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+2iii7	C#:min7	-ing.	.	c)	.	.	voice	3...C# 3...e 3...g# 3...b
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4.F# 4.a 4.cc# 4.ee
+.	.	a-	.	.	.	.	.	.
+.	.	-ha.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+2ii7	B:min7	.	.	.	.	.	voice	2B 2dd 2ff# 2aa
+.	.	Our	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	souls	.	.	.	.	.	.
+2V7	E:9	_	.	.	.	.	voice	2E 2g# 2b 2dd
+.	.	were	.	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+2I7b	A:maj9/3	sing-	.	(C	.	.	voice	2a 2C# 2ee 2gg#
+.	.	-ing.	.	c)	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+2ii7	B:min7	.	.	.	149.37	newline	voice	2B 2dd 2ff# 2aa
+.	.	Do	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	re-	.	.	.	.	.	.
+2V7	E:9	-mem-	.	(A	.	.	voice	2E 2g# 2b 2dd
+.	.	-ber?.	.	a)	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+2iii7	C#:min7	ne-	.	.	.	.	voice	2C# 2e 2g# 2b
+.	.	-ver	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	cloud-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+2vi7	F#:min7	_	.	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	-y	.	.	.	.	.	.
+.	.	day	.	D	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+1Im7	A:11	_	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+.	.	yaow.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+1Im7	A:11	.	.	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+.	.	And	And	.	.	.	.	.
+.	.	we	we	.	.	.	.	.
+.	.	said	said	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2ii7	B:min7	Ba-	Ba-	.	156.925	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya.	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+2iii7	C#:min7	_	Say	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	do	.	.	.	.	.
+.	.	de-	you	.	.	.	.	.
+.	.	-ya.	re-	.	.	.	.	.
+2vi7	F#:min7	.	-mem-	(A	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+2ii7	B:min7	[Ba-	[Ba-	.	.	.	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+2I7b	A:maj9/3	_	danc-	.	.	.	voice	2a 2C# 2ee 2gg#
+.	.	.	-ing	.	.	.	.	.
+.	.	de-	in	.	.	.	.	.
+.	.	-ya]	Sep-	.	.	.	.	.
+2vi7	F#:min7	.	-tem-	(A	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber?.	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+2ii7	B:min7	[Ba-	[Ba-	.	164.5	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+2iii7	C#:min7	_	ne-	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	-ver	.	.	.	.	.
+.	.	de-	was	.	.	.	.	.
+.	.	-ya.	a	.	.	.	.	.
+2vi7	F#:min7	.	cloud-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+.	.	de-	-y	.	.	.	.	.
+.	.	-ya]	day.	D	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+.	.	And	And	.	.	.	.	.
+.	.	we	we	.	.	.	.	.
+.	.	said	said	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+2ii7	B:min7	Ba-	Ba-	.	172.03	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya.	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92	=92
+2iii7	C#:min7	_	Say	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	do	.	.	.	.	.
+.	.	de-	you	.	.	.	.	.
+.	.	-ya.	re-	.	.	.	.	.
+2vi7	F#:min7	.	-mem-	(A	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93
+2ii7	B:min7	[Ba-	[Ba-	.	.	.	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya]	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94	=94
+2I7b	A:maj9/3	_	danc-	.	.	.	voice	2a 2C# 2ee 2gg#
+.	.	.	-ing	.	.	.	.	.
+.	.	de-	in	.	.	.	.	.
+.	.	-ya.]	Sep-	.	.	.	.	.
+2vi7	F#:min7	.	-tem-	(A	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	-ber?.	a)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95	=95
+2ii7	B:min7	[Ba-	Ba-	.	179.53	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	.	.	.	.	.	.
+.	.	-ya	.	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96
+2iii7	C#:min7	_	gol-	.	.	.	voice	2C# 2e 2g# 2b
+.	.	.	-den	.	.	.	.	.
+.	.	de-	dreams	.	.	.	.	.
+.	.	-ya	were	.	.	.	.	.
+2vi7	F#:min7	.	shi-	.	.	.	voice	2F# 2a 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+.	.	de-	-ny	.	.	.	.	.
+.	.	-ya.]	days.	D	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+=98	=98	=98	=98	=98	=98	=98	=98	=98
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99
+2ii7	B:min7	[Ba-	[Ba-	.	187.065	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100
+2iii7	C#:min7	_	_	.	.	.	voice	2.C# 2.e 2.g# 2.b
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya.]	-ya.]	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4F# 4a 4cc# 4ee
+.	.	.	.	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101
+2ii7	B:min7	[Ba-	[Ba-	.	.	.	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+=102	=102	=102	=102	=102	=102	=102	=102	=102
+2I7b	A:maj9/3	_	_	.	.	.	voice	2.a 2.C# 2.ee 2.gg#
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya.]	-ya.]	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4F# 4a 4cc# 4ee
+.	.	.	.	.	.	.	.	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103
+2ii7	B:min7	[Ba-	[Ba-	.	194.54	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+=104	=104	=104	=104	=104	=104	=104	=104	=104
+2iii7	C#:min7	_	_	.	.	.	voice	3...C# 3...e 3...g# 3...b
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4.F# 4.a 4.cc# 4.ee
+.	.	.	.	.	.	.	.	.
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya.]	-ya.]	.	.	.	.	.
+=105	=105	=105	=105	=105	=105	=105	=105	=105
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+=106	=106	=106	=106	=106	=106	=106	=106	=106
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+=107	=107	=107	=107	=107	=107	=107	=107	=107
+2ii7	B:min7	[Ba-	[Ba-	.	202	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+=108	=108	=108	=108	=108	=108	=108	=108	=108
+2iii7	C#:min7	_	_	.	.	.	voice	2.C# 2.e 2.g# 2.b
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya]	-ya]	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4F# 4a 4cc# 4ee
+.	.	.	.	.	.	.	.	.
+=109	=109	=109	=109	=109	=109	=109	=109	=109
+2ii7	B:min7	[Ba-	[Ba-	.	.	.	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+=110	=110	=110	=110	=110	=110	=110	=110	=110
+2I7b	A:maj9/3	_	_	.	.	.	voice	2.a 2.C# 2.ee 2.gg#
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya]	-ya]	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4F# 4a 4cc# 4ee
+.	.	.	.	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111	=111
+2ii7	B:min7	[Ba-	[Ba-	.	209.47	newline	voice	2.B 2.dd 2.ff# 2.aa
+.	.	-de-	-de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2V7	E:9	.	.	.	.	.	voice	4E 4g# 4b 4dd
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+=112	=112	=112	=112	=112	=112	=112	=112	=112
+2iii7	C#:min7	_	_	.	.	.	voice	3...C# 3...e 3...g# 3...b
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya	-ya	.	.	.	.	.
+2vi7	F#:min7	.	.	.	.	.	voice	4.F# 4.a 4.cc# 4.ee
+.	.	.	.	.	.	.	.	.
+.	.	de-	de-	.	.	.	.	.
+.	.	-ya.]	-ya.]	.	.	.	.	.
+=113	=113	=113	=113	=113	=113	=113	=113	=113
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+=114	=114	=114	=114	=114	=114	=114	=114	=114
+1Im7	A:11	_	_	.	.	.	voice	1A 1cc# 1ee 1gg#
+.	.	.	.	.	.	.	.	.
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1979/01/06
+!!!BillboardPeak: 8
+!!!BillboardWeeksOnChart: 17
+!!!COC: Earth, Wind & Fire
+!!!EMD: The song is the key of A, not D, as the harmonic transcription originally had. (I also believe the A chord at the end of each phrase is not a dominant chord).
+!!!EMD: This harmonic transcription was way too short. I added the material to match the correct recording (just repeating the same chord progression).
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: September
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 15
+!!!SampleID#: 0804
+!!!SampleTargetRank: 16
+!!!MBID: 661d35c3-6ade-4367-af96-6c2898149906
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2023-11-04

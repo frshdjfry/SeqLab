@@ -1,0 +1,246 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*E-:	*E-:	*	*	*	*E-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+1Im7	E-:7(#9)	0.279	newline	voice	1E- 1g 1b- 1dd
+=2	=2	=2	=2	=2	=2
+1Im7	E-:7(#9)	1.939	.	voice	1E- 1g 1b- 1dd
+=3	=3	=3	=3	=3	=3
+1Im7	E-:7(#9)	3.6	.	voice	1E- 1g 1b- 1dd
+=4	=4	=4	=4	=4	=4
+1Im7	E-:7(#9)	5.26	.	voice	1E- 1g 1b- 1dd
+=5	=5	=5	=5	=5	=5
+1Im7	E-:7(#9)	6.921	newline	voice	1E- 1g 1b- 1dd
+=6	=6	=6	=6	=6	=6
+1Im7	E-:7(#9)	8.45	.	voice	1E- 1g 1b- 1dd
+=7	=7	=7	=7	=7	=7
+1Im7	E-:7(#9)	9.979	.	voice	1E- 1g 1b- 1dd
+=8	=8	=8	=8	=8	=8
+1Im7	E-:7(#9)	11.508	.	voice	1E- 1g 1b- 1dd
+=9	=9	=9	=9	=9	=9
+1V7	B-:7	13.037	newline	voice	1B- 1dd 1ff 1aa-
+=10	=10	=10	=10	=10	=10
+1IVm7	A-:7	14.567	.	voice	1A- 1cc 1ee- 1gg
+=11	=11	=11	=11	=11	=11
+1Im7	E-:7	16.098	.	voice	1E- 1g 1b- 1dd
+=12	=12	=12	=12	=12	=12
+4Im7	E-:7	17.628	.	voice	4E- 4g 4b- 4dd
+2.V7c	B-:7/5	18.011	.	voice	2b- 2dd 2F 2aa-
+=13	=13	=13	=13	=13	=13
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	E-:7	19.159	newline	voice	1E- 1g 1b- 1dd
+=14	=14	=14	=14	=14	=14
+1Im7	E-:7	20.658	.	voice	1E- 1g 1b- 1dd
+=15	=15	=15	=15	=15	=15
+1Im7	E-:7	22.157	.	voice	1E- 1g 1b- 1dd
+=16	=16	=16	=16	=16	=16
+1Im7	E-:7	23.656	.	voice	1E- 1g 1b- 1dd
+=17	=17	=17	=17	=17	=17
+1Im7	E-:7	25.155	newline	voice	1E- 1g 1b- 1dd
+=18	=18	=18	=18	=18	=18
+1Im7	E-:7	26.666	.	voice	1E- 1g 1b- 1dd
+=19	=19	=19	=19	=19	=19
+1Im7	E-:7	28.178	.	voice	1E- 1g 1b- 1dd
+=20	=20	=20	=20	=20	=20
+1Im7	E-:7	29.689	.	voice	1E- 1g 1b- 1dd
+=21	=21	=21	=21	=21	=21
+1V7	B-:7	31.2	newline	voice	1B- 1dd 1ff 1aa-
+=22	=22	=22	=22	=22	=22
+1V7	B-:7	32.704	.	voice	1B- 1dd 1ff 1aa-
+=23	=23	=23	=23	=23	=23
+1V7	B-:7	34.208	.	voice	1B- 1dd 1ff 1aa-
+=24	=24	=24	=24	=24	=24
+1V7	B-:7	35.711	.	voice	1B- 1dd 1ff 1aa-
+=25	=25	=25	=25	=25	=25
+1V7	B-:7	37.215	newline	voice	1B- 1dd 1ff 1aa-
+=26	=26	=26	=26	=26	=26
+1V7	B-:7	38.726	.	voice	1B- 1dd 1ff 1aa-
+=27	=27	=27	=27	=27	=27
+1V7	B-:7	40.236	.	voice	1B- 1dd 1ff 1aa-
+=28	=28	=28	=28	=28	=28
+1V7	B-:7	41.747	.	voice	1B- 1dd 1ff 1aa-
+=29	=29	=29	=29	=29	=29
+*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+1Im7	E-:7(#9)	43.257	newline	voice	1E- 1g 1b- 1dd
+=30	=30	=30	=30	=30	=30
+1Im7	E-:7(#9)	44.787	.	voice	1E- 1g 1b- 1dd
+=31	=31	=31	=31	=31	=31
+1Im7	E-:7(#9)	46.316	.	voice	1E- 1g 1b- 1dd
+=32	=32	=32	=32	=32	=32
+1Im7	E-:7(#9)	47.846	.	voice	1E- 1g 1b- 1dd
+=33	=33	=33	=33	=33	=33
+1Im7	E-:7(#9)	49.375	newline	voice	1E- 1g 1b- 1dd
+=34	=34	=34	=34	=34	=34
+1Im7	E-:7(#9)	50.906	.	voice	1E- 1g 1b- 1dd
+=35	=35	=35	=35	=35	=35
+1Im7	E-:7(#9)	52.436	.	voice	1E- 1g 1b- 1dd
+=36	=36	=36	=36	=36	=36
+1Im7	E-:7(#9)	53.967	.	voice	1E- 1g 1b- 1dd
+=37	=37	=37	=37	=37	=37
+1V7	B-:7	55.497	newline	voice	1B- 1dd 1ff 1aa-
+=38	=38	=38	=38	=38	=38
+1IVm7	A-:7	57.033	.	voice	1A- 1cc 1ee- 1gg
+=39	=39	=39	=39	=39	=39
+1Im7	E-:7	58.568	.	voice	1E- 1g 1b- 1dd
+=40	=40	=40	=40	=40	=40
+4Im7	E-:7	60.103	.	voice	4E- 4g 4b- 4dd
+2.V7c	B-:7/5	60.487	.	voice	2b- 2dd 2F 2aa-
+=41	=41	=41	=41	=41	=41
+*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1Im7	E-:7	61.638	newline	saxophone	1E- 1g 1b- 1dd
+=42	=42	=42	=42	=42	=42
+1Im7	E-:7	63.158	.	saxophone	1E- 1g 1b- 1dd
+=43	=43	=43	=43	=43	=43
+1Im7	E-:7	64.677	.	saxophone	1E- 1g 1b- 1dd
+=44	=44	=44	=44	=44	=44
+1Im7	E-:7	66.197	.	saxophone	1E- 1g 1b- 1dd
+=45	=45	=45	=45	=45	=45
+1Im7	E-:7	67.716	newline	saxophone	1E- 1g 1b- 1dd
+=46	=46	=46	=46	=46	=46
+1Im7	E-:7	69.229	.	saxophone	1E- 1g 1b- 1dd
+=47	=47	=47	=47	=47	=47
+1Im7	E-:7	70.741	.	saxophone	1E- 1g 1b- 1dd
+=48	=48	=48	=48	=48	=48
+1Im7	E-:7	72.254	.	saxophone	1E- 1g 1b- 1dd
+=49	=49	=49	=49	=49	=49
+1V7	B-:7	73.766	newline	saxophone	1B- 1dd 1ff 1aa-
+=50	=50	=50	=50	=50	=50
+1V7	B-:7	75.277	.	saxophone	1B- 1dd 1ff 1aa-
+=51	=51	=51	=51	=51	=51
+1V7	B-:7	76.789	.	saxophone	1B- 1dd 1ff 1aa-
+=52	=52	=52	=52	=52	=52
+1V7	B-:7	78.3	.	saxophone	1B- 1dd 1ff 1aa-
+=53	=53	=53	=53	=53	=53
+1V7	B-:7	79.812	newline	saxophone	1B- 1dd 1ff 1aa-
+=54	=54	=54	=54	=54	=54
+1V7	B-:7	81.338	.	saxophone	1B- 1dd 1ff 1aa-
+=55	=55	=55	=55	=55	=55
+1V7	B-:7	82.864	.	saxophone	1B- 1dd 1ff 1aa-
+=56	=56	=56	=56	=56	=56
+1V7	B-:7	84.39	.	saxophone	1B- 1dd 1ff 1aa-
+=57	=57	=57	=57	=57	=57
+*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+1Im7	E-:7(#9)	85.917	newline	voice	1E- 1g 1b- 1dd
+=58	=58	=58	=58	=58	=58
+1Im7	E-:7(#9)	87.438	.	voice	1E- 1g 1b- 1dd
+=59	=59	=59	=59	=59	=59
+1Im7	E-:7(#9)	88.96	.	voice	1E- 1g 1b- 1dd
+=60	=60	=60	=60	=60	=60
+1Im7	E-:7(#9)	90.481	.	voice	1E- 1g 1b- 1dd
+=61	=61	=61	=61	=61	=61
+1Im7	E-:7(#9)	92.003	newline	voice	1E- 1g 1b- 1dd
+=62	=62	=62	=62	=62	=62
+1Im7	E-:7(#9)	93.537	.	voice	1E- 1g 1b- 1dd
+=63	=63	=63	=63	=63	=63
+1Im7	E-:7(#9)	95.07	.	voice	1E- 1g 1b- 1dd
+=64	=64	=64	=64	=64	=64
+1Im7	E-:7(#9)	96.604	.	voice	1E- 1g 1b- 1dd
+=65	=65	=65	=65	=65	=65
+1V7	B-:7	98.137	newline	voice	1B- 1dd 1ff 1aa-
+=66	=66	=66	=66	=66	=66
+1IVm7	A-:7	99.68	.	voice	1A- 1cc 1ee- 1gg
+=67	=67	=67	=67	=67	=67
+1Im7	E-:7	101.222	.	voice	1E- 1g 1b- 1dd
+=68	=68	=68	=68	=68	=68
+4Im7	E-:7	102.764	.	voice	4E- 4g 4b- 4dd
+2.V7c	B-:7/5	103.15	.	voice	2b- 2dd 2F 2aa-
+=69	=69	=69	=69	=69	=69
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	E-:7	104.306	newline	voice	1E- 1g 1b- 1dd
+=70	=70	=70	=70	=70	=70
+1Im7	E-:7	105.813	.	voice	1E- 1g 1b- 1dd
+=71	=71	=71	=71	=71	=71
+1Im7	E-:7	107.319	.	voice	1E- 1g 1b- 1dd
+=72	=72	=72	=72	=72	=72
+1Im7	E-:7	108.826	.	voice	1E- 1g 1b- 1dd
+=73	=73	=73	=73	=73	=73
+1Im7	E-:7	110.332	newline	voice	1E- 1g 1b- 1dd
+=74	=74	=74	=74	=74	=74
+1Im7	E-:7	111.843	.	voice	1E- 1g 1b- 1dd
+=75	=75	=75	=75	=75	=75
+1Im7	E-:7	113.355	.	voice	1E- 1g 1b- 1dd
+=76	=76	=76	=76	=76	=76
+1Im7	E-:7	114.866	.	voice	1E- 1g 1b- 1dd
+=77	=77	=77	=77	=77	=77
+1V7	B-:7	116.377	newline	voice	1B- 1dd 1ff 1aa-
+=78	=78	=78	=78	=78	=78
+1V7	B-:7	117.898	.	voice	1B- 1dd 1ff 1aa-
+=79	=79	=79	=79	=79	=79
+1V7	B-:7	119.418	.	voice	1B- 1dd 1ff 1aa-
+=80	=80	=80	=80	=80	=80
+1V7	B-:7	120.939	.	voice	1B- 1dd 1ff 1aa-
+=81	=81	=81	=81	=81	=81
+1V7	B-:7	122.459	newline	voice	1B- 1dd 1ff 1aa-
+=82	=82	=82	=82	=82	=82
+1V7	B-:7	123.979	.	voice	1B- 1dd 1ff 1aa-
+=83	=83	=83	=83	=83	=83
+1V7	B-:7	125.498	.	voice	1B- 1dd 1ff 1aa-
+=84	=84	=84	=84	=84	=84
+1V7	B-:7	127.018	.	voice	1B- 1dd 1ff 1aa-
+=85	=85	=85	=85	=85	=85
+*>A2_chorus	*>A2_chorus	*>A2_chorus	*>A2_chorus	*>A2_chorus	*>A2_chorus
+1Im7	E-:7(#9)	128.537	newline	voice	1E- 1g 1b- 1dd
+=86	=86	=86	=86	=86	=86
+1Im7	E-:7(#9)	130.071	.	voice	1E- 1g 1b- 1dd
+=87	=87	=87	=87	=87	=87
+1Im7	E-:7(#9)	131.604	.	voice	1E- 1g 1b- 1dd
+=88	=88	=88	=88	=88	=88
+1Im7	E-:7(#9)	133.138	.	voice	1E- 1g 1b- 1dd
+=89	=89	=89	=89	=89	=89
+1Im7	E-:7(#9)	134.671	newline	voice	1E- 1g 1b- 1dd
+=90	=90	=90	=90	=90	=90
+1Im7	E-:7(#9)	136.213	.	voice	1E- 1g 1b- 1dd
+=91	=91	=91	=91	=91	=91
+1Im7	E-:7(#9)	137.756	.	voice	1E- 1g 1b- 1dd
+=92	=92	=92	=92	=92	=92
+1Im7	E-:7(#9)	139.299	.	voice	1E- 1g 1b- 1dd
+=93	=93	=93	=93	=93	=93
+1V7	B-:7	140.841	newline	voice	1B- 1dd 1ff 1aa-
+=94	=94	=94	=94	=94	=94
+1IVm7	A-:7	142.377	.	voice	1A- 1cc 1ee- 1gg
+=95	=95	=95	=95	=95	=95
+1Im7	E-:7	143.913	.	voice	1E- 1g 1b- 1dd
+=96	=96	=96	=96	=96	=96
+4Im7	E-:7	145.449	.	voice	4E- 4g 4b- 4dd
+2.V7c	B-:7/5	145.833	.	voice	2b- 2dd 2F 2aa-
+=97	=97	=97	=97	=97	=97
+1V7	B-:7	146.985	newline	voice	1B- 1dd 1ff 1aa-
+=98	=98	=98	=98	=98	=98
+1IVm7	A-:7	148.513	.	voice	1A- 1cc 1ee- 1gg
+=99	=99	=99	=99	=99	=99
+1Im7	E-:7	150.042	.	voice	1E- 1g 1b- 1dd
+=100	=100	=100	=100	=100	=100
+4Im7	E-:7	151.57	.	voice	4E- 4g 4b- 4dd
+2.V7c	B-:7/5	151.952	.	voice	2b- 2dd 2F 2aa-
+=101	=101	=101	=101	=101	=101
+1V7	B-:7	153.099	newline	voice	1B- 1dd 1ff 1aa-
+=102	=102	=102	=102	=102	=102
+1IVm7	A-:7	154.728	.	voice	1A- 1cc 1ee- 1gg
+=103	=103	=103	=103	=103	=103
+1Im7	E-:7	156.356	.	voice	1E- 1g 1b- 1dd
+=104	=104	=104	=104	=104	=104
+4Im7	E-:7	157.985	.	voice	4E- 4g 4b- 4dd
+2.V7c	B-:7/5	158.393	.	voice	2b- 2dd 2F 2aa-
+=105	=105	=105	=105	=105	=105
+1Im7	E-:7	159.614	newline	trumpet	1E- 1g 1b- 1dd
+1r;	N	164.931	.	r	1r;
+1r;	N	165.982	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Think
+!!!COC: James Brown
+!!!BillboardChartDate: 1973/06/09
+!!!BillboardPeak: 33
+!!!BillboardWeeksOnChart: 16
+!!!SampleTargetRank: 79
+!!!SampleActualRank: 77
+!!!SampleID#: 0640
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

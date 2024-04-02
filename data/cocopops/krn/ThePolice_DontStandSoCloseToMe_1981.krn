@@ -1,0 +1,655 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*E-:	*E-:	*	*	*	*	*	*E-:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1I	E-:maj	.	.	0.789	newline	synthesizer	1E- 1g 1b-
+=2	=2	=2	=2	=2	=2	=2	=2
+1I	E-:maj	.	.	2.02	.	synthesizer	1E- 1g 1b-
+=3	=3	=3	=3	=3	=3	=3	=3
+1I	E-:maj	.	.	3.251	newline	synthesizer	1E- 1g 1b-
+=4	=4	=4	=4	=4	=4	=4	=4
+1I	E-:maj	.	.	4.777	.	synthesizer	1E- 1g 1b-
+=5	=5	=5	=5	=5	=5	=5	=5
+1I	E-:maj	.	.	6.304	.	synthesizer	1E- 1g 1b-
+=6	=6	=6	=6	=6	=6	=6	=6
+1I	E-:maj	.	.	7.83	.	synthesizer	1E- 1g 1b-
+=7	=7	=7	=7	=7	=7	=7	=7
+1I	E-:maj	.	.	9.357	newline	synthesizer	1E- 1g 1b-
+=8	=8	=8	=8	=8	=8	=8	=8
+1I	E-:maj	.	.	11.022	.	synthesizer	1E- 1g 1b-
+=9	=9	=9	=9	=9	=9	=9	=9
+1I	E-:maj	.	.	12.687	.	synthesizer	1E- 1g 1b-
+=10	=10	=10	=10	=10	=10	=10	=10
+1I	E-:maj	.	.	14.352	.	synthesizer	1E- 1g 1b-
+=11	=11	=11	=11	=11	=11	=11	=11
+1I	E-:maj	.	.	16.017	newline	synthesizer	1E- 1g 1b-
+=12	=12	=12	=12	=12	=12	=12	=12
+1I	E-:maj	.	.	17.719	.	synthesizer	1E- 1g 1b-
+=13	=13	=13	=13	=13	=13	=13	=13
+1I	E-:maj	.	.	19.421	.	synthesizer	1E- 1g 1b-
+=14	=14	=14	=14	=14	=14	=14	=14
+1I	E-:maj	.	.	21.123	.	synthesizer	1E- 1g 1b-
+=15	=15	=15	=15	=15	=15	=15	=15
+1I	E-:maj	.	.	22.825	newline	guitar	1E- 1g 1b-
+=16	=16	=16	=16	=16	=16	=16	=16
+1I	E-:maj	.	.	24.532	.	guitar	1E- 1g 1b-
+=17	=17	=17	=17	=17	=17	=17	=17
+1iii	G:min	.	.	26.239	.	guitar	1G 1b- 1dd
+=18	=18	=18	=18	=18	=18	=18	=18
+1iii	G:min	.	.	27.945	.	guitar	1G 1b- 1dd
+=19	=19	=19	=19	=19	=19	=19	=19
+1I	E-:maj	.	.	29.652	newline	guitar	1E- 1g 1b-
+=20	=20	=20	=20	=20	=20	=20	=20
+1I	E-:maj	.	.	31.364	.	guitar	1E- 1g 1b-
+=21	=21	=21	=21	=21	=21	=21	=21
+1iii	G:min	.	.	33.077	.	guitar	1G 1b- 1dd
+=22	=22	=22	=22	=22	=22	=22	=22
+1iii	G:min	.	.	34.789	.	guitar	1G 1b- 1dd
+=23	=23	=23	=23	=23	=23	=23	=23
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E-:maj	.	.	36.502	newline	voice	1E- 1g 1b-
+.	.	Young	.	.	.	.	.
+.	.	tea-	.	.	.	.	.
+.	.	-cher	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1I	E-:maj	.	.	38.208	.	voice	1E- 1g 1b-
+.	.	the	.	.	.	.	.
+.	.	sub-	.	.	.	.	.
+.	.	-ject	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1iii	G:min	.	.	39.913	.	voice	1G 1b- 1dd
+.	.	of	.	.	.	.	.
+.	.	school-	.	.	.	.	.
+.	.	-girl	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1iii	G:min	fan-	.	41.619	.	voice	1G 1b- 1dd
+.	.	-ta-	.	.	.	.	.
+.	.	-sy	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1I	E-:maj	.	.	43.325	newline	voice	1E- 1g 1b-
+.	.	She	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	him	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1I	E-:maj	.	.	45.03	.	voice	1E- 1g 1b-
+.	.	so	.	.	.	.	.
+.	.	bad-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1iii	G:min	.	.	46.734	.	voice	1G 1b- 1dd
+.	.	Knows	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	she	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1iii	G:min	wants	.	48.438	.	voice	1G 1b- 1dd
+.	.	to	.	.	.	.	.
+.	.	be	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1I	E-:maj	.	.	50.143	newline	voice	1E- 1g 1b-
+.	.	In-	.	.	.	.	.
+.	.	-side	.	.	.	.	.
+.	.	her	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1I	E-:maj	.	.	51.841	.	voice	1E- 1g 1b-
+.	.	there's	.	.	.	.	.
+.	.	long-	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+1iii	G:min	.	.	53.539	.	voice	1G 1b- 1dd
+.	.	This	.	.	.	.	.
+.	.	girl's	.	.	.	.	.
+.	.	an	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1iii	G:min	o-	.	55.237	.	voice	1G 1b- 1dd
+.	.	-pen	.	.	.	.	.
+.	.	page	B	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1I	E-:maj	.	.	56.935	newline	voice	1E- 1g 1b-
+.	.	Book	.	.	.	.	.
+.	.	mark-	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1I	E-:maj	.	.	58.645	.	voice	1E- 1g 1b-
+.	.	she's	.	.	.	.	.
+.	.	so	.	.	.	.	.
+.	.	close	.	.	.	.	.
+.	.	now	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1iii	G:min	.	.	60.354	.	voice	1G 1b- 1dd
+.	.	This	.	.	.	.	.
+.	.	girl	.	.	.	.	.
+.	.	is	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1iii	G:min	half	.	62.064	.	voice	1G 1b- 1dd
+.	.	his	.	.	.	.	.
+.	.	age	B	.	.	.	.
+.	.	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*	*	*	*	*	*	*	*
+*D:	*D:	*	*	*	*	*	*D:
+2I	D:maj	.	.	63.773	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	64.628	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2I	D:maj	.	.	65.483	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	66.337	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2vi7	B:min7	.	.	67.192	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	68.047	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+2Ic	D:maj/5	close	.	68.901	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	69.756	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+2I	D:maj	.	.	70.611	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	71.465	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+2I	D:maj	.	.	72.32	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	73.175	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+2vi7	B:min7	.	.	74.029	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	74.884	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+2Ic	D:maj/5	close	.	75.738	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	76.593	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+2Ic	D:maj/5	.	.	77.448	.	voice	1d 1f# 1A
+2V	A:maj	.	.	78.302	.	voice	2A 2cc# 2ee
+=48	=48	=48	=48	=48	=48	=48	=48
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*E-:	*E-:	*	*	*	*	*	*E-:
+1I	E-:maj	.	.	79.157	newline	voice	1E- 1g 1b-
+.	.	Her	.	.	.	.	.
+.	.	friends	.	.	.	.	.
+.	.	are	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1I	E-:maj	.	.	80.864	.	voice	1E- 1g 1b-
+.	.	so	.	.	.	.	.
+.	.	jea-	.	.	.	.	.
+.	.	-lous	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1iii	G:min	.	.	82.571	.	voice	1G 1b- 1dd
+.	.	You	.	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	how	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1iii	G:min	bad	.	84.279	.	voice	1G 1b- 1dd
+.	.	girls	.	.	.	.	.
+.	.	get	C	.	.	.	.
+.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+1I	E-:maj	.	.	85.986	newline	voice	1E- 1g 1b-
+.	.	Some-	.	.	.	.	.
+.	.	-times	.	.	.	.	.
+.	.	it's	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+1I	E-:maj	not	.	87.68	.	voice	1E- 1g 1b-
+.	.	so	.	.	.	.	.
+.	.	ea-	.	.	.	.	.
+.	.	-sy	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1iii	G:min	.	.	89.375	.	voice	1G 1b- 1dd
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1iii	G:min	teach-	.	91.069	.	voice	1G 1b- 1dd
+.	.	-er's	.	.	.	.	.
+.	.	pet	C	.	.	.	.
+.	.	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+1I	E-:maj	.	.	92.764	newline	voice	1E- 1g 1b-
+.	.	Temp-	.	.	.	.	.
+.	.	-ta-	(D	.	.	.	.
+.	.	-tion	d)	.	.	.	.
+.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+1I	E-:maj	.	.	94.476	.	voice	1E- 1g 1b-
+.	.	Frus-	.	.	.	.	.
+.	.	-tra-	(D	.	.	.	.
+.	.	-tion	d)	.	.	.	.
+.	.	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1iii	G:min	.	.	96.188	.	voice	1G 1b- 1dd
+.	.	so	.	.	.	.	.
+.	.	bad	.	.	.	.	.
+.	.	it	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1iii	G:min	makes	.	97.9	.	voice	1G 1b- 1dd
+.	.	him	.	.	.	.	.
+.	.	cry	E	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1I	E-:maj	.	.	99.612	newline	voice	1E- 1g 1b-
+.	.	Wet	.	.	.	.	.
+.	.	bus	.	.	.	.	.
+.	.	stop	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1I	E-:maj	.	.	101.314	.	voice	1E- 1g 1b-
+.	.	She's	.	.	.	.	.
+.	.	wai-	.	.	.	.	.
+.	.	-ting	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1iii	G:min	.	.	103.017	.	voice	1G 1b- 1dd
+.	.	His	.	.	.	.	.
+.	.	car	.	.	.	.	.
+.	.	is	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1iii	G:min	warm	.	104.72	.	voice	1G 1b- 1dd
+.	.	and	.	.	.	.	.
+.	.	dry	E	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*D:	*D:	*	*	*	*	*	*D:
+2I	D:maj	.	.	106.422	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	107.279	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+2I	D:maj	.	.	108.136	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	108.993	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+2vi7	B:min7	.	.	109.849	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	110.706	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+2Ic	D:maj/5	close	.	111.563	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	112.42	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+2I	D:maj	.	.	113.276	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	114.13	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+2I	D:maj	.	.	114.984	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	115.837	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+2vi7	B:min7	.	.	116.691	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	117.544	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+2Ic	D:maj/5	close	.	118.398	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	119.252	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+2Ic	D:maj/5	.	.	120.105	.	voice	1d 1f# 1A
+2V	A:maj	.	.	120.959	.	voice	2A 2cc# 2ee
+=73	=73	=73	=73	=73	=73	=73	=73
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*E-:	*E-:	*	*	*	*	*	*E-:
+1I	E-:maj	.	.	121.812	newline	voice	1E- 1g 1b-
+.	.	Loose	.	.	.	.	.
+.	.	talk	.	.	.	.	.
+.	.	in	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+1I	E-:maj	.	.	123.523	.	voice	1E- 1g 1b-
+.	.	the	.	.	.	.	.
+.	.	class-	F	.	.	.	.
+.	.	-room	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1iii	G:min	.	.	125.234	.	voice	1G 1b- 1dd
+.	.	To	.	.	.	.	.
+.	.	hurt	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1iii	G:min	try	.	126.944	.	voice	1G 1b- 1dd
+.	.	and	.	.	.	.	.
+.	.	try	E	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+1I	E-:maj	.	.	128.655	newline	voice	1E- 1g 1b-
+.	.	Strong	.	.	.	.	.
+.	.	words	.	.	.	.	.
+.	.	in	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+1I	E-:maj	.	.	130.356	.	voice	1E- 1g 1b-
+.	.	the	.	.	.	.	.
+.	.	staff-	f	.	.	.	.
+.	.	-room	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+1iii	G:min	.	.	132.057	.	voice	1G 1b- 1dd
+.	.	The	.	.	.	.	.
+.	.	acc-	.	.	.	.	.
+.	.	-u-	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+1iii	G:min	-sa-	.	133.759	.	voice	1G 1b- 1dd
+.	.	-tions	.	.	.	.	.
+.	.	fly	E	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+1I	E-:maj	.	.	135.46	newline	voice	1E- 1g 1b-
+.	.	It's	.	.	.	.	.
+.	.	no	.	.	.	.	.
+.	.	use	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+1I	E-:maj	.	.	137.165	.	voice	1E- 1g 1b-
+.	.	He	.	.	.	.	.
+.	.	sees	.	.	.	.	.
+.	.	her	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+1iii	G:min	.	.	138.871	.	voice	1G 1b- 1dd
+.	.	He	.	.	.	.	.
+.	.	starts	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1iii	G:min	shake	.	140.577	.	voice	1G 1b- 1dd
+.	.	and	.	.	.	.	.
+.	.	cough	G	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+1I	E-:maj	.	.	142.282	newline	voice	1E- 1g 1b-
+.	.	Just	.	.	.	.	.
+.	.	like	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+1I	E-:maj	.	.	143.987	.	voice	1E- 1g 1b-
+.	.	old	.	.	.	.	.
+.	.	man	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+1iii	G:min	.	.	145.691	.	voice	1G 1b- 1dd
+.	.	that	.	.	.	.	.
+.	.	book	.	.	.	.	.
+.	.	by	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1iii	G:min	Na-	.	147.396	.	voice	1G 1b- 1dd
+.	.	-ba-	.	.	.	.	.
+.	.	-kov	G	.	.	.	.
+.	.	.	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*D:	*D:	*	*	*	*	*	*D:
+2I	D:maj	.	.	149.101	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	149.958	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90
+2I	D:maj	.	.	150.815	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	151.672	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91
+2vi7	B:min7	.	.	152.529	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	153.386	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92
+2Ic	D:maj/5	close	.	154.243	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	155.1	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93
+2I	D:maj	.	.	155.958	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	156.81	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94
+2I	D:maj	.	.	157.662	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	158.514	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+2vi7	B:min7	.	.	159.367	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	160.219	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96
+2Ic	D:maj/5	close	.	161.071	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	161.924	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97
+2Ic	D:maj/5	.	.	162.776	.	voice	1d 1f# 1A
+2V	A:maj	.	.	163.628	.	voice	2A 2cc# 2ee
+=98	=98	=98	=98	=98	=98	=98	=98
+2Ic	D:maj/5	.	.	164.48	newline	guitar	1d 1f# 1A
+2V	A:maj	.	.	165.33	.	guitar	2A 2cc# 2ee
+=99	=99	=99	=99	=99	=99	=99	=99
+2Ic	D:maj/5	.	.	166.18	.	guitar	1d 1f# 1A
+2V	A:maj	.	.	167.03	.	guitar	2A 2cc# 2ee
+=100	=100	=100	=100	=100	=100	=100	=100
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental
+1-II	E-:maj	.	.	167.879	newline	synthesizer	1E- 1g 1b-
+=101	=101	=101	=101	=101	=101	=101	=101
+1-II	E-:maj	.	.	169.577	.	synthesizer	1E- 1g 1b-
+=102	=102	=102	=102	=102	=102	=102	=102
+1iv	G:min	.	.	171.275	.	synthesizer	1G 1b- 1dd
+=103	=103	=103	=103	=103	=103	=103	=103
+1iv	G:min	.	.	172.974	.	synthesizer	1G 1b- 1dd
+=104	=104	=104	=104	=104	=104	=104	=104
+1-II	E-:maj	.	.	174.672	newline	synthesizer	1E- 1g 1b-
+=105	=105	=105	=105	=105	=105	=105	=105
+1-II	E-:maj	.	.	176.385	.	synthesizer	1E- 1g 1b-
+=106	=106	=106	=106	=106	=106	=106	=106
+1iv	G:min	.	.	178.099	.	synthesizer	1G 1b- 1dd
+=107	=107	=107	=107	=107	=107	=107	=107
+1iv	G:min	.	.	179.813	.	synthesizer	1G 1b- 1dd
+=108	=108	=108	=108	=108	=108	=108	=108
+1-II	E-:maj	.	.	181.526	newline	synthesizer	1E- 1g 1b-
+=109	=109	=109	=109	=109	=109	=109	=109
+1-II	E-:maj	.	.	183.226	.	synthesizer	1E- 1g 1b-
+=110	=110	=110	=110	=110	=110	=110	=110
+1iv	G:min	.	.	184.925	.	synthesizer	1G 1b- 1dd
+=111	=111	=111	=111	=111	=111	=111	=111
+1iv	G:min	.	.	186.625	.	synthesizer	1G 1b- 1dd
+=112	=112	=112	=112	=112	=112	=112	=112
+1-II	E-:maj	.	.	188.324	newline	synthesizer	1E- 1g 1b-
+=113	=113	=113	=113	=113	=113	=113	=113
+1-II	E-:maj	.	.	190.023	.	synthesizer	1E- 1g 1b-
+=114	=114	=114	=114	=114	=114	=114	=114
+1iv	G:min	.	.	191.722	.	synthesizer	1G 1b- 1dd
+=115	=115	=115	=115	=115	=115	=115	=115
+1iv	G:min	.	.	193.422	.	synthesizer	1G 1b- 1dd
+=116	=116	=116	=116	=116	=116	=116	=116
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*D:	*D:	*	*	*	*	*	*D:
+2I	D:maj	.	.	195.121	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	195.977	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=117	=117	=117	=117	=117	=117	=117	=117
+2I	D:maj	.	.	196.832	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	197.688	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=118	=118	=118	=118	=118	=118	=118	=118
+2vi7	B:min7	.	.	198.544	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	199.4	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=119	=119	=119	=119	=119	=119	=119	=119
+2Ic	D:maj/5	close	.	200.256	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	201.112	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=120	=120	=120	=120	=120	=120	=120	=120
+2I	D:maj	.	.	201.968	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	202.818	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=121	=121	=121	=121	=121	=121	=121	=121
+2I	D:maj	.	.	203.667	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	204.517	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=122	=122	=122	=122	=122	=122	=122	=122
+2vi7	B:min7	.	.	205.366	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	206.216	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=123	=123	=123	=123	=123	=123	=123	=123
+2Ic	D:maj/5	close	.	207.065	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	207.915	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=124	=124	=124	=124	=124	=124	=124	=124
+2I	D:maj	.	.	208.764	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	209.622	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=125	=125	=125	=125	=125	=125	=125	=125
+2I	D:maj	.	.	210.479	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	211.337	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=126	=126	=126	=126	=126	=126	=126	=126
+2vi7	B:min7	.	.	212.194	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	213.052	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=127	=127	=127	=127	=127	=127	=127	=127
+2Ic	D:maj/5	close	.	213.909	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	214.767	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=128	=128	=128	=128	=128	=128	=128	=128
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+2I	D:maj	.	.	215.624	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	216.477	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=129	=129	=129	=129	=129	=129	=129	=129
+2I	D:maj	.	.	217.33	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	218.183	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=130	=130	=130	=130	=130	=130	=130	=130
+2vi7	B:min7	.	.	219.036	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	219.889	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=131	=131	=131	=131	=131	=131	=131	=131
+2Ic	D:maj/5	close	.	220.742	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	221.595	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=132	=132	=132	=132	=132	=132	=132	=132
+2I	D:maj	.	.	222.448	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	223.297	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=133	=133	=133	=133	=133	=133	=133	=133
+2I	D:maj	.	.	224.146	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	224.995	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=134	=134	=134	=134	=134	=134	=134	=134
+2vi7	B:min7	.	.	225.844	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	226.692	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=135	=135	=135	=135	=135	=135	=135	=135
+2Ic	D:maj/5	close	.	227.541	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	228.39	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=136	=136	=136	=136	=136	=136	=136	=136
+2I	D:maj	.	.	229.239	newline	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	230.053	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.
+=137	=137	=137	=137	=137	=137	=137	=137
+2I	D:maj	.	.	230.867	.	voice	2D 2f# 2a
+.	.	Don't	.	.	.	.	.
+2V	A:maj	stand	.	231.681	.	voice	2A 2cc# 2ee
+.	.	so	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=138	=138	=138	=138	=138	=138	=138	=138
+2vi7	B:min7	.	.	232.495	.	voice	2B 2dd 2ff# 2aa
+.	.	Don't	.	.	.	.	.
+2vi7d	B:min7/b7	stand	.	233.308	.	voice	2b 2dd 2ff# 2A
+.	.	so	.	.	.	.	.
+=139	=139	=139	=139	=139	=139	=139	=139
+2Ic	D:maj/5	close	.	234.122	.	voice	2.d 2.f# 2.A
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2V	A:maj	.	.	234.936	.	voice	4A 4cc# 4ee
+.	.	.	.	.	.	.	.
+=140	=140	=140	=140	=140	=140	=140	=140
+2I	D:maj	.	.	235.75	.	voice	1D 1f# 1a
+2V	A:maj	.	.	236.564	.	voice	2A 2cc# 2ee
+1r;	N	.	.	237.378	.	r	1r;
+1r;	N	.	.	243.096	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1981/03/21, 1981/04/04
+!!!BillboardPeak: 10, 10
+!!!BillboardWeeksOnChart: 18, 18
+!!!COC: The Police
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Don't Stand So Close To Me
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 15, 12
+!!!SampleID#: 492, 881
+!!!SampleTargetRank: 14, 11
+!!!MBID: 1f6a3ea0-70af-49d4-baf9-af6373c1c921

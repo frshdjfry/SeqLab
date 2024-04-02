@@ -1,0 +1,183 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*D:	*D:	*	*	*	*D:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	D:maj	0.3	newline	guitar	1D 1f# 1a
+=2	=2	=2	=2	=2	=2
+1I	D:maj	2.893	.	guitar	1D 1f# 1a
+=3	=3	=3	=3	=3	=3
+1I	D:maj	5.486	.	guitar	1D 1f# 1a
+=4	=4	=4	=4	=4	=4
+1I	D:maj	8.079	.	guitar	1D 1f# 1a
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:maj	10.672	newline	voice	1D 1f# 1a
+=6	=6	=6	=6	=6	=6
+1I	D:maj	13.25	.	voice	1D 1f# 1a
+=7	=7	=7	=7	=7	=7
+1ii	E:min	15.829	.	voice	1E 1g 1b
+=8	=8	=8	=8	=8	=8
+1V7	A:7	18.407	.	voice	1A 1cc# 1ee 1gg
+=9	=9	=9	=9	=9	=9
+1I	D:maj	20.985	newline	voice	1D 1f# 1a
+=10	=10	=10	=10	=10	=10
+1IV	G:maj	23.557	.	voice	1G 1b 1dd
+=11	=11	=11	=11	=11	=11
+1V7	A:7	26.128	.	voice	1A 1cc# 1ee 1gg
+=12	=12	=12	=12	=12	=12
+1V7	A:7	28.699	.	voice	1A 1cc# 1ee 1gg
+=13	=13	=13	=13	=13	=13
+1I	D:maj	31.271	newline	voice	1D 1f# 1a
+=14	=14	=14	=14	=14	=14
+1I	D:maj	33.843	.	voice	1D 1f# 1a
+=15	=15	=15	=15	=15	=15
+1ii	E:min	36.415	.	voice	1E 1g 1b
+=16	=16	=16	=16	=16	=16
+1V7	A:7	38.987	.	voice	1A 1cc# 1ee 1gg
+=17	=17	=17	=17	=17	=17
+1I	D:maj	41.559	newline	voice	1D 1f# 1a
+=18	=18	=18	=18	=18	=18
+1IV	G:maj	44.117	.	voice	1G 1b 1dd
+=19	=19	=19	=19	=19	=19
+1V7	A:7	46.674	.	voice	1A 1cc# 1ee 1gg
+=20	=20	=20	=20	=20	=20
+1V7	A:7	49.232	.	voice	1A 1cc# 1ee 1gg
+=21	=21	=21	=21	=21	=21
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	G:maj	51.789	newline	voice	1G 1b 1dd
+=22	=22	=22	=22	=22	=22
+1V7	A:7	54.395	.	voice	1A 1cc# 1ee 1gg
+=23	=23	=23	=23	=23	=23
+1I	D:maj	57	.	voice	1D 1f# 1a
+=24	=24	=24	=24	=24	=24
+1vi	B:min	59.605	.	voice	1B 1dd 1ff#
+=25	=25	=25	=25	=25	=25
+1IV	G:maj	62.211	newline	voice	1G 1b 1dd
+=26	=26	=26	=26	=26	=26
+1V7	A:7	64.724	.	voice	1A 1cc# 1ee 1gg
+=27	=27	=27	=27	=27	=27
+1I	D:maj	67.238	.	voice	1D 1f# 1a
+=28	=28	=28	=28	=28	=28
+1I	D:maj	69.752	.	voice	1D 1f# 1a
+=29	=29	=29	=29	=29	=29
+*>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo
+1I	D:maj	72.265	newline	steel guitar	1D 1f# 1a
+=30	=30	=30	=30	=30	=30
+1I	D:maj	74.813	.	steel guitar	1D 1f# 1a
+=31	=31	=31	=31	=31	=31
+1ii	E:min	77.361	.	steel guitar	1E 1g 1b
+=32	=32	=32	=32	=32	=32
+1V7	A:7	79.908	.	steel guitar	1A 1cc# 1ee 1gg
+=33	=33	=33	=33	=33	=33
+1I	D:maj	82.456	newline	steel guitar	1D 1f# 1a
+=34	=34	=34	=34	=34	=34
+1IV	G:maj	85.005	.	steel guitar	1G 1b 1dd
+=35	=35	=35	=35	=35	=35
+1V	A:sus4(b7)	87.553	.	steel guitar	1A 1cc# 1ee
+=36	=36	=36	=36	=36	=36
+1V7	A:7	90.102	.	steel guitar	1A 1cc# 1ee 1gg
+=37	=37	=37	=37	=37	=37
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	G:maj	92.651	newline	voice	1G 1b 1dd
+=38	=38	=38	=38	=38	=38
+1V7	A:7	95.165	.	voice	1A 1cc# 1ee 1gg
+=39	=39	=39	=39	=39	=39
+1I	D:maj	97.679	.	voice	1D 1f# 1a
+=40	=40	=40	=40	=40	=40
+1vi	B:min	100.193	.	voice	1B 1dd 1ff#
+=41	=41	=41	=41	=41	=41
+1IV	G:maj	102.706	newline	voice	1G 1b 1dd
+=42	=42	=42	=42	=42	=42
+1V7	A:7	105.282	.	voice	1A 1cc# 1ee 1gg
+=43	=43	=43	=43	=43	=43
+1I	D:maj	107.858	.	voice	1D 1f# 1a
+=44	=44	=44	=44	=44	=44
+1I	D:maj	110.434	.	voice	1D 1f# 1a
+=45	=45	=45	=45	=45	=45
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:maj	113.01	newline	voice	1D 1f# 1a
+=46	=46	=46	=46	=46	=46
+1I	D:maj	115.617	.	voice	1D 1f# 1a
+=47	=47	=47	=47	=47	=47
+1ii	E:min	118.225	.	voice	1E 1g 1b
+=48	=48	=48	=48	=48	=48
+1V7	A:7	120.833	.	voice	1A 1cc# 1ee 1gg
+=49	=49	=49	=49	=49	=49
+1I	D:maj	123.441	newline	voice	1D 1f# 1a
+=50	=50	=50	=50	=50	=50
+1IV	G:maj	125.98	.	voice	1G 1b 1dd
+=51	=51	=51	=51	=51	=51
+1V	A:maj	128.518	.	voice	1A 1cc# 1ee
+=52	=52	=52	=52	=52	=52
+1V	A:maj	131.056	.	voice	1A 1cc# 1ee
+=53	=53	=53	=53	=53	=53
+1I	D:maj	133.594	newline	voice	1D 1f# 1a
+=54	=54	=54	=54	=54	=54
+1I	D:maj	136.196	.	voice	1D 1f# 1a
+=55	=55	=55	=55	=55	=55
+1ii	E:min	138.797	.	voice	1E 1g 1b
+=56	=56	=56	=56	=56	=56
+1V	A:maj	141.398	.	voice	1A 1cc# 1ee
+=57	=57	=57	=57	=57	=57
+1I	D:maj	143.999	newline	voice	1D 1f# 1a
+=58	=58	=58	=58	=58	=58
+1IV	G:maj	146.577	.	voice	1G 1b 1dd
+=59	=59	=59	=59	=59	=59
+1V	A:maj	149.154	.	voice	1A 1cc# 1ee
+=60	=60	=60	=60	=60	=60
+1V7	A:7	151.732	.	voice	1A 1cc# 1ee 1gg
+=61	=61	=61	=61	=61	=61
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	G:maj	154.31	newline	voice	1G 1b 1dd
+=62	=62	=62	=62	=62	=62
+1V7	A:7	156.917	.	voice	1A 1cc# 1ee 1gg
+=63	=63	=63	=63	=63	=63
+1I	D:maj	159.524	.	voice	1D 1f# 1a
+=64	=64	=64	=64	=64	=64
+1vi	B:min	162.132	.	voice	1B 1dd 1ff#
+=65	=65	=65	=65	=65	=65
+1IV	G:maj	164.739	newline	voice	1G 1b 1dd
+=66	=66	=66	=66	=66	=66
+1V7	A:7	167.258	.	voice	1A 1cc# 1ee 1gg
+=67	=67	=67	=67	=67	=67
+1I	D:maj	169.776	.	voice	1D 1f# 1a
+=68	=68	=68	=68	=68	=68
+1Im7	D:7	172.294	.	voice	1D 1f# 1a 1cc#
+=69	=69	=69	=69	=69	=69
+*>C_outro	*>C_outro	*>C_outro	*>C_outro	*>C_outro	*>C_outro
+1IV	G:maj	174.813	newline	fadeout	1G 1b 1dd
+=70	=70	=70	=70	=70	=70
+1V7	A:7	177.35	.	fadeout	1A 1cc# 1ee 1gg
+=71	=71	=71	=71	=71	=71
+1I	D:maj	179.887	.	fadeout	1D 1f# 1a
+=72	=72	=72	=72	=72	=72
+1vi	B:min	182.425	.	fadeout	1B 1dd 1ff#
+=73	=73	=73	=73	=73	=73
+1IV	G:maj	184.962	newline	voice	1G 1b 1dd
+=74	=74	=74	=74	=74	=74
+1V7	A:7	187.125	.	voice	1A 1cc# 1ee 1gg
+=75	=75	=75	=75	=75	=75
+1I	D:maj	189.289	.	voice	1D 1f# 1a
+=76	=76	=76	=76	=76	=76
+1I	D:maj	191.452	.	voice	1D 1f# 1a
+1r;	N	193.616	.	r	1r;
+1r;	N	196.336	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: If Not You
+!!!COC: Dr. Hook
+!!!BillboardChartDate: 1977/01/15
+!!!BillboardPeak: 55
+!!!BillboardWeeksOnChart: 11
+!!!SampleTargetRank: 96
+!!!SampleActualRank: 97
+!!!SampleID#: 0914
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

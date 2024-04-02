@@ -1,0 +1,728 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*B-:	*B-:	*	*	*	*	*	*B-:
+*	*	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1
+1r;	N	.	.	0	.	r	1r;
+=2	=2	=2	=2	=2	=2	=2	=2
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+*	*	*	*	*	*	*	*
+1I7	B-:maj7	.	.	0.232	newline	synthesizer	1B- 1dd 1ff 1aa
+=3	=3	=3	=3	=3	=3	=3	=3
+1-VI7	G-:maj7	.	.	3.026	.	synthesizer	1G- 1b- 1dd- 1ff
+=4	=4	=4	=4	=4	=4	=4	=4
+1ivm7	E-:min9	.	.	5.821	.	synthesizer	1E- 1g- 1b- 1dd
+=5	=5	=5	=5	=5	=5	=5	=5
+2-VIIm7	A-:11	.	.	8.615	.	synthesizer	1A- 1cc 1ee- 1gg
+2V7	F:7	.	.	10.012	.	synthesizer	2F 2a 2cc 2ee-
+=6	=6	=6	=6	=6	=6	=6	=6
+1I7	B-:maj7	.	.	11.409	newline	synthesizer	1B- 1dd 1ff 1aa
+=7	=7	=7	=7	=7	=7	=7	=7
+1-VI7	G-:maj7	.	.	14.158	.	synthesizer	1G- 1b- 1dd- 1ff
+=8	=8	=8	=8	=8	=8	=8	=8
+1ivm7	E-:min9	.	.	16.906	.	synthesizer	1E- 1g- 1b- 1dd
+=9	=9	=9	=9	=9	=9	=9	=9
+2.-VIIm7	A-:11	.	.	19.654	.	synthesizer	2.A- 2.cc 2.ee- 2.gg
+.	.	.	.	.	.	.	.
+4V7	F:7	With	.	21.716	.	synthesizer	4F 4a 4cc 4ee-
+=10	=10	=10	=10	=10	=10	=10	=10
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I7	B-:maj7	all	.	22.403	newline	voice	1B- 1dd 1ff 1aa
+.	.	my	.	.	.	.	.
+.	.	heart	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	love	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+1ivm7	E-:min9	_	.	25.197	.	voice	1E- 1g- 1b- 1dd
+.	.	you	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	-by.	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1-VI7	G-:maj7	Stay	.	27.991	.	voice	1G- 1b- 1dd- 1ff
+.	.	with	.	.	.	.	.
+.	.	me	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2v7	F:min7	you	.	30.785	.	voice	3...F 3...a- 3...cc 3...ee-
+.	.	will	.	.	.	.	.
+.	.	see.	A	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+4-VIIm7	A-:11	.	.	32.182	.	voice	8A- 8cc 8ee- 8gg
+.	.	My	.	.	.	.	.
+4V7	F:7	_	.	32.88	.	voice	4F 4a 4cc 4ee-
+.	.	_	.	.	.	.	.
+.	.	arms	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1I7	B-:maj7	_	.	33.579	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	will	.	.	.	.	.
+.	.	hold	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1ivm7	E-:min9	_	.	36.384	.	voice	1E- 1g- 1b- 1dd
+.	.	you	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	-by.	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1-VI7	G-:maj7	Ne-	.	39.188	.	voice	1G- 1b- 1dd- 1ff
+.	.	-ver	.	.	.	.	.
+.	.	leave|	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	'cause	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2.-VIIm7	A-:11	I	.	41.993	.	voice	2.A- 2.cc 2.ee- 2.gg
+.	.	be-	.	.	.	.	.
+.	.	-lieve	A	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+4V7	F:7	in	.	44.097	.	voice	4F 4a 4cc 4ee-
+.	.	love.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I7	B-:maj7	_	.	44.798	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Sweet	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1ivm7	E-:min9	_	.	47.515	.	voice	1E- 1g- 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	hear	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	call-	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1-VI7	G-:maj7	_	.	50.233	.	voice	1G- 1b- 1dd- 1ff
+.	.	-in'	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	name.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2-VIIm7	A-:11	I	.	52.95	.	voice	2A- 2cc 2ee- 2gg
+.	.	feel	.	.	.	.	.
+.	.	no	.	.	.	.	.
+.	.	shame.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+2V7	F:7	.	.	54.309	.	voice	2F 2a 2cc 2ee-
+.	.	I'm	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1I7	B-:maj7	_	.	55.668	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Sweet	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1ivm7	E-:min9	_	.	58.376	.	voice	1E- 1g- 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	e-	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1-VI7	G-:maj7	_	.	61.085	.	voice	1G- 1b- 1dd- 1ff
+.	.	-ver	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	go	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	It-	.	.	.	.	.
+.	.	-'ll	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2-VIIm7	A-:11	al-	.	63.793	.	voice	2A- 2cc 2ee- 2gg
+.	.	-ways	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	this	.	.	.	.	.
+2V7	F:7	way	B	65.148	.	voice	2F 2a 2cc 2ee-
+.	.	_	.	.	.	.	.
+.	.	Oh	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I7	B-:maj7	heart	.	66.502	newline	voice	1B- 1dd 1ff 1aa
+.	.	has	.	.	.	.	.
+.	.	called	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	me	A	.	.	.	.
+.	.	clo-	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1ivm7	E-:min9	_	.	69.292	.	voice	1E- 1g- 1b- 1dd
+.	.	-ser	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	you.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1-VI7	G-:maj7	I	.	72.081	.	voice	1G- 1b- 1dd- 1ff
+.	.	will	.	.	.	.	.
+.	.	be	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	all	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+2v7	F:min7	that	.	74.871	.	voice	3...F 3...a- 3...cc 3...ee-
+.	.	you	.	.	.	.	.
+.	.	need.	A	.	.	.	.
+.	.	_	.	.	.	.	.
+4-VIIm7	A-:11	.	.	76.265	.	voice	4A- 4cc 4ee- 4gg
+.	.	Just	.	.	.	.	.
+4V7	F:7	.	.	76.963	.	voice	8F 8a 8cc 8ee-
+.	.	trust	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1I7	B-:maj7	_	.	77.66	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	what	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1ivm7	E-:min9	_	.	80.428	.	voice	1E- 1g- 1b- 1dd
+.	.	we're	.	.	.	.	.
+.	.	fee-	A	.	.	.	.
+.	.	-ling.	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1-VI7	G-:maj7	Ne-	.	83.195	.	voice	1G- 1b- 1dd- 1ff
+.	.	-ver	.	.	.	.	.
+.	.	leave|	A	.	.	.	.
+.	.	'cause	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2.-VIIm7	A-:11	.	.	85.963	.	voice	2.A- 2.cc 2.ee- 2.gg
+.	.	ba-	.	.	.	.	.
+.	.	-by	A	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	be-	.	.	.	.	.
+.	.	-lieve	A	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	In	.	.	.	.	.
+4V7	F:7	this	.	88.039	.	voice	4F 4a 4cc 4ee-
+.	.	love.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I7	B-:maj7	_	.	88.73	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Sweet	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1ivm7	E-:min9	_	.	91.431	.	voice	1E- 1g- 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	hear	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	call-	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1-VI7	G-:maj7	_	.	94.132	.	voice	1G- 1b- 1dd- 1ff
+.	.	-in'	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	name.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2-VIIm7	A-:11	I	.	96.833	.	voice	3...A- 3...cc 3...ee- 3...gg
+.	.	feel	.	.	.	.	.
+.	.	no	.	.	.	.	.
+.	.	shame.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+2V7	F:7	.	.	98.184	.	voice	4.F 4.a 4.cc 4.ee-
+.	.	I'm	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1I7	B-:maj7	_	.	99.534	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Sweet	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1ivm7	E-:min9	_	.	102.226	.	voice	1E- 1g- 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	e-	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+1-VI7	G-:maj7	_	.	104.918	.	voice	1G- 1b- 1dd- 1ff
+.	.	-ver	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	go	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	It-	.	.	.	.	.
+.	.	-'ll	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2-VIIm7	A-:11	al-	.	107.611	.	voice	2A- 2cc 2ee- 2gg
+.	.	-ways	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	this	.	.	.	.	.
+2V7	F:7	way.	B	108.957	.	voice	2F 2a 2cc 2ee-
+.	.	_	.	.	.	.	.
+.	.	There's	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1ivm7	E-:min7	.	.	110.303	newline	voice	1E- 1g- 1b- 1dd
+.	.	strong-	.	.	.	.	.
+.	.	-er	.	.	.	.	.
+.	.	love	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	this	.	.	.	.	.
+.	.	world.	C	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+2I	B-:sus4(b7)	_	.	113.029	.	voice	2B- 2dd 2ff
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2Im7	B-:7	.	.	114.392	.	voice	2B- 2dd 2ff 2aa
+.	.	Oh	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	-by	A	.	.	.	.
+.	.	no.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1ivm7	E-:min7	.	.	115.755	.	voice	1E- 1g- 1b- 1dd
+.	.	You're	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	man.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	girl.	C	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+2I	B-:sus4(b7)	_	.	118.482	.	voice	2B- 2dd 2ff
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2Im7	B-:7	.	.	119.845	.	voice	2B- 2dd 2ff 2aa
+.	.	I'll	.	.	.	.	.
+.	.	ne-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	go.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1ivm7	E-:min7	.	.	121.208	newline	voice	1E- 1g- 1b- 1dd
+.	.	Wait	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	see.	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	can't	.	.	.	.	.
+.	.	be	A	.	.	.	.
+.	.	wrong.	D	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+2I	B-:sus4(b7)	_	.	123.97	.	voice	2B- 2dd 2ff
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2Im7	B-:7	.	.	125.351	.	voice	2B- 2dd 2ff 2aa
+.	.	Don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	know	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+2-II7	C-:maj7	_	.	126.732	.	voice	2C- 2e- 2g- 2b-
+.	.	this	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	where	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2im7	B-:min7	_	.	128.113	.	voice	2B- 2dd- 2ff 2aa
+.	.	you	.	.	.	.	.
+.	.	be-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-long?.	D	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1V7	F:11	_	.	129.493	.	voice	1F 1a 1cc 1ee-
+.	.	.	.	.	.	.	.
+.	.	Oh	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	sweet-	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I7	B-:maj7	_	.	132.255	newline	voice	1B- 1dd 1ff 1aa
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	-test	.	.	.	.	.
+.	.	dream.	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	How	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	love-	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1ivm7	E-:min9	_	.	135.006	.	voice	1E- 1g- 1b- 1dd
+.	.	-ly	A	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-by.	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+1-VI7	G-:maj7	Stay	.	137.758	.	voice	1G- 1b- 1dd- 1ff
+.	.	right	.	.	.	.	.
+.	.	here.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+2v7	F:min7	.	.	140.509	.	voice	3...F 3...a- 3...cc 3...ee-
+.	.	Ne-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	fear.	A	.	.	.	.
+4-VIIm7	A-:11	.	.	141.884	.	voice	8A- 8cc 8ee- 8gg
+.	.	I	.	.	.	.	.
+4V7	F:7	will	.	142.572	.	voice	4F 4a 4cc 4ee-
+.	.	be	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1I7	B-:maj7	_	.	143.26	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	all	.	.	.	.	.
+.	.	that	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1ivm7	E-:min9	_	.	145.979	.	voice	1E- 1g- 1b- 1dd
+.	.	you	.	.	.	.	.
+.	.	need.	A	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+1-VI7	G-:maj7	.	.	148.699	.	voice	1G- 1b- 1dd- 1ff
+.	.	Ne-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	leave|	A	.	.	.	.
+.	.	'cause	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+2.-VIIm7	A-:11	.	.	151.418	.	voice	2.A- 2.cc 2.ee- 2.gg
+.	.	ba-	.	.	.	.	.
+.	.	-by	A	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	be-	.	.	.	.	.
+.	.	-lieve	A	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	In	.	.	.	.	.
+4V7	F:7	this	.	153.457	.	voice	4F 4a 4cc 4ee-
+.	.	love.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I7	B-:maj7	_	.	154.137	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Sweet	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1ivm7	E-:min9	_	.	156.859	.	voice	1E- 1g- 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	hear	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	call-	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1-VI7	G-:maj7	_	.	159.58	.	voice	1G- 1b- 1dd- 1ff
+.	.	-in'	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	name.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+2-VIIm7	A-:11	I	.	162.302	.	voice	3...A- 3...cc 3...ee- 3...gg
+.	.	feel	.	.	.	.	.
+.	.	no	.	.	.	.	.
+.	.	shame.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+2V7	F:7	.	.	163.662	.	voice	4.F 4.a 4.cc 4.ee-
+.	.	I'm	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1I7	B-:maj7	_	.	165.023	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Sweet	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1ivm7	E-:min9	_	.	167.719	.	voice	1E- 1g- 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	e-	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1-VI7	G-:maj7	_	.	170.415	.	voice	1G- 1b- 1dd- 1ff
+.	.	-ver	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	go	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way.	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	It-	.	.	.	.	.
+.	.	-'ll	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+2-VIIm7	A-:11	al-	.	173.11	.	voice	2A- 2cc 2ee- 2gg
+.	.	-ways	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	this	.	.	.	.	.
+2V7	F:7	way.	B	174.458	.	voice	2F 2a 2cc 2ee-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+1I7	B-:maj7	_	.	175.806	newline	voice	1B- 1dd 1ff 1aa
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+1ivm7	E-:min9	.	.	178.484	.	voice	1E- 1g- 1b- 1dd
+=68	=68	=68	=68	=68	=68	=68	=68
+1-VI7	G-:maj7	.	.	181.162	.	voice	1G- 1b- 1dd- 1ff
+.	.	Oh	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	no	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Oh	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+2-VIIm7	A-:11	no	.	183.84	.	voice	2A- 2cc 2ee- 2gg
+.	.	Oh	.	.	.	.	.
+2V7	F:7	no	.	185.178	.	voice	2F 2a 2cc 2ee-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	no	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+1I7	B-:maj7	no.	.	186.517	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Sweet	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1ivm7	E-:min9	_	.	189.205	.	voice	1E- 1g- 1b- 1dd
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Ah	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+1-VI7	G-:maj7	_	.	191.892	.	voice	1G- 1b- 1dd- 1ff
+.	.	ooh	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	ooh.	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+2-VIIm7	A-:11	_	.	194.579	.	voice	3...A- 3...cc 3...ee- 3...gg
+.	.	_	.	.	.	.	.
+2V7	F:7	.	.	195.922	.	voice	4.F 4.a 4.cc 4.ee-
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+1I7	B-:maj7	.	.	197.266	newline	voice	1B- 1dd 1ff 1aa
+.	.	So	.	.	.	.	.
+.	.	sweet.	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1ivm7	E-:min9	.	.	199.943	.	voice	1E- 1g- 1b- 1dd
+.	.	So	.	.	.	.	.
+.	.	sweet.	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1-VI7	G-:maj7	.	.	202.619	.	voice	1G- 1b- 1dd- 1ff
+.	.	So	.	.	.	.	.
+.	.	sweet	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+2-VIIm7	A-:11	_	.	205.296	.	voice	2..A- 2..cc 2..ee- 2..gg
+.	.	ah	.	.	.	.	.
+2V7	F:7	.	.	206.634	.	voice	8F 8a 8cc 8ee-
+.	.	_	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+1I7	B-:maj7	_	.	207.972	newline	voice	1B- 1dd 1ff 1aa
+.	.	Love.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Oh	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+1ivm7	E-:min9	_	.	210.627	.	voice	1E- 1g- 1b- 1dd
+.	.	love.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+1-VI7	G-:maj7	.	.	213.281	.	voice	1G- 1b- 1dd- 1ff
+=81	=81	=81	=81	=81	=81	=81	=81
+2-VIIm7	A-:11	.	.	215.936	.	voice	2A- 2cc 2ee- 2gg
+.	.	Ah	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2V7	F:7	ba-	.	217.263	.	voice	2F 2a 2cc 2ee-
+.	.	-by	.	.	.	.	.
+.	.	no.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+1I7	B-:maj7	.	.	218.59	newline	voice	1B- 1dd 1ff 1aa
+.	.	Sweet	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	turn	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Oh	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+1ivm7	E-:min9	.	.	221.251	.	voice	1E- 1g- 1b- 1dd
+.	.	Sweet	.	.	.	.	.
+.	.	turn	.	.	.	.	.
+.	.	love.	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1-VI7	G-:maj7	.	.	223.912	.	voice	1G- 1b- 1dd- 1ff
+.	.	Oh	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	no	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Oh	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+2-VIIm7	A-:11	no	.	226.573	.	voice	3...A- 3...cc 3...ee- 3...gg
+.	.	no	.	.	.	.	.
+.	.	no	.	.	.	.	.
+2V7	F:7	.	.	227.904	.	voice	4.F 4.a 4.cc 4.ee-
+.	.	no	.	.	.	.	.
+.	.	no	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+1I7	B-:maj7	no.	.	229.234	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Su	.	.	.	.	.
+.	.	la	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	-da	.	.	.	.	.
+.	.	no.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+1ivm7	E-:min9	_	.	231.899	.	voice	1E- 1g- 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1-VI7	G-:maj7	.	.	234.564	.	voice	1G- 1b- 1dd- 1ff
+.	.	.	.	.	.	.	.
+.	.	Dont'	.	.	.	.	.
+.	.	any-	.	.	.	.	.
+.	.	-bo-	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89
+2-VIIm7	A-:11	-dy	.	237.229	.	voice	2A- 2cc 2ee- 2gg
+.	.	know	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2V7	F:7	.	.	238.561	.	voice	2F 2a 2cc 2ee-
+.	.	how	.	.	.	.	.
+.	.	sweet	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	is?.	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout
+1I7	B-:maj7	_	.	239.893	newline	voice	1B- 1dd 1ff 1aa
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	how	.	.	.	.	.
+.	.	sweet	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	is?.	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91
+1ivm7	E-:min9	_	.	242.545	.	voice	1E- 1g- 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92
+1-VI7	G-:maj7	.	.	245.197	.	voice	1G- 1b- 1dd- 1ff
+.	.	~	.	.	.	.	.
+.	.	~	.	.	.	.	.
+.	.	~	.	.	.	.	.
+.	.	~	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	-by.	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93
+2-VIIm7	A-:11	.	.	247.849	.	voice	1A- 1cc 1ee- 1gg
+2V7	F:7	.	.	249.175	.	voice	2F 2a 2cc 2ee-
+=94	=94	=94	=94	=94	=94	=94	=94
+1I7	B-:maj7	.	.	250.501	newline	voice	1B- 1dd 1ff 1aa
+=95	=95	=95	=95	=95	=95	=95	=95
+1ivm7	E-:min9	.	.	253.17	.	voice	1E- 1g- 1b- 1dd
+=96	=96	=96	=96	=96	=96	=96	=96
+1-VI7	G-:maj7	.	.	255.839	.	voice	1G- 1b- 1dd- 1ff
+=97	=97	=97	=97	=97	=97	=97	=97
+2-VIIm7	A-:11	.	.	258.509	.	voice	1A- 1cc 1ee- 1gg
+2V7	F:7	.	.	259.843	.	voice	2F 2a 2cc 2ee-
+1r;	N	.	.	261.178	.	r	1r;
+1r;	N	.	.	266.344	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1986/09/13
+!!!BillboardPeak: 8
+!!!BillboardWeeksOnChart: 22
+!!!COC: Anita Baker
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Sweet Love
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 35
+!!!SampleID#: 0837
+!!!SampleTargetRank: 37
+!!!MBID: ff7c972f-a036-403c-8469-e9cab5a0d3dd

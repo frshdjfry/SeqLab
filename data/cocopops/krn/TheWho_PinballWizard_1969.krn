@@ -1,0 +1,532 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*b:	*b:	*	*	*	*	*	*	*b:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1i7c	B:min7/5	.	.	.	0.045	newline	guitar	1b 1dd 1F# 1a#
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+1i7c	B:min11/5	.	.	.	2.02	.	guitar	1b 1dd 1F# 1a#
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1ii7f	C#:min7/4	.	.	.	3.995	.	guitar	1C# 1e 1g# 1b
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1V7	F#:7	.	.	.	5.97	.	guitar	1F# 1a# 1cc# 1ee
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+1v7	F#:min7	.	.	.	7.946	newline	guitar	1F# 1a 1cc# 1ee
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+1iio7f	C#:hdim7/4	.	.	.	9.836	.	guitar	1C# 1e 1g 1b
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1ivb	E:min/b3	.	.	.	11.726	.	guitar	1e 1G 1b
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1V7	F#:7	.	.	.	13.617	.	guitar	1F# 1a# 1cc# 1ee
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1V7	F#:7	.	.	.	15.507	.	guitar	1F# 1a# 1cc# 1ee
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse
+*B:	*B:	*	*	*	*	*	*	*B:
+1I	B:sus4	.	.	.	17.398	newline	guitar	1B 1dd# 1ff#
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+1I	B:maj	.	.	.	19.27	.	guitar	1B 1dd# 1ff#
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+1I	B:sus4	.	.	.	21.143	.	guitar	1B 1dd# 1ff#
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+1I	B:maj	.	.	.	23.015	.	guitar	1B 1dd# 1ff#
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1I	B:sus4	.	.	.	24.888	newline	guitar	1B 1dd# 1ff#
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1I	B:maj	.	.	.	26.781	.	guitar	1B 1dd# 1ff#
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1I	B:sus4	.	.	.	28.675	.	guitar	1B 1dd# 1ff#
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1I	B:maj	.	.	.	30.568	.	guitar	1B 1dd# 1ff#
+.	.	Ev-	.	.	.	.	.	.
+.	.	-er	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	B:sus4	since	.	.	32.461	newline	voice	1B 1dd# 1ff#
+.	.	I	.	.	.	.	.	.
+.	.	was	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	young	.	.	.	.	.	.
+.	.	boy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1I	B:maj	played	.	.	34.345	.	voice	1B 1dd# 1ff#
+.	.	the	.	.	.	.	.	.
+.	.	sil-	.	.	.	.	.	.
+.	.	-ver	.	.	.	.	.	.
+.	.	ball	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	From	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1-VII	A:sus4	So-	.	.	36.229	.	voice	1A 1cc# 1ee
+.	.	-ho	.	.	.	.	.	.
+.	.	down	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	Brigh-	.	(B	.	.	.	.
+.	.	-ton	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+1-VII	A:maj	must	.	.	38.112	.	voice	1A 1cc# 1ee
+.	.	have	.	.	.	.	.	.
+.	.	played	.	.	.	.	.	.
+.	.	them	.	.	.	.	.	.
+.	.	all	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	But	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1-VI	G:sus4	ain't	.	.	39.996	newline	voice	1G 1b 1dd
+.	.	seen	.	.	.	.	.	.
+.	.	noth-	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	like	.	(B	.	.	.	.
+.	.	him	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	in	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1-VI	G:maj	an-	.	.	41.962	.	voice	1G 1b 1dd
+.	.	-y	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-muse-	.	.	.	.	.	.
+.	.	-ment	.	.	.	.	.	.
+.	.	hall	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	That	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+1V	F#:sus4	deaf	.	.	43.928	.	voice	1F# 1a# 1cc#
+.	.	dumb	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	blind	.	(B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	kid	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+1V	F#:sus4	Sure	Sure	.	45.895	.	voice	1F# 1a# 1cc#
+.	.	plays	plays	.	.	.	.	.
+.	.	a	a	.	.	.	.	.
+.	.	mean	mean	.	.	.	.	.
+.	.	pin-	pin-	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+2I	B:maj	-ball	-ball	A	47.861	newline	guitar	2B 2dd# 2ff#
+4-VII	A:maj	.	.	.	48.828	.	guitar	2A 2cc# 2ee
+4-III	D:maj	.	.	.	49.312	.	guitar	4D 4f# 4a
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+1IV	E:maj	.	.	.	49.796	.	guitar	1E 1g# 1b
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+2I	B:maj	.	.	.	51.731	.	guitar	1B 1dd# 1ff#
+4-VII	A:maj	.	.	.	52.698	.	guitar	4A 4cc# 4ee
+4-III	D:maj	.	.	.	53.182	.	guitar	4D 4f# 4a
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+1IV	E:maj	.	.	.	53.666	.	guitar	1E 1g# 1b
+.	.	He	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	B:sus4	stands	.	.	55.601	newline	voice	1B 1dd# 1ff#
+.	.	like	.	B	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	sta-	.	.	.	.	.	.
+.	.	-tue	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Be-	.	.	.	.	.	.
+.	.	-comes	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+1I	B:maj	part	.	.	57.518	.	voice	1B 1dd# 1ff#
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	ma-	.	.	.	.	.	.
+.	.	-chine	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+1-VII	A:sus4	Feel-	.	.	59.434	.	voice	1A 1cc# 1ee
+.	.	-ing	.	.	.	.	.	.
+.	.	all	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	bum-	.	(D	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-pers	.	d)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+1-VII	A:maj	Al-	.	.	61.351	.	voice	1A 1cc# 1ee
+.	.	-ways	.	.	.	.	.	.
+.	.	plays	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	clean	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+1-VI	G:sus4	Plays	.	.	63.268	newline	voice	1G 1b 1dd
+.	.	by	.	.	.	.	.	.
+.	.	in-	.	.	.	.	.	.
+.	.	-tu-	.	.	.	.	.	.
+.	.	-it-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-ion	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	The	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+1-VI	G:maj	di-	.	.	65.225	.	voice	1G 1b 1dd
+.	.	-git	.	.	.	.	.	.
+.	.	coun-	.	(.	.	.	.	.
+.	.	-ters	.	d)	.	.	.	.
+.	.	fall	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	The	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+1V	F#:sus4	deaf	.	.	67.181	.	voice	1F# 1a# 1cc#
+.	.	dumb	.	D	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	blind	.	(B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	kid	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+1V	F#:sus4	Sure	Sure	.	69.137	.	voice	1F# 1a# 1cc#
+.	.	plays	plays	.	.	.	.	.
+.	.	a	a	.	.	.	.	.
+.	.	mean	mean	.	.	.	.	.
+.	.	pin-	pin-	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+2I	B:maj	-ball	-ball	A	71.094	newline	guitar	2B 2dd# 2ff#
+4-VII	A:maj	.	.	.	72.08	.	guitar	2A 2cc# 2ee
+4-III	D:maj	.	.	.	72.574	.	guitar	4D 4f# 4a
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1IV	E:maj	.	.	.	73.067	.	guitar	1E 1g# 1b
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+2I	B:maj	.	.	.	75.04	.	guitar	1B 1dd# 1ff#
+4-VII	A:maj	.	.	.	76.027	.	guitar	4A 4cc# 4ee
+4-III	D:maj	.	.	.	76.52	.	guitar	4D 4f# 4a
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+1IV	E:maj	.	.	.	77.014	.	guitar	1E 1g# 1b
+.	.	.	.	.	.	.	.	.
+.	.	.	He's	.	.	.	.	.
+.	.	.	a	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4IV	E:maj	pin-	pin-	.	78.987	newline	voice	4E 4g# 4b
+4V	F#:maj	-ball	-ball	.	79.479	.	voice	4F# 4a# 4cc#
+2I	B:maj	wiz-	wiz-	.	79.971	.	voice	2B 2dd# 2ff#
+.	.	-ard	-ard	.	.	.	.	.
+.	.	there	.	.	.	.	.	.
+.	.	has	has	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+4IV	E:maj	_	_	.	80.954	.	voice	4E 4g# 4b
+.	.	to	to	.	.	.	.	.
+4V	F#:maj	be	be	.	81.446	.	voice	4F# 4a# 4cc#
+.	.	a	a	.	.	.	.	.
+2I	B:maj	twist	twist	E	81.938	.	voice	2B 2dd# 2ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	A	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+4IV	E:maj	pin-	pin-	.	82.921	.	voice	4E 4g# 4b
+4V	F#:maj	-ball	-ball	.	83.413	.	voice	4F# 4a# 4cc#
+2I	B:maj	wiz-	wiz-	.	83.905	.	voice	2B 2dd# 2ff#
+.	.	-ard's	-ard's	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+*D:	*D:	*	*	*	*	*	*	*D:
+1IV	G:maj	such	such	.	84.888	.	voice	1G 1b 1dd
+.	.	a	a	.	.	.	.	.
+.	.	su-	su-	.	.	.	.	.
+.	.	-btle	-btle	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1I	D:maj	wrist	wrist	E	86.856	.	voice	1D 1f# 1a
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1I	D:maj	.	.	.	88.823	.	voice	1D 1f# 1a
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse
+1I	D:sus4(b7)	How	.	.	90.79	newline	guitar	1D 1f# 1a
+.	.	do	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	think	.	.	.	.	.	.
+.	.	he	.	.	.	.	.	.
+.	.	does	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+1Im7	D:7	_	.	.	92.745	.	guitar	1D 1f# 1a 1cc#
+.	.	it?	I	.	.	.	.	.
+.	.	.	don't	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	know	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+1I	D:sus4(b7)	What	_	.	94.7	.	guitar	1D 1f# 1a
+.	.	makes	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	him	.	.	.	.	.	.
+.	.	so	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+1Im7	D:7	good?	.	.	96.655	.	guitar	1D 1f# 1a 1cc#
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*B:	*B:	*	*	*	*	*	*	*B:
+1I	B:sus4	Ain't	.	.	98.611	newline	voice	1B 1dd# 1ff#
+.	.	got	.	.	.	.	.	.
+.	.	no	.	.	.	.	.	.
+.	.	dis-	.	.	.	.	.	.
+.	.	-trac-	.	(F	.	.	.	.
+.	.	-tions	.	f)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Can't	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+1I	B:maj	hear	.	.	100.568	.	voice	1B 1dd# 1ff#
+.	.	no	.	.	.	.	.	.
+.	.	bu-	.	.	.	.	.	.
+.	.	-zzers	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	bells	.	G	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Don't	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+1-VII	A:sus4	see	.	.	102.526	.	voice	1A 1cc# 1ee
+.	.	no	.	.	.	.	.	.
+.	.	lights	.	B	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	flash-	.	(F	.	.	.	.
+.	.	-in'	.	f)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+1-VII	A:maj	Plays	.	.	104.483	.	voice	1A 1cc# 1ee
+.	.	be	.	.	.	.	.	.
+.	.	sense	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	smell	.	G	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+1-VI	G:sus4	Al-	.	.	106.44	newline	voice	1G 1b 1dd
+.	.	-ways	.	.	.	.	.	.
+.	.	gets	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	re-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-play	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1-VI	G:maj	Ne-	.	.	108.424	.	voice	1G 1b 1dd
+.	.	-ver	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	seen	.	.	.	.	.	.
+.	.	fall	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	That	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1V	F#:sus4	deaf	.	.	110.407	.	voice	1F# 1a# 1cc#
+.	.	dumb	.	D	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	blind	.	(B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	kid	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+1V	F#:sus4	Sure	Sure	.	112.391	.	voice	1F# 1a# 1cc#
+.	.	plays	plays	.	.	.	.	.
+.	.	a	a	.	.	.	.	.
+.	.	mean	mean	.	.	.	.	.
+.	.	pin-	pin-	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+2I	B:maj	-ball	-ball	A	114.374	newline	guitar	2B 2dd# 2ff#
+4-VII	A:maj	.	.	.	115.35	.	guitar	2A 2cc# 2ee
+4-III	D:maj	.	.	.	115.837	.	guitar	4D 4f# 4a
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+1IV	E:maj	.	.	.	116.325	.	guitar	1E 1g# 1b
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+2I	B:maj	.	.	.	118.276	.	guitar	1B 1dd# 1ff#
+4-VII	A:maj	.	.	.	119.252	.	guitar	4A 4cc# 4ee
+4-III	D:maj	.	.	.	119.739	.	guitar	4D 4f# 4a
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+1IV	E:maj	.	.	.	120.227	.	guitar	1E 1g# 1b
+.	.	I	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4IV	E:maj	thought	thought	.	122.178	newline	voice	4E 4g# 4b
+4V	F#:maj	I	I	.	122.676	.	voice	4F# 4a# 4cc#
+2I	B:maj	was	was	.	123.173	.	voice	2B 2dd# 2ff#
+.	.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+4IV	E:maj	Ba-	Ba-	.	124.168	.	voice	4E 4g# 4b
+.	.	-lly	-lly	.	.	.	.	.
+4V	F#:maj	ta-	ta-	.	124.666	.	voice	4F# 4a# 4cc#
+.	.	-ble	-ble	.	.	.	.	.
+2I	B:maj	king	king	.	125.164	.	voice	2B 2dd# 2ff#
+.	.	.	.	.	.	.	.	.
+.	.	But	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+4IV	E:maj	I	I	.	126.159	.	voice	4E 4g# 4b
+4V	F#:maj	just	just	.	126.656	.	voice	4F# 4a# 4cc#
+2I	B:maj	hand-	hand-	.	127.154	.	voice	2B 2dd# 2ff#
+.	.	-ed	-ed	.	.	.	.	.
+.	.	my	my	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+*D:	*D:	*	*	*	*	*	*	*D:
+1IV	G:maj	pin-	pin-	.	128.149	.	voice	1G 1b 1dd
+.	.	-ball	-ball	.	.	.	.	.
+.	.	crown	crown	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+1I	D:maj	him	him	.	130.139	.	voice	1D 1f# 1a
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+1I	D:maj	.	.	.	132.13	.	voice	1D 1f# 1a
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse
+1I	D:sus4	.	.	.	134.12	newline	guitar	1D 1f# 1a
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1I	D:maj	.	.	.	135.973	.	guitar	1D 1f# 1a
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+1I	D:sus4	.	.	.	137.826	.	guitar	1D 1f# 1a
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+1I	D:maj	.	.	.	139.679	.	guitar	1D 1f# 1a
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1I	D:sus4	.	.	.	141.532	newline	guitar	1D 1f# 1a
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+1I	D:maj	.	.	.	143.416	.	guitar	1D 1f# 1a
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+1I	D:sus4	.	.	.	145.299	.	guitar	1D 1f# 1a
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+1I	D:maj	.	.	.	147.183	.	guitar	1D 1f# 1a
+.	.	Ev-	.	.	.	.	.	.
+.	.	-en	.	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	D:sus4	on	.	.	149.067	newline	voice	1D 1f# 1a
+.	.	my	.	.	.	.	.	.
+.	.	favor-	.	.	.	.	.	.
+.	.	-ite	.	.	.	.	.	.
+.	.	ta-	.	(.	.	.	.	.
+.	.	-ble	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+1I	D:maj	He	.	.	151.002	.	voice	1D 1f# 1a
+.	.	can	.	.	.	.	.	.
+.	.	beat	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	best	.	H	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Di-	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+1-VII	C:sus4	-scip-	.	(B	152.936	.	voice	1C 1e 1g
+.	.	-les	.	b)	.	.	.	.
+.	.	lead	.	.	.	.	.	.
+.	.	him	.	.	.	.	.	.
+.	.	in	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+1-VII	C:maj	he	.	.	154.871	.	voice	1C 1e 1g
+.	.	just	.	.	.	.	.	.
+.	.	does	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	rest	.	H	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	He's	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+1-VI	B-:sus4	cra-	.	.	156.806	newline	voice	1B- 1dd 1ff
+.	.	-zy	.	.	.	.	.	.
+.	.	fli-	.	.	.	.	.	.
+.	.	-pper	.	.	.	.	.	.
+.	.	fing-	.	.	.	.	.	.
+.	.	-ers	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+1-VI	B-:maj	Ne-	.	.	158.759	.	voice	1B- 1dd 1ff
+.	.	-ver	.	.	.	.	.	.
+.	.	seen	.	.	.	.	.	.
+.	.	him	.	.	.	.	.	.
+.	.	fall	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	That	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+1V	A:sus4	deaf	.	.	160.713	.	voice	1A 1cc# 1ee
+.	.	dumb	.	D	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	blind	.	(B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	kid	.	b)	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+1V	A:maj	Sure	Sure	.	162.666	.	voice	1A 1cc# 1ee
+.	.	plays	plays	.	.	.	.	.
+.	.	a	a	.	.	.	.	.
+.	.	mean	mean	.	.	.	.	.
+.	.	pin-	pin-	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+2I	D:maj	-ball	-ball	A	164.62	newline	guitar	2D 2f# 2a
+4-VII	C:maj	.	.	.	165.642	.	guitar	2C 2e 2g
+4-III	F:maj	.	.	.	166.153	.	guitar	4F 4a 4cc
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout
+1-VI	B-:sus4(b7)	.	.	.	166.665	newline	guitar	1B- 1dd 1ff
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+1-VIm7	B-:7	.	.	.	168.579	.	guitar	1B- 1dd 1ff 1aa
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+1-VI	B-:sus4(b7)	.	.	.	170.493	.	guitar	1B- 1dd 1ff
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+1-VIm7	B-:7	.	.	.	172.407	.	guitar	1B- 1dd 1ff 1aa
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+1-VIm7	B-:7	.	.	.	174.321	newline	guitar	1B- 1dd 1ff 1aa
+=92	=92	=92	=92	=92	=92	=92	=92	=92
+1-VIm7	B-:7	.	.	.	176.212	.	guitar	1B- 1dd 1ff 1aa
+1r;	N	.	.	.	179.049	.	r	1r;
+1r;	N	.	.	.	180.611	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1969/04/26
+!!!BillboardPeak: 19
+!!!BillboardWeeksOnChart: 11
+!!!COC: The Who
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Pinball Wizard
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 46
+!!!SampleID#: 0421
+!!!SampleTargetRank: 48
+!!!MBID: 295291be-e403-47fd-b7ab-ae65ad60a275

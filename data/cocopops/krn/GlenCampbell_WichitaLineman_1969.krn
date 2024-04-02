@@ -1,0 +1,166 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*F:	*F:	*	*	*	*F:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I7	F:maj7	1.845	newline	strings	1F 1a 1cc 1ee
+=2	=2	=2	=2	=2	=2
+1IVc	B-:maj6/5	4.698	.	strings	1b- 1dd 1F
+=3	=3	=3	=3	=3	=3
+1I7	F:maj7	7.552	.	strings	1F 1a 1cc 1ee
+=4	=4	=4	=4	=4	=4
+1IVc	B-:maj6/5	10.406	.	strings	1b- 1dd 1F
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1IV7	B-:maj7	13.259	newline	voice	1B- 1dd 1ff 1aa
+=6	=6	=6	=6	=6	=6
+1iii7	A:min7	16.101	.	voice	1A 1cc 1ee 1gg
+=7	=7	=7	=7	=7	=7
+1IV7	B-:maj7	18.942	.	voice	1B- 1dd 1ff 1aa
+=8	=8	=8	=8	=8	=8
+2vi7	D:min7	21.784	newline	voice	2D 2f 2a 2cc
+2iii7	A:min7	23.221	.	voice	2A 2cc 2ee 2gg
+=9	=9	=9	=9	=9	=9
+1II	G:maj	24.658	.	voice	1G 1b 1dd
+=10	=10	=10	=10	=10	=10
+1VI	D:maj	27.532	.	voice	1D 1f# 1a
+=11	=11	=11	=11	=11	=11
+1VI	D:maj	30.405	.	voice	1D 1f# 1a
+=12	=12	=12	=12	=12	=12
+1V	C:maj6(9)	33.279	newline	voice	1C 1e 1g
+=13	=13	=13	=13	=13	=13
+1V	C:maj6(9)	36.115	.	voice	1C 1e 1g
+=14	=14	=14	=14	=14	=14
+1IIb	G:maj(9)/3	38.951	.	voice	1g 1B 1dd
+=15	=15	=15	=15	=15	=15
+1IV	B-:maj6	41.787	.	voice	1B- 1dd 1ff
+=16	=16	=16	=16	=16	=16
+1VI	D:maj	44.622	newline	voice	1D 1f# 1a
+=17	=17	=17	=17	=17	=17
+1iii	A:sus4(9)	47.493	.	voice	1A 1cc 1ee
+=18	=18	=18	=18	=18	=18
+1IV	B-:maj	50.365	newline	strings	1B- 1dd 1ff
+=19	=19	=19	=19	=19	=19
+1V	C:maj(9)	53.241	.	strings	1C 1e 1g
+=20	=20	=20	=20	=20	=20
+1IV	B-:maj	56.118	.	strings	1B- 1dd 1ff
+=21	=21	=21	=21	=21	=21
+1V	C:sus4(b7)	58.994	.	strings	1C 1e 1g
+=22	=22	=22	=22	=22	=22
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1IV7	B-:maj7	61.871	newline	voice	1B- 1dd 1ff 1aa
+=23	=23	=23	=23	=23	=23
+1iii7	A:min7	64.71	.	voice	1A 1cc 1ee 1gg
+=24	=24	=24	=24	=24	=24
+1IV7	B-:maj7	67.549	.	voice	1B- 1dd 1ff 1aa
+=25	=25	=25	=25	=25	=25
+2vi7	D:min7	70.388	newline	voice	2D 2f 2a 2cc
+2iii7	A:min7	71.826	.	voice	2A 2cc 2ee 2gg
+=26	=26	=26	=26	=26	=26
+1II	G:maj	73.263	.	voice	1G 1b 1dd
+=27	=27	=27	=27	=27	=27
+1VI	D:maj	76.137	.	voice	1D 1f# 1a
+=28	=28	=28	=28	=28	=28
+1VI	D:maj	79.012	.	voice	1D 1f# 1a
+=29	=29	=29	=29	=29	=29
+1V	C:maj6(9)	81.886	newline	voice	1C 1e 1g
+=30	=30	=30	=30	=30	=30
+1V	C:maj6(9)	84.694	.	voice	1C 1e 1g
+=31	=31	=31	=31	=31	=31
+1IIb	G:maj(9)/3	87.501	.	voice	1g 1B 1dd
+=32	=32	=32	=32	=32	=32
+1IV	B-:maj6	90.308	.	voice	1B- 1dd 1ff
+=33	=33	=33	=33	=33	=33
+1VI	D:maj	93.115	newline	voice	1D 1f# 1a
+=34	=34	=34	=34	=34	=34
+1iii	A:sus4(9)	95.976	.	voice	1A 1cc 1ee
+=35	=35	=35	=35	=35	=35
+1IV	B-:maj	98.836	newline	strings	1B- 1dd 1ff
+=36	=36	=36	=36	=36	=36
+1V	C:maj(9)	101.657	.	strings	1C 1e 1g
+=37	=37	=37	=37	=37	=37
+1IV	B-:maj	104.478	.	strings	1B- 1dd 1ff
+=38	=38	=38	=38	=38	=38
+1V	C:sus4(b7)	107.299	.	strings	1C 1e 1g
+=39	=39	=39	=39	=39	=39
+*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1IV7	B-:maj7	110.121	newline	guitar	1B- 1dd 1ff 1aa
+=40	=40	=40	=40	=40	=40
+1I	F:maj	112.905	.	guitar	1F 1a 1cc
+=41	=41	=41	=41	=41	=41
+1V	C:sus4(b7)	115.69	.	guitar	1C 1e 1g
+=42	=42	=42	=42	=42	=42
+2vi7	D:min7	118.475	newline	guitar	2D 2f 2a 2cc
+2iii7	A:min7	119.887	.	guitar	2A 2cc 2ee 2gg
+=43	=43	=43	=43	=43	=43
+1II	G:maj	121.3	.	guitar	1G 1b 1dd
+=44	=44	=44	=44	=44	=44
+1VI	D:maj	124.125	.	guitar	1D 1f# 1a
+=45	=45	=45	=45	=45	=45
+1VI	D:maj	126.95	.	guitar	1D 1f# 1a
+=46	=46	=46	=46	=46	=46
+1V	C:maj6(9)	129.775	newline	voice	1C 1e 1g
+=47	=47	=47	=47	=47	=47
+1V	C:maj6(9)	132.605	.	voice	1C 1e 1g
+=48	=48	=48	=48	=48	=48
+1IIb	G:maj(9)/3	135.435	.	voice	1g 1B 1dd
+=49	=49	=49	=49	=49	=49
+1IV	B-:maj6	138.265	.	voice	1B- 1dd 1ff
+=50	=50	=50	=50	=50	=50
+1VI	D:maj	141.095	newline	voice	1D 1f# 1a
+=51	=51	=51	=51	=51	=51
+1iii	A:sus4(9)	143.977	.	voice	1A 1cc 1ee
+=52	=52	=52	=52	=52	=52
+1IV	B-:maj	146.859	newline	strings	1B- 1dd 1ff
+=53	=53	=53	=53	=53	=53
+1V	C:maj(9)	149.674	.	strings	1C 1e 1g
+=54	=54	=54	=54	=54	=54
+1IV	B-:maj	152.49	.	strings	1B- 1dd 1ff
+=55	=55	=55	=55	=55	=55
+1V	C:sus4(b7)	155.306	.	strings	1C 1e 1g
+=56	=56	=56	=56	=56	=56
+*>C_coda	*>C_coda	*>C_coda	*>C_coda	*>C_coda	*>C_coda
+1IV	B-:maj	158.122	newline	strings	1B- 1dd 1ff
+=57	=57	=57	=57	=57	=57
+1V	C:maj(9)	160.855	.	strings	1C 1e 1g
+=58	=58	=58	=58	=58	=58
+1IV	B-:maj	163.588	.	strings	1B- 1dd 1ff
+=59	=59	=59	=59	=59	=59
+1V	C:maj(9)	166.322	.	strings	1C 1e 1g
+=60	=60	=60	=60	=60	=60
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1IV	B-:maj	169.055	newline	strings	1B- 1dd 1ff
+=61	=61	=61	=61	=61	=61
+1V	C:maj(9)	171.773	.	strings	1C 1e 1g
+=62	=62	=62	=62	=62	=62
+1IV	B-:maj	174.491	.	strings	1B- 1dd 1ff
+=63	=63	=63	=63	=63	=63
+1V	C:maj(9)	177.209	.	strings	1C 1e 1g
+=64	=64	=64	=64	=64	=64
+1IV	B-:maj	179.927	newline	strings	1B- 1dd 1ff
+=65	=65	=65	=65	=65	=65
+1V	C:maj(9)	180.921	.	strings	1C 1e 1g
+=66	=66	=66	=66	=66	=66
+1IV	B-:maj	181.915	.	strings	1B- 1dd 1ff
+=67	=67	=67	=67	=67	=67
+1V	C:maj(9)	182.908	.	strings	1C 1e 1g
+1r;	N	183.902	.	r	1r;
+1r;	N	187.429	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Wichita Lineman
+!!!COC: Glen Campbell
+!!!BillboardChartDate: 1969/01/11
+!!!BillboardPeak: 3
+!!!BillboardWeeksOnChart: 15
+!!!SampleTargetRank: 3
+!!!SampleActualRank: 3
+!!!SampleID#: 1114
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

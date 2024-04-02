@@ -1,0 +1,181 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*E:	*E:	*	*	*	*E:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	E:maj	1.041	newline	r	1E 1g# 1b
+=2	=2	=2	=2	=2	=2
+1vi	C#:min	3.198	.	r	1C# 1e 1g#
+=3	=3	=3	=3	=3	=3
+1IV	A:maj	5.355	.	r	1A 1cc# 1ee
+=4	=4	=4	=4	=4	=4
+1V	B:maj	7.512	.	r	1B 1dd# 1ff#
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	E:maj	9.669	newline	voice	1E 1g# 1b
+=6	=6	=6	=6	=6	=6
+1I	E:maj	11.847	.	voice	1E 1g# 1b
+=7	=7	=7	=7	=7	=7
+1vi	C#:min	14.025	.	voice	1C# 1e 1g#
+=8	=8	=8	=8	=8	=8
+1vi	C#:min	16.204	.	voice	1C# 1e 1g#
+=9	=9	=9	=9	=9	=9
+1IV	A:maj	18.382	newline	voice	1A 1cc# 1ee
+=10	=10	=10	=10	=10	=10
+1IV	A:maj	20.565	.	voice	1A 1cc# 1ee
+=11	=11	=11	=11	=11	=11
+1I	E:maj	22.747	.	voice	1E 1g# 1b
+=12	=12	=12	=12	=12	=12
+1I	E:maj	24.93	.	voice	1E 1g# 1b
+=13	=13	=13	=13	=13	=13
+1III7	G#:7	27.112	newline	voice	1G# 1b# 1dd# 1ff#
+=14	=14	=14	=14	=14	=14
+1III7	G#:7	29.258	.	voice	1G# 1b# 1dd# 1ff#
+=15	=15	=15	=15	=15	=15
+1IV	A:maj	31.404	.	voice	1A 1cc# 1ee
+=16	=16	=16	=16	=16	=16
+1#ivoD7	A#:dim7	33.55	.	voice	1A# 1cc# 1ee 1gg
+=17	=17	=17	=17	=17	=17
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1I	E:maj	35.696	newline	voice	1E 1g# 1b
+=18	=18	=18	=18	=18	=18
+1vi	C#:min	37.857	.	voice	1C# 1e 1g#
+=19	=19	=19	=19	=19	=19
+1I	E:maj	40.018	.	voice	1E 1g# 1b
+=20	=20	=20	=20	=20	=20
+1vi	C#:min	42.179	.	voice	1C# 1e 1g#
+=21	=21	=21	=21	=21	=21
+1I	E:maj	44.34	newline	voice	1E 1g# 1b
+=22	=22	=22	=22	=22	=22
+1Im7	E:7	46.467	.	voice	1E 1g# 1b 1dd#
+=23	=23	=23	=23	=23	=23
+*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+1IV	A:maj	48.594	newline	voice	1A 1cc# 1ee
+=24	=24	=24	=24	=24	=24
+1IV	A:maj	50.74	.	voice	1A 1cc# 1ee
+=25	=25	=25	=25	=25	=25
+1I	E:maj	52.886	.	voice	1E 1g# 1b
+=26	=26	=26	=26	=26	=26
+1Im7	E:7	55.032	.	voice	1E 1g# 1b 1dd#
+=27	=27	=27	=27	=27	=27
+1IV	A:maj	57.178	newline	voice	1A 1cc# 1ee
+=28	=28	=28	=28	=28	=28
+1IV	A:maj	59.335	.	voice	1A 1cc# 1ee
+=29	=29	=29	=29	=29	=29
+1I	E:maj	61.492	.	voice	1E 1g# 1b
+=30	=30	=30	=30	=30	=30
+1Im7	E:7	63.648	.	voice	1E 1g# 1b 1dd#
+=31	=31	=31	=31	=31	=31
+1IV	A:maj	65.805	newline	voice	1A 1cc# 1ee
+=32	=32	=32	=32	=32	=32
+1IV	A:maj	67.938	.	voice	1A 1cc# 1ee
+=33	=33	=33	=33	=33	=33
+1I	E:maj	70.071	.	voice	1E 1g# 1b
+=34	=34	=34	=34	=34	=34
+1vi	C#:min	72.205	.	voice	1C# 1e 1g#
+=35	=35	=35	=35	=35	=35
+1II7	F#:7	74.338	newline	voice	1F# 1a# 1cc# 1ee
+=36	=36	=36	=36	=36	=36
+1II7	F#:7	76.457	.	voice	1F# 1a# 1cc# 1ee
+=37	=37	=37	=37	=37	=37
+1V7	B:7	78.575	.	voice	1B 1dd# 1ff# 1aa
+=38	=38	=38	=38	=38	=38
+1V7	B:7	80.693	.	voice	1B 1dd# 1ff# 1aa
+=39	=39	=39	=39	=39	=39
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	E:maj	82.812	newline	voice	1E 1g# 1b
+=40	=40	=40	=40	=40	=40
+1I	E:maj	84.936	.	voice	1E 1g# 1b
+=41	=41	=41	=41	=41	=41
+1vi	C#:min	87.061	.	voice	1C# 1e 1g#
+=42	=42	=42	=42	=42	=42
+1vi	C#:min	89.185	.	voice	1C# 1e 1g#
+=43	=43	=43	=43	=43	=43
+1IV	A:maj	91.309	newline	voice	1A 1cc# 1ee
+=44	=44	=44	=44	=44	=44
+1IV	A:maj	93.457	.	voice	1A 1cc# 1ee
+=45	=45	=45	=45	=45	=45
+1I	E:maj	95.604	.	voice	1E 1g# 1b
+=46	=46	=46	=46	=46	=46
+1I	E:maj	97.752	.	voice	1E 1g# 1b
+=47	=47	=47	=47	=47	=47
+1III7	G#:7	99.899	newline	voice	1G# 1b# 1dd# 1ff#
+=48	=48	=48	=48	=48	=48
+1III7	G#:7	101.99	.	voice	1G# 1b# 1dd# 1ff#
+=49	=49	=49	=49	=49	=49
+1IV	A:maj	104.081	.	voice	1A 1cc# 1ee
+=50	=50	=50	=50	=50	=50
+1#ivoD7	A#:dim7	106.172	.	voice	1A# 1cc# 1ee 1gg
+=51	=51	=51	=51	=51	=51
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1I	E:maj	108.263	newline	voice	1E 1g# 1b
+=52	=52	=52	=52	=52	=52
+1vi	C#:min	110.404	.	voice	1C# 1e 1g#
+=53	=53	=53	=53	=53	=53
+1I	E:maj	112.545	.	voice	1E 1g# 1b
+=54	=54	=54	=54	=54	=54
+1vi	C#:min	114.686	.	voice	1C# 1e 1g#
+=55	=55	=55	=55	=55	=55
+1I	E:maj	116.826	newline	voice	1E 1g# 1b
+=56	=56	=56	=56	=56	=56
+1vi	C#:min	118.935	.	voice	1C# 1e 1g#
+=57	=57	=57	=57	=57	=57
+1I	E:maj	121.044	.	voice	1E 1g# 1b
+=58	=58	=58	=58	=58	=58
+1vi	C#:min	123.153	.	voice	1C# 1e 1g#
+=59	=59	=59	=59	=59	=59
+1I	E:maj	125.262	newline	voice	1E 1g# 1b
+=60	=60	=60	=60	=60	=60
+1vi	C#:min	127.384	.	voice	1C# 1e 1g#
+=61	=61	=61	=61	=61	=61
+1I	E:maj	129.506	.	voice	1E 1g# 1b
+=62	=62	=62	=62	=62	=62
+1vi	C#:min	131.627	.	voice	1C# 1e 1g#
+=63	=63	=63	=63	=63	=63
+1I	E:maj	133.749	.	voice	1E 1g# 1b
+=64	=64	=64	=64	=64	=64
+1I	E:maj	135.871	newline	voice	1E 1g# 1b
+=65	=65	=65	=65	=65	=65
+1I	E:maj	137.981	.	voice	1E 1g# 1b
+=66	=66	=66	=66	=66	=66
+*>C_outro	*>C_outro	*>C_outro	*>C_outro	*>C_outro	*>C_outro
+1I	E:maj	140.091	newline	voice	1E 1g# 1b
+=67	=67	=67	=67	=67	=67
+1vi	C#:min	142.214	.	voice	1C# 1e 1g#
+=68	=68	=68	=68	=68	=68
+1I	E:maj	144.337	.	voice	1E 1g# 1b
+=69	=69	=69	=69	=69	=69
+1vi	C#:min	146.46	.	voice	1C# 1e 1g#
+=70	=70	=70	=70	=70	=70
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1I	E:maj	148.583	newline	voice	1E 1g# 1b
+=71	=71	=71	=71	=71	=71
+1vi	C#:min	150.666	.	voice	1C# 1e 1g#
+=72	=72	=72	=72	=72	=72
+1I	E:maj	152.749	.	voice	1E 1g# 1b
+=73	=73	=73	=73	=73	=73
+1vi	C#:min	154.832	.	voice	1C# 1e 1g#
+=74	=74	=74	=74	=74	=74
+1I	E:maj	156.915	newline	voice	1E 1g# 1b
+=75	=75	=75	=75	=75	=75
+1vi	C#:min	158.984	.	voice	1C# 1e 1g#
+1r;	N	161.054	.	r	1r;
+1r;	N	165.695	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Letter Full Of Tears
+!!!COC: Gladys Knight & The Pips
+!!!BillboardChartDate: 1962/01/27, 1962/02/10
+!!!BillboardPeak: 19, 19
+!!!BillboardWeeksOnChart: 11, 11
+!!!SampleTargetRank: 27, 19
+!!!SampleActualRank: 27, 19
+!!!SampleID#: 112, 596
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

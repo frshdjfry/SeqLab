@@ -1,0 +1,220 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*D:	*D:	*	*	*	*D:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro
+1I	D:5	0.372	newline	guitar	1D 1f# 1a
+=2	=2	=2	=2	=2	=2
+1I	D:5	2.323	.	guitar	1D 1f# 1a
+=3	=3	=3	=3	=3	=3
+1I	D:5	4.274	.	guitar	1D 1f# 1a
+=4	=4	=4	=4	=4	=4
+1I	D:5	6.225	.	guitar	1D 1f# 1a
+=5	=5	=5	=5	=5	=5
+1I	D:5	8.176	newline	guitar	1D 1f# 1a
+=6	=6	=6	=6	=6	=6
+1I	D:5	10.037	.	guitar	1D 1f# 1a
+=7	=7	=7	=7	=7	=7
+1I	D:5	11.897	.	guitar	1D 1f# 1a
+=8	=8	=8	=8	=8	=8
+1I	D:5	13.758	.	guitar	1D 1f# 1a
+=9	=9	=9	=9	=9	=9
+1I	D:5	15.619	newline	guitar	1D 1f# 1a
+=10	=10	=10	=10	=10	=10
+1I	D:5	17.448	.	guitar	1D 1f# 1a
+=11	=11	=11	=11	=11	=11
+1I	D:5	19.277	.	guitar	1D 1f# 1a
+=12	=12	=12	=12	=12	=12
+1I	D:5	21.107	.	guitar	1D 1f# 1a
+=13	=13	=13	=13	=13	=13
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:5	22.936	newline	voice	1D 1f# 1a
+=14	=14	=14	=14	=14	=14
+1I	D:5	24.781	.	voice	1D 1f# 1a
+=15	=15	=15	=15	=15	=15
+1-VI	B-:5	26.626	.	voice	1B- 1dd 1ff
+=16	=16	=16	=16	=16	=16
+1-VI	B-:5	28.471	.	voice	1B- 1dd 1ff
+=17	=17	=17	=17	=17	=17
+1I	D:5	30.316	newline	voice	1D 1f# 1a
+=18	=18	=18	=18	=18	=18
+1I	D:5	32.147	.	voice	1D 1f# 1a
+=19	=19	=19	=19	=19	=19
+1-VI	B-:5	33.978	.	voice	1B- 1dd 1ff
+=20	=20	=20	=20	=20	=20
+1-VI	B-:5	35.809	.	voice	1B- 1dd 1ff
+=21	=21	=21	=21	=21	=21
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	G:maj	37.64	newline	voice	1G 1b 1dd
+=22	=22	=22	=22	=22	=22
+1IV	G:maj	39.54	.	voice	1G 1b 1dd
+=23	=23	=23	=23	=23	=23
+1I	D:maj	41.439	.	voice	1D 1f# 1a
+=24	=24	=24	=24	=24	=24
+1I	D:maj	43.339	.	voice	1D 1f# 1a
+=25	=25	=25	=25	=25	=25
+1V	A:maj	45.238	newline	voice	1A 1cc# 1ee
+=26	=26	=26	=26	=26	=26
+1IV	G:maj	47.132	.	voice	1G 1b 1dd
+=27	=27	=27	=27	=27	=27
+1V	A:maj	49.025	.	voice	1A 1cc# 1ee
+=28	=28	=28	=28	=28	=28
+1IV	G:maj	50.919	.	voice	1G 1b 1dd
+=29	=29	=29	=29	=29	=29
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1I	D:5	52.812	newline	guitar	1D 1f# 1a
+=30	=30	=30	=30	=30	=30
+1I	D:5	54.714	.	guitar	1D 1f# 1a
+=31	=31	=31	=31	=31	=31
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:5	56.615	newline	voice	1D 1f# 1a
+=32	=32	=32	=32	=32	=32
+1I	D:5	58.469	.	voice	1D 1f# 1a
+=33	=33	=33	=33	=33	=33
+1-VI	B-:5	60.324	.	voice	1B- 1dd 1ff
+=34	=34	=34	=34	=34	=34
+1-VI	B-:5	62.178	.	voice	1B- 1dd 1ff
+=35	=35	=35	=35	=35	=35
+1I	D:5	64.033	newline	voice	1D 1f# 1a
+=36	=36	=36	=36	=36	=36
+1I	D:5	65.889	.	voice	1D 1f# 1a
+=37	=37	=37	=37	=37	=37
+1-VI	B-:5	67.746	.	voice	1B- 1dd 1ff
+=38	=38	=38	=38	=38	=38
+1-VI	B-:5	69.603	.	voice	1B- 1dd 1ff
+=39	=39	=39	=39	=39	=39
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	G:maj	71.46	newline	voice	1G 1b 1dd
+=40	=40	=40	=40	=40	=40
+1IV	G:maj	73.369	.	voice	1G 1b 1dd
+=41	=41	=41	=41	=41	=41
+1I	D:maj	75.279	.	voice	1D 1f# 1a
+=42	=42	=42	=42	=42	=42
+1I	D:maj	77.189	.	voice	1D 1f# 1a
+=43	=43	=43	=43	=43	=43
+1V	A:maj	79.099	newline	voice	1A 1cc# 1ee
+=44	=44	=44	=44	=44	=44
+1IV	G:maj	80.984	.	voice	1G 1b 1dd
+=45	=45	=45	=45	=45	=45
+1V	A:maj	82.869	.	voice	1A 1cc# 1ee
+=46	=46	=46	=46	=46	=46
+1IV	G:maj	84.755	.	voice	1G 1b 1dd
+=47	=47	=47	=47	=47	=47
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1I	D:5	86.64	newline	guitar	1D 1f# 1a
+=48	=48	=48	=48	=48	=48
+1I	D:5	88.489	.	guitar	1D 1f# 1a
+=49	=49	=49	=49	=49	=49
+*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo
+1IV	G:maj	90.338	newline	harmonica	1G 1b 1dd
+=50	=50	=50	=50	=50	=50
+1IV	G:maj	92.236	.	harmonica	1G 1b 1dd
+=51	=51	=51	=51	=51	=51
+1I	D:maj	94.134	.	harmonica	1D 1f# 1a
+=52	=52	=52	=52	=52	=52
+1I	D:maj	96.032	.	harmonica	1D 1f# 1a
+=53	=53	=53	=53	=53	=53
+1IV	G:maj	97.931	newline	harmonica	1G 1b 1dd
+=54	=54	=54	=54	=54	=54
+1IV	G:maj	99.813	.	harmonica	1G 1b 1dd
+=55	=55	=55	=55	=55	=55
+1V	A:maj	101.695	.	harmonica	1A 1cc# 1ee
+=56	=56	=56	=56	=56	=56
+1V	A:maj	103.577	.	harmonica	1A 1cc# 1ee
+=57	=57	=57	=57	=57	=57
+1IV	G:maj	105.46	newline	guitar	1G 1b 1dd
+=58	=58	=58	=58	=58	=58
+1IV	G:maj	107.354	.	guitar	1G 1b 1dd
+=59	=59	=59	=59	=59	=59
+1I	D:maj	109.249	.	guitar	1D 1f# 1a
+=60	=60	=60	=60	=60	=60
+1I	D:maj	111.144	.	guitar	1D 1f# 1a
+=61	=61	=61	=61	=61	=61
+1IV	G:maj	113.038	newline	guitar	1G 1b 1dd
+=62	=62	=62	=62	=62	=62
+1IV	G:maj	114.878	.	guitar	1G 1b 1dd
+=63	=63	=63	=63	=63	=63
+1ii	E:min	116.717	.	guitar	1E 1g 1b
+=64	=64	=64	=64	=64	=64
+1V	A:maj	118.557	.	guitar	1A 1cc# 1ee
+=65	=65	=65	=65	=65	=65
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:5	120.396	newline	voice	1D 1f# 1a
+=66	=66	=66	=66	=66	=66
+1I	D:5	122.257	.	voice	1D 1f# 1a
+=67	=67	=67	=67	=67	=67
+1-VI	B-:5	124.118	.	voice	1B- 1dd 1ff
+=68	=68	=68	=68	=68	=68
+1-VI	B-:5	125.979	.	voice	1B- 1dd 1ff
+=69	=69	=69	=69	=69	=69
+1I	D:5	127.84	newline	voice	1D 1f# 1a
+=70	=70	=70	=70	=70	=70
+1I	D:5	129.665	.	voice	1D 1f# 1a
+=71	=71	=71	=71	=71	=71
+1-VI	B-:5	131.491	.	voice	1B- 1dd 1ff
+=72	=72	=72	=72	=72	=72
+1-VI	B-:5	133.317	.	voice	1B- 1dd 1ff
+=73	=73	=73	=73	=73	=73
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	G:maj	135.143	newline	voice	1G 1b 1dd
+=74	=74	=74	=74	=74	=74
+1IV	G:maj	137.034	.	voice	1G 1b 1dd
+=75	=75	=75	=75	=75	=75
+1I	D:maj	138.925	.	voice	1D 1f# 1a
+=76	=76	=76	=76	=76	=76
+1I	D:maj	140.817	.	voice	1D 1f# 1a
+=77	=77	=77	=77	=77	=77
+1V	A:maj	142.708	newline	voice	1A 1cc# 1ee
+=78	=78	=78	=78	=78	=78
+1IV	G:maj	144.585	.	voice	1G 1b 1dd
+=79	=79	=79	=79	=79	=79
+1V	A:maj	146.463	.	voice	1A 1cc# 1ee
+=80	=80	=80	=80	=80	=80
+1IV	G:maj	148.34	.	voice	1G 1b 1dd
+=81	=81	=81	=81	=81	=81
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1I	D:5	150.218	newline	guitar	1D 1f# 1a
+=82	=82	=82	=82	=82	=82
+1Im7	D:7(#9)	151.995	.	guitar	1D 1f# 1a 1cc#
+=83	=83	=83	=83	=83	=83
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1IV	G:maj	153.772	newline	voice	1G 1b 1dd
+=84	=84	=84	=84	=84	=84
+1IV	G:maj	155.637	.	voice	1G 1b 1dd
+=85	=85	=85	=85	=85	=85
+1I	D:maj	157.503	.	voice	1D 1f# 1a
+=86	=86	=86	=86	=86	=86
+1I	D:maj	159.369	.	voice	1D 1f# 1a
+=87	=87	=87	=87	=87	=87
+1V	A:maj	161.234	newline	voice	1A 1cc# 1ee
+=88	=88	=88	=88	=88	=88
+1IV	G:maj	163.101	.	voice	1G 1b 1dd
+=89	=89	=89	=89	=89	=89
+1V	A:maj	164.968	.	voice	1A 1cc# 1ee
+=90	=90	=90	=90	=90	=90
+1IV	G:maj	166.835	.	voice	1G 1b 1dd
+=91	=91	=91	=91	=91	=91
+*>A_coda	*>A_coda	*>A_coda	*>A_coda	*>A_coda	*>A_coda
+1I	D:maj	168.702	newline	guitar	1D 1f# 1a
+=92	=92	=92	=92	=92	=92
+1I	D:maj	170.575	.	guitar	1D 1f# 1a
+1r;	N	176.193	.	r	1r;
+1r;	N	178.887	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Smokin' In The Boy's Room
+!!!COC: Brownsville Station
+!!!BillboardChartDate: 1973/11/03, 1973/11/24
+!!!BillboardPeak: 3, 3
+!!!BillboardWeeksOnChart: 19, 19
+!!!SampleTargetRank: 95, 49
+!!!SampleActualRank: 93, 51
+!!!SampleID#: 256, 755
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

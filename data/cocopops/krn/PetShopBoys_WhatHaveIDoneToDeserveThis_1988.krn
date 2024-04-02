@@ -1,0 +1,634 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*C:	*C:	*	*	*	*	*	*	*C:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+*M6/4	*M6/4	*	*	*	*M6/4	*M6/4	*M6/4	*
+1.r	N	.	.	.	0.441	newline	drums	1.r
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M4/4	*M4/4	*	*	*	*M4/4	*M4/4	*M4/4	*
+1IV	F:maj	.	.	.	3.418	newline	synth	1F 1a 1cc
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+2iii	E:min	.	.	.	5.515	.	synth	1E 1g 1b
+2vi	A:min	.	.	.	6.563	.	synth	2A 2cc 2ee
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1IV	F:maj	.	.	.	7.611	newline	synth	1F 1a 1cc
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+2iii	E:min	.	.	.	9.65	.	synth	1E 1g 1b
+2vi	A:min	.	.	.	10.67	.	synth	2A 2cc 2ee
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+1IV	F:maj	.	.	.	11.69	newline	synth	1F 1a 1cc
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+2iii	E:min	.	.	.	13.702	.	synth	1E 1g 1b
+2vi	A:min	.	.	.	14.708	.	synth	2A 2cc 2ee
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1IV	F:maj	.	.	.	15.714	newline	synth	1F 1a 1cc
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+2iii	E:min	.	.	.	17.75	.	synth	1E 1g 1b
+2vi	A:min	.	.	.	18.768	.	synth	2A 2cc 2ee
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+1IV	F:maj	.	.	.	19.786	newline	synth	1F 1a 1cc
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+2iii	E:min	.	.	.	21.83	.	synth	1E 1g 1b
+2vi	A:min	.	.	.	22.852	.	synth	2A 2cc 2ee
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+1IV	F:maj	.	.	.	23.874	newline	synth	1F 1a 1cc
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+2iii	E:min	.	.	.	25.926	.	synth	1E 1g 1b
+2vi	A:min	.	.	.	26.951	.	synth	2A 2cc 2ee
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1ii	D:(11)	.	.	.	27.977	newline	synth	1D 1f 1a
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1I	C:(11)	.	.	.	30.006	.	synth	1C 1e 1g
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1ii	D:(11)	.	.	.	32.036	newline	synth	1D 1f 1a
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1I	C:(11)	.	.	.	34.079	.	synth	1C 1e 1g
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse
+1ii	D:(11)	.	.	.	36.122	newline	voice	1D 1f 1a
+.	.	You	.	.	.	.	.	.
+.	.	al-	.	.	.	.	.	.
+.	.	-ways	.	.	.	.	.	.
+.	.	want-	.	.	.	.	.	.
+.	.	-ed	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	lov-	.	A	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1I	C:(11)	-er	.	.	38.126	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1ii	D:(11)	.	.	.	40.13	newline	voice	1D 1f 1a
+.	.	I	.	.	.	.	.	.
+.	.	on-	.	.	.	.	.	.
+.	.	-ly	.	.	.	.	.	.
+.	.	want-	.	.	.	.	.	.
+.	.	-ed	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	job	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+1I	C:(11)	_	.	.	42.166	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1ii	D:(11)	.	.	.	44.202	newline	voice	1D 1f 1a
+.	.	I've	.	.	.	.	.	.
+.	.	al-	.	.	.	.	.	.
+.	.	-ways	.	.	.	.	.	.
+.	.	worked	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	liv-	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1I	C:(11)	-ing	.	a	46.219	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
+1-VII	B-:5	.	.	.	48.236	newline	voice	1B- 1dd 1ff
+.	.	How'm	How'm	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+1I	C:5	_	_	.	50.279	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+1-VII	B-:maj	.	.	.	52.323	.	voice	1B- 1dd 1ff
+.	.	how'm	how'm	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+1I	C:maj	_	_	.	54.366	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1ii	D:(11)	.	.	.	56.41	newline	voice	1D 1f 1a
+.	.	I	.	.	.	.	.	.
+.	.	came	.	.	.	.	.	.
+.	.	here	.	.	.	.	.	.
+.	.	look-	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	mon-	.	(A	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+1I	C:(11)	-ey	.	a)	58.45	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Got	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	to	.	.	.	.	.
+.	.	.	have	.	.	.	.	.
+.	.	.	it	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+1ii	D:(11)	.	.	.	60.491	newline	voice	1D 1f 1a
+.	.	and	.	.	.	.	.	.
+.	.	end	.	.	.	.	.	.
+.	.	up	.	.	.	.	.	.
+.	.	liv-	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	love	.	A	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+1I	C:(11)	_	.	.	62.534	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	oh	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	oh	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+1ii	D:(11)	.	.	.	64.576	newline	voice	1D 1f 1a
+.	.	now	now	.	.	.	.	.
+.	.	you	you	.	.	.	.	.
+.	.	left	left	.	.	.	.	.
+.	.	me	me	.	.	.	.	.
+.	.	with	with	.	.	.	.	.
+.	.	no-	no-	(A	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+1I	C:(11)	-thing	-thin	a)	66.581	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	can't	.	.	.	.	.
+.	.	.	take	.	.	.	.	.
+.	.	.	it	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
+1-VII	B-:maj	.	.	.	68.586	newline	voice	1B- 1dd 1ff
+.	.	How'm	How'm	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+1I	C:maj	_	_	.	70.632	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+1-VII	B-:maj	.	.	.	72.678	.	voice	1B- 1dd 1ff
+.	.	how'm	how'm	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+1I	C:maj	_	_	.	74.724	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1IV	F:maj	.	.	.	76.77	newline	voice	1F 1a 1cc
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+2iii	E:min	.	.	.	78.798	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	79.812	.	voice	2A 2cc 2ee
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+1IV	F:maj	.	.	.	80.826	newline	voice	1F 1a 1cc
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+2iii	E:min	.	.	.	82.842	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	83.85	.	voice	2A 2cc 2ee
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1IV	F:maj	.	.	.	84.858	newline	voice	1F 1a 1cc
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+2iii	E:min	.	.	.	86.886	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	87.9	.	voice	2A 2cc 2ee
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+1IV	F:maj	.	.	.	88.915	newline	voice	1F 1a 1cc
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+2iii	E:min	.	.	.	90.968	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	91.995	.	voice	2A 2cc 2ee
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1r	N	.	.	.	93.021	newline	voice	1r
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1r	N	.	.	.	95.06	.	voice	1r
+.	.	Since	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	went	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1I	C:maj	-way	.	.	97.1	newline	voice	1C 1e 1g
+.	.	_	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+.	.	been	.	.	.	.	.	.
+.	.	hang-	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+1ii	D:min	_	.	.	99.131	.	voice	1D 1f 1a
+.	.	-ing	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-round	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+.	.	been	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+1ii	D:min	won-	.	.	101.163	.	voice	1D 1f 1a
+.	.	-der-	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	why	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+1V	G:maj	I'm	.	.	103.194	.	voice	1G 1b 1dd
+.	.	feel-	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	down	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	You	.	.	.	.	.	.
+.	.	went	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+1I	C:maj	-way	.	.	105.226	newline	voice	1C 1e 1g
+.	.	_	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	should	.	.	.	.	.	.
+.	.	make	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+1ii	D:min	_	.	.	107.256	.	voice	1D 1f 1a
+.	.	me	.	.	.	.	.	.
+.	.	feel	.	.	.	.	.	.
+.	.	bet-	.	.	.	.	.	.
+.	.	-ter	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+1ii	D:min	I	.	.	109.285	.	voice	1D 1f 1a
+.	.	don't	.	.	.	.	.	.
+.	.	know	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	oh	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
+1-VII	B-:maj	.	.	.	111.314	->newline	voice	1B- 1dd 1ff
+.	.	How	How	.	.	.	.	.
+.	.	I'm	I'm	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+1I	C:maj	_	_	.	113.352	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1-VII	B-:maj	.	.	.	115.39	.	voice	1B- 1dd 1ff
+.	.	how	how	.	.	.	.	.
+.	.	I'm	I'm	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1I	C:maj	_	_	.	117.428	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	C:sus2	.	.	.	119.466	newline	voice	1C 1e 1g
+.	.	You	.	.	.	.	.	.
+.	.	al-	.	.	.	.	.	.
+.	.	-ways	.	.	.	.	.	.
+.	.	want-	.	.	.	.	.	.
+.	.	-ed	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+1I	C:(11)	_	.	.	121.51	.	voice	1C 1e 1g
+.	.	.	be	.	.	.	.	.
+.	.	.	some-	.	.	.	.	.
+.	.	.	-thing	.	.	.	.	.
+.	.	.	I	.	.	.	.	.
+.	.	.	was-	(A	.	.	.	.
+.	.	.	-n't	a)	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+1I	C:sus2	.	.	.	123.554	newline	voice	1C 1e 1g
+.	.	you	.	.	.	.	.	.
+.	.	al-	.	.	.	.	.	.
+.	.	-ways	.	.	.	.	.	.
+.	.	want-	.	.	.	.	.	.
+.	.	-ed	.	.	.	.	.	.
+.	.	too	.	.	.	.	.	.
+.	.	much	.	A	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+1I	C:(11)	_	.	.	125.606	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	oh	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	oh	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+1I	C:sus2	.	.	.	127.658	newline	voice	1C 1e 1g
+.	.	now	now	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	can	can	.	.	.	.	.
+.	.	do	do	.	.	.	.	.
+.	.	what	what	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	want	want	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+1I	C:(11)	to	_	.	129.654	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	for-	for-	.	.	.	.	.
+.	.	-e-	-e-	.	.	.	.	.
+.	.	-ver	-ver	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
+1-VIIe	B-:5/2	.	.	.	131.65	newline	voice	1B- 1dd 1ff
+.	.	How'm	How'm	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+1I	C:5	_	_	.	133.694	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+1-VIIe	B-:maj/2	.	.	.	135.738	.	voice	1B- 1dd 1ff
+.	.	how'm	how'm	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+*M2/4	*M2/4	*	*	*	*M2/4	*M2/4	*M2/4	*
+2I	C:maj	_	_	.	137.782	.	voice	2C 2e 2g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*M4/4	*M4/4	*	*	*	*M4/4	*M4/4	*M4/4	*
+1IV	F:maj	.	.	.	138.804	newline	voice	1F 1a 1cc
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+2iii	E:min	.	.	.	140.842	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	141.861	.	voice	2A 2cc 2ee
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1IV	F:maj	.	.	.	142.881	newline	voice	1F 1a 1cc
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+2iii	E:min	.	.	.	144.894	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	145.901	.	voice	2A 2cc 2ee
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+1IV	F:maj	.	.	.	146.907	newline	voice	1F 1a 1cc
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+2iii	E:min	.	.	.	148.966	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	149.996	.	voice	2A 2cc 2ee
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+1IV	F:maj	.	.	.	151.025	newline	voice	1F 1a 1cc
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+2iii	E:min	.	.	.	153.063	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	154.082	.	voice	2A 2cc 2ee
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+1r	N	.	.	.	155.1	newline	voice	1r
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+1r	N	.	.	.	157.108	.	voice	1r
+.	.	Since	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	went	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1I	C:maj	-way	.	.	159.116	newline	voice	1C 1e 1g
+.	.	_	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	been	.	.	.	.	.	.
+.	.	hang-	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+1ii	D:min	_	.	.	161.142	.	voice	1D 1f 1a
+.	.	-ing	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-round	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	I've	.	.	.	.	.	.
+.	.	been	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+1ii	D:min	wond-	.	.	163.168	.	voice	1D 1f 1a
+.	.	-er-	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	why	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I'm	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+1V	G:maj	_	.	.	165.193	.	voice	1G 1b 1dd
+.	.	feel-	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	down	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	You	.	.	.	.	.	.
+.	.	went	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+1I	C:maj	-way	.	.	167.219	newline	voice	1C 1e 1g
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+.	.	should	.	.	.	.	.	.
+.	.	make	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+1ii	D:min	_	.	.	169.293	.	voice	1D 1f 1a
+.	.	me	.	.	.	.	.	.
+.	.	feel	.	.	.	.	.	.
+.	.	bet-	.	.	.	.	.	.
+.	.	-ter	.	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+1ii	D:min	I	.	.	171.367	.	voice	1D 1f 1a
+.	.	don't	.	.	.	.	.	.
+.	.	know	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	oh	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
+1-VII	B-:maj	_	.	.	173.442	->newline	voice	1B- 1dd 1ff
+.	.	How	How	.	.	.	.	.
+.	.	I'm	I'm	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+1I	C:maj	_	_	.	175.464	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+1-VII	B-:maj	.	.	.	177.487	.	voice	1B- 1dd 1ff
+.	.	_	how	.	.	.	.	.
+.	.	_	I'm	.	.	.	.	.
+.	.	_	gon-	.	.	.	.	.
+.	.	_	-na	.	.	.	.	.
+.	.	_	get	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+1I	C:maj	_	_	.	179.509	.	voice	1C 1e 1g
+.	.	_	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+1-VIIe	B-:maj/2	.	.	.	181.532	newline	voice	1B- 1dd 1ff
+.	.	_	how	.	.	.	.	.
+.	.	_	I'm	.	.	.	.	.
+.	.	_	gon-	.	.	.	.	.
+.	.	_	-na	.	.	.	.	.
+.	.	_	get	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+1I	C:maj	_	_	.	183.55	.	voice	1C 1e 1g
+.	.	_	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92	=92
+1-VIIe	B-:maj/2	.	.	.	185.568	.	voice	1B- 1dd 1ff
+.	.	how	how	.	.	.	.	.
+.	.	I'm	I'm	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93
+1I	C:maj	_	_	.	187.586	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94	=94
+1-VIIe	B-:maj/2	.	.	.	189.604	newline	voice	1B- 1dd 1ff
+.	.	how	how	.	.	.	.	.
+.	.	I'm	I'm	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95	=95
+1I	C:maj	_	_	.	191.65	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96
+1-VIIe	B-:maj/2	.	.	.	193.696	.	voice	1B- 1dd 1ff
+.	.	how	how	.	.	.	.	.
+.	.	I'm	I'm	.	.	.	.	.
+.	.	gon-	gon-	.	.	.	.	.
+.	.	-na	-na	.	.	.	.	.
+.	.	get	get	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97
+1I	C:maj	_	_	.	195.742	.	voice	1C 1e 1g
+.	.	through	through	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98	=98
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1IV	F:maj	.	.	.	197.788	newline	voice	1F 1a 1cc
+=99	=99	=99	=99	=99	=99	=99	=99	=99
+2iii	E:min	.	.	.	199.776	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	200.769	.	voice	2A 2cc 2ee
+=100	=100	=100	=100	=100	=100	=100	=100	=100
+1IV	F:maj	.	.	.	201.763	newline	voice	1F 1a 1cc
+=101	=101	=101	=101	=101	=101	=101	=101	=101
+2iii	E:min	.	.	.	203.84	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	204.878	.	voice	2A 2cc 2ee
+=102	=102	=102	=102	=102	=102	=102	=102	=102
+1IV	F:maj	.	.	.	205.916	newline	voice	1F 1a 1cc
+=103	=103	=103	=103	=103	=103	=103	=103	=103
+2iii	E:min	.	.	.	207.98	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	209.011	.	voice	2A 2cc 2ee
+=104	=104	=104	=104	=104	=104	=104	=104	=104
+1IV	F:maj	.	.	.	210.043	newline	voice	1F 1a 1cc
+=105	=105	=105	=105	=105	=105	=105	=105	=105
+2iii	E:min	.	.	.	212.055	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	213.061	.	voice	2A 2cc 2ee
+=106	=106	=106	=106	=106	=106	=106	=106	=106
+1IV	F:maj	.	.	.	214.067	newline	voice	1F 1a 1cc
+=107	=107	=107	=107	=107	=107	=107	=107	=107
+2iii	E:min	.	.	.	216.098	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	217.113	.	voice	2A 2cc 2ee
+=108	=108	=108	=108	=108	=108	=108	=108	=108
+1IV	F:maj	.	.	.	218.128	newline	voice	1F 1a 1cc
+=109	=109	=109	=109	=109	=109	=109	=109	=109
+2iii	E:min	.	.	.	220.15	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	221.161	.	voice	2A 2cc 2ee
+=110	=110	=110	=110	=110	=110	=110	=110	=110
+1IV	F:maj	.	.	.	222.172	newline	voice	1F 1a 1cc
+=111	=111	=111	=111	=111	=111	=111	=111	=111
+2iii	E:min	.	.	.	224.2	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	225.214	.	voice	2A 2cc 2ee
+=112	=112	=112	=112	=112	=112	=112	=112	=112
+1IV	F:maj	.	.	.	226.228	newline	voice	1F 1a 1cc
+=113	=113	=113	=113	=113	=113	=113	=113	=113
+2iii	E:min	.	.	.	228.296	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	229.33	.	voice	2A 2cc 2ee
+=114	=114	=114	=114	=114	=114	=114	=114	=114
+1IV	F:maj	.	.	.	230.364	newline	voice	1F 1a 1cc
+=115	=115	=115	=115	=115	=115	=115	=115	=115
+2iii	E:min	.	.	.	232.356	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	233.352	.	voice	2A 2cc 2ee
+=116	=116	=116	=116	=116	=116	=116	=116	=116
+1IV	F:maj	.	.	.	234.348	newline	voice	1F 1a 1cc
+=117	=117	=117	=117	=117	=117	=117	=117	=117
+2iii	E:min	.	.	.	236.404	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	237.432	.	voice	2A 2cc 2ee
+=118	=118	=118	=118	=118	=118	=118	=118	=118
+1IV	F:maj	.	.	.	238.46	newline	voice	1F 1a 1cc
+=119	=119	=119	=119	=119	=119	=119	=119	=119
+2iii	E:min	.	.	.	240.484	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	241.496	.	voice	2A 2cc 2ee
+=120	=120	=120	=120	=120	=120	=120	=120	=120
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+1IV	F:maj	.	.	.	242.507	newline	voice	1F 1a 1cc
+=121	=121	=121	=121	=121	=121	=121	=121	=121
+2iii	E:min	.	.	.	244.547	.	voice	1E 1g 1b
+2vi	A:min	.	.	.	245.566	.	voice	2A 2cc 2ee
+1r;	N	.	.	.	256.781	.	r	1r;
+1r;	N	.	.	.	259.952	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1988/02/20
+!!!BillboardPeak: 2
+!!!BillboardWeeksOnChart: 12
+!!!COC: Pet Shop Boys
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: What Have I Done To Deserve This?
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 2
+!!!SampleID#: 0648
+!!!SampleTargetRank: 3
+!!!MBID: 287ac95b-da73-4a30-a14e-2b7262479d52

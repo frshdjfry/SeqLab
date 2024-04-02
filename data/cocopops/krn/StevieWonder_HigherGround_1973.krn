@@ -1,0 +1,353 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M12/8	*M12/8	*	*	*	*
+*E-:	*E-:	*	*	*	*E-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+2.Im7	E-:7(#9)	1.091	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	2.103	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	2.609	.	guitar	4A- 4cc 4ee-
+=2	=2	=2	=2	=2	=2
+1.Im7	E-:7(#9)	3.114	.	guitar	1E- 1g 1b- 1dd
+=3	=3	=3	=3	=3	=3
+2.Im7	E-:7(#9)	5.137	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	6.149	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	6.655	.	guitar	4A- 4cc 4ee-
+=4	=4	=4	=4	=4	=4
+1.Im7	E-:7(#9)	7.161	.	guitar	1E- 1g 1b- 1dd
+=5	=5	=5	=5	=5	=5
+2.Im7	E-:7(#9)	9.184	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	10.14	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	10.618	.	guitar	4A- 4cc 4ee-
+=6	=6	=6	=6	=6	=6
+1.Im7	E-:7(#9)	11.096	.	guitar	1E- 1g 1b- 1dd
+=7	=7	=7	=7	=7	=7
+2.Im7	E-:7(#9)	13.008	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	13.964	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	14.442	.	guitar	4A- 4cc 4ee-
+=8	=8	=8	=8	=8	=8
+1.Im7	E-:7(#9)	14.919	.	guitar	1E- 1g 1b- 1dd
+=9	=9	=9	=9	=9	=9
+2.Im7	E-:7(#9)	16.831	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	17.805	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	18.291	.	guitar	4A- 4cc 4ee-
+=10	=10	=10	=10	=10	=10
+1.Im7	E-:7(#9)	18.778	.	guitar	1E- 1g 1b- 1dd
+=11	=11	=11	=11	=11	=11
+2.Im7	E-:7(#9)	20.724	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	21.697	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	22.184	.	guitar	4A- 4cc 4ee-
+=12	=12	=12	=12	=12	=12
+1.Im7	E-:7(#9)	22.671	.	guitar	1E- 1g 1b- 1dd
+=13	=13	=13	=13	=13	=13
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+2.Im7	E-:7(#9)	24.617	newline	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	25.585	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	26.07	.	voice	4A- 4cc 4ee-
+=14	=14	=14	=14	=14	=14
+1.Im7	E-:7(#9)	26.554	.	voice	1E- 1g 1b- 1dd
+=15	=15	=15	=15	=15	=15
+2.Im7	E-:7(#9)	28.49	.	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	29.459	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	29.943	.	voice	4A- 4cc 4ee-
+=16	=16	=16	=16	=16	=16
+1.Im7	E-:7(#9)	30.427	.	voice	1E- 1g 1b- 1dd
+=17	=17	=17	=17	=17	=17
+2.Im7	E-:7(#9)	32.364	newline	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	33.33	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	33.813	.	voice	4A- 4cc 4ee-
+=18	=18	=18	=18	=18	=18
+1.Im7	E-:7(#9)	34.296	.	voice	1E- 1g 1b- 1dd
+=19	=19	=19	=19	=19	=19
+2.Im7	E-:7(#9)	36.227	.	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	37.193	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	37.676	.	voice	4A- 4cc 4ee-
+=20	=20	=20	=20	=20	=20
+1.Im7	E-:7(#9)	38.159	.	voice	1E- 1g 1b- 1dd
+=21	=21	=21	=21	=21	=21
+1.II7	F:7	40.091	newline	voice	1F 1a 1cc 1ee-
+=22	=22	=22	=22	=22	=22
+1.II7	F:7	42.036	.	voice	1F 1a 1cc 1ee-
+=23	=23	=23	=23	=23	=23
+1.IVm7	A-:7	43.98	.	voice	1A- 1cc 1ee- 1gg
+=24	=24	=24	=24	=24	=24
+1.-VIIm7	D-:7	45.925	.	voice	1D- 1f 1a- 1cc
+=25	=25	=25	=25	=25	=25
+2.Im7	E-:7(#9)	47.87	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	48.826	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	49.304	.	guitar	4A- 4cc 4ee-
+=26	=26	=26	=26	=26	=26
+1.Im7	E-:7(#9)	49.782	.	guitar	1E- 1g 1b- 1dd
+=27	=27	=27	=27	=27	=27
+2.Im7	E-:7(#9)	51.695	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	52.651	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	53.129	.	guitar	4A- 4cc 4ee-
+=28	=28	=28	=28	=28	=28
+1.Im7	E-:7(#9)	53.607	.	guitar	1E- 1g 1b- 1dd
+=29	=29	=29	=29	=29	=29
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+2.Im7	E-:7(#9)	55.519	newline	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	56.485	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	56.968	.	voice	4A- 4cc 4ee-
+=30	=30	=30	=30	=30	=30
+1.Im7	E-:7(#9)	57.45	.	voice	1E- 1g 1b- 1dd
+=31	=31	=31	=31	=31	=31
+2.Im7	E-:7(#9)	59.381	.	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	60.347	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	60.83	.	voice	4A- 4cc 4ee-
+=32	=32	=32	=32	=32	=32
+1.Im7	E-:7(#9)	61.312	.	voice	1E- 1g 1b- 1dd
+=33	=33	=33	=33	=33	=33
+2.Im7	E-:7(#9)	63.243	newline	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	64.203	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	64.683	.	voice	4A- 4cc 4ee-
+=34	=34	=34	=34	=34	=34
+1.Im7	E-:7(#9)	65.163	.	voice	1E- 1g 1b- 1dd
+=35	=35	=35	=35	=35	=35
+2.Im7	E-:7(#9)	67.082	.	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	68.041	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	68.521	.	voice	4A- 4cc 4ee-
+=36	=36	=36	=36	=36	=36
+1.Im7	E-:7(#9)	69.001	.	voice	1E- 1g 1b- 1dd
+=37	=37	=37	=37	=37	=37
+1.II7	F:7	70.92	newline	voice	1F 1a 1cc 1ee-
+=38	=38	=38	=38	=38	=38
+1.II7	F:7	72.86	.	voice	1F 1a 1cc 1ee-
+=39	=39	=39	=39	=39	=39
+1.IVm7	A-:7	74.801	.	voice	1A- 1cc 1ee- 1gg
+=40	=40	=40	=40	=40	=40
+1.-VIIm7	D-:7	76.741	.	voice	1D- 1f 1a- 1cc
+=41	=41	=41	=41	=41	=41
+2.Im7	E-:7(#9)	78.681	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	79.634	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	80.111	.	guitar	4A- 4cc 4ee-
+=42	=42	=42	=42	=42	=42
+1.Im7	E-:7(#9)	80.588	.	guitar	1E- 1g 1b- 1dd
+=43	=43	=43	=43	=43	=43
+2.Im7	E-:7(#9)	82.495	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	83.448	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	83.925	.	guitar	4A- 4cc 4ee-
+=44	=44	=44	=44	=44	=44
+1.Im7	E-:7(#9)	84.402	.	guitar	1E- 1g 1b- 1dd
+=45	=45	=45	=45	=45	=45
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1.IVm7	A-:7	86.309	newline	voice	1A- 1cc 1ee- 1gg
+=46	=46	=46	=46	=46	=46
+1.Im7	E-:7(#9)	88.219	.	voice	1E- 1g 1b- 1dd
+=47	=47	=47	=47	=47	=47
+1.IVm7	A-:7	90.128	.	voice	1A- 1cc 1ee- 1gg
+=48	=48	=48	=48	=48	=48
+1.Im7	E-:7(#9)	92.038	.	voice	1E- 1g 1b- 1dd
+=49	=49	=49	=49	=49	=49
+1.IVm7	A-:7	93.948	newline	voice	1A- 1cc 1ee- 1gg
+=50	=50	=50	=50	=50	=50
+1.Im7	E-:7(#9)	95.876	.	voice	1E- 1g 1b- 1dd
+=51	=51	=51	=51	=51	=51
+1.II7	F:7	97.804	.	voice	1F 1a 1cc 1ee-
+=52	=52	=52	=52	=52	=52
+1.V7	B-:7(#9)	99.732	.	voice	1B- 1dd 1ff 1aa-
+=53	=53	=53	=53	=53	=53
+2.Im7	E-:7(#9)	101.66	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	102.613	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	103.089	.	guitar	4A- 4cc 4ee-
+=54	=54	=54	=54	=54	=54
+1.Im7	E-:7(#9)	103.565	.	guitar	1E- 1g 1b- 1dd
+=55	=55	=55	=55	=55	=55
+2.Im7	E-:7(#9)	105.47	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	106.422	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	106.898	.	guitar	4A- 4cc 4ee-
+=56	=56	=56	=56	=56	=56
+1.Im7	E-:7(#9)	107.374	.	guitar	1E- 1g 1b- 1dd
+=57	=57	=57	=57	=57	=57
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+2.Im7	E-:7(#9)	109.279	newline	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	110.243	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	110.725	.	voice	4A- 4cc 4ee-
+=58	=58	=58	=58	=58	=58
+1.Im7	E-:7(#9)	111.208	.	voice	1E- 1g 1b- 1dd
+=59	=59	=59	=59	=59	=59
+2.Im7	E-:7(#9)	113.136	.	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	114.1	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	114.583	.	voice	4A- 4cc 4ee-
+=60	=60	=60	=60	=60	=60
+1.Im7	E-:7(#9)	115.065	.	voice	1E- 1g 1b- 1dd
+=61	=61	=61	=61	=61	=61
+2.Im7	E-:7(#9)	116.993	newline	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	117.956	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	118.437	.	voice	4A- 4cc 4ee-
+=62	=62	=62	=62	=62	=62
+1.Im7	E-:7(#9)	118.919	.	voice	1E- 1g 1b- 1dd
+=63	=63	=63	=63	=63	=63
+2.Im7	E-:7(#9)	120.844	.	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	121.807	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	122.288	.	voice	4A- 4cc 4ee-
+=64	=64	=64	=64	=64	=64
+1.Im7	E-:7(#9)	122.77	.	voice	1E- 1g 1b- 1dd
+=65	=65	=65	=65	=65	=65
+1.II7	F:7	124.695	newline	voice	1F 1a 1cc 1ee-
+=66	=66	=66	=66	=66	=66
+1.II7	F:7	126.635	.	voice	1F 1a 1cc 1ee-
+=67	=67	=67	=67	=67	=67
+1.IVm7	A-:7	128.576	.	voice	1A- 1cc 1ee- 1gg
+=68	=68	=68	=68	=68	=68
+1.-VIIm7	D-:7	130.516	.	voice	1D- 1f 1a- 1cc
+=69	=69	=69	=69	=69	=69
+2.Im7	E-:7(#9)	132.456	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	133.408	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	133.883	.	guitar	4A- 4cc 4ee-
+=70	=70	=70	=70	=70	=70
+1.Im7	E-:7(#9)	134.359	.	guitar	1E- 1g 1b- 1dd
+=71	=71	=71	=71	=71	=71
+2.Im7	E-:7(#9)	136.262	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	137.213	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	137.689	.	guitar	4A- 4cc 4ee-
+=72	=72	=72	=72	=72	=72
+1.Im7	E-:7(#9)	138.164	.	guitar	1E- 1g 1b- 1dd
+=73	=73	=73	=73	=73	=73
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+2.Im7	E-:7(#9)	140.067	newline	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	141.031	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	141.514	.	voice	4A- 4cc 4ee-
+=74	=74	=74	=74	=74	=74
+1.Im7	E-:7(#9)	141.996	.	voice	1E- 1g 1b- 1dd
+=75	=75	=75	=75	=75	=75
+2.Im7	E-:7(#9)	143.925	.	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	144.89	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	145.372	.	voice	4A- 4cc 4ee-
+=76	=76	=76	=76	=76	=76
+1.Im7	E-:7(#9)	145.854	.	voice	1E- 1g 1b- 1dd
+=77	=77	=77	=77	=77	=77
+2.Im7	E-:7(#9)	147.783	newline	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	148.745	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	149.225	.	voice	4A- 4cc 4ee-
+=78	=78	=78	=78	=78	=78
+1.Im7	E-:7(#9)	149.706	.	voice	1E- 1g 1b- 1dd
+=79	=79	=79	=79	=79	=79
+2.Im7	E-:7(#9)	151.629	.	voice	2E- 2g 2b- 2dd
+4.-III	G-:maj	152.59	.	voice	4G- 4b- 4dd-
+4.IV	A-:maj	153.07	.	voice	4A- 4cc 4ee-
+=80	=80	=80	=80	=80	=80
+1.Im7	E-:7(#9)	153.551	.	voice	1E- 1g 1b- 1dd
+=81	=81	=81	=81	=81	=81
+1.II7	F:7	155.474	newline	voice	1F 1a 1cc 1ee-
+=82	=82	=82	=82	=82	=82
+1.II7	F:7	157.383	.	voice	1F 1a 1cc 1ee-
+=83	=83	=83	=83	=83	=83
+1.IVm7	A-:7	159.292	.	voice	1A- 1cc 1ee- 1gg
+=84	=84	=84	=84	=84	=84
+1.-VIIm7	D-:7	161.2	.	voice	1D- 1f 1a- 1cc
+=85	=85	=85	=85	=85	=85
+2.Im7	E-:7(#9)	163.109	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	164.067	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	164.546	.	guitar	4A- 4cc 4ee-
+=86	=86	=86	=86	=86	=86
+1.Im7	E-:7(#9)	165.025	.	guitar	1E- 1g 1b- 1dd
+=87	=87	=87	=87	=87	=87
+2.Im7	E-:7(#9)	166.94	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	167.898	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	168.376	.	guitar	4A- 4cc 4ee-
+=88	=88	=88	=88	=88	=88
+1.Im7	E-:7(#9)	168.855	.	guitar	1E- 1g 1b- 1dd
+=89	=89	=89	=89	=89	=89
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1.IVm7	A-:7	170.771	newline	voice	1A- 1cc 1ee- 1gg
+=90	=90	=90	=90	=90	=90
+1.Im7	E-:7(#9)	172.711	.	voice	1E- 1g 1b- 1dd
+=91	=91	=91	=91	=91	=91
+1.IVm7	A-:7	174.65	.	voice	1A- 1cc 1ee- 1gg
+=92	=92	=92	=92	=92	=92
+1.Im7	E-:7(#9)	176.59	.	voice	1E- 1g 1b- 1dd
+=93	=93	=93	=93	=93	=93
+1.IVm7	A-:7	178.53	newline	voice	1A- 1cc 1ee- 1gg
+=94	=94	=94	=94	=94	=94
+1.Im7	E-:7(#9)	180.445	.	voice	1E- 1g 1b- 1dd
+=95	=95	=95	=95	=95	=95
+1.II7	F:7	182.361	.	voice	1F 1a 1cc 1ee-
+=96	=96	=96	=96	=96	=96
+1.V7	B-:7(#9)	184.276	.	voice	1B- 1dd 1ff 1aa-
+=97	=97	=97	=97	=97	=97
+2.Im7	E-:7(#9)	186.191	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	187.141	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	187.616	.	guitar	4A- 4cc 4ee-
+=98	=98	=98	=98	=98	=98
+1.Im7	E-:7(#9)	188.092	.	guitar	1E- 1g 1b- 1dd
+=99	=99	=99	=99	=99	=99
+2.Im7	E-:7(#9)	189.992	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	190.943	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	191.418	.	guitar	4A- 4cc 4ee-
+=100	=100	=100	=100	=100	=100
+1.Im7	E-:7(#9)	191.893	.	guitar	1E- 1g 1b- 1dd
+=101	=101	=101	=101	=101	=101
+2.Im7	E-:7(#9)	193.794	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	194.746	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	195.222	.	guitar	4A- 4cc 4ee-
+=102	=102	=102	=102	=102	=102
+1.Im7	E-:7(#9)	195.698	.	guitar	1E- 1g 1b- 1dd
+=103	=103	=103	=103	=103	=103
+2.Im7	E-:7(#9)	197.602	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	198.555	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	199.031	.	guitar	4A- 4cc 4ee-
+=104	=104	=104	=104	=104	=104
+1.Im7	E-:7(#9)	199.507	.	guitar	1E- 1g 1b- 1dd
+=105	=105	=105	=105	=105	=105
+2.Im7	E-:7(#9)	201.411	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	202.36	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	202.835	.	guitar	4A- 4cc 4ee-
+=106	=106	=106	=106	=106	=106
+1.Im7	E-:7(#9)	203.309	.	guitar	1E- 1g 1b- 1dd
+=107	=107	=107	=107	=107	=107
+2.Im7	E-:7(#9)	205.208	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	206.157	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	206.631	.	guitar	4A- 4cc 4ee-
+=108	=108	=108	=108	=108	=108
+1.Im7	E-:7(#9)	207.106	.	guitar	1E- 1g 1b- 1dd
+=109	=109	=109	=109	=109	=109
+2.Im7	E-:7(#9)	209.004	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	209.952	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	210.425	.	guitar	4A- 4cc 4ee-
+=110	=110	=110	=110	=110	=110
+1.Im7	E-:7(#9)	210.899	.	guitar	1E- 1g 1b- 1dd
+=111	=111	=111	=111	=111	=111
+2.Im7	E-:7(#9)	212.794	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	213.742	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	214.216	.	guitar	4A- 4cc 4ee-
+=112	=112	=112	=112	=112	=112
+1.Im7	E-:7(#9)	214.69	.	guitar	1E- 1g 1b- 1dd
+=113	=113	=113	=113	=113	=113
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+2.Im7	E-:7(#9)	216.585	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	217.531	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	218.004	.	guitar	4A- 4cc 4ee-
+=114	=114	=114	=114	=114	=114
+1.Im7	E-:7(#9)	218.477	.	guitar	1E- 1g 1b- 1dd
+=115	=115	=115	=115	=115	=115
+2.Im7	E-:7(#9)	220.368	.	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	221.314	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	221.787	.	guitar	4A- 4cc 4ee-
+=116	=116	=116	=116	=116	=116
+1.Im7	E-:7(#9)	222.26	.	guitar	1E- 1g 1b- 1dd
+=117	=117	=117	=117	=117	=117
+2.Im7	E-:7(#9)	224.152	newline	guitar	2E- 2g 2b- 2dd
+4.-III	G-:maj	225.048	.	guitar	4G- 4b- 4dd-
+4.IV	A-:maj	225.497	.	guitar	4A- 4cc 4ee-
+=118	=118	=118	=118	=118	=118
+1.Im7	E-:7(#9)	225.945	.	guitar	1E- 1g 1b- 1dd
+1r;	N	227.739	.	r	1r;
+1r;	N	227.814	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Higher Ground
+!!!COC: Stevie Wonder
+!!!BillboardChartDate: 1973/09/01
+!!!BillboardPeak: 4
+!!!BillboardWeeksOnChart: 14
+!!!SampleTargetRank: 29
+!!!SampleActualRank: 30
+!!!SampleID#: 0625
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

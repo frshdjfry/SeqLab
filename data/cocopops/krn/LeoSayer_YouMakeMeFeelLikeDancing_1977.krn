@@ -1,0 +1,611 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*E:	*E:	*	*	*	*	*	*E:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+2I	E:maj	.	.	0.789	newline	guitar	1E 1g# 1b
+2vi7	C#:min7	.	.	2.063	.	guitar	2C# 2e 2g# 2b
+=2	=2	=2	=2	=2	=2	=2	=2
+2ii7	F#:min9	.	.	3.336	.	guitar	1F# 1a 1cc# 1ee
+2V7	B:maj6(b7)	.	.	4.609	.	guitar	2B 2dd# 2ff# 2aa
+=3	=3	=3	=3	=3	=3	=3	=3
+2I	E:maj	.	.	5.882	newline	guitar	1E 1g# 1b
+2vi7	C#:min7	.	.	7.135	.	guitar	2C# 2e 2g# 2b
+=4	=4	=4	=4	=4	=4	=4	=4
+2ii7	F#:min9	.	.	8.388	.	guitar	1F# 1a 1cc# 1ee
+2V7	B:maj6(b7)	.	.	9.641	.	guitar	2B 2dd# 2ff# 2aa
+=5	=5	=5	=5	=5	=5	=5	=5
+2I	E:maj	.	.	10.894	.	guitar	1E 1g# 1b
+2vi7	C#:min7	.	.	12.147	.	guitar	2C# 2e 2g# 2b
+=6	=6	=6	=6	=6	=6	=6	=6
+2ii7	F#:min9	.	.	13.4	.	guitar	1F# 1a 1cc# 1ee
+2V7	B:maj6(b7)	.	.	14.653	.	guitar	2B 2dd# 2ff# 2aa
+=7	=7	=7	=7	=7	=7	=7	=7
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2I	E:maj	.	.	15.906	newline	voice	2E 2g# 2b
+.	.	You've	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	a	.	.	.	.	.
+2vi7	C#:min7	cute	.	17.155	.	voice	2C# 2e 2g# 2b
+.	.	way	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	talk-	(A	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2ii7	F#:min9	_	.	18.405	.	voice	2F# 2a 2cc# 2ee
+.	.	-in	a)	.	.	.	.
+2V7	B:maj6(b7)	.	.	19.655	.	voice	2B 2dd# 2ff# 2aa
+=9	=9	=9	=9	=9	=9	=9	=9
+2I	E:maj	.	.	20.905	.	voice	2E 2g# 2b
+.	.	You	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	the	.	.	.	.	.
+2vi7	C#:min7	bet-	.	22.154	.	voice	2C# 2e 2g# 2b
+.	.	-ter	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	me	B	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2ii7	F#:min9	_	.	23.404	.	voice	2F# 2a 2cc# 2ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2V7	B:maj6(b7)	.	.	24.654	.	voice	2B 2dd# 2ff# 2aa
+=11	=11	=11	=11	=11	=11	=11	=11
+2I	E:maj	.	.	25.903	newline	voice	2E 2g# 2b
+.	.	Just	.	.	.	.	.
+.	.	snap	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2vi7	C#:min7	fing-	.	27.146	.	voice	2C# 2e 2g# 2b
+.	.	-ers	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+2ii7	F#:min9	walk-	(A	28.39	.	voice	2F# 2a 2cc# 2ee
+.	.	_	.	.	.	.	.
+.	.	-in	a)	.	.	.	.
+2V7	B:maj6(b7)	.	.	29.633	.	voice	2B 2dd# 2ff# 2aa
+.	.	like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2I	E:maj	dog	.	30.876	.	voice	2E 2g# 2b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	hang-	.	.	.	.	.
+2vi7	C#:min7	_	.	32.119	.	voice	2C# 2e 2g# 2b
+.	.	-in	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	lead	B	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2ii7	F#:min9	_	.	33.362	.	voice	2F# 2a 2cc# 2ee
+.	.	.	.	.	.	.	.
+2V7	B:maj6(b7)	.	.	34.605	.	voice	2B 2dd# 2ff# 2aa
+=15	=15	=15	=15	=15	=15	=15	=15
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1-VII	D:maj	.	.	35.848	newline	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	in	C	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	spin	C	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1I	E:maj	shak-	.	38.346	.	voice	1E 1g# 1b
+.	.	-ing	d	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	string	D	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*F#:	*F#:	*	*	*F#:	*F#:	*F#:	*F#:
+2I	F#:maj	.	.	40.844	newline	voice	2F# 2a# 2cc#
+.	.	You	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	42.086	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2ii7	G#:min7	_	.	43.328	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	gon-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+2V7	C#:7	dance	.	44.571	.	voice	2C# 2e# 2g# 2b
+.	.	the	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2I	F#:maj	.	.	45.813	.	voice	2F# 2a# 2cc#
+.	.	You	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	47.055	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2ii7	G#:min7	_	.	48.298	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	gon-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+2V7	C#:7	dance	.	49.54	.	voice	2C# 2e# 2g# 2b
+.	.	the	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+*	*	*	*	*	*	*	*F#:
+2I	F#:maj	.	.	50.782	newline	voice	2F# 2a# 2cc#
+.	.	You	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	52.024	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+2ii7	G#:min7	_	.	53.267	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+2V7	C#:7	.	.	54.509	.	voice	2C# 2e# 2g# 2b
+.	.	I	.	.	.	.	.
+.	.	feel	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	like	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+*E:	*E:	*	*	*E:	*E:	*E:	*E:
+1ii7	F#:min7	dan-	.	55.751	newline	voice	1F# 1a 1cc# 1ee
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1ii7	F#:min7	dance	.	58.195	.	voice	1F# 1a 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	feel	.	.	.	.	.
+.	.	like	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1V	B:sus4(b7,9)	dan-	.	60.639	.	voice	1B 1dd# 1ff#
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1V	B:sus4(b7,9)	_	.	63.083	.	voice	1B 1dd# 1ff#
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2I	E:maj	.	.	65.527	newline	voice	2E 2g# 2b
+.	.	Quar-	E	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	to	.	.	.	.	.
+2vi7	C#:min7	four	E	66.781	.	voice	2C# 2e 2g# 2b
+.	.	in	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	mor-	E	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+2ii7	F#:min9	_	.	68.034	.	voice	2F# 2a 2cc# 2ee
+.	.	-ning	.	.	.	.	.
+2V7	B:maj6(b7)	.	.	69.288	.	voice	2B 2dd# 2ff# 2aa
+=29	=29	=29	=29	=29	=29	=29	=29
+2I	E:maj	.	.	70.542	.	voice	2E 2g# 2b
+.	.	I	.	.	.	.	.
+.	.	ain't	.	.	.	.	.
+.	.	feel-	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+.	.	tired	.	.	.	.	.
+2vi7	C#:min7	_	.	71.796	.	voice	2C# 2e 2g# 2b
+.	.	no	F	.	.	.	.
+.	.	no	F	.	.	.	.
+.	.	no	F	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2ii7	F#:min9	no	F	73.05	.	voice	2F# 2a 2cc# 2ee
+.	.	no	F	.	.	.	.
+.	.	.	.	.	.	.	.
+2V7	B:maj6(b7)	.	.	74.304	.	voice	2B 2dd# 2ff# 2aa
+=31	=31	=31	=31	=31	=31	=31	=31
+2I	E:maj	.	.	75.558	newline	voice	2E 2g# 2b
+.	.	just	.	.	.	.	.
+.	.	hold	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	tight	G	.	.	.	.
+2vi7	C#:min7	_	.	76.812	.	voice	2C# 2e 2g# 2b
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	leave	.	.	.	.	.
+.	.	on	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+2ii7	F#:min9	_	.	78.065	.	voice	2F# 2a 2cc# 2ee
+.	.	the	.	.	.	.	.
+.	.	light	G	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2V7	B:maj6(b7)	.	.	79.319	.	voice	2B 2dd# 2ff# 2aa
+.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2I	E:maj	.	.	80.573	.	voice	3...E 3...g# 3...b
+.	.	'cause	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	wan-	.	.	.	.	.
+2vi7	C#:min7	.	.	81.827	.	voice	4.C# 4.e 4.g# 4.b
+.	.	-na	.	.	.	.	.
+.	.	go	.	.	.	.	.
+.	.	home	F	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2ii7	F#:min9	_	.	83.081	.	voice	2F# 2a 2cc# 2ee
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2V7	B:maj6(b7)	.	.	84.335	.	voice	2B 2dd# 2ff# 2aa
+.	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1-VII	D:maj	.	.	85.589	newline	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.
+.	.	You	.	.	.	.	.
+.	.	put	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	spell	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	me	B	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1I	E:maj	right	.	88.073	.	voice	1E 1g# 1b
+.	.	where	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	want	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	B	.	.	.	.
+.	.	_	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*F#:	*F#:	*	*	*F#:	*F#:	*F#:	*F#:
+2I	F#:maj	.	.	90.558	newline	voice	2F# 2a# 2cc#
+.	.	You	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	91.82	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+2ii7	G#:min7	_	.	93.083	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	gon-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+2V7	C#:7	dance	.	94.346	.	voice	2C# 2e# 2g# 2b
+.	.	the	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+2I	F#:maj	.	.	95.608	.	voice	2F# 2a# 2cc#
+.	.	you	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	96.871	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2ii7	G#:min7	_	.	98.133	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	gon-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+2V7	C#:7	dance	.	99.396	.	voice	2C# 2e# 2g# 2b
+.	.	the	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2I	F#:maj	.	.	100.659	newline	voice	2F# 2a# 2cc#
+.	.	You	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	101.892	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+2ii7	G#:min7	_	.	103.125	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin	.	.	.	.	.
+2V7	C#:7	.	.	104.358	.	voice	2C# 2e# 2g# 2b
+.	.	I	.	.	.	.	.
+.	.	feel	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	like	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+*E:	*E:	*	*	*E:	*E:	*E:	*E:
+1ii7	F#:min7	dan-	.	105.591	newline	voice	1F# 1a 1cc# 1ee
+.	.	_	.	.	.	.	.
+.	.	-cin	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1ii7	F#:min7	dance	.	108.023	.	voice	1F# 1a 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	feel	.	.	.	.	.
+.	.	like	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1V7	B:sus4(b7,9)	dan-	.	110.456	.	voice	1B 1dd# 1ff# 1aa
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1V7	B:sus4(b7,9)	dance	.	112.888	.	voice	1B 1dd# 1ff# 1aa
+.	.	the	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	feel	.	.	.	.	.
+.	.	like	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1ii7	F#:min7	dan-	.	115.32	newline	voice	1F# 1a 1cc# 1ee
+.	.	_	.	.	.	.	.
+.	.	-cin	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1ii7	F#:min7	dance	.	117.747	.	voice	1F# 1a 1cc# 1ee
+.	.	the	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	feel	.	.	.	.	.
+.	.	like	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1V7	B:sus4(b7,9)	dan-	.	120.174	.	voice	1B 1dd# 1ff# 1aa
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-cin'	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1V7	B:sus4(b7,9)	_	.	122.601	.	voice	1B 1dd# 1ff# 1aa
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental
+2I	E:maj	.	.	125.028	newline	voice	1E 1g# 1b
+2vi7	C#:min7	.	.	126.278	.	voice	2C# 2e 2g# 2b
+=52	=52	=52	=52	=52	=52	=52	=52
+2ii7	F#:min9	.	.	127.527	.	voice	1F# 1a 1cc# 1ee
+2V7	B:maj6(b7)	.	.	128.777	.	voice	2B 2dd# 2ff# 2aa
+=53	=53	=53	=53	=53	=53	=53	=53
+2I	E:maj	.	.	130.026	.	voice	1E 1g# 1b
+2vi7	C#:min7	.	.	131.276	.	voice	2C# 2e 2g# 2b
+=54	=54	=54	=54	=54	=54	=54	=54
+2ii7	F#:min9	.	.	132.525	.	voice	1F# 1a 1cc# 1ee
+2V7	B:maj6(b7)	.	.	133.775	.	voice	2B 2dd# 2ff# 2aa
+=55	=55	=55	=55	=55	=55	=55	=55
+2I	E:maj	.	.	135.024	newline	voice	1E 1g# 1b
+2vi7	C#:min7	.	.	136.255	.	voice	2C# 2e 2g# 2b
+=56	=56	=56	=56	=56	=56	=56	=56
+2ii7	F#:min9	.	.	137.485	.	voice	1F# 1a 1cc# 1ee
+2V7	B:maj6(b7)	.	.	138.716	.	voice	2B 2dd# 2ff# 2aa
+=57	=57	=57	=57	=57	=57	=57	=57
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1-VII	D:maj	.	.	139.947	newline	voice	1D 1f# 1a
+.	.	and	.	.	.	.	.
+.	.	if	.	.	.	.	.
+.	.	you'll	.	.	.	.	.
+.	.	let	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	stay	H	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1I	E:maj	.	.	142.473	.	voice	1E 1g# 1b
+.	.	we'll	.	.	.	.	.
+.	.	dance	.	.	.	.	.
+.	.	our	.	.	.	.	.
+.	.	lives	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	H	.	.	.	.
+.	.	_	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*F#:	*F#:	*	*	*F#:	*F#:	*F#:	*F#:
+2I	F#:maj	.	.	145	newline	voice	2F# 2a# 2cc#
+.	.	You	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	146.24	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+2ii7	G#:min7	_	.	147.481	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	wan-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+2V7	C#:7	dance	.	148.722	.	voice	2C# 2e# 2g# 2b
+.	.	my	.	.	.	.	.
+.	.	life	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+2I	F#:maj	.	.	149.962	.	voice	2F# 2a# 2cc#
+.	.	you	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	151.203	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+2ii7	G#:min7	_	.	152.444	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	wan-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+2V7	C#:7	dance	.	153.685	.	voice	2C# 2e# 2g# 2b
+.	.	my	.	.	.	.	.
+.	.	life	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+2I	F#:maj	.	.	154.925	newline	voice	2F# 2a# 2cc#
+.	.	you	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	156.173	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+2ii7	G#:min7	_	.	157.42	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	gon	.	.	.	.	.
+.	.	na	.	.	.	.	.
+2V7	C#:7	dance	.	158.668	.	voice	2C# 2e# 2g# 2b
+.	.	my	.	.	.	.	.
+.	.	life	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	way	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+2I	F#:maj	.	.	159.915	.	voice	2F# 2a# 2cc#
+.	.	you	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	161.163	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+2ii7	G#:min7	_	.	162.411	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	gon	.	.	.	.	.
+.	.	na	.	.	.	.	.
+2V7	C#:7	dance	.	163.658	.	voice	2C# 2e# 2g# 2b
+.	.	my	.	.	.	.	.
+.	.	life	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+2I	F#:maj	.	.	164.906	newline	voice	2F# 2a# 2cc#
+.	.	You	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+2vi7	D#:min7	feel	.	165.603	.	voice	2D# 2f# 2a# 2cc#
+.	.	like	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	dan-	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+2ii7	G#:min7	_	.	166.299	.	voice	2G# 2b 2dd# 2ff#
+.	.	-cin'	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	wan-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+2V7	C#:7	dance	.	166.996	.	voice	2C# 2e# 2g# 2b
+.	.	my	.	.	.	.	.
+.	.	life	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-way	.	.	.	.	.
+1r;	N	.	.	170.481	.	r	1r;
+1r;	N	.	.	174.341	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1977/01/22
+!!!BillboardPeak: 1
+!!!BillboardWeeksOnChart: 21
+!!!COC: Leo Sayer
+!!!EMD: Changed stuff written in Gb to F# (closer to E Major). Cut off two measures at end. -Nat
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: You Make Me Feel Like Dancing
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 3
+!!!SampleID#: 0986
+!!!SampleTargetRank: 3
+!!!MBID: 7b909503-5268-4b8b-89ac-f3feecd6eae4

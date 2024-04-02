@@ -1,0 +1,708 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*G:	*G:	*	*	*	*	*	*	*G:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1V7	D:7	.	.	.	0.488	newline	r	1D 1f# 1a 1cc
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	N	.	.	.	2.014	.	r	1r
+.	.	You	.	.	.	.	.	.
+.	.	know,	.	.	.	.	.	.
+.	.	I'm	.	.	.	.	.	.
+.	.	al	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	most	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	grown!	.	A	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	N	_	.	.	3.54	.	r	1r
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1r	N	.	.	.	5.066	.	r	1r
+.	.	.	.	.	.	.	.	.
+.	.	Yeah	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	I'm	.	.	.	.	.	.
+.	.	do-	.	.	.	.	.	.
+.	.	-in'	.	.	.	.	.	.
+.	.	al-	.	.	.	.	.	.
+.	.	-right	.	.	.	.	.	.
+.	.	in	.	.	.	.	.	.
+.	.	school!	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1Im7	G:7	_	.	.	6.593	newline	voice	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+1Im7	G:7	.	.	.	8.134	.	voice	1G 1b 1dd 1ff#
+.	.	They	.	.	.	.	.	.
+.	.	ain't	.	.	.	.	.	.
+.	.	said	Woo,	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	broke	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	no	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1Im7	G:7	rule!	.	B	9.675	.	voice	1G 1b 1dd 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1Im7	G:7	.	.	.	11.216	.	voice	1G 1b 1dd 1ff#
+.	.	I	.	.	.	.	.	.
+.	.	ain't	.	.	.	.	.	.
+.	.	ne-	Woo,	.	.	.	.	.
+.	.	-ver	.	.	.	.	.	.
+.	.	been	.	.	.	.	.	.
+.	.	in	woo!	.	.	.	.	.
+.	.	Dutch!	.	C	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1IVm7	C:7	_	.	.	12.756	newline	voice	1C 1e 1g 1b
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+1IVm7	C:7	.	.	.	14.297	.	voice	1C 1e 1g 1b
+.	.	I	.	.	.	.	.	.
+.	.	don't	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	browse	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-round	.	.	.	.	.	.
+.	.	_	woo!	.	.	.	.	.
+.	.	too	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+1Im7	G:7	much!	.	C	15.837	.	voice	1G 1b 1dd 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+1Im7	G:7	.	.	.	17.378	.	voice	1G 1b 1dd 1ff#
+.	.	Don't	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	bo	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	ther	.	.	.	.	.	.
+.	.	me,	.	.	.	.	.	.
+.	.	leave	.	.	.	.	.	.
+.	.	_	woo!	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-lone!	.	A	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+1V7	D:7	_	.	.	18.918	newline	voice	1D 1f# 1a 1cc
+.	.	_	.	.	.	.	.	.
+.	.	.	Ha,	.	.	.	.	.
+.	.	.	woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1IVm7	C:7	.	.	.	20.455	.	voice	1C 1e 1g 1b
+.	.	A-	.	.	.	.	.	.
+.	.	-ny-	.	.	.	.	.	.
+.	.	-way,	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	I'm	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	al	.	.	.	.	.	.
+.	.	_	woo!	.	.	.	.	.
+.	.	most	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1Im7	G:7	grown!	.	A	21.991	.	voice	1G 1b 1dd 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1Im7	G:7	.	-way!	.	23.527	.	voice	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	don't	.	.	.	.	.	.
+.	.	run	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-round	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+.	.	no	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	mob!	.	D	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1Im7	G:7	.	.	.	25.063	newline	voice	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+1Im7	G:7	.	.	.	26.647	.	voice	1G 1b 1dd 1ff#
+.	.	Got	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	my-	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	-self	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	lit-	woo!	.	.	.	.	.
+.	.	-tle	.	.	.	.	.	.
+.	.	job!	.	D	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1Im7	G:7	_	.	.	28.23	.	voice	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1Im7	G:7	.	.	.	29.814	.	voice	1G 1b 1dd 1ff#
+.	.	I'm	.	.	.	.	.	.
+.	.	gon'	.	.	.	.	.	.
+.	.	buy	Woo,	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	lit-	woo!	.	.	.	.	.
+.	.	-tle	.	.	.	.	.	.
+.	.	car!	.	E	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+1IVm7	C:7	_	.	.	31.398	newline	voice	1C 1e 1g 1b
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1IVm7	C:7	.	.	.	32.953	.	voice	1C 1e 1g 1b
+.	.	Drive	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	girl	.	.	.	.	.	.
+.	.	in	woo!	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	park!	.	E	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1Im7	G:7	_	.	.	34.509	.	voice	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+1Im7	G:7	.	.	.	36.064	.	voice	1G 1b 1dd 1ff#
+.	.	Don't	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	bo-	Woo,	.	.	.	.	.
+.	.	-ther	.	.	.	.	.	.
+.	.	us,	.	.	.	.	.	.
+.	.	leave	.	.	.	.	.	.
+.	.	us	woo!	.	.	.	.	.
+.	.	'lone!	.	A	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+1V7	D:7	_	.	.	37.62	newline	voice	1D 1f# 1a 1cc
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+1IVm7	C:7	.	.	.	39.167	.	voice	1C 1e 1g 1b
+.	.	A-	.	.	.	.	.	.
+.	.	-ny-	.	.	.	.	.	.
+.	.	-way,	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	I'm	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	al	.	.	.	.	.	.
+.	.	_	woo!	.	.	.	.	.
+.	.	most	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+1Im7	G:7	grown!	.	A	40.713	.	voice	1G 1b 1dd 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+1Im7	G:7	.	-way,	.	42.26	.	voice	1G 1b 1dd 1ff#
+.	.	.	ta-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a...	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+1Im7	G:7	.	.	.	43.806	newline	piano	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+1Im7	G:7	.	.	.	45.372	.	piano	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+1Im7	G:7	.	.	.	46.938	.	piano	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+1Im7	G:7	.	.	.	48.504	.	piano	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+1IVm7	C:7	.	.	.	50.069	newline	piano	1C 1e 1g 1b
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+1IVm7	C:7	.	.	.	51.66	.	piano	1C 1e 1g 1b
+.	.	.	.	.	.	.	.	.
+.	.	Oh!	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+1Im7	G:7	.	.	.	53.25	.	piano	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+1Im7	G:7	.	.	.	54.84	.	piano	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	Woo!	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+1V7	D:7	.	.	.	56.431	newline	piano	1D 1f# 1a 1cc
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1IVm7	C:7	.	.	.	58.012	.	piano	1C 1e 1g 1b
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1Im7	G:7	.	.	.	59.593	.	piano	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+1Im7	G:7	.	-way!	.	61.175	.	piano	1G 1b 1dd 1ff#
+.	.	Got	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	eye	.	.	.	.	.	.
+.	.	on	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	lit-	.	.	.	.	.	.
+.	.	-tle	.	.	.	.	.	.
+.	.	girl!	.	F	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1Im7	G:7	_	.	.	62.756	newline	voice	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1Im7	G:7	.	.	.	64.35	.	voice	1G 1b 1dd 1ff#
+.	.	Ah,	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	she's	.	.	.	.	.	.
+.	.	real-	.	.	.	.	.	.
+.	.	-ly	.	.	.	.	.	.
+.	.	out	woo!	.	.	.	.	.
+.	.	this	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+1Im7	G:7	_	.	.	65.944	.	voice	1G 1b 1dd 1ff#
+.	.	world!	.	F	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+1Im7	G:7	.	.	.	67.538	.	voice	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	When	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	take	.	.	.	.	.	.
+.	.	her	woo!	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+1IVm7	C:7	dance,	.	G	69.132	newline	voice	1C 1e 1g 1b
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1IVm7	C:7	.	.	.	70.692	.	voice	1C 1e 1g 1b
+.	.	she	.	.	.	.	.	.
+.	.	stea-	.	.	.	.	.	.
+.	.	-dy	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	talk	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-bout	.	.	.	.	.	.
+.	.	_	woo!	.	.	.	.	.
+.	.	ro-	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1Im7	G:7	-mance!	.	G	72.253	.	voice	1G 1b 1dd 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+1Im7	G:7	.	.	.	73.813	.	voice	1G 1b 1dd 1ff#
+.	.	Don't	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	bo-	.	.	.	.	.	.
+.	.	-ther	.	.	.	.	.	.
+.	.	us,	.	.	.	.	.	.
+.	.	leave	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	us	.	.	.	.	.	.
+.	.	'lone!	.	A	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+1V7	D:7	_	.	.	75.374	newline	voice	1D 1f# 1a 1cc
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+1IVm7	C:7	.	.	.	76.952	.	voice	1C 1e 1g 1b
+.	.	A-	.	.	.	.	.	.
+.	.	-ny-	.	.	.	.	.	.
+.	.	-way,	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	al	.	.	.	.	.	.
+.	.	_	woo!	.	.	.	.	.
+.	.	most	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+1Im7	G:7	grown!	.	A	78.531	.	voice	1G 1b 1dd 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+1Im7	G:7	.	-way,	.	80.109	.	voice	1G 1b 1dd 1ff#
+.	.	.	ta-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a...	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+1Im7	G:7	.	.	.	81.688	newline	guitar	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+1Im7	G:7	.	.	.	83.275	.	guitar	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+1Im7	G:7	.	.	.	84.861	.	guitar	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+1Im7	G:7	.	.	.	86.448	.	guitar	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1IVm7	C:7	.	.	.	88.035	newline	guitar	1C 1e 1g 1b
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1IVm7	C:7	.	.	.	89.627	.	guitar	1C 1e 1g 1b
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+1Im7	G:7	.	.	.	91.219	.	guitar	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+1Im7	G:7	.	.	.	92.811	.	guitar	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+1V7	D:7	.	.	.	94.403	newline	guitar	1D 1f# 1a 1cc
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+1IVm7	C:7	.	.	.	96.014	.	guitar	1C 1e 1g 1b
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+1Im7	G:7	.	.	.	97.624	.	guitar	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+1Im7	G:7	.	-way!	.	99.235	.	guitar	1G 1b 1dd 1ff#
+.	.	You	.	.	.	.	.	.
+.	.	know	.	.	.	.	.	.
+.	.	I'm	.	.	.	.	.	.
+.	.	still	.	.	.	.	.	.
+.	.	li-	.	.	.	.	.	.
+.	.	-vin'	.	.	.	.	.	.
+.	.	in	.	.	.	.	.	.
+.	.	town!	.	H	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1Im7	G:7	_	.	.	100.846	newline	voice	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+1Im7	G:7	.	.	.	102.438	.	voice	1G 1b 1dd 1ff#
+.	.	But	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	done	.	.	.	.	.	.
+.	.	mar-	Woo,	.	.	.	.	.
+.	.	-ried	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	set-	woo!	.	.	.	.	.
+.	.	-tled	.	.	.	.	.	.
+.	.	down!	.	H	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+1Im7	G:7	_	.	.	104.03	.	voice	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+1Im7	G:7	.	.	.	105.622	.	voice	1G 1b 1dd 1ff#
+.	.	Now	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	real-	Woo,	.	.	.	.	.
+.	.	-ly	.	.	.	.	.	.
+.	.	have	.	.	.	.	.	.
+.	.	a	woo!	.	.	.	.	.
+.	.	ball!	.	I	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+1IVm7	C:7	_	.	.	107.214	newline	voice	1C 1e 1g 1b
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+1IVm7	C:7	.	.	.	108.821	.	voice	1C 1e 1g 1b
+.	.	So	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	don't	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	browse	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-round	.	.	.	.	.	.
+.	.	_	woo!	.	.	.	.	.
+.	.	at	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1Im7	G:7	all!	.	I	110.428	.	voice	1G 1b 1dd 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+1Im7	G:7	.	.	.	112.036	.	voice	1G 1b 1dd 1ff#
+.	.	Don't	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	bo-	Woo,	.	.	.	.	.
+.	.	-ther	.	.	.	.	.	.
+.	.	us,	.	.	.	.	.	.
+.	.	leave	woo!	.	.	.	.	.
+.	.	us	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+1V7	D:7	'lone!	.	A	113.643	newline	voice	1D 1f# 1a 1cc
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1IVm7	C:7	.	.	.	115.221	.	voice	1C 1e 1g 1b
+.	.	A-	.	.	.	.	.	.
+.	.	-ny-	.	.	.	.	.	.
+.	.	-way,	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	al	.	.	.	.	.	.
+.	.	_	woo!	.	.	.	.	.
+.	.	most	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+1Im7	G:7	grown!	.	A	116.8	.	voice	1G 1b 1dd 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+1Im7	G:7	.	-way,	.	118.378	.	voice	1G 1b 1dd 1ff#
+.	.	.	ta-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a-	.	.	.	.	.
+.	.	.	-tack-	.	.	.	.	.
+.	.	.	-a...	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+1Im7	G:7	.	.	.	119.956	newline	piano	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+1Im7	G:7	.	.	.	121.561	.	piano	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+1Im7	G:7	.	.	.	123.166	.	piano	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+1Im7	G:7	.	.	.	124.771	.	piano	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	Oh!	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+1IVm7	C:7	.	.	.	126.376	newline	piano	1C 1e 1g 1b
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+1IVm7	C:7	.	.	.	127.953	.	piano	1C 1e 1g 1b
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+1Im7	G:7	.	.	.	129.53	.	piano	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+.	.	.	-way!	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+1Im7	G:7	.	.	.	131.107	.	piano	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+1V7	D:7	.	.	.	132.684	newline	piano	1D 1f# 1a 1cc
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	woo,	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+1IVm7	C:7	.	.	.	134.175	.	piano	1C 1e 1g 1b
+.	.	.	.	.	.	.	.	.
+.	.	.	Woo,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	woo!	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+1Im7	G:7	.	.	.	135.665	.	piano	1G 1b 1dd 1ff#
+.	.	.	Hi	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	de-	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+1Im7	G:7	.	-way!	.	137.156	.	piano	1G 1b 1dd 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+1r;	N	.	.	.	138.646	.	r	1r;
+1r;	N	.	.	.	141.27	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1959/06/01
+!!!BillboardPeak: 32
+!!!BillboardWeeksOnChart: 12
+!!!COC: Chuck Berry
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Almost Grown
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 40
+!!!SampleID#: 0792
+!!!SampleTargetRank: 38
+!!!MBID: 73d5db18-a16c-4002-96de-cabdd05982aa

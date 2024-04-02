@@ -1,0 +1,507 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*B:	*B:	*	*	*	*	*	*	*B:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1I	B:maj	.	.	.	0.8	newline	r	1B 1dd# 1ff#
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+1I	B:maj	.	.	.	2.394	.	r	1B 1dd# 1ff#
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1I	B:sus4	.	.	.	3.988	.	r	1B 1dd# 1ff#
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1I	B:sus4	.	.	.	5.581	.	r	1B 1dd# 1ff#
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+1Ic	B:maj/5	.	.	.	7.175	newline	r	1b 1dd# 1F#
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+1Ic	B:maj/5	.	.	.	8.787	.	r	1b 1dd# 1F#
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1V	F#:sus4(b7)	.	.	.	10.399	.	r	1F# 1a# 1cc#
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1V	F#:sus4(b7)	.	.	.	12.011	.	r	1F# 1a# 1cc#
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	B:maj	.	.	.	13.623	newline	voice	1B 1dd# 1ff#
+.	.	Sweet	.	.	.	.	.	.
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin'	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+1I	B:maj	guy	.	A	15.242	.	voice	1B 1dd# 1ff#
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+1Vb	F#:maj/3	.	.	.	16.862	.	voice	1f# 1A# 1cc#
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin'	.	.	.	.	.	.
+.	.	sweet	.	.	.	.	.	.
+.	.	kin-	.	.	.	.	.	.
+.	.	-da	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+1Vb	F#:maj/3	lies!	.	A	18.481	.	voice	1f# 1A# 1cc#
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+1iiioc	D#:dim/b5	.	.	.	20.101	newline	voice	1d# 1f# 1A
+.	.	Don't	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+.	.	be-	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1iiioc	D#:dim/b5	-lieve	.	.	21.724	.	voice	1d# 1f# 1A
+.	.	in	.	.	.	.	.	.
+.	.	him,	.	.	.	.	.	.
+.	.	if	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1IVb	E:maj/3	do	.	.	23.347	.	voice	1e 1G# 1b
+.	.	.	.	.	.	.	.	.
+.	.	he'll	.	.	.	.	.	.
+.	.	make	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1IVb	E:maj/3	cry.	.	A	24.97	.	voice	1e 1G# 1b
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1ivb	E:min/b3	.	.	.	26.594	newline	voice	1e 1G 1b
+.	.	He'll	.	.	.	.	.	.
+.	.	send	.	.	.	.	.	.
+.	.	you	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+1ivb	E:min/b3	flo-	.	.	28.196	.	voice	1e 1G 1b
+.	.	-wers	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	paint	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1Ic	B:maj/5	town	.	.	29.798	.	voice	1b 1dd# 1F#
+.	.	with	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-no-	.	.	.	.	.	.
+.	.	-ther	.	.	.	.	.	.
+.	.	girl	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1Ic	B:maj/5	_	.	.	31.401	.	voice	1b 1dd# 1F#
+.	.	.	.	.	.	.	.	.
+.	.	He's	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+1V7	F#:7	sweet	.	.	33.003	newline	voice	1F# 1a# 1cc# 1ee
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin'	.	.	.	.	.	.
+.	.	guy	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1V7	F#:7	_	Sweet	.	34.621	.	voice	1F# 1a# 1cc# 1ee
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin'	.	.	.	.	.
+.	.	.	guy	A	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	he's	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1V7	F#:7	my	_	.	36.239	.	voice	1F# 1a# 1cc# 1ee
+.	.	kin-	.	.	.	.	.	.
+.	.	-da	.	.	.	.	.	.
+.	.	guy	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+1V7	F#:7	_	Sweet	.	37.856	.	voice	1F# 1a# 1cc# 1ee
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin'	.	.	.	.	.
+.	.	.	guy	A	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	B:maj	.	_	.	39.474	newline	voice	1B 1dd# 1ff#
+.	.	.	.	.	.	.	.	.
+.	.	Swee-	.	.	.	.	.	.
+.	.	-ter	.	.	.	.	.	.
+.	.	than	.	.	.	.	.	.
+.	.	su	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+1I	B:maj	_	.	.	41.084	.	voice	1B 1dd# 1ff#
+.	.	gar	.	.	.	.	.	.
+.	.	_	Ooh!	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+1Vb	F#:maj/3	.	.	.	42.695	.	voice	1f# 1A# 1cc#
+.	.	Kis-	.	.	.	.	.	.
+.	.	-ses	.	.	.	.	.	.
+.	.	like	.	.	.	.	.	.
+.	.	wine	.	A	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+1Vb	F#:maj/3	_	.	.	44.306	.	voice	1f# 1A# 1cc#
+.	.	.	_	.	.	.	.	.
+.	.	.	Oh!	.	.	.	.	.
+.	.	.	He's	.	.	.	.	.
+.	.	.	so	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	fine	A	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+1iiioc	D#:dim/b5	.	_	.	45.916	newline	voice	1d# 1f# 1A
+.	.	Don't	.	.	.	.	.	.
+.	.	let	.	.	.	.	.	.
+.	.	him	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+1iiioc	D#:dim/b5	un-	.	.	47.525	.	voice	1d# 1f# 1A
+.	.	-der	.	.	.	.	.	.
+.	.	your	.	.	.	.	.	.
+.	.	skin	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+1IVb	E:maj/3	.	.	.	49.134	.	voice	1e 1G# 1b
+.	.	cuz	.	.	.	.	.	.
+.	.	you'll	.	.	.	.	.	.
+.	.	ne-	.	.	.	.	.	.
+.	.	-ver	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+1IVb	E:maj/3	win.	.	B	50.743	.	voice	1e 1G# 1b
+.	.	.	No,	.	.	.	.	.
+.	.	.	you	.	.	.	.	.
+.	.	.	ne-	.	.	.	.	.
+.	.	.	-ver	.	.	.	.	.
+.	.	.	will	B	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+1ivb	E:min/b3	.	_	.	52.352	newline	voice	1e 1G 1b
+.	.	Don't	.	.	.	.	.	.
+.	.	give	.	.	.	.	.	.
+.	.	him	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+1ivb	E:min/b3	love	_	.	53.962	.	voice	1e 1G 1b
+.	.	to-	.	.	.	.	.	.
+.	.	-day	_	C	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to-	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+1Ic	B:maj/5	-mor-	.	.	55.573	.	voice	1b 1dd# 1F#
+.	.	-row	.	.	.	.	.	.
+.	.	he's	.	.	.	.	.	.
+.	.	on	.	.	.	.	.	.
+.	.	his	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+1Ic	B:maj/5	way	.	C	57.183	.	voice	1b 1dd# 1F#
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	He's	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+1V7	F#:7	sweet	.	.	58.794	newline	voice	1F# 1a# 1cc# 1ee
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin'	.	.	.	.	.	.
+.	.	guy	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1V7	F#:7	_	Sweet	.	60.393	.	voice	1F# 1a# 1cc# 1ee
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin'	.	.	.	.	.
+.	.	.	guy	A	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	but	.	.	.	.	.	.
+.	.	he's	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1V7	F#:7	my	_	.	61.992	.	voice	1F# 1a# 1cc# 1ee
+.	.	kin-	.	.	.	.	.	.
+.	.	-da	.	.	.	.	.	.
+.	.	guy	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+1V7	F#:7	.	Sweet	.	63.592	.	voice	1F# 1a# 1cc# 1ee
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin'	.	.	.	.	.
+.	.	.	guy	A	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition
+1-III	D:maj	.	.	.	65.191	newline	voice	1D 1f# 1a
+.	.	Why	Why	.	.	.	.	.
+.	.	do	do	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1-VI	G:maj	love	love	.	66.81	.	voice	1G 1b 1dd
+.	.	him	him	.	.	.	.	.
+.	.	like	like	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+1-II	C:maj	do?	do?	.	68.429	.	voice	1C 1e 1g
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+1V7	F#:7	_	_	.	70.048	.	voice	1F# 1a# 1cc# 1ee
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental
+1I	B:maj	.	.	.	71.667	newline	voice cello oboe	1B 1dd# 1ff#
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1I	B:maj	.	.	.	73.276	.	voice cello oboe	1B 1dd# 1ff#
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1Vb	F#:maj/3	.	.	.	74.885	.	voice cello oboe	1f# 1A# 1cc#
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+1Vb	F#:maj/3	.	.	.	76.494	.	voice cello oboe	1f# 1A# 1cc#
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+1iiioc	D#:dim/b5	.	.	.	78.103	newline	voice cello oboe	1d# 1f# 1A
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+1iiioc	D#:dim/b5	.	.	.	79.73	.	voice cello oboe	1d# 1f# 1A
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+1IVb	E:maj/3	.	.	.	81.357	.	voice cello oboe	1e 1G# 1b
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+1IVb	E:maj/3	.	.	.	82.983	.	voice cello oboe	1e 1G# 1b
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+1ivb	E:min/b3	Whoo	Whoo	.	84.61	newline	voice	1e 1G 1b
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+1ivb	E:min/b3	_	_	.	86.23	.	voice	1e 1G 1b
+.	.	_	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+1Ic	B:maj/5	.	_	.	87.849	.	voice	1b 1dd# 1F#
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+1Ic	B:maj/5	.	_	.	89.469	.	voice	1b 1dd# 1F#
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	He's	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1V7	F#:7	sweet	.	.	91.089	newline	cello oboe	1F# 1a# 1cc# 1ee
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin',	.	.	.	.	.	.
+.	.	.	sweet	.	.	.	.	.
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin',	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1V7	F#:7	sweet	.	.	92.691	.	cello oboe	1F# 1a# 1cc# 1ee
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin',	.	.	.	.	.	.
+.	.	.	sweet	.	.	.	.	.
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin',	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+1V7	F#:7	guy	guy	A	94.293	.	cello oboe	1F# 1a# 1cc# 1ee
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+1V7	F#:7	_	_	.	95.895	.	cello oboe	1F# 1a# 1cc# 1ee
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	B:maj	Stay	Stay	.	97.498	newline	cello oboe	1B 1dd# 1ff#
+.	.	a-	.	.	.	.	.	.
+.	.	-way	.	.	.	.	.	.
+.	.	from	.	.	.	.	.	.
+.	.	him,	.	B	.	.	.	.
+.	.	stay	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+1I	B:maj	-way	_	.	99.12	.	cello oboe	1B 1dd# 1ff#
+.	.	from	.	.	.	.	.	.
+.	.	him,	a-	B	.	.	.	.
+.	.	don't	-way	.	.	.	.	.
+.	.	be-	.	.	.	.	.	.
+.	.	-lieve	from	.	.	.	.	.
+.	.	his	.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+1Vb	F#:maj/3	ly-	him	(A	100.743	.	cello oboe	1f# 1A# 1cc#
+.	.	-ing	.	a)	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+1Vb	F#:maj/3	_	_	.	102.365	.	cello oboe	1f# 1A# 1cc#
+.	.	.	.	.	.	.	.	.
+.	.	_	No,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	no,	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+1iiioc	D#:dim/b5	No,	no	.	103.987	newline	cello oboe	1d# 1f# 1A
+.	.	you'll	.	.	.	.	.	.
+.	.	ne-	.	.	.	.	.	.
+.	.	-ver	.	.	.	.	.	.
+.	.	win,	.	B	.	.	.	.
+.	.	no,	.	.	.	.	.	.
+.	.	you'll	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+1iiioc	D#:dim/b5	ne-	.	.	105.607	.	cello oboe	1d# 1f# 1A
+.	.	-ver	.	.	.	.	.	.
+.	.	win,	you'll	B	.	.	.	.
+.	.	lo-	ne-	.	.	.	.	.
+.	.	-ser's	.	.	.	.	.	.
+.	.	in	-ver	B	.	.	.	.
+.	.	for	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+1IVb	E:maj/3	cry-	win	(A	107.226	.	cello oboe	1e 1G# 1b
+.	.	-ing	.	a)	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+1IVb	E:maj/3	_	_	.	108.845	.	cello oboe	1e 1G# 1b
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+1ivb	E:min/b3	.	Whoo	.	110.464	newline	cello oboe	1e 1G 1b
+.	.	Don't	.	.	.	.	.	.
+.	.	give	.	.	.	.	.	.
+.	.	him	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+1ivb	E:min/b3	love	_	.	112.086	.	cello oboe	1e 1G 1b
+.	.	to-	.	.	.	.	.	.
+.	.	-day,	.	C	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	to-	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1Ic	B:maj/5	-mor-	.	.	113.708	.	cello oboe	1b 1dd# 1F#
+.	.	-row	.	.	.	.	.	.
+.	.	he's	.	.	.	.	.	.
+.	.	on	.	.	.	.	.	.
+.	.	his	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+1Ic	B:maj/5	way	.	C	115.33	.	cello oboe	1b 1dd# 1F#
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	He's	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+1V7	F#:7	sweet	.	.	116.952	newline	cello oboe	1F# 1a# 1cc# 1ee
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin',	.	.	.	.	.	.
+.	.	.	sweet	.	.	.	.	.
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin',	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1V7	F#:7	sweet	.	.	118.54	.	cello oboe	1F# 1a# 1cc# 1ee
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin',	.	.	.	.	.	.
+.	.	.	sweet	.	.	.	.	.
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin',	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+1V7	F#:7	sweet	.	.	120.127	.	cello oboe	1F# 1a# 1cc# 1ee
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin',	.	.	.	.	.	.
+.	.	.	sweet	.	.	.	.	.
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin',	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+1V7	F#:7	sweet	.	.	121.715	.	cello oboe	1F# 1a# 1cc# 1ee
+.	.	tal-	.	.	.	.	.	.
+.	.	-kin',	.	.	.	.	.	.
+.	.	.	sweet	.	.	.	.	.
+.	.	.	tal-	.	.	.	.	.
+.	.	.	-kin',	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+1V7	F#:7	guy	guy	A	123.303	.	cello oboe	1F# 1a# 1cc# 1ee
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+1V7	F#:7	_	_	.	124.891	.	cello oboe	1F# 1a# 1cc# 1ee
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	B:maj	.	Stay	C	126.479	newline	cello oboe	1B 1dd# 1ff#
+.	.	Sweet,	.	.	.	.	.	.
+.	.	sweet,	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	sweet	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+1I	B:maj	.	_	.	128.098	.	cello oboe	1B 1dd# 1ff#
+.	.	tal	.	.	.	.	.	.
+.	.	.	a-	.	.	.	.	.
+.	.	kin'	.	.	.	.	.	.
+.	.	guy	-way	C	.	.	.	.
+.	.	.	from	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+1Vb	F#:maj/3	.	him	B	129.716	.	cello oboe	1f# 1A# 1cc#
+.	.	Sweet,	.	.	.	.	.	.
+.	.	sweet,	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	sweet	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+1Vb	F#:maj/3	.	_	.	131.335	.	cello oboe	1f# 1A# 1cc#
+.	.	tal	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	kin'	.	.	.	.	.	.
+.	.	guy	No,	A	.	.	.	.
+.	.	.	no,	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+1iiioc	D#:dim/b5	.	no	.	132.953	newline	cello oboe	1d# 1f# 1A
+.	.	Sweet,	.	.	.	.	.	.
+.	.	sweet,	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	sweet	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+1iiioc	D#:dim/b5	.	.	.	134.596	.	cello oboe	1d# 1f# 1A
+.	.	tal	.	.	.	.	.	.
+.	.	.	you'll	.	.	.	.	.
+.	.	kin'	.	.	.	.	.	.
+.	.	guy	ne-	A	.	.	.	.
+.	.	.	-ver	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+1IVb	E:maj/3	.	win	.	136.238	.	cello oboe	1e 1G# 1b
+.	.	Sweet,	.	.	.	.	.	.
+.	.	sweet,	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	sweet	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+1IVb	E:maj/3	.	_	.	137.881	.	cello oboe	1e 1G# 1b
+.	.	tal	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	kin'	.	.	.	.	.	.
+.	.	guy	_	A	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+1ivb	E:min/b3	.	Whoo	.	139.523	newline	voice	1e 1G 1b
+.	.	Sweet,	.	.	.	.	.	.
+.	.	sweet,	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	sweet	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+1ivb	E:min/b3	.	_	.	141.038	.	voice	1e 1G 1b
+.	.	tal	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	kin'	.	.	.	.	.	.
+.	.	guy	.	A	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+1Ic	B:maj/5	.	_	.	142.552	.	voice	1b 1dd# 1F#
+.	.	Sweet,	.	.	.	.	.	.
+.	.	sweet,	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	sweet	.	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+1Ic	B:maj/5	.	_	.	144.066	.	voice	1b 1dd# 1F#
+.	.	tal	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	kin'	.	.	.	.	.	.
+.	.	guy	_	A	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+1r;	N	.	.	.	145.58	.	r	1r;
+1r;	N	.	.	.	148.389	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1966/05/07
+!!!BillboardPeak: 10
+!!!BillboardWeeksOnChart: 10
+!!!COC: The Chiffons
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Sweet Talkin' Guy
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 86
+!!!SampleID#: 0026
+!!!SampleTargetRank: 88
+!!!MBID: 8d5e61c0-8c81-4a62-bc46-c381da801769

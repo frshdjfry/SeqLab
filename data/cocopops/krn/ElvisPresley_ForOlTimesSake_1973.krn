@@ -1,0 +1,180 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*B-:	*B-:	*	*	*	*B-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	B-:maj	0.232	newline	r	1B- 1dd 1ff
+=2	=2	=2	=2	=2	=2
+1I	B-:maj	3.698	.	r	1B- 1dd 1ff
+=3	=3	=3	=3	=3	=3
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	B-:maj	7.163	newline	voice	1B- 1dd 1ff
+=4	=4	=4	=4	=4	=4
+1I7d	B-:maj7/7	10.617	.	voice	1b- 1dd 1ff 1A
+=5	=5	=5	=5	=5	=5
+2V	F:sus4(b7,9)	14.07	.	voice	2F 2a 2cc
+2Im7	B-:7	15.797	.	voice	2B- 2dd 2ff 2aa
+=6	=6	=6	=6	=6	=6
+1IV	E-:maj	17.523	.	voice	1E- 1g 1b-
+=7	=7	=7	=7	=7	=7
+1I	B-:maj	20.977	newline	voice	1B- 1dd 1ff
+=8	=8	=8	=8	=8	=8
+1I7d	B-:maj7/7	24.437	.	voice	1b- 1dd 1ff 1A
+=9	=9	=9	=9	=9	=9
+2V	F:sus4(b7,9)	27.897	.	voice	2F 2a 2cc
+2Im7	B-:7	29.627	.	voice	2B- 2dd 2ff 2aa
+=10	=10	=10	=10	=10	=10
+1IV	E-:maj	31.357	.	voice	1E- 1g 1b-
+=11	=11	=11	=11	=11	=11
+2IV	E-:maj	34.817	newline	voice	2E- 2g 2b-
+2V	F:sus4(b7)	36.569	.	voice	2F 2a 2cc
+=12	=12	=12	=12	=12	=12
+1I	B-:maj	38.321	.	voice	1B- 1dd 1ff
+=13	=13	=13	=13	=13	=13
+2ii7	C:min7	41.825	.	voice	2C 2e- 2g 2b-
+2V7	F:7	43.577	.	voice	2F 2a 2cc 2ee-
+=14	=14	=14	=14	=14	=14
+1I	B-:maj	45.329	.	voice	1B- 1dd 1ff
+=15	=15	=15	=15	=15	=15
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	B-:maj	48.833	newline	voice	1B- 1dd 1ff
+=16	=16	=16	=16	=16	=16
+1I7d	B-:maj7/7	52.334	.	voice	1b- 1dd 1ff 1A
+=17	=17	=17	=17	=17	=17
+2V	F:sus4(b7,9)	55.836	.	voice	2F 2a 2cc
+2Im7	B-:7	57.587	.	voice	2B- 2dd 2ff 2aa
+=18	=18	=18	=18	=18	=18
+1IV	E-:maj	59.337	.	voice	1E- 1g 1b-
+=19	=19	=19	=19	=19	=19
+1I	B-:maj	62.839	newline	voice	1B- 1dd 1ff
+=20	=20	=20	=20	=20	=20
+1I7d	B-:maj7/7	66.324	.	voice	1b- 1dd 1ff 1A
+=21	=21	=21	=21	=21	=21
+2V	F:sus4(b7,9)	69.81	.	voice	2F 2a 2cc
+2Im7	B-:7	71.553	.	voice	2B- 2dd 2ff 2aa
+=22	=22	=22	=22	=22	=22
+1IV	E-:maj	73.296	.	voice	1E- 1g 1b-
+=23	=23	=23	=23	=23	=23
+2IV	E-:maj	76.782	newline	voice	2E- 2g 2b-
+2V	F:sus4(b7)	78.525	.	voice	2F 2a 2cc
+=24	=24	=24	=24	=24	=24
+1I	B-:maj	80.268	.	voice	1B- 1dd 1ff
+=25	=25	=25	=25	=25	=25
+2ii7	C:min7	83.754	.	voice	2C 2e- 2g 2b-
+2V7	F:7	85.497	.	voice	2F 2a 2cc 2ee-
+=26	=26	=26	=26	=26	=26
+1I	B-:maj	87.24	.	voice	1B- 1dd 1ff
+=27	=27	=27	=27	=27	=27
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+2IV	E-:maj	90.726	newline	voice	2E- 2g 2b-
+2V7	F:7	92.485	.	voice	2F 2a 2cc 2ee-
+=28	=28	=28	=28	=28	=28
+1I	B-:maj	94.244	.	voice	1B- 1dd 1ff
+=29	=29	=29	=29	=29	=29
+2IV	E-:maj	97.763	.	voice	2E- 2g 2b-
+2V7	F:7	99.522	.	voice	2F 2a 2cc 2ee-
+=30	=30	=30	=30	=30	=30
+1I	B-:maj	101.281	.	voice	1B- 1dd 1ff
+=31	=31	=31	=31	=31	=31
+2IV	E-:maj	104.8	newline	voice	2E- 2g 2b-
+2V	F:maj	106.544	.	voice	2F 2a 2cc
+=32	=32	=32	=32	=32	=32
+1I	B-:maj	108.289	.	voice	1B- 1dd 1ff
+=33	=33	=33	=33	=33	=33
+2Vb	F:maj/3	111.778	.	voice	2f 2A 2cc
+2vi7	G:min7	113.523	.	voice	2G 2b- 2dd 2ff
+=34	=34	=34	=34	=34	=34
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+2IV	E-:maj	115.267	.	voice	2E- 2g 2b-
+=35	=35	=35	=35	=35	=35
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1V	F:sus4(b7)	117.012	newline	guitar	1F 1a 1cc
+=36	=36	=36	=36	=36	=36
+2V	F:maj	120.543	.	guitar	2F 2a 2cc
+2V7	F:7	122.309	.	guitar	2F 2a 2cc 2ee-
+=37	=37	=37	=37	=37	=37
+*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1I	B-:maj	124.075	newline	guitar	1B- 1dd 1ff
+=38	=38	=38	=38	=38	=38
+1I7d	B-:maj7/7	127.553	.	guitar	1b- 1dd 1ff 1A
+=39	=39	=39	=39	=39	=39
+2V	F:sus4(b7,9)	131.031	.	guitar	2F 2a 2cc
+2Im7	B-:7	132.77	.	guitar	2B- 2dd 2ff 2aa
+=40	=40	=40	=40	=40	=40
+1IV	E-:maj	134.509	.	guitar	1E- 1g 1b-
+=41	=41	=41	=41	=41	=41
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	B-:maj	137.988	newline	voice	1B- 1dd 1ff
+=42	=42	=42	=42	=42	=42
+1I7d	B-:maj7/7	141.457	.	voice	1b- 1dd 1ff 1A
+=43	=43	=43	=43	=43	=43
+2V	F:sus4(b7,9)	144.926	.	voice	2F 2a 2cc
+2Im7	B-:7	146.661	.	voice	2B- 2dd 2ff 2aa
+=44	=44	=44	=44	=44	=44
+1IV	E-:maj	148.395	.	voice	1E- 1g 1b-
+=45	=45	=45	=45	=45	=45
+1I	B-:maj	151.864	newline	voice	1B- 1dd 1ff
+=46	=46	=46	=46	=46	=46
+1I7d	B-:maj7/7	155.343	.	voice	1b- 1dd 1ff 1A
+=47	=47	=47	=47	=47	=47
+2V	F:sus4(b7,9)	158.823	.	voice	2F 2a 2cc
+2Im7	B-:7	160.562	.	voice	2B- 2dd 2ff 2aa
+=48	=48	=48	=48	=48	=48
+1IV	E-:maj	162.302	.	voice	1E- 1g 1b-
+=49	=49	=49	=49	=49	=49
+2IV	E-:maj	165.781	newline	voice	2E- 2g 2b-
+2V	F:sus4(b7)	167.545	.	voice	2F 2a 2cc
+=50	=50	=50	=50	=50	=50
+2I	B-:maj	169.31	.	voice	2B- 2dd 2ff
+2Vb	F:maj/3	171.075	.	voice	2f 2A 2cc
+=51	=51	=51	=51	=51	=51
+2ii7	C:min7	172.84	.	voice	2C 2e- 2g 2b-
+2V7	F:7	174.604	.	voice	2F 2a 2cc 2ee-
+=52	=52	=52	=52	=52	=52
+*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1I	B-:maj	176.369	->newline	guitar	1B- 1dd 1ff
+=53	=53	=53	=53	=53	=53
+1I7d	B-:maj7/7	179.806	.	guitar	1b- 1dd 1ff 1A
+=54	=54	=54	=54	=54	=54
+2V	F:sus4(b7,9)	183.243	.	guitar	2F 2a 2cc
+2Im7	B-:7	184.961	.	guitar	2B- 2dd 2ff 2aa
+=55	=55	=55	=55	=55	=55
+1IV	E-:maj	186.679	.	guitar	1E- 1g 1b-
+=56	=56	=56	=56	=56	=56
+2IV	E-:maj	190.116	newline	voice	2E- 2g 2b-
+2V	F:sus4(b7)	191.867	.	voice	2F 2a 2cc
+=57	=57	=57	=57	=57	=57
+2I	B-:maj	193.617	.	voice	2B- 2dd 2ff
+2Vb	F:maj/3	195.368	.	voice	2f 2A 2cc
+=58	=58	=58	=58	=58	=58
+2ii7	C:min7	197.119	.	voice	2C 2e- 2g 2b-
+2V7	F:7	198.869	.	voice	2F 2a 2cc 2ee-
+=59	=59	=59	=59	=59	=59
+*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo
+1I	B-:maj	200.62	newline	guitar	1B- 1dd 1ff
+=60	=60	=60	=60	=60	=60
+1I7d	B-:maj7/7	204.3	.	guitar	1b- 1dd 1ff 1A
+=61	=61	=61	=61	=61	=61
+1I	B-:maj	207.981	.	guitar	1B- 1dd 1ff
+=62	=62	=62	=62	=62	=62
+1I	B-:maj	211.661	.	guitar	1B- 1dd 1ff
+1r;	N	215.342	.	r	1r;
+1r;	N	218.436	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: For Ol' Times Sake
+!!!COC: Elvis Presley
+!!!BillboardChartDate: 1973/11/10, 1973/09/29, 1973/09/22
+!!!BillboardPeak: 41, 41, 41
+!!!BillboardWeeksOnChart: 9, 9, 9
+!!!SampleTargetRank: 49, 58, 81
+!!!SampleActualRank: 49, 58, 81
+!!!SampleID#: 222, 508, 1235
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

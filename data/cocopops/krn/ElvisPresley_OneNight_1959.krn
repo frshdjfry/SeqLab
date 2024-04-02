@@ -1,0 +1,350 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M12/8	*M12/8	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*E:	*E:	*	*	*	*	*	*E:
+1.r;	N	.	.	0	.	r	1.r;
+*	*	*	*	*	*	*	*E:
+*	*	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+2.I	E:1	.	.	0.395	newline	guitar	1.E 1.g# 1.b
+2.IV	A:1	.	.	1.871	.	guitar	2A 2cc# 2ee
+=2	=2	=2	=2	=2	=2	=2	=2
+1.I	E:1	.	.	3.347	.	guitar	1.E 1.g# 1.b
+.	.	One	.	.	.	.	.
+.	.	ni-	.	.	.	.	.
+.	.	-ght	.	.	.	.	.
+.	.	with	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1.Im7	E:7	you	A	6.3	newline	voice	1.E 1.g# 1.b 1.dd#
+=4	=4	=4	=4	=4	=4	=4	=4
+1.Im7	E:7	.	.	9.235	.	voice	1.E 1.g# 1.b 1.dd#
+.	.	.	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+1.V7	B:7	now	.	12.171	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	pray-	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+.	.	for	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1.V7	B:7	.	.	15.106	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	things	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+1.V7	B:7	_	.	18.042	newline	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	two	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	could	.	.	.	.	.
+.	.	plan	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+1.V7	B:7	.	.	20.975	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	would	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	dreams	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	come	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1.Im7	E:7	true	A	23.907	.	voice	1.E 1.g# 1.b 1.dd#
+=10	=10	=10	=10	=10	=10	=10	=10
+1.Im7	E:7	.	.	26.84	.	voice	1.E 1.g# 1.b 1.dd#
+.	.	Just	.	.	.	.	.
+.	.	call	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	name	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1.Im7	E:7	_	.	29.772	newline	voice	1.E 1.g# 1.b 1.dd#
+=12	=12	=12	=12	=12	=12	=12	=12
+1.Im7	E:7	.	.	32.688	.	voice	1.E 1.g# 1.b 1.dd#
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	I'll	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	right	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1.V7	B:7	_	.	35.605	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	by	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	side	B	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1.V7	B:7	.	.	38.521	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	want	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	sweet	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1.V7	B:7	_	.	41.437	newline	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	help-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+.	.	hand	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1.V7	B:7	.	.	44.429	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	my	.	.	.	.	.
+.	.	love's	.	.	.	.	.
+.	.	too	.	.	.	.	.
+.	.	strong	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1.I	E:maj	hide	B	47.421	.	voice	1.E 1.g# 1.b
+=18	=18	=18	=18	=18	=18	=18	=18
+1.Im7	E:7	.	.	50.414	.	voice	1.E 1.g# 1.b 1.dd#
+.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1.IV	A:maj	.	.	53.406	newline	voice	1.A 1.cc# 1.ee
+.	.	.	.	.	.	.	.
+.	.	Al-	.	.	.	.	.
+.	.	-ways	.	.	.	.	.
+.	.	lived	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1.IV	A:maj	.	.	56.366	.	voice	1.A 1.cc# 1.ee
+.	.	ve-	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+.	.	quiet	.	.	.	.	.
+.	.	life	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1.I	E:maj	.	.	59.327	.	voice	1.E 1.g# 1.b
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	ain't	.	.	.	.	.
+.	.	ne-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	did	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1.I	E:maj	no	.	62.288	.	voice	1.E 1.g# 1.b
+.	.	wrong	C	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1.II7	F#:7	.	.	65.248	newline	voice	1.F# 1.a# 1.cc# 1.ee
+.	.	now	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1.II7	F#:7	life	.	68.162	.	voice	1.F# 1.a# 1.cc# 1.ee
+.	.	with-	.	.	.	.	.
+.	.	-out	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1.V7	B:7	s'been	.	71.076	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	too	.	.	.	.	.
+.	.	lone-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	too	.	.	.	.	.
+.	.	long	C	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1.v7	N	_	.	73.99	.	voice	1.B 1.dd 1.ff# 1.aa
+.	.	.	.	.	.	.	.
+.	.	One	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	with	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1.I	E:maj	you	A	76.904	newline	voice	1.E 1.g# 1.b
+=28	=28	=28	=28	=28	=28	=28	=28
+1.I	E:maj	.	.	79.848	.	voice	1.E 1.g# 1.b
+.	.	.	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1.V7	B:7	now	.	82.791	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	pray-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+.	.	for	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1.V7	B:7	.	.	85.734	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	things	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1.V7	B:7	_	.	88.677	newline	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	two	A	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	could	.	.	.	.	.
+.	.	plan	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1.V7	B:7	.	.	91.643	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	would	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	dreams	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	come	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+1.I	E:maj	true	A	94.61	.	voice	1.E 1.g# 1.b
+=34	=34	=34	=34	=34	=34	=34	=34
+1.Im7	E:7	.	.	97.576	.	voice	1.E 1.g# 1.b 1.dd#
+=35	=35	=35	=35	=35	=35	=35	=35
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1.IV	A:maj	.	.	100.542	newline	voice	1.A 1.cc# 1.ee
+.	.	.	.	.	.	.	.
+.	.	Al-	.	.	.	.	.
+.	.	-ways	.	.	.	.	.
+.	.	lived	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1.IV	A:maj	.	.	103.568	.	voice	1.A 1.cc# 1.ee
+.	.	ve-	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+.	.	quiet	.	.	.	.	.
+.	.	life	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1.I	E:maj	.	.	106.594	.	voice	1.E 1.g# 1.b
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	ain't	.	.	.	.	.
+.	.	ne-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	did	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1.I	E:maj	no	.	109.62	.	voice	1.E 1.g# 1.b
+.	.	wrong	C	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1.II7	F#:7	.	.	112.647	newline	voice	1.F# 1.a# 1.cc# 1.ee
+.	.	now	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+1.II7	F#:7	life	.	115.605	.	voice	1.F# 1.a# 1.cc# 1.ee
+.	.	with-	.	.	.	.	.
+.	.	-out	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+1.V7	B:7	s'been	.	118.564	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	too	.	.	.	.	.
+.	.	lone-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	too	.	.	.	.	.
+.	.	long	C	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1.v7	N	_	.	121.523	.	voice	1.B 1.dd 1.ff# 1.aa
+.	.	.	.	.	.	.	.
+.	.	One	.	.	.	.	.
+.	.	night	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	with	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1.I	E:maj	you	A	124.481	newline	voice	1.E 1.g# 1.b
+=44	=44	=44	=44	=44	=44	=44	=44
+1.I	E:maj	.	.	127.465	.	voice	1.E 1.g# 1.b
+.	.	.	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	I'm	.	.	.	.	.
+.	.	now	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1.V7	B:7	_	.	130.449	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	pray-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+.	.	for	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1.V7	B:7	.	.	133.433	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	things	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	we	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1.V7	B:7	_	.	136.417	newline	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	too	A	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	could	.	.	.	.	.
+.	.	plan	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1.V7	B:7	.	.	139.569	.	voice	1.B 1.dd# 1.ff# 1.aa
+.	.	would	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	dreams	.	142.721	.	voice	.
+.	.	come	.	.	.	.	.
+.	.	true	A	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2.I	E:maj	_	.	144.298	.	voice	2.E 2.g# 2.b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+2.IV	A:maj	_	.	145.874	.	.	2.A 2.cc# 2.ee
+=50	=50	=50	=50	=50	=50	=50	=50
+4.I	E:maj	.	.	146.662	.	voice	1.E 1.g# 1.b
+4.V7	B:7	.	.	147.45	.	voice	4B 4dd# 4ff# 4aa
+2.I;	E:maj	.	.	149.026	.	voice	2E; 2g#; 2b;
+1r;	N	.	.	151.04	.	r	1.r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1959/01/19
+!!!BillboardPeak: 4
+!!!BillboardWeeksOnChart: 17
+!!!COC: Elvis Presley
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: One Night
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 13
+!!!SampleID#: 0399
+!!!SampleTargetRank: 14
+!!!MBID: fd284876-d3ec-4525-875a-6fa62caf3ec4

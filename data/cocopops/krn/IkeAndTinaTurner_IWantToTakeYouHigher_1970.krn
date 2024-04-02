@@ -1,0 +1,210 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*A-:	*A-:	*	*	*	*A-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1Im7	A-:7(#9)	1.482	newline	guitar	1A- 1cc 1ee- 1gg
+=2	=2	=2	=2	=2	=2
+1Im7	A-:7(#9)	3.564	.	guitar	1A- 1cc 1ee- 1gg
+=3	=3	=3	=3	=3	=3
+1Im7	A-:7(#9)	5.645	.	guitar	1A- 1cc 1ee- 1gg
+=4	=4	=4	=4	=4	=4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+2.Im7	A-:7(#9)	7.727	.	guitar	2A- 2cc 2ee- 2gg
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1Im7	A-:7(#9)	9.288	newline	voice	1A- 1cc 1ee- 1gg
+=6	=6	=6	=6	=6	=6
+1Im7	A-:7(#9)	11.372	.	voice	1A- 1cc 1ee- 1gg
+=7	=7	=7	=7	=7	=7
+1Im7	A-:7(#9)	13.456	.	voice	1A- 1cc 1ee- 1gg
+=8	=8	=8	=8	=8	=8
+1Im7	A-:7(#9)	15.54	.	voice	1A- 1cc 1ee- 1gg
+=9	=9	=9	=9	=9	=9
+1Im7	A-:7(#9)	17.624	newline	voice	1A- 1cc 1ee- 1gg
+=10	=10	=10	=10	=10	=10
+1Im7	A-:7(#9)	19.699	.	voice	1A- 1cc 1ee- 1gg
+=11	=11	=11	=11	=11	=11
+1Im7	A-:7(#9)	21.773	.	voice	1A- 1cc 1ee- 1gg
+=12	=12	=12	=12	=12	=12
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1Im7	A-:7(#9)	23.848	->newline	voice	1A- 1cc 1ee- 1gg
+=13	=13	=13	=13	=13	=13
+1Im7	A-:7(#9)	25.909	.	voice	1A- 1cc 1ee- 1gg
+=14	=14	=14	=14	=14	=14
+1Im7	A-:7(#9)	27.97	.	voice	1A- 1cc 1ee- 1gg
+=15	=15	=15	=15	=15	=15
+1Im7	A-:7(#9)	30.031	.	voice	1A- 1cc 1ee- 1gg
+=16	=16	=16	=16	=16	=16
+1Im7	A-:7(#9)	32.091	newline	voice	1A- 1cc 1ee- 1gg
+=17	=17	=17	=17	=17	=17
+1Im7	A-:7(#9)	34.16	.	voice	1A- 1cc 1ee- 1gg
+=18	=18	=18	=18	=18	=18
+1Im7	A-:7(#9)	36.229	.	voice	1A- 1cc 1ee- 1gg
+=19	=19	=19	=19	=19	=19
+1Im7	A-:7(#9)	38.298	.	voice	1A- 1cc 1ee- 1gg
+=20	=20	=20	=20	=20	=20
+1r	N	40.367	newline	drums	1r
+=21	=21	=21	=21	=21	=21
+*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+1Im7	A-:7(#9)	42.472	newline	guitar	1A- 1cc 1ee- 1gg
+=22	=22	=22	=22	=22	=22
+1Im7	A-:7(#9)	44.583	.	guitar	1A- 1cc 1ee- 1gg
+=23	=23	=23	=23	=23	=23
+1Im7	A-:7(#9)	46.693	.	guitar	1A- 1cc 1ee- 1gg
+=24	=24	=24	=24	=24	=24
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+2.Im7	A-:7(#9)	48.803	.	guitar	2A- 2cc 2ee- 2gg
+=25	=25	=25	=25	=25	=25
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1Im7	A-:7(#9)	50.385	newline	voice	1A- 1cc 1ee- 1gg
+=26	=26	=26	=26	=26	=26
+1Im7	A-:7(#9)	52.481	.	voice	1A- 1cc 1ee- 1gg
+=27	=27	=27	=27	=27	=27
+1Im7	A-:7(#9)	54.578	.	voice	1A- 1cc 1ee- 1gg
+=28	=28	=28	=28	=28	=28
+1Im7	A-:7(#9)	56.674	.	voice	1A- 1cc 1ee- 1gg
+=29	=29	=29	=29	=29	=29
+1Im7	A-:7(#9)	58.77	newline	voice	1A- 1cc 1ee- 1gg
+=30	=30	=30	=30	=30	=30
+1Im7	A-:7(#9)	60.826	.	voice	1A- 1cc 1ee- 1gg
+=31	=31	=31	=31	=31	=31
+1Im7	A-:7(#9)	62.882	.	voice	1A- 1cc 1ee- 1gg
+=32	=32	=32	=32	=32	=32
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1Im7	A-:7(#9)	64.939	->newline	voice	1A- 1cc 1ee- 1gg
+=33	=33	=33	=33	=33	=33
+1Im7	A-:7(#9)	66.988	.	voice	1A- 1cc 1ee- 1gg
+=34	=34	=34	=34	=34	=34
+1Im7	A-:7(#9)	69.037	.	voice	1A- 1cc 1ee- 1gg
+=35	=35	=35	=35	=35	=35
+1Im7	A-:7(#9)	71.087	.	voice	1A- 1cc 1ee- 1gg
+=36	=36	=36	=36	=36	=36
+1Im7	A-:7(#9)	73.136	newline	voice	1A- 1cc 1ee- 1gg
+=37	=37	=37	=37	=37	=37
+1Im7	A-:7(#9)	75.196	.	voice	1A- 1cc 1ee- 1gg
+=38	=38	=38	=38	=38	=38
+1Im7	A-:7(#9)	77.255	.	voice	1A- 1cc 1ee- 1gg
+=39	=39	=39	=39	=39	=39
+1Im7	A-:7(#9)	79.315	.	voice	1A- 1cc 1ee- 1gg
+=40	=40	=40	=40	=40	=40
+1r	N	81.375	newline	drums	1r
+=41	=41	=41	=41	=41	=41
+*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+1Im7	A-:7(#9)	83.465	newline	guitar	1A- 1cc 1ee- 1gg
+=42	=42	=42	=42	=42	=42
+1Im7	A-:7(#9)	85.573	.	guitar	1A- 1cc 1ee- 1gg
+=43	=43	=43	=43	=43	=43
+1Im7	A-:7(#9)	87.682	.	guitar	1A- 1cc 1ee- 1gg
+=44	=44	=44	=44	=44	=44
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+2.Im7	A-:7(#9)	89.79	.	guitar	2A- 2cc 2ee- 2gg
+=45	=45	=45	=45	=45	=45
+*>B2_solo	*>B2_solo	*>B2_solo	*>B2_solo	*>B2_solo	*>B2_solo
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1Im7	A-:7(#9)	91.371	newline	guitar	1A- 1cc 1ee- 1gg
+=46	=46	=46	=46	=46	=46
+1Im7	A-:7(#9)	93.427	.	guitar	1A- 1cc 1ee- 1gg
+=47	=47	=47	=47	=47	=47
+1Im7	A-:7(#9)	95.483	.	guitar	1A- 1cc 1ee- 1gg
+=48	=48	=48	=48	=48	=48
+1Im7	A-:7(#9)	97.538	.	guitar	1A- 1cc 1ee- 1gg
+=49	=49	=49	=49	=49	=49
+1Im7	A-:7(#9)	99.594	newline	guitar	1A- 1cc 1ee- 1gg
+=50	=50	=50	=50	=50	=50
+1Im7	A-:7(#9)	101.623	.	guitar	1A- 1cc 1ee- 1gg
+=51	=51	=51	=51	=51	=51
+1Im7	A-:7(#9)	103.651	.	guitar	1A- 1cc 1ee- 1gg
+=52	=52	=52	=52	=52	=52
+1Im7	A-:7(#9)	105.68	.	guitar	1A- 1cc 1ee- 1gg
+=53	=53	=53	=53	=53	=53
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1Im7	A-:7(#9)	107.708	newline	voice	1A- 1cc 1ee- 1gg
+=54	=54	=54	=54	=54	=54
+1Im7	A-:7(#9)	109.76	.	voice	1A- 1cc 1ee- 1gg
+=55	=55	=55	=55	=55	=55
+1Im7	A-:7(#9)	111.812	.	voice	1A- 1cc 1ee- 1gg
+=56	=56	=56	=56	=56	=56
+1Im7	A-:7(#9)	113.864	.	voice	1A- 1cc 1ee- 1gg
+=57	=57	=57	=57	=57	=57
+1Im7	A-:7(#9)	115.916	newline	voice	1A- 1cc 1ee- 1gg
+=58	=58	=58	=58	=58	=58
+1Im7	A-:7(#9)	117.954	.	voice	1A- 1cc 1ee- 1gg
+=59	=59	=59	=59	=59	=59
+1Im7	A-:7(#9)	119.992	.	voice	1A- 1cc 1ee- 1gg
+=60	=60	=60	=60	=60	=60
+1Im7	A-:7(#9)	122.029	.	voice	1A- 1cc 1ee- 1gg
+=61	=61	=61	=61	=61	=61
+1r	N	124.067	newline	drums	1r
+=62	=62	=62	=62	=62	=62
+*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+1Im7	A-:7(#9)	126.151	newline	guitar	1A- 1cc 1ee- 1gg
+=63	=63	=63	=63	=63	=63
+1Im7	A-:7(#9)	128.217	.	guitar	1A- 1cc 1ee- 1gg
+=64	=64	=64	=64	=64	=64
+1Im7	A-:7(#9)	130.284	.	guitar	1A- 1cc 1ee- 1gg
+=65	=65	=65	=65	=65	=65
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+2.Im7	A-:7(#9)	132.35	.	guitar	2A- 2cc 2ee- 2gg
+=66	=66	=66	=66	=66	=66
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1Im7	A-:7(#9)	133.9	newline	voice	1A- 1cc 1ee- 1gg
+=67	=67	=67	=67	=67	=67
+1Im7	A-:7(#9)	135.979	.	voice	1A- 1cc 1ee- 1gg
+=68	=68	=68	=68	=68	=68
+1Im7	A-:7(#9)	138.058	.	voice	1A- 1cc 1ee- 1gg
+=69	=69	=69	=69	=69	=69
+1Im7	A-:7(#9)	140.137	.	voice	1A- 1cc 1ee- 1gg
+=70	=70	=70	=70	=70	=70
+1Im7	A-:7(#9)	142.217	newline	voice	1A- 1cc 1ee- 1gg
+=71	=71	=71	=71	=71	=71
+1Im7	A-:7(#9)	144.273	.	voice	1A- 1cc 1ee- 1gg
+=72	=72	=72	=72	=72	=72
+1Im7	A-:7(#9)	146.329	.	voice	1A- 1cc 1ee- 1gg
+=73	=73	=73	=73	=73	=73
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1Im7	A-:7(#9)	148.386	newline	voice	1A- 1cc 1ee- 1gg
+=74	=74	=74	=74	=74	=74
+1Im7	A-:7(#9)	150.429	.	voice	1A- 1cc 1ee- 1gg
+=75	=75	=75	=75	=75	=75
+1Im7	A-:7(#9)	152.472	.	voice	1A- 1cc 1ee- 1gg
+=76	=76	=76	=76	=76	=76
+1Im7	A-:7(#9)	154.515	.	voice	1A- 1cc 1ee- 1gg
+=77	=77	=77	=77	=77	=77
+1Im7	A-:7(#9)	156.557	newline	voice	1A- 1cc 1ee- 1gg
+=78	=78	=78	=78	=78	=78
+1Im7	A-:7(#9)	158.611	.	voice	1A- 1cc 1ee- 1gg
+=79	=79	=79	=79	=79	=79
+1Im7	A-:7(#9)	160.664	.	voice	1A- 1cc 1ee- 1gg
+=80	=80	=80	=80	=80	=80
+1Im7	A-:7(#9)	162.717	.	voice	1A- 1cc 1ee- 1gg
+=81	=81	=81	=81	=81	=81
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1Im7	A-:7(#9)	164.77	newline	voice	1A- 1cc 1ee- 1gg
+=82	=82	=82	=82	=82	=82
+1Im7	A-:7(#9)	166.813	.	voice	1A- 1cc 1ee- 1gg
+=83	=83	=83	=83	=83	=83
+1Im7	A-:7(#9)	168.856	.	voice	1A- 1cc 1ee- 1gg
+1r;	N	170.899	.	r	1r;
+1r;	N	173.009	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: I Want To Take You Higher
+!!!COC: Ike & Tina Turner
+!!!BillboardChartDate: 1970/08/29, 1970/08/15, 1970/08/22
+!!!BillboardPeak: 34, 34, 34
+!!!BillboardWeeksOnChart: 18, 18, 18
+!!!SampleTargetRank: 35, 38, 35
+!!!SampleActualRank: 34, 37, 35
+!!!SampleID#: 204, 360, 996
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

@@ -1,0 +1,175 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*D-:	*D-:	*	*	*	*D-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	D-:maj(9)	0.395	newline	guitar	1D- 1f 1a-
+=2	=2	=2	=2	=2	=2
+2V7f	A-:7/4	3.972	.	guitar	2A- 2cc 2ee- 2gg-
+2I	D-:maj	5.761	.	guitar	2D- 2f 2a-
+=3	=3	=3	=3	=3	=3
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D-:maj(9)	7.55	newline	voice	1D- 1f 1a-
+=4	=4	=4	=4	=4	=4
+2Vf	A-:maj/4	11.114	.	voice	2A- 2cc 2ee-
+2Vf	A-:maj6/4	12.896	.	voice	2A- 2cc 2ee-
+=5	=5	=5	=5	=5	=5
+2IV	G-:maj6(9)	14.679	.	voice	2G- 2b- 2dd-
+2If	D-:maj/4	16.461	.	voice	2D- 2f 2a-
+=6	=6	=6	=6	=6	=6
+1IV	G-:maj6(9)	18.243	.	voice	1G- 1b- 1dd-
+=7	=7	=7	=7	=7	=7
+2V	A-:maj	21.808	newline	voice	2A- 2cc 2ee-
+2IVe	G-:maj(9)/2	23.594	.	voice	2G- 2b- 2dd-
+=8	=8	=8	=8	=8	=8
+2V	A-:maj6	25.379	.	voice	2A- 2cc 2ee-
+2V7	A-:9	27.165	.	voice	2A- 2cc 2ee- 2gg-
+=9	=9	=9	=9	=9	=9
+1I	D-:maj(9)	28.951	.	voice	1D- 1f 1a-
+=10	=10	=10	=10	=10	=10
+1Vf	A-:maj/4	32.523	.	voice	1A- 1cc 1ee-
+=11	=11	=11	=11	=11	=11
+1I	D-:maj(9)	36.095	newline	voice	1D- 1f 1a-
+=12	=12	=12	=12	=12	=12
+1Vf	A-:maj/4	39.642	.	voice	1A- 1cc 1ee-
+=13	=13	=13	=13	=13	=13
+2IV	G-:maj(9)	43.19	.	voice	2G- 2b- 2dd-
+2Ib	D-:maj/3	44.964	.	voice	2d- 2F 2a-
+=14	=14	=14	=14	=14	=14
+1ii7	E-:min7(11)	46.738	.	voice	1E- 1g- 1b- 1dd-
+=15	=15	=15	=15	=15	=15
+2V	A-:maj	50.285	newline	voice	2A- 2cc 2ee-
+2IVe	G-:maj(9)/2	52.057	.	voice	2G- 2b- 2dd-
+=16	=16	=16	=16	=16	=16
+2V	A-:maj6	53.829	.	voice	2A- 2cc 2ee-
+2IVe	G-:maj/2	55.601	.	voice	2G- 2b- 2dd-
+=17	=17	=17	=17	=17	=17
+2I	D-:sus4(9)	57.373	.	voice	2D- 2f 2a-
+2I	D-:maj(9)	59.145	.	voice	2D- 2f 2a-
+=18	=18	=18	=18	=18	=18
+1Vf	A-:maj/4	60.917	.	voice	1A- 1cc 1ee-
+=19	=19	=19	=19	=19	=19
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+2I	D-:maj	64.461	newline	voice	2D- 2f 2a-
+2Vf	A-:maj/4	66.247	.	voice	2A- 2cc 2ee-
+=20	=20	=20	=20	=20	=20
+1I	D-:maj	68.034	.	voice	1D- 1f 1a-
+=21	=21	=21	=21	=21	=21
+2IV	G-:maj	71.606	.	voice	2G- 2b- 2dd-
+2If	D-:maj/4	73.393	.	voice	2D- 2f 2a-
+=22	=22	=22	=22	=22	=22
+1IV	G-:maj	75.179	.	voice	1G- 1b- 1dd-
+=23	=23	=23	=23	=23	=23
+2V	A-:maj	78.752	newline	voice	2A- 2cc 2ee-
+2V	A-:sus4(b7)	80.531	.	voice	2A- 2cc 2ee-
+=24	=24	=24	=24	=24	=24
+1V	A-:maj6	82.309	.	voice	1A- 1cc 1ee-
+=25	=25	=25	=25	=25	=25
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1I	D-:maj(9)	85.866	newline	guitar	1D- 1f 1a-
+=26	=26	=26	=26	=26	=26
+2V7f	A-:7/4	89.466	.	guitar	2A- 2cc 2ee- 2gg-
+2I	D-:maj	91.267	.	guitar	2D- 2f 2a-
+=27	=27	=27	=27	=27	=27
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D-:maj(9)	93.067	newline	voice	1D- 1f 1a-
+=28	=28	=28	=28	=28	=28
+2Vf	A-:maj/4	96.63	.	voice	2A- 2cc 2ee-
+2Vf	A-:maj6/4	98.411	.	voice	2A- 2cc 2ee-
+=29	=29	=29	=29	=29	=29
+2IV	G-:maj6(9)	100.192	.	voice	2G- 2b- 2dd-
+2If	D-:maj/4	101.974	.	voice	2D- 2f 2a-
+=30	=30	=30	=30	=30	=30
+1IV	G-:maj6(9)	103.755	.	voice	1G- 1b- 1dd-
+=31	=31	=31	=31	=31	=31
+2V	A-:maj	107.318	newline	voice	2A- 2cc 2ee-
+2IVe	G-:maj(9)/2	109.101	.	voice	2G- 2b- 2dd-
+=32	=32	=32	=32	=32	=32
+2V	A-:maj6	110.883	.	voice	2A- 2cc 2ee-
+2V7	A-:9	112.666	.	voice	2A- 2cc 2ee- 2gg-
+=33	=33	=33	=33	=33	=33
+1I	D-:maj(9)	114.449	.	voice	1D- 1f 1a-
+=34	=34	=34	=34	=34	=34
+1Vf	A-:maj/4	118.015	.	voice	1A- 1cc 1ee-
+=35	=35	=35	=35	=35	=35
+1I	D-:maj(9)	121.581	newline	voice	1D- 1f 1a-
+=36	=36	=36	=36	=36	=36
+1Vf	A-:maj/4	125.141	.	voice	1A- 1cc 1ee-
+=37	=37	=37	=37	=37	=37
+2IV	G-:maj(9)	128.701	.	voice	2G- 2b- 2dd-
+2Ib	D-:maj/3	130.481	.	voice	2d- 2F 2a-
+=38	=38	=38	=38	=38	=38
+1ii7	E-:min7(11)	132.262	.	voice	1E- 1g- 1b- 1dd-
+=39	=39	=39	=39	=39	=39
+2V	A-:maj	135.822	newline	voice	2A- 2cc 2ee-
+2IVe	G-:maj(9)/2	137.585	.	voice	2G- 2b- 2dd-
+=40	=40	=40	=40	=40	=40
+2V	A-:maj6	139.348	.	voice	2A- 2cc 2ee-
+2IVe	G-:maj/2	141.111	.	voice	2G- 2b- 2dd-
+=41	=41	=41	=41	=41	=41
+2I	D-:sus4(9)	142.874	.	voice	2D- 2f 2a-
+2I	D-:maj(9)	144.637	.	voice	2D- 2f 2a-
+=42	=42	=42	=42	=42	=42
+1Vf	A-:maj/4	146.4	.	voice	1A- 1cc 1ee-
+=43	=43	=43	=43	=43	=43
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+2I	D-:maj	149.926	newline	voice	2D- 2f 2a-
+2Vf	A-:maj/4	151.702	.	voice	2A- 2cc 2ee-
+=44	=44	=44	=44	=44	=44
+1I	D-:maj	153.478	.	voice	1D- 1f 1a-
+=45	=45	=45	=45	=45	=45
+2IV	G-:maj	157.029	.	voice	2G- 2b- 2dd-
+2If	D-:maj/4	158.805	.	voice	2D- 2f 2a-
+=46	=46	=46	=46	=46	=46
+1IV	G-:maj	160.581	.	voice	1G- 1b- 1dd-
+=47	=47	=47	=47	=47	=47
+2V	A-:maj	164.133	newline	voice	2A- 2cc 2ee-
+2V	A-:sus4(b7)	165.895	.	voice	2A- 2cc 2ee-
+=48	=48	=48	=48	=48	=48
+1V	A-:maj6	167.657	.	voice	1A- 1cc 1ee-
+=49	=49	=49	=49	=49	=49
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1I	D-:maj(9)	171.182	newline	guitar	1D- 1f 1a-
+=50	=50	=50	=50	=50	=50
+2V7f	A-:7/4	174.73	.	guitar	2A- 2cc 2ee- 2gg-
+2I	D-:maj	176.504	.	guitar	2D- 2f 2a-
+=51	=51	=51	=51	=51	=51
+*>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro
+2IV	G-:maj	178.278	newline	voice	2G- 2b- 2dd-
+2If	D-:maj/4	180.062	.	voice	2D- 2f 2a-
+=52	=52	=52	=52	=52	=52
+1IV	G-:maj6	181.846	.	voice	1G- 1b- 1dd-
+=53	=53	=53	=53	=53	=53
+2V	A-:maj	185.415	.	voice	2A- 2cc 2ee-
+2V7	A-:9	187.199	.	voice	2A- 2cc 2ee- 2gg-
+=54	=54	=54	=54	=54	=54
+1V	A-:maj6	188.983	.	voice	1A- 1cc 1ee-
+=55	=55	=55	=55	=55	=55
+1V	A-:maj	192.552	.	voice	1A- 1cc 1ee-
+=56	=56	=56	=56	=56	=56
+2Vf	A-:maj6/4	196.12	newline	guitar	2A- 2cc 2ee-
+2I	D-:maj	197.737	.	guitar	2D- 2f 2a-
+=57	=57	=57	=57	=57	=57
+1I	D-:maj	199.354	.	guitar	1D- 1f 1a-
+=58	=58	=58	=58	=58	=58
+1I	D-:maj	202.588	.	guitar	1D- 1f 1a-
+1r;	N	205.822	.	r	1r;
+1r;	N	208.718	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: I Don't Need You
+!!!COC: Kenny Rogers
+!!!BillboardChartDate: 1981/10/10
+!!!BillboardPeak: 3
+!!!BillboardWeeksOnChart: 18
+!!!SampleTargetRank: 94
+!!!SampleActualRank: 96
+!!!SampleID#: 0494
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

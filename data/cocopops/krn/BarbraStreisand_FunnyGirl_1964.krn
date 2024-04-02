@@ -1,0 +1,145 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*E-:	*E-:	*	*	*	*E-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*M7/4	*M7/4	*M7/4	*M7/4	*M7/4	*M7/4
+1..I7	E-:maj7	0.372	newline	strings	1E- 1g 1b- 1dd
+=2	=2	=2	=2	=2	=2
+1..ii7	F:min7	6.634	.	strings	1F 1a- 1cc 1ee-
+=3	=3	=3	=3	=3	=3
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1.I7	E-:maj7	12.897	newline	voice	1E- 1g 1b- 1dd
+4#io	E:dim	18.721	.	voice	4E 4g 4b-
+=4	=4	=4	=4	=4	=4
+5%4ii7	F:min7	19.692	.	voice	5F 5a- 5cc 5ee-
+2#iio	F#:dim	24.545	.	voice	2F# 2a 2cc
+=5	=5	=5	=5	=5	=5
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+2iii7	G:min7	26.487	newline	voice	2G 2b- 2dd 2ff
+2III7	G:7	28.211	.	voice	2G 2b 2dd 2ff
+=6	=6	=6	=6	=6	=6
+1vi7	C:min7	29.935	.	voice	1C 1e- 1g 1b-
+=7	=7	=7	=7	=7	=7
+1II7	F:9(#11)	33.382	.	voice	1F 1a 1cc 1ee-
+=8	=8	=8	=8	=8	=8
+2IV7	A-:maj7	36.83	.	voice	2A- 2cc 2ee- 2gg
+2#ivo7	A:hdim7	38.553	.	voice	2A 2cc 2ee- 2gg
+=9	=9	=9	=9	=9	=9
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+2V	B-:sus4(b7)	40.277	newline	voice	2B- 2dd 2ff
+2V7	B-:7	41.896	.	voice	2B- 2dd 2ff 2aa-
+=10	=10	=10	=10	=10	=10
+2II7	F:7(#11)	43.515	.	voice	2F 2a 2cc 2ee-
+4iiib	G:min/b3	45.133	.	voice	4g 4B- 4dd
+4#io	E:dim	45.943	.	voice	4E 4g 4b-
+=11	=11	=11	=11	=11	=11
+2ii7	F:min7	46.752	.	voice	2F 2a- 2cc 2ee-
+2#io	E:dim	48.371	.	voice	2E 2g 2b-
+=12	=12	=12	=12	=12	=12
+4ii	F:min6	49.99	.	voice	4F 4a- 4cc
+4ii	F:min(b13)	50.799	.	voice	4F 4a- 4cc
+4V7	B-:7	51.608	.	voice	4B- 4dd 4ff 4aa-
+4Vd	B-:maj6/b7	52.418	.	voice	4b- 4dd 4ff
+=13	=13	=13	=13	=13	=13
+1iii	G:min	53.227	newline	voice	1G 1b- 1dd
+=14	=14	=14	=14	=14	=14
+1#iio	F#:dim	56.336	.	voice	1F# 1a 1cc
+=15	=15	=15	=15	=15	=15
+2ii7	F:min11	59.445	.	voice	2F 2a- 2cc 2ee-
+4iid	F:sus4(b7)/b7	60.999	.	voice	4f 4a- 4cc
+4II7d	F:7/b7	61.776	.	voice	4f 4a 4cc 4E-
+=16	=16	=16	=16	=16	=16
+4II7	F:7	62.554	.	voice	4F 4a 4cc 4ee-
+4-VIm7	B:7	63.331	.	voice	4C- 4e- 4g- 4b-
+2V+	B-:aug	64.108	.	voice	2B- 2dd 2ff#
+=17	=17	=17	=17	=17	=17
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I7	E-:maj7	65.663	newline	voice	1E- 1g 1b- 1dd
+=18	=18	=18	=18	=18	=18
+1I7	E-:maj7	68.73	.	voice	1E- 1g 1b- 1dd
+=19	=19	=19	=19	=19	=19
+1IV7	A-:maj7	71.797	.	voice	1A- 1cc 1ee- 1gg
+=20	=20	=20	=20	=20	=20
+2IV7	A-:maj7	74.865	.	voice	2A- 2cc 2ee- 2gg
+2#ivo	A:dim	76.399	.	voice	2A 2cc 2ee-
+=21	=21	=21	=21	=21	=21
+1I7c	E-:maj7/5	77.932	newline	voice	1e- 1g 1B- 1dd
+=22	=22	=22	=22	=22	=22
+4I7	E-:maj7(#5)	80.871	.	voice	4E- 4g 4b- 4dd
+2.I7	E-:maj7	81.606	.	voice	2E- 2g 2b- 2dd
+=23	=23	=23	=23	=23	=23
+1-III7	G-:maj7	83.81	.	voice	1G- 1b- 1dd- 1ff
+=24	=24	=24	=24	=24	=24
+1VI7	C:7	86.749	.	voice	1C 1e 1g 1b-
+=25	=25	=25	=25	=25	=25
+*>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro
+1ii7	F:min7	89.687	newline	voice	1F 1a- 1cc 1ee-
+=26	=26	=26	=26	=26	=26
+1IVm7	A-:7	92.878	.	voice	1A- 1cc 1ee- 1gg
+=27	=27	=27	=27	=27	=27
+1I7c	E-:maj7/5	96.068	.	voice	1e- 1g 1B- 1dd
+=28	=28	=28	=28	=28	=28
+1II7	F:7(#11)	99.259	.	voice	1F 1a 1cc 1ee-
+1r;	N	102.449	.	r	1r;
+=29	=29	=29	=29	=29	=29
+4vo	B-:dim	105.639	newline	r	4B- 4dd- 4ff-
+4VM7	B-:maj7	106.153	.	r	4B- 4dd 4ff 4aa-
+2#vo	B:dim	106.667	.	r	2B 2dd 2ff
+=30	=30	=30	=30	=30	=30
+1vi	C:min	107.694	.	r	1C 1e- 1g
+1r;	N	109.749	.	r	1r;
+=31	=31	=31	=31	=31	=31
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+2vi	C:min	111.804	newline	r	2C 2e- 2g
+=32	=32	=32	=32	=32	=32
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1Im7	E-:7	113.529	.	r	1E- 1g 1b- 1dd
+=33	=33	=33	=33	=33	=33
+1IV7	A-:maj7	116.978	.	r	1A- 1cc 1ee- 1gg
+=34	=34	=34	=34	=34	=34
+1II7	F:9	120.428	newline	r	1F 1a 1cc 1ee-
+1r;	N	122.527	.	r	1r;
+=35	=35	=35	=35	=35	=35
+2Ib	E-:maj/3	124.626	newline	r	2e- 2G 2b-
+2VI7	C:9	126.488	.	r	2C 2e 2g 2b-
+=36	=36	=36	=36	=36	=36
+1ii	F:min	128.351	.	r	1F 1a- 1cc
+=37	=37	=37	=37	=37	=37
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+2V	B-:sus4(b7,9)	132.077	newline	r	2B- 2dd 2ff
+=38	=38	=38	=38	=38	=38
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1I7	E-:maj7(#11)	133.84	newline	voice	1E- 1g 1b- 1dd
+=39	=39	=39	=39	=39	=39
+1I7	E-:maj7(#11)	138.086	.	voice	1E- 1g 1b- 1dd
+=40	=40	=40	=40	=40	=40
+1-VII7	D-:maj7	142.331	newline	strings	1D- 1f 1a- 1cc
+=41	=41	=41	=41	=41	=41
+1-VII7	D-:maj7	146.261	.	strings	1D- 1f 1a- 1cc
+=42	=42	=42	=42	=42	=42
+1I7	E-:maj7(#11)	150.19	newline	strings	1E- 1g 1b- 1dd
+=43	=43	=43	=43	=43	=43
+1I7	E-:maj7(#11)	153.899	.	strings	1E- 1g 1b- 1dd
+=44	=44	=44	=44	=44	=44
+1I7	E-:maj7(#11)	157.607	.	strings	1E- 1g 1b- 1dd
+1r;	N	161.779	.	r	1r;
+1r;	N	164.963	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Funny Girl
+!!!COC: Barbra Streisand
+!!!BillboardChartDate: 1964/10/10
+!!!BillboardPeak: 44
+!!!BillboardWeeksOnChart: 9
+!!!SampleTargetRank: 47
+!!!SampleActualRank: 45
+!!!SampleID#: 1118
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

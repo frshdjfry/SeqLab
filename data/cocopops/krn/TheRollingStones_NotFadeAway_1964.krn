@@ -1,0 +1,377 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*E:	*E:	*	*	*	*E:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	E:1	5.126	newline	drums	1E 1g# 1b
+=2	=2	=2	=2	=2	=2
+1I	E:1	6.396	.	drums	1E 1g# 1b
+=3	=3	=3	=3	=3	=3
+1I	E:1	7.665	.	drums	1E 1g# 1b
+=4	=4	=4	=4	=4	=4
+1I	E:1	8.934	.	drums	1E 1g# 1b
+=5	=5	=5	=5	=5	=5
+1I	E:1	10.204	newline	harmonica	1E 1g# 1b
+=6	=6	=6	=6	=6	=6
+1I	E:1	11.471	.	harmonica	1E 1g# 1b
+=7	=7	=7	=7	=7	=7
+1I	E:1	12.738	.	harmonica	1E 1g# 1b
+=8	=8	=8	=8	=8	=8
+1I	E:1	14.005	.	harmonica	1E 1g# 1b
+=9	=9	=9	=9	=9	=9
+1I	E:1	15.272	.	harmonica	1E 1g# 1b
+=10	=10	=10	=10	=10	=10
+1I	E:1	16.54	.	harmonica	1E 1g# 1b
+=11	=11	=11	=11	=11	=11
+1I	E:1	17.807	.	harmonica	1E 1g# 1b
+=12	=12	=12	=12	=12	=12
+1I	E:1	19.074	.	harmonica	1E 1g# 1b
+=13	=13	=13	=13	=13	=13
+1I	E:1	20.341	newline	harmonica	1E 1g# 1b
+=14	=14	=14	=14	=14	=14
+1I	E:1	21.615	.	harmonica	1E 1g# 1b
+=15	=15	=15	=15	=15	=15
+1I	E:1	22.89	.	harmonica	1E 1g# 1b
+=16	=16	=16	=16	=16	=16
+1I	E:1	24.164	.	harmonica	1E 1g# 1b
+=17	=17	=17	=17	=17	=17
+1I	E:1	25.438	.	harmonica	1E 1g# 1b
+=18	=18	=18	=18	=18	=18
+1I	E:1	26.712	.	harmonica	1E 1g# 1b
+=19	=19	=19	=19	=19	=19
+1I	E:1	27.986	.	harmonica	1E 1g# 1b
+=20	=20	=20	=20	=20	=20
+1I	E:1	29.26	.	harmonica	1E 1g# 1b
+=21	=21	=21	=21	=21	=21
+1I	E:1	30.535	newline	harmonica	1E 1g# 1b
+=22	=22	=22	=22	=22	=22
+1I	E:1	31.81	.	harmonica	1E 1g# 1b
+=23	=23	=23	=23	=23	=23
+1I	E:1	33.085	.	harmonica	1E 1g# 1b
+=24	=24	=24	=24	=24	=24
+1I	E:1	34.36	.	harmonica	1E 1g# 1b
+=25	=25	=25	=25	=25	=25
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	E:maj	35.635	newline	voice	1E 1g# 1b
+=26	=26	=26	=26	=26	=26
+1I	E:maj	36.897	.	voice	1E 1g# 1b
+=27	=27	=27	=27	=27	=27
+1IV	A:maj	38.16	.	voice	1A 1cc# 1ee
+=28	=28	=28	=28	=28	=28
+4IV	A:maj	39.423	.	voice	4A 4cc# 4ee
+4-VIIc	D:maj/5	39.738	.	voice	4d 4f# 4A
+2IV	A:maj	40.054	.	voice	2A 2cc# 2ee
+=29	=29	=29	=29	=29	=29
+1I	E:maj	40.685	newline	voice	1E 1g# 1b
+=30	=30	=30	=30	=30	=30
+1I	E:maj	41.933	.	voice	1E 1g# 1b
+=31	=31	=31	=31	=31	=31
+1I	E:maj	43.181	.	voice	1E 1g# 1b
+=32	=32	=32	=32	=32	=32
+4I	E:maj	44.428	.	voice	4E 4g# 4b
+4IVc	A:maj/5	44.74	.	voice	4a 4cc# 4E
+2I	E:maj	45.052	.	voice	2E 2g# 2b
+=33	=33	=33	=33	=33	=33
+1I	E:maj	45.676	newline	voice	1E 1g# 1b
+=34	=34	=34	=34	=34	=34
+1I	E:maj	46.947	.	voice	1E 1g# 1b
+=35	=35	=35	=35	=35	=35
+1IV	A:maj	48.218	.	voice	1A 1cc# 1ee
+=36	=36	=36	=36	=36	=36
+4IV	A:maj	49.489	.	voice	4A 4cc# 4ee
+4-VIIc	D:maj/5	49.807	.	voice	4d 4f# 4A
+2IV	A:maj	50.125	.	voice	2A 2cc# 2ee
+=37	=37	=37	=37	=37	=37
+1I	E:maj	50.76	newline	voice	1E 1g# 1b
+=38	=38	=38	=38	=38	=38
+1I	E:maj	52.005	.	voice	1E 1g# 1b
+=39	=39	=39	=39	=39	=39
+1I	E:maj	53.25	.	voice	1E 1g# 1b
+=40	=40	=40	=40	=40	=40
+1I	E:maj	54.495	.	voice	1E 1g# 1b
+=41	=41	=41	=41	=41	=41
+1I	E:maj	55.74	newline	voice	1E 1g# 1b
+=42	=42	=42	=42	=42	=42
+1I	E:maj	56.994	.	voice	1E 1g# 1b
+=43	=43	=43	=43	=43	=43
+1I	E:maj	58.249	.	voice	1E 1g# 1b
+=44	=44	=44	=44	=44	=44
+1I	E:maj	59.503	.	voice	1E 1g# 1b
+=45	=45	=45	=45	=45	=45
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	E:maj	60.757	newline	voice	1E 1g# 1b
+=46	=46	=46	=46	=46	=46
+1I	E:maj	62.009	.	voice	1E 1g# 1b
+=47	=47	=47	=47	=47	=47
+1IV	A:maj	63.261	.	voice	1A 1cc# 1ee
+=48	=48	=48	=48	=48	=48
+4IV	A:maj	64.514	.	voice	4A 4cc# 4ee
+4-VIIc	D:maj/5	64.827	.	voice	4d 4f# 4A
+2IV	A:maj	65.14	.	voice	2A 2cc# 2ee
+=49	=49	=49	=49	=49	=49
+1I	E:maj	65.766	newline	voice	1E 1g# 1b
+=50	=50	=50	=50	=50	=50
+1I	E:maj	67.03	.	voice	1E 1g# 1b
+=51	=51	=51	=51	=51	=51
+1I	E:maj	68.294	.	voice	1E 1g# 1b
+=52	=52	=52	=52	=52	=52
+4I	E:maj	69.558	.	voice	4E 4g# 4b
+4IVc	A:maj/5	69.874	.	voice	4a 4cc# 4E
+2I	E:maj	70.19	.	voice	2E 2g# 2b
+=53	=53	=53	=53	=53	=53
+1I	E:maj	70.822	newline	voice	1E 1g# 1b
+=54	=54	=54	=54	=54	=54
+1I	E:maj	72.084	.	voice	1E 1g# 1b
+=55	=55	=55	=55	=55	=55
+1IV	A:maj	73.345	.	voice	1A 1cc# 1ee
+=56	=56	=56	=56	=56	=56
+4IV	A:maj	74.606	.	voice	4A 4cc# 4ee
+4-VIIc	D:maj/5	74.922	.	voice	4d 4f# 4A
+2IV	A:maj	75.237	.	voice	2A 2cc# 2ee
+=57	=57	=57	=57	=57	=57
+1I	E:maj	75.868	newline	voice	1E 1g# 1b
+=58	=58	=58	=58	=58	=58
+1I	E:maj	77.123	.	voice	1E 1g# 1b
+=59	=59	=59	=59	=59	=59
+1I	E:maj	78.378	.	voice	1E 1g# 1b
+=60	=60	=60	=60	=60	=60
+1I	E:maj	79.633	.	voice	1E 1g# 1b
+=61	=61	=61	=61	=61	=61
+1I	E:maj	80.888	newline	voice	1E 1g# 1b
+=62	=62	=62	=62	=62	=62
+1I	E:maj	82.155	.	voice	1E 1g# 1b
+=63	=63	=63	=63	=63	=63
+1I	E:maj	83.421	.	voice	1E 1g# 1b
+=64	=64	=64	=64	=64	=64
+1I	E:maj	84.687	.	voice	1E 1g# 1b
+=65	=65	=65	=65	=65	=65
+1I	E:maj	85.953	newline	voice	1E 1g# 1b
+=66	=66	=66	=66	=66	=66
+1I	E:maj	87.225	.	voice	1E 1g# 1b
+=67	=67	=67	=67	=67	=67
+1I	E:maj	88.497	.	voice	1E 1g# 1b
+=68	=68	=68	=68	=68	=68
+1I	E:maj	89.77	.	voice	1E 1g# 1b
+=69	=69	=69	=69	=69	=69
+*>C_interlude	*>C_interlude	*>C_interlude	*>C_interlude	*>C_interlude	*>C_interlude
+1IV	A:maj	91.042	newline	guitar	1A 1cc# 1ee
+=70	=70	=70	=70	=70	=70
+4IV	A:maj	92.26	.	guitar	4A 4cc# 4ee
+4-VIIc	D:maj/5	92.565	.	guitar	4d 4f# 4A
+2IV	A:maj	92.87	.	guitar	2A 2cc# 2ee
+=71	=71	=71	=71	=71	=71
+1IV	A:maj	93.479	.	guitar	1A 1cc# 1ee
+=72	=72	=72	=72	=72	=72
+4IV	A:maj	94.697	.	guitar	4A 4cc# 4ee
+4-VIIc	D:maj/5	95.002	.	guitar	4d 4f# 4A
+2IV	A:maj	95.306	.	guitar	2A 2cc# 2ee
+=73	=73	=73	=73	=73	=73
+1I	E:maj	95.916	newline	guitar	1E 1g# 1b
+=74	=74	=74	=74	=74	=74
+4I	E:maj	97.175	.	guitar	4E 4g# 4b
+4IVc	A:maj/5	97.489	.	guitar	4a 4cc# 4E
+2I	E:maj	97.804	.	guitar	2E 2g# 2b
+=75	=75	=75	=75	=75	=75
+1I	E:maj	98.433	.	guitar	1E 1g# 1b
+=76	=76	=76	=76	=76	=76
+4I	E:maj	99.692	.	guitar	4E 4g# 4b
+4IVc	A:maj/5	100.007	.	guitar	4a 4cc# 4E
+2I	E:maj	100.322	.	guitar	2E 2g# 2b
+=77	=77	=77	=77	=77	=77
+1IV	A:maj	100.951	newline	guitar	1A 1cc# 1ee
+=78	=78	=78	=78	=78	=78
+4IV	A:maj	102.209	.	guitar	4A 4cc# 4ee
+4-VIIc	D:maj/5	102.523	.	guitar	4d 4f# 4A
+2IV	A:maj	102.838	.	guitar	2A 2cc# 2ee
+=79	=79	=79	=79	=79	=79
+1IV	A:maj	103.467	.	guitar	1A 1cc# 1ee
+=80	=80	=80	=80	=80	=80
+4IV	A:maj	104.725	.	guitar	4A 4cc# 4ee
+4-VIIc	D:maj/5	105.039	.	guitar	4d 4f# 4A
+2IV	A:maj	105.354	.	guitar	2A 2cc# 2ee
+=81	=81	=81	=81	=81	=81
+1I	E:maj	105.983	newline	guitar	1E 1g# 1b
+=82	=82	=82	=82	=82	=82
+4I	E:maj	107.245	.	guitar	4E 4g# 4b
+4IVc	A:maj/5	107.56	.	guitar	4a 4cc# 4E
+2I	E:maj	107.876	.	guitar	2E 2g# 2b
+=83	=83	=83	=83	=83	=83
+1I	E:maj	108.507	.	guitar	1E 1g# 1b
+=84	=84	=84	=84	=84	=84
+4I	E:maj	109.768	.	guitar	4E 4g# 4b
+4IVc	A:maj/5	110.084	.	guitar	4a 4cc# 4E
+2I	E:maj	110.399	.	guitar	2E 2g# 2b
+=85	=85	=85	=85	=85	=85
+1I	E:maj	111.03	newline	guitar	1E 1g# 1b
+=86	=86	=86	=86	=86	=86
+1I	E:maj	112.295	.	guitar	1E 1g# 1b
+=87	=87	=87	=87	=87	=87
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	E:maj	113.559	newline	voice	1E 1g# 1b
+=88	=88	=88	=88	=88	=88
+1I	E:maj	114.789	.	voice	1E 1g# 1b
+=89	=89	=89	=89	=89	=89
+1IV	A:maj	116.019	.	voice	1A 1cc# 1ee
+=90	=90	=90	=90	=90	=90
+4IV	A:maj	117.249	.	voice	4A 4cc# 4ee
+4-VIIc	D:maj/5	117.556	.	voice	4d 4f# 4A
+2IV	A:maj	117.864	.	voice	2A 2cc# 2ee
+=91	=91	=91	=91	=91	=91
+1I	E:maj	118.478	newline	voice	1E 1g# 1b
+=92	=92	=92	=92	=92	=92
+1I	E:maj	119.75	.	voice	1E 1g# 1b
+=93	=93	=93	=93	=93	=93
+1I	E:maj	121.023	.	voice	1E 1g# 1b
+=94	=94	=94	=94	=94	=94
+4I	E:maj	122.295	.	voice	4E 4g# 4b
+4IVc	A:maj/5	122.613	.	voice	4a 4cc# 4E
+2I	E:maj	122.931	.	voice	2E 2g# 2b
+=95	=95	=95	=95	=95	=95
+1I	E:maj	123.567	newline	voice	1E 1g# 1b
+=96	=96	=96	=96	=96	=96
+1I	E:maj	124.837	.	voice	1E 1g# 1b
+=97	=97	=97	=97	=97	=97
+1IV	A:maj	126.107	.	voice	1A 1cc# 1ee
+=98	=98	=98	=98	=98	=98
+4IV	A:maj	127.377	.	voice	4A 4cc# 4ee
+4-VIIc	D:maj/5	127.694	.	voice	4d 4f# 4A
+2IV	A:maj	128.012	.	voice	2A 2cc# 2ee
+=99	=99	=99	=99	=99	=99
+1I	E:maj	128.647	newline	voice	1E 1g# 1b
+=100	=100	=100	=100	=100	=100
+1I	E:maj	129.902	.	voice	1E 1g# 1b
+=101	=101	=101	=101	=101	=101
+1I	E:maj	131.157	.	voice	1E 1g# 1b
+=102	=102	=102	=102	=102	=102
+1I	E:maj	132.412	.	voice	1E 1g# 1b
+=103	=103	=103	=103	=103	=103
+1I	E:maj	133.668	newline	voice	1E 1g# 1b
+=104	=104	=104	=104	=104	=104
+1I	E:maj	134.914	.	voice	1E 1g# 1b
+=105	=105	=105	=105	=105	=105
+1I	E:maj	136.16	.	voice	1E 1g# 1b
+=106	=106	=106	=106	=106	=106
+1I	E:maj	137.407	.	voice	1E 1g# 1b
+=107	=107	=107	=107	=107	=107
+1I	E:maj	138.653	newline	voice	1E 1g# 1b
+=108	=108	=108	=108	=108	=108
+1I	E:maj	139.907	.	voice	1E 1g# 1b
+=109	=109	=109	=109	=109	=109
+1I	E:maj	141.161	.	voice	1E 1g# 1b
+=110	=110	=110	=110	=110	=110
+1I	E:maj	142.415	.	voice	1E 1g# 1b
+=111	=111	=111	=111	=111	=111
+1I	E:maj	143.67	newline	voice	1E 1g# 1b
+=112	=112	=112	=112	=112	=112
+1I	E:maj	144.892	.	voice	1E 1g# 1b
+=113	=113	=113	=113	=113	=113
+1I	E:maj	146.114	.	voice	1E 1g# 1b
+=114	=114	=114	=114	=114	=114
+1I	E:maj	147.336	.	voice	1E 1g# 1b
+=115	=115	=115	=115	=115	=115
+*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo
+1I	E:1	148.558	newline	harmonica	1E 1g# 1b
+=116	=116	=116	=116	=116	=116
+4I	E:1	149.805	.	harmonica	4E 4g# 4b
+4-VII	D:1	150.117	.	harmonica	4D 4f# 4a
+2I	E:1	150.429	.	harmonica	2E 2g# 2b
+=117	=117	=117	=117	=117	=117
+1I	E:1	151.053	.	harmonica	1E 1g# 1b
+=118	=118	=118	=118	=118	=118
+4I	E:1	152.3	.	harmonica	4E 4g# 4b
+4-VII	D:1	152.612	.	harmonica	4D 4f# 4a
+2I	E:1	152.924	.	harmonica	2E 2g# 2b
+=119	=119	=119	=119	=119	=119
+1I	E:1	153.548	newline	harmonica	1E 1g# 1b
+=120	=120	=120	=120	=120	=120
+4I	E:1	154.778	.	harmonica	4E 4g# 4b
+4-VII	D:1	155.085	.	harmonica	4D 4f# 4a
+2I	E:1	155.392	.	harmonica	2E 2g# 2b
+=121	=121	=121	=121	=121	=121
+1I	E:1	156.007	.	harmonica	1E 1g# 1b
+=122	=122	=122	=122	=122	=122
+4I	E:1	157.237	.	harmonica	4E 4g# 4b
+4-VII	D:1	157.545	.	harmonica	4D 4f# 4a
+2I	E:1	157.852	.	harmonica	2E 2g# 2b
+=123	=123	=123	=123	=123	=123
+1I	E:1	158.467	newline	harmonica	1E 1g# 1b
+=124	=124	=124	=124	=124	=124
+4I	E:1	159.682	.	harmonica	4E 4g# 4b
+4-VII	D:1	159.986	.	harmonica	4D 4f# 4a
+2I	E:1	160.29	.	harmonica	2E 2g# 2b
+=125	=125	=125	=125	=125	=125
+1I	E:1	160.897	.	harmonica	1E 1g# 1b
+=126	=126	=126	=126	=126	=126
+4I	E:1	162.113	.	harmonica	4E 4g# 4b
+4-VII	D:1	162.416	.	harmonica	4D 4f# 4a
+2I	E:1	162.72	.	harmonica	2E 2g# 2b
+=127	=127	=127	=127	=127	=127
+1I	E:1	163.328	newline	harmonica	1E 1g# 1b
+=128	=128	=128	=128	=128	=128
+4I	E:1	164.564	.	harmonica	4E 4g# 4b
+4-VII	D:1	164.873	.	harmonica	4D 4f# 4a
+2I	E:1	165.182	.	harmonica	2E 2g# 2b
+=129	=129	=129	=129	=129	=129
+1I	E:1	165.8	.	harmonica	1E 1g# 1b
+=130	=130	=130	=130	=130	=130
+4I	E:1	167.036	.	harmonica	4E 4g# 4b
+4-VII	D:1	167.345	.	harmonica	4D 4f# 4a
+2I	E:1	167.654	.	harmonica	2E 2g# 2b
+=131	=131	=131	=131	=131	=131
+1I	E:1	168.272	newline	harmonica	1E 1g# 1b
+=132	=132	=132	=132	=132	=132
+4I	E:1	169.513	.	harmonica	4E 4g# 4b
+4-VII	D:1	169.823	.	harmonica	4D 4f# 4a
+2I	E:1	170.134	.	harmonica	2E 2g# 2b
+=133	=133	=133	=133	=133	=133
+1I	E:1	170.754	.	harmonica	1E 1g# 1b
+=134	=134	=134	=134	=134	=134
+4I	E:1	171.996	.	harmonica	4E 4g# 4b
+4-VII	D:1	172.306	.	harmonica	4D 4f# 4a
+2I	E:1	172.616	.	harmonica	2E 2g# 2b
+=135	=135	=135	=135	=135	=135
+1I	E:1	173.237	newline	harmonica	1E 1g# 1b
+=136	=136	=136	=136	=136	=136
+4I	E:1	174.478	.	harmonica	4E 4g# 4b
+4-VII	D:1	174.788	.	harmonica	4D 4f# 4a
+2I	E:1	175.099	.	harmonica	2E 2g# 2b
+=137	=137	=137	=137	=137	=137
+1I	E:1	175.719	.	harmonica	1E 1g# 1b
+=138	=138	=138	=138	=138	=138
+4I	E:1	176.961	.	harmonica	4E 4g# 4b
+4-VII	D:1	177.271	.	harmonica	4D 4f# 4a
+2I	E:1	177.581	.	harmonica	2E 2g# 2b
+=139	=139	=139	=139	=139	=139
+1I	E:maj	178.202	newline	harmonica	1E 1g# 1b
+=140	=140	=140	=140	=140	=140
+1I	E:maj	179.475	.	harmonica	1E 1g# 1b
+=141	=141	=141	=141	=141	=141
+*>_outro	*>_outro	*>_outro	*>_outro	*>_outro	*>_outro
+2I	E:maj	180.747	newline	guitar	2E 2g# 2b
+2IV	A:maj	181.379	.	guitar	2A 2cc# 2ee
+=142	=142	=142	=142	=142	=142
+1I	E:maj	182.012	.	guitar	1E 1g# 1b
+=143	=143	=143	=143	=143	=143
+2I	E:maj	183.276	.	guitar	2E 2g# 2b
+2IV	A:maj	183.908	.	guitar	2A 2cc# 2ee
+=144	=144	=144	=144	=144	=144
+1I	E:maj	184.541	.	guitar	1E 1g# 1b
+1r;	N	186.279	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Not Fade Away
+!!!COC: The Rolling Stones
+!!!BillboardChartDate: 1964/06/13
+!!!BillboardPeak: 48
+!!!BillboardWeeksOnChart: 13
+!!!SampleTargetRank: 76
+!!!SampleActualRank: 78
+!!!SampleID#: 0457
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

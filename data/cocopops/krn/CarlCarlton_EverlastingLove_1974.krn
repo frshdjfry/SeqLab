@@ -1,0 +1,211 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*A:	*A:	*	*	*	*A:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>C_intro	*>C_intro	*>C_intro	*>C_intro	*>C_intro	*>C_intro
+1I	A:1	0.401	newline	r	1A 1cc# 1ee
+=2	=2	=2	=2	=2	=2
+1I	A:1	2.377	.	r	1A 1cc# 1ee
+=3	=3	=3	=3	=3	=3
+1I	A:maj	4.354	newline	r	1A 1cc# 1ee
+=4	=4	=4	=4	=4	=4
+1iid	B:min/b7	6.34	.	r	1b 1dd 1ff#
+=5	=5	=5	=5	=5	=5
+1iiod	B:dim/b7	8.327	.	r	1b 1dd 1ff
+=6	=6	=6	=6	=6	=6
+1I	A:maj	10.314	.	r	1A 1cc# 1ee
+=7	=7	=7	=7	=7	=7
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+1I	A:maj	12.301	newline	r	1A 1cc# 1ee
+=8	=8	=8	=8	=8	=8
+1iid	B:min/b7	14.303	.	r	1b 1dd 1ff#
+=9	=9	=9	=9	=9	=9
+1iiod	B:dim/b7	16.306	.	r	1b 1dd 1ff
+=10	=10	=10	=10	=10	=10
+1I	A:maj	18.308	.	r	1A 1cc# 1ee
+=11	=11	=11	=11	=11	=11
+1I	A:maj	20.31	newline	r	1A 1cc# 1ee
+=12	=12	=12	=12	=12	=12
+1iid	B:min/b7	22.321	.	r	1b 1dd 1ff#
+=13	=13	=13	=13	=13	=13
+1iiod	B:dim/b7	24.331	.	r	1b 1dd 1ff
+=14	=14	=14	=14	=14	=14
+1I	A:maj	26.341	.	r	1A 1cc# 1ee
+=15	=15	=15	=15	=15	=15
+1I	A:maj	28.352	newline	r	1A 1cc# 1ee
+=16	=16	=16	=16	=16	=16
+1iid	B:min/b7	30.354	.	r	1b 1dd 1ff#
+=17	=17	=17	=17	=17	=17
+1iiod	B:dim/b7	32.357	.	r	1b 1dd 1ff
+=18	=18	=18	=18	=18	=18
+1I	A:maj	34.36	.	r	1A 1cc# 1ee
+=19	=19	=19	=19	=19	=19
+1I	A:maj	36.362	newline	r	1A 1cc# 1ee
+=20	=20	=20	=20	=20	=20
+1iid	B:min/b7	38.349	.	r	1b 1dd 1ff#
+=21	=21	=21	=21	=21	=21
+1iiod	B:dim/b7	40.335	.	r	1b 1dd 1ff
+=22	=22	=22	=22	=22	=22
+1vi	F#:min	42.322	.	r	1F# 1a 1cc#
+=23	=23	=23	=23	=23	=23
+2vi	F#:min	44.308	.	r	2F# 2a 2cc#
+2II	B:maj	45.302	.	r	2B 2dd# 2ff#
+=24	=24	=24	=24	=24	=24
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1V	E:maj	46.295	newline	r	1E 1g# 1b
+=25	=25	=25	=25	=25	=25
+1Vd	E:maj/7	48.261	.	r	1e 1g# 1b
+=26	=26	=26	=26	=26	=26
+1iii7	C#:min7	50.227	.	r	1C# 1e 1g# 1b
+=27	=27	=27	=27	=27	=27
+2vi7	F#:min7	52.194	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	53.177	.	r	4A 4cc# 4ee
+4II	B:maj	53.668	.	r	4B 4dd# 4ff#
+=28	=28	=28	=28	=28	=28
+1V	E:maj	54.16	newline	r	1E 1g# 1b
+=29	=29	=29	=29	=29	=29
+1Vd	E:maj/7	56.131	.	r	1e 1g# 1b
+=30	=30	=30	=30	=30	=30
+1iii7	C#:min7	58.102	.	r	1C# 1e 1g# 1b
+=31	=31	=31	=31	=31	=31
+2vi7	F#:min7	60.073	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	61.058	.	r	4A 4cc# 4ee
+4II	B:maj	61.551	.	r	4B 4dd# 4ff#
+=32	=32	=32	=32	=32	=32
+1V	E:maj	62.044	newline	r	1E 1g# 1b
+=33	=33	=33	=33	=33	=33
+1Vd	E:maj/7	64.009	.	r	1e 1g# 1b
+=34	=34	=34	=34	=34	=34
+1iii7	C#:min7	65.973	.	r	1C# 1e 1g# 1b
+=35	=35	=35	=35	=35	=35
+2vi7	F#:min7	67.938	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	68.921	.	r	4A 4cc# 4ee
+4II	B:maj	69.412	.	r	4B 4dd# 4ff#
+=36	=36	=36	=36	=36	=36
+1V	E:maj	69.903	newline	r	1E 1g# 1b
+=37	=37	=37	=37	=37	=37
+1ii	B:min	71.875	.	r	1B 1dd 1ff#
+=38	=38	=38	=38	=38	=38
+1-IIIb	C:maj/3	73.846	.	r	1c 1E 1g
+=39	=39	=39	=39	=39	=39
+1V	E:maj	75.818	.	r	1E 1g# 1b
+=40	=40	=40	=40	=40	=40
+*>H_preverse	*>H_preverse	*>H_preverse	*>H_preverse	*>H_preverse	*>H_preverse
+1I	A:maj	77.789	newline	r	1A 1cc# 1ee
+=41	=41	=41	=41	=41	=41
+1iid	B:min/b7	79.771	.	r	1b 1dd 1ff#
+=42	=42	=42	=42	=42	=42
+1iiod	B:dim/b7	81.753	.	r	1b 1dd 1ff
+=43	=43	=43	=43	=43	=43
+1I	A:maj	83.735	.	r	1A 1cc# 1ee
+=44	=44	=44	=44	=44	=44
+1I	A:maj	85.716	newline	r	1A 1cc# 1ee
+=45	=45	=45	=45	=45	=45
+1iid	B:min/b7	87.684	.	r	1b 1dd 1ff#
+=46	=46	=46	=46	=46	=46
+1iiod	B:dim/b7	89.652	.	r	1b 1dd 1ff
+=47	=47	=47	=47	=47	=47
+1vi	F#:min	91.62	.	r	1F# 1a 1cc#
+=48	=48	=48	=48	=48	=48
+2vi	F#:min	93.588	.	r	2F# 2a 2cc#
+2II	B:maj	94.572	.	r	2B 2dd# 2ff#
+=49	=49	=49	=49	=49	=49
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1V	E:maj	95.556	newline	r	1E 1g# 1b
+=50	=50	=50	=50	=50	=50
+1Vd	E:maj/7	97.517	.	r	1e 1g# 1b
+=51	=51	=51	=51	=51	=51
+1iii7	C#:min7	99.478	.	r	1C# 1e 1g# 1b
+=52	=52	=52	=52	=52	=52
+2vi7	F#:min7	101.439	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	102.42	.	r	4A 4cc# 4ee
+4II	B:maj	102.91	.	r	4B 4dd# 4ff#
+=53	=53	=53	=53	=53	=53
+1V	E:maj	103.401	newline	r	1E 1g# 1b
+=54	=54	=54	=54	=54	=54
+1Vd	E:maj/7	105.362	.	r	1e 1g# 1b
+=55	=55	=55	=55	=55	=55
+1iii7	C#:min7	107.324	.	r	1C# 1e 1g# 1b
+=56	=56	=56	=56	=56	=56
+2vi7	F#:min7	109.285	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	110.266	.	r	4A 4cc# 4ee
+4II	B:maj	110.756	.	r	4B 4dd# 4ff#
+=57	=57	=57	=57	=57	=57
+1V	E:maj	111.247	newline	r	1E 1g# 1b
+=58	=58	=58	=58	=58	=58
+1Vd	E:maj/7	113.206	.	r	1e 1g# 1b
+=59	=59	=59	=59	=59	=59
+1iii7	C#:min7	115.165	.	r	1C# 1e 1g# 1b
+=60	=60	=60	=60	=60	=60
+2vi7	F#:min7	117.124	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	118.104	.	r	4A 4cc# 4ee
+4II	B:maj	118.594	.	r	4B 4dd# 4ff#
+=61	=61	=61	=61	=61	=61
+1V	E:maj	119.084	newline	r	1E 1g# 1b
+=62	=62	=62	=62	=62	=62
+1ii7	B:min7	121.054	.	r	1B 1dd 1ff# 1aa
+=63	=63	=63	=63	=63	=63
+1-III	C:maj	123.024	.	r	1C 1e 1g
+=64	=64	=64	=64	=64	=64
+1V	E:maj	124.994	.	r	1E 1g# 1b
+=65	=65	=65	=65	=65	=65
+1V	E:maj	126.964	newline	r	1E 1g# 1b
+=66	=66	=66	=66	=66	=66
+1Vd	E:maj/7	128.955	.	r	1e 1g# 1b
+=67	=67	=67	=67	=67	=67
+1iii7	C#:min7	130.945	.	r	1C# 1e 1g# 1b
+=68	=68	=68	=68	=68	=68
+2vi7	F#:min7	132.936	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	133.932	.	r	4A 4cc# 4ee
+4II	B:maj	134.429	.	r	4B 4dd# 4ff#
+=69	=69	=69	=69	=69	=69
+1V	E:maj	134.927	newline	r	1E 1g# 1b
+=70	=70	=70	=70	=70	=70
+1Vd	E:maj/7	136.915	.	r	1e 1g# 1b
+=71	=71	=71	=71	=71	=71
+1iii7	C#:min7	138.903	.	r	1C# 1e 1g# 1b
+=72	=72	=72	=72	=72	=72
+2vi7	F#:min7	140.89	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	141.884	.	r	4A 4cc# 4ee
+4II	B:maj	142.381	.	r	4B 4dd# 4ff#
+=73	=73	=73	=73	=73	=73
+*>E_fadeout	*>E_fadeout	*>E_fadeout	*>E_fadeout	*>E_fadeout	*>E_fadeout
+1V	E:maj	142.878	newline	r	1E 1g# 1b
+=74	=74	=74	=74	=74	=74
+1Vd	E:maj/7	144.855	.	r	1e 1g# 1b
+=75	=75	=75	=75	=75	=75
+1iii7	C#:min7	146.833	.	r	1C# 1e 1g# 1b
+=76	=76	=76	=76	=76	=76
+2vi7	F#:min7	148.81	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	149.798	.	r	4A 4cc# 4ee
+4II	B:maj	150.293	.	r	4B 4dd# 4ff#
+=77	=77	=77	=77	=77	=77
+1V	E:maj	150.787	newline	r	1E 1g# 1b
+=78	=78	=78	=78	=78	=78
+1Vd	E:maj/7	151.251	.	r	1e 1g# 1b
+=79	=79	=79	=79	=79	=79
+1iii7	C#:min7	151.715	.	r	1C# 1e 1g# 1b
+=80	=80	=80	=80	=80	=80
+2vi7	F#:min7	152.178	.	r	2F# 2a 2cc# 2ee
+4I	A:maj	152.41	.	r	4A 4cc# 4ee
+4II	B:maj	152.526	.	r	4B 4dd# 4ff#
+1r;	N	152.642	.	r	1r;
+1r;	N	155.04	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Everlasting Love
+!!!COC: Carl Carlton
+!!!BillboardChartDate: 1974/12/21
+!!!BillboardPeak: 6
+!!!BillboardWeeksOnChart: 15
+!!!SampleTargetRank: 50
+!!!SampleActualRank: 49
+!!!SampleID#: 0607
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

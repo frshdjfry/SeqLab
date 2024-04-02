@@ -1,0 +1,498 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*g:	*g:	*	*	*g:	*g:	*g:	*g:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	.	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+2i	G:min	.	.	2.655	newline	voice	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	voice	2C 2e 2g 2b-
+=2	=2	=2	=2	=2	=2	=2	=2
+2i	G:min	.	.	.	.	voice	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	voice	2C 2e 2g 2b-
+=3	=3	=3	=3	=3	=3	=3	=3
+2i	G:min	.	.	.	.	voice	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	voice	2C 2e 2g 2b-
+=4	=4	=4	=4	=4	=4	=4	=4
+2i	G:min	.	.	.	.	voice	2G 2b- 2dd
+.	.	You	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	to	.	.	.	.	.
+2IV7	C:7	change	.	.	.	voice	2C 2e 2g 2b-
+.	.	your	.	.	.	.	.
+.	.	e-	.	.	.	.	.
+.	.	-vil	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2i	G:min	ways	A	.	.	voice	2.G 2.b- 2.dd
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4C 4e 4g 4b-
+.	.	.	.	.	.	.	.
+.	.	ba-	A	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2i	G:min	_	.	.	.	voice	2G 2b- 2dd
+.	.	-by	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	2C 2e 2g 2b-
+=7	=7	=7	=7	=7	=7	=7	=7
+2i	G:min	.	.	.	.	voice	2G 2b- 2dd
+.	.	Be-	.	.	.	.	.
+.	.	-fore	.	.	.	.	.
+2IV7	C:7	I	.	.	.	voice	2C 2e 2g 2b-
+.	.	start	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2i	G:min	lo-	(B	.	.	voice	3...G 3...b- 3...dd
+.	.	-vin'	b)	.	.	.	.
+.	.	you	C	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4.C 4.e 4.g 4.b-
+.	.	You	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+2i	G:min	change	A	.	.	voice	2.G 2.b- 2.dd
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4C 4e 4g 4b-
+.	.	.	.	.	.	.	.
+.	.	ba-	A	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2i	G:min	_	.	.	.	voice	2G 2b- 2dd
+.	.	-by	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	2C 2e 2g 2b-
+=11	=11	=11	=11	=11	=11	=11	=11
+2i	G:min	.	.	.	.	voice	2G 2b- 2dd
+.	.	And	.	.	.	.	.
+.	.	ever-	.	.	.	.	.
+.	.	-y	.	.	.	.	.
+2IV7	C:7	word	.	.	.	voice	2C 2e 2g 2b-
+.	.	_	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+2i	G:min	say	A	.	.	voice	3...G 3...b- 3...dd
+.	.	is	.	.	.	.	.
+.	.	true	C	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4.C 4.e 4.g 4.b-
+.	.	You	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2i	G:min	runn-	(B	.	.	voice	2G 2b- 2dd
+.	.	-in'	b)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+2IV7	C:7	hid-	.	.	.	voice	2C 2e 2g 2b-
+.	.	-in	b	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	all	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2i	G:min	_	.	.	.	voice	3...G 3...b- 3...dd
+.	.	o-	.	.	.	.	.
+.	.	-ver	.	.	.	.	.
+.	.	town	D	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4.C 4.e 4.g 4.b-
+.	.	You	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2i	G:min	sneak-	(E	.	.	voice	2G 2b- 2dd
+.	.	-in'	b)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+2IV7	C:7	-peep-	(E	.	.	voice	2C 2e 2g 2b-
+.	.	-in'	b)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2i	G:min	runn-	(B	.	.	voice	3...G 3...b- 3...dd
+.	.	-in'	b)	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	down	D	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4.C 4.e 4.g 4.b-
+.	.	This	.	.	.	.	.
+.	.	can't	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1V7	D:7	on	.	43.135	newline	voice	1D 1f# 1a 1cc
+=18	=18	=18	=18	=18	=18	=18	=18
+1V7	D:7	.	.	.	.	voice	1D 1f# 1a 1cc
+.	.	Lord	.	.	.	.	.
+.	.	knows	.	.	.	.	.
+.	.	you	C	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	to	C	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude
+2i	G:min	change	A	47.15	newline	.	3...G 3...b- 3...dd
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	.	4.C 4.e 4.g 4.b-
+.	.	.	.	.	.	.	.
+.	.	ba-	A	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2i	G:min	_	.	.	.	.	2G 2b- 2dd
+.	.	-by	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	.	2C 2e 2g 2b-
+=21	=21	=21	=21	=21	=21	=21	=21
+2i	G:min	.	.	.	.	.	2G 2b- 2dd
+2IV7	C:7	.	.	.	.	.	2C 2e 2g 2b-
+.	.	.	.	.	.	.	.
+.	.	ba-	A	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+2i	G:min	_	.	.	.	.	2G 2b- 2dd
+.	.	-by	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	.	2C 2e 2g 2b-
+.	.	When	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	come	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2i	G:min	home	F	.	.	.	2.G 2.b- 2.dd
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	.	4C 4e 4g 4b-
+.	.	.	.	.	.	.	.
+.	.	ba-	A	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2i	G:min	_	.	.	.	.	2G 2b- 2dd
+.	.	-by	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	.	2C 2e 2g 2b-
+=25	=25	=25	=25	=25	=25	=25	=25
+2i	G:min	.	.	.	.	.	2G 2b- 2dd
+.	.	My	.	.	.	.	.
+.	.	house	D	.	.	.	.
+.	.	is	.	.	.	.	.
+2IV7	C:7	dark	.	.	.	.	2C 2e 2g 2b-
+.	.	_	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+2i	G:min	pots	.	.	.	.	2G 2b- 2dd
+.	.	are	.	.	.	.	.
+.	.	cold	F	.	.	.	.
+2IV7	C:7	.	.	.	.	.	2C 2e 2g 2b-
+.	.	You	.	.	.	.	.
+.	.	hang	A	.	.	.	.
+.	.	a-	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+2i	G:min	-round	D	.	.	.	2.G 2.b- 2.dd
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	.	4C 4e 4g 4b-
+.	.	.	.	.	.	.	.
+.	.	ba-	A	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+2i	G:min	_	.	.	.	.	2G 2b- 2dd
+.	.	-by	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	.	2C 2e 2g 2b-
+=29	=29	=29	=29	=29	=29	=29	=29
+2i	G:min	.	.	.	.	.	2G 2b- 2dd
+.	.	With	.	.	.	.	.
+.	.	Jean	E	.	.	.	.
+.	.	and	.	.	.	.	.
+2IV7	C:7	Joan	F	.	.	.	2C 2e 2g 2b-
+.	.	_	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2i	G:min	who	C	.	.	.	3...G 3...b- 3...dd
+.	.	knows	F	.	.	.	.
+.	.	who	C	.	.	.	.
+2IV7	C:7	.	.	.	.	.	4.C 4.e 4.g 4.b-
+.	.	I'm	.	.	.	.	.
+.	.	gett-	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+2i	G:min	ti-	.	.	.	.	2G 2b- 2dd
+.	.	-red	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	of	.	.	.	.	.
+2IV7	C:7	wait-	A	.	.	.	2C 2e 2g 2b-
+.	.	-ing	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+2i	G:min	fool-	C	.	.	.	3...G 3...b- 3...dd
+.	.	-ing	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-round	D	.	.	.	.
+2IV7	C:7	.	.	.	.	.	4.C 4.e 4.g 4.b-
+.	.	I'll	.	.	.	.	.
+.	.	find	.	.	.	.	.
+.	.	some-	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2i	G:min	-bod-	.	.	.	.	2G 2b- 2dd
+.	.	-y	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	that	.	.	.	.	.
+2IV7	C:7	won't	.	.	.	.	2C 2e 2g 2b-
+.	.	make	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2i	G:min	feel	.	.	.	.	3...G 3...b- 3...dd
+.	.	like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	clown	D	.	.	.	.
+2IV7	C:7	.	.	.	.	.	4.C 4.e 4.g 4.b-
+.	.	This	.	.	.	.	.
+.	.	can't	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1V7	D:7	on	.	79.85	newline	voice	1D 1f# 1a 1cc
+=36	=36	=36	=36	=36	=36	=36	=36
+1V7	D:7	.	.	.	.	voice	1D 1f# 1a 1cc
+.	.	Lord	.	.	.	.	.
+.	.	knows	.	.	.	.	.
+.	.	you	C	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	to	C	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+2i	G:min	change	A	83.89	newline	organ	2G 2b- 2dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=38	=38	=38	=38	=38	=38	=38	=38
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=39	=39	=39	=39	=39	=39	=39	=39
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=40	=40	=40	=40	=40	=40	=40	=40
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=41	=41	=41	=41	=41	=41	=41	=41
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=42	=42	=42	=42	=42	=42	=42	=42
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=43	=43	=43	=43	=43	=43	=43	=43
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=44	=44	=44	=44	=44	=44	=44	=44
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=45	=45	=45	=45	=45	=45	=45	=45
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=46	=46	=46	=46	=46	=46	=46	=46
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=47	=47	=47	=47	=47	=47	=47	=47
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=48	=48	=48	=48	=48	=48	=48	=48
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=49	=49	=49	=49	=49	=49	=49	=49
+2i	G:min	.	.	112.575	newline	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=50	=50	=50	=50	=50	=50	=50	=50
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=51	=51	=51	=51	=51	=51	=51	=51
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=52	=52	=52	=52	=52	=52	=52	=52
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=53	=53	=53	=53	=53	=53	=53	=53
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=54	=54	=54	=54	=54	=54	=54	=54
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=55	=55	=55	=55	=55	=55	=55	=55
+2i	G:min	.	.	128.97	newline	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=56	=56	=56	=56	=56	=56	=56	=56
+1IV7	C:7	.	.	.	.	organ	1C 1e 1g 1b-
+=57	=57	=57	=57	=57	=57	=57	=57
+2i	G:min	.	.	.	.	organ	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	organ	2C 2e 2g 2b-
+=58	=58	=58	=58	=58	=58	=58	=58
+1IV7	C:7	.	.	.	.	organ	1C 1e 1g 1b-
+.	.	.	.	.	.	.	.
+.	.	When	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	come	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2i	G:min	home	F	145.48	newline	voice	2.G 2.b- 2.dd
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4C 4e 4g 4b-
+.	.	.	.	.	.	.	.
+.	.	ba-	A	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+2i	G:min	_	.	.	.	voice	2G 2b- 2dd
+.	.	-by	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	2C 2e 2g 2b-
+=61	=61	=61	=61	=61	=61	=61	=61
+2i	G:min	.	.	.	.	voice	2G 2b- 2dd
+.	.	My	.	.	.	.	.
+.	.	house	D	.	.	.	.
+.	.	is	.	.	.	.	.
+2IV7	C:7	dark	.	.	.	voice	2C 2e 2g 2b-
+.	.	_	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+2i	G:min	pots	.	.	.	voice	3...G 3...b- 3...dd
+.	.	are	.	.	.	.	.
+.	.	cold	F	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4.C 4.e 4.g 4.b-
+.	.	You	.	.	.	.	.
+.	.	hang	A	.	.	.	.
+.	.	a-	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+2i	G:min	-round	D	.	.	voice	2.G 2.b- 2.dd
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4C 4e 4g 4b-
+.	.	.	.	.	.	.	.
+.	.	ba-	A	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+2i	G:min	_	.	.	.	voice	2G 2b- 2dd
+.	.	-by	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	2C 2e 2g 2b-
+=65	=65	=65	=65	=65	=65	=65	=65
+2i	G:min	.	.	.	.	voice	2G 2b- 2dd
+.	.	With	.	.	.	.	.
+.	.	Jean	E	.	.	.	.
+.	.	and	.	.	.	.	.
+2IV7	C:7	Joan	F	.	.	voice	2C 2e 2g 2b-
+.	.	_	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+2i	G:min	who	C	.	.	voice	3...G 3...b- 3...dd
+.	.	knows	.	.	.	.	.
+.	.	who	C	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4.C 4.e 4.g 4.b-
+.	.	I'm	.	.	.	.	.
+.	.	gett-	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+2i	G:min	ti-	.	.	.	voice	2G 2b- 2dd
+.	.	-red	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	of	.	.	.	.	.
+2IV7	C:7	wait-	A	.	.	voice	2C 2e 2g 2b-
+.	.	-ing	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+2i	G:min	fool-	C	.	.	voice	3...G 3...b- 3...dd
+.	.	-ing	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-round	D	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4.C 4.e 4.g 4.b-
+.	.	I'll	.	.	.	.	.
+.	.	find	.	.	.	.	.
+.	.	some-	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+2i	G:min	-bod-	.	.	.	voice	2G 2b- 2dd
+.	.	-y	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	that	.	.	.	.	.
+2IV7	C:7	won't	.	.	.	voice	2C 2e 2g 2b-
+.	.	make	A	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+2i	G:min	feel	.	.	.	voice	3...G 3...b- 3...dd
+.	.	like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	clown	D	.	.	.	.
+2IV7	C:7	.	.	.	.	voice	4.C 4.e 4.g 4.b-
+.	.	This	.	.	.	.	.
+.	.	can't	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1V7	D:7	on	.	170.225	newline	voice	1D 1f# 1a 1cc
+=72	=72	=72	=72	=72	=72	=72	=72
+1V7	D:7	_	.	.	.	voice	1D 1f# 1a 1cc
+.	.	Yea	.	.	.	.	.
+.	.	yea	.	.	.	.	.
+.	.	yea	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+*>Letter>A3	*>Letter>A3	*>Letter>A3	*>Letter>A3	*>Letter>A3	*>Letter>A3	*>Letter>A3	*>Letter>A3
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+2i	G:min	_	.	181.955	newline	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=74	=74	=74	=74	=74	=74	=74	=74
+2i	G:min	_	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=75	=75	=75	=75	=75	=75	=75	=75
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=76	=76	=76	=76	=76	=76	=76	=76
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=77	=77	=77	=77	=77	=77	=77	=77
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=78	=78	=78	=78	=78	=78	=78	=78
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=79	=79	=79	=79	=79	=79	=79	=79
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=80	=80	=80	=80	=80	=80	=80	=80
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=81	=81	=81	=81	=81	=81	=81	=81
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=82	=82	=82	=82	=82	=82	=82	=82
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=83	=83	=83	=83	=83	=83	=83	=83
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=84	=84	=84	=84	=84	=84	=84	=84
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=85	=85	=85	=85	=85	=85	=85	=85
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+=86	=86	=86	=86	=86	=86	=86	=86
+2i	G:min	.	.	.	.	guitar	1G 1b- 1dd
+2IV7	C:7	.	.	.	.	guitar	2C 2e 2g 2b-
+1r;	N	.	.	.	.	r	1r;
+1r;	N	.	.	.	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1970/04/04
+!!!BillboardPeak: 9
+!!!BillboardWeeksOnChart: 13
+!!!COC: Santana
+!!!EMD: Harmonic and melodic transcriptions were of the longer, album version. I've trimmed them down to the right length (for the single version), but had to remove timestamps. -Nat
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Evil Ways
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 18
+!!!SampleID#: 0364
+!!!SampleTargetRank: 18

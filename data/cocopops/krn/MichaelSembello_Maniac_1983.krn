@@ -1,0 +1,374 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*E-:	*E-:	*	*	*	*E-:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1r	N	0.319	newline	drums	1r
+=2	=2	=2	=2	=2	=2
+1r	N	1.867	.	drums	1r
+=3	=3	=3	=3	=3	=3
+1r	N	3.414	.	drums	1r
+=4	=4	=4	=4	=4	=4
+1r	N	4.962	.	drums	1r
+=5	=5	=5	=5	=5	=5
+1r	N	6.509	.	drums	1r
+=6	=6	=6	=6	=6	=6
+1r	N	8.056	.	drums	1r
+=7	=7	=7	=7	=7	=7
+1r	N	9.604	.	drums	1r
+=8	=8	=8	=8	=8	=8
+1r	N	11.151	.	drums	1r
+=9	=9	=9	=9	=9	=9
+*>B_intro	*>B_intro	*>B_intro	*>B_intro	*>B_intro	*>B_intro
+1-VI7	C-:maj7(#11)	12.699	newline	synthesizer	1C- 1e- 1g- 1b-
+=10	=10	=10	=10	=10	=10
+1-VIIm7	D-:11	14.223	.	synthesizer	1D- 1f 1a- 1cc
+=11	=11	=11	=11	=11	=11
+1im7	E-:min7	15.748	.	synthesizer	1E- 1g- 1b- 1dd
+=12	=12	=12	=12	=12	=12
+1im7	E-:min11	17.272	.	synthesizer	1E- 1g- 1b- 1dd
+=13	=13	=13	=13	=13	=13
+1-VI7	C-:maj7(#11)	18.797	.	synthesizer	1C- 1e- 1g- 1b-
+=14	=14	=14	=14	=14	=14
+1-VIIm7	D-:11	20.321	.	synthesizer	1D- 1f 1a- 1cc
+=15	=15	=15	=15	=15	=15
+1im7	E-:min7	21.846	.	synthesizer	1E- 1g- 1b- 1dd
+=16	=16	=16	=16	=16	=16
+1im7	E-:min11	23.371	.	synthesizer	1E- 1g- 1b- 1dd
+=17	=17	=17	=17	=17	=17
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+1i	E-:min(b13)	24.895	newline	voice	1E- 1g- 1b-
+=18	=18	=18	=18	=18	=18
+1i	E-:min6	26.426	.	voice	1E- 1g- 1b-
+=19	=19	=19	=19	=19	=19
+1im7	E-:min7	27.958	.	voice	1E- 1g- 1b- 1dd
+=20	=20	=20	=20	=20	=20
+1I7	E-:maj9	29.489	.	voice	1E- 1g 1b- 1dd
+=21	=21	=21	=21	=21	=21
+1-VI	C-:maj	31.02	newline	voice	1C- 1e- 1g-
+=22	=22	=22	=22	=22	=22
+1-VIId	D-:maj/b7	32.545	.	voice	1d- 1f 1a-
+=23	=23	=23	=23	=23	=23
+1-VI	C-:maj	34.069	.	voice	1C- 1e- 1g-
+=24	=24	=24	=24	=24	=24
+2V	B-:sus4	35.593	.	voice	2B- 2dd 2ff
+2V	B-:maj	36.355	.	voice	2B- 2dd 2ff
+=25	=25	=25	=25	=25	=25
+1i	E-:min(b13)	37.118	newline	voice	1E- 1g- 1b-
+=26	=26	=26	=26	=26	=26
+1i	E-:min6	38.626	.	voice	1E- 1g- 1b-
+=27	=27	=27	=27	=27	=27
+1im7	E-:min7	40.135	.	voice	1E- 1g- 1b- 1dd
+=28	=28	=28	=28	=28	=28
+1I7	E-:maj9	41.644	.	voice	1E- 1g 1b- 1dd
+=29	=29	=29	=29	=29	=29
+1-VI	C-:maj	43.153	newline	voice	1C- 1e- 1g-
+=30	=30	=30	=30	=30	=30
+1-VIId	D-:maj/b7	44.683	.	voice	1d- 1f 1a-
+=31	=31	=31	=31	=31	=31
+1-VI	C-:maj	46.213	.	voice	1C- 1e- 1g-
+=32	=32	=32	=32	=32	=32
+2V	B-:sus4	47.742	.	voice	2B- 2dd 2ff
+2V	B-:maj	48.507	.	voice	2B- 2dd 2ff
+=33	=33	=33	=33	=33	=33
+*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus
+1IVm7	A-:7	49.272	newline	voice	1A- 1cc 1ee- 1gg
+=34	=34	=34	=34	=34	=34
+1IVm7	A-:7	50.809	.	voice	1A- 1cc 1ee- 1gg
+=35	=35	=35	=35	=35	=35
+1V+	B-:aug	52.346	.	voice	1B- 1dd 1ff#
+=36	=36	=36	=36	=36	=36
+1V+	B-:aug	53.884	.	voice	1B- 1dd 1ff#
+=37	=37	=37	=37	=37	=37
+1-VI	C-:maj	55.421	newline	voice	1C- 1e- 1g-
+=38	=38	=38	=38	=38	=38
+1-VI	C-:maj	56.947	.	voice	1C- 1e- 1g-
+=39	=39	=39	=39	=39	=39
+1V	B-:sus4	58.474	.	voice	1B- 1dd 1ff
+=40	=40	=40	=40	=40	=40
+1V	B-:maj	60.001	.	voice	1B- 1dd 1ff
+=41	=41	=41	=41	=41	=41
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1-VI7	C-:maj7(#11)	61.528	newline	.	1C- 1e- 1g- 1b-
+=42	=42	=42	=42	=42	=42
+1-VIIm7	D-:11	63.058	.	.	1D- 1f 1a- 1cc
+=43	=43	=43	=43	=43	=43
+1im7	E-:min7	64.588	.	.	1E- 1g- 1b- 1dd
+=44	=44	=44	=44	=44	=44
+1im7	E-:min11	66.118	.	.	1E- 1g- 1b- 1dd
+=45	=45	=45	=45	=45	=45
+1-VI7	C-:maj7(#11)	67.648	.	.	1C- 1e- 1g- 1b-
+=46	=46	=46	=46	=46	=46
+1-VIIm7	D-:11	69.178	.	.	1D- 1f 1a- 1cc
+=47	=47	=47	=47	=47	=47
+1im7	E-:min7	70.708	.	.	1E- 1g- 1b- 1dd
+=48	=48	=48	=48	=48	=48
+1im7	E-:min11	72.239	.	.	1E- 1g- 1b- 1dd
+=49	=49	=49	=49	=49	=49
+1-VI7	C-:maj7(#11)	73.769	.	.	1C- 1e- 1g- 1b-
+=50	=50	=50	=50	=50	=50
+1-VIIm7	D-:11	75.299	.	.	1D- 1f 1a- 1cc
+=51	=51	=51	=51	=51	=51
+1im7	E-:min7	76.829	.	.	1E- 1g- 1b- 1dd
+=52	=52	=52	=52	=52	=52
+1im7	E-:min11	78.359	.	.	1E- 1g- 1b- 1dd
+=53	=53	=53	=53	=53	=53
+1-VI7	C-:maj7(#11)	79.889	newline	.	1C- 1e- 1g- 1b-
+=54	=54	=54	=54	=54	=54
+1-VIIm7	D-:11	81.406	.	.	1D- 1f 1a- 1cc
+=55	=55	=55	=55	=55	=55
+1iv	A-:min	82.923	.	.	1A- 1cc- 1ee-
+=56	=56	=56	=56	=56	=56
+1iv	A-:min	84.44	.	.	1A- 1cc- 1ee-
+=57	=57	=57	=57	=57	=57
+1iv	A-:min	85.957	.	.	1A- 1cc- 1ee-
+=58	=58	=58	=58	=58	=58
+1iv	A-:min	87.474	.	.	1A- 1cc- 1ee-
+=59	=59	=59	=59	=59	=59
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+1i	E-:min(b13)	88.991	newline	.	1E- 1g- 1b-
+=60	=60	=60	=60	=60	=60
+1i	E-:min6	90.52	.	.	1E- 1g- 1b-
+=61	=61	=61	=61	=61	=61
+1im7	E-:min7	92.05	.	.	1E- 1g- 1b- 1dd
+=62	=62	=62	=62	=62	=62
+1I7	E-:maj9	93.579	.	.	1E- 1g 1b- 1dd
+=63	=63	=63	=63	=63	=63
+1-VI	C-:maj	95.108	newline	.	1C- 1e- 1g-
+=64	=64	=64	=64	=64	=64
+1-VIId	D-:maj/b7	96.649	.	.	1d- 1f 1a-
+=65	=65	=65	=65	=65	=65
+1-VI	C-:maj	98.189	.	.	1C- 1e- 1g-
+=66	=66	=66	=66	=66	=66
+2V	B-:sus4	99.73	.	.	2B- 2dd 2ff
+2V	B-:maj	100.5	.	.	2B- 2dd 2ff
+=67	=67	=67	=67	=67	=67
+1i	E-:min(b13)	101.27	newline	.	1E- 1g- 1b-
+=68	=68	=68	=68	=68	=68
+1i	E-:min6	102.791	.	.	1E- 1g- 1b-
+=69	=69	=69	=69	=69	=69
+1im7	E-:min7	104.313	.	.	1E- 1g- 1b- 1dd
+=70	=70	=70	=70	=70	=70
+1I7	E-:maj9	105.834	.	.	1E- 1g 1b- 1dd
+=71	=71	=71	=71	=71	=71
+1-VI	C-:maj	107.355	newline	.	1C- 1e- 1g-
+=72	=72	=72	=72	=72	=72
+1-VIId	D-:maj/b7	108.886	.	.	1d- 1f 1a-
+=73	=73	=73	=73	=73	=73
+1-VI	C-:maj	110.417	.	.	1C- 1e- 1g-
+=74	=74	=74	=74	=74	=74
+2V	B-:sus4	111.949	.	.	2B- 2dd 2ff
+2V	B-:maj	112.714	.	.	2B- 2dd 2ff
+=75	=75	=75	=75	=75	=75
+*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus
+1IVm7	A-:7	113.48	newline	.	1A- 1cc 1ee- 1gg
+=76	=76	=76	=76	=76	=76
+1IVm7	A-:7	114.994	.	.	1A- 1cc 1ee- 1gg
+=77	=77	=77	=77	=77	=77
+1V+	B-:aug	116.508	.	.	1B- 1dd 1ff#
+=78	=78	=78	=78	=78	=78
+1V+	B-:aug	118.022	.	.	1B- 1dd 1ff#
+=79	=79	=79	=79	=79	=79
+1-VI	C-:maj	119.535	newline	.	1C- 1e- 1g-
+=80	=80	=80	=80	=80	=80
+1-VI	C-:maj	121.063	.	.	1C- 1e- 1g-
+=81	=81	=81	=81	=81	=81
+1V	B-:sus4	122.591	.	.	1B- 1dd 1ff
+=82	=82	=82	=82	=82	=82
+1V	B-:maj	124.119	.	.	1B- 1dd 1ff
+=83	=83	=83	=83	=83	=83
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1-VI7	C-:maj7(#11)	125.646	newline	.	1C- 1e- 1g- 1b-
+=84	=84	=84	=84	=84	=84
+1-VIIm7	D-:11	127.181	.	.	1D- 1f 1a- 1cc
+=85	=85	=85	=85	=85	=85
+1im7	E-:min7	128.715	.	.	1E- 1g- 1b- 1dd
+=86	=86	=86	=86	=86	=86
+1im7	E-:min11	130.249	.	.	1E- 1g- 1b- 1dd
+=87	=87	=87	=87	=87	=87
+1-VI7	C-:maj7(#11)	131.784	.	.	1C- 1e- 1g- 1b-
+=88	=88	=88	=88	=88	=88
+1-VIIm7	D-:11	133.318	.	.	1D- 1f 1a- 1cc
+=89	=89	=89	=89	=89	=89
+1im7	E-:min7	134.852	.	.	1E- 1g- 1b- 1dd
+=90	=90	=90	=90	=90	=90
+1im7	E-:min11	136.387	.	.	1E- 1g- 1b- 1dd
+=91	=91	=91	=91	=91	=91
+1-VI7	C-:maj7(#11)	137.921	.	.	1C- 1e- 1g- 1b-
+=92	=92	=92	=92	=92	=92
+1-VIIm7	D-:11	139.455	.	.	1D- 1f 1a- 1cc
+=93	=93	=93	=93	=93	=93
+1im7	E-:min7	140.99	.	.	1E- 1g- 1b- 1dd
+=94	=94	=94	=94	=94	=94
+1im7	E-:min11	142.524	.	.	1E- 1g- 1b- 1dd
+=95	=95	=95	=95	=95	=95
+1-VI7	C-:maj7(#11)	144.058	newline	voice	1C- 1e- 1g- 1b-
+=96	=96	=96	=96	=96	=96
+1-VIIm7	D-:11	145.581	.	voice	1D- 1f 1a- 1cc
+=97	=97	=97	=97	=97	=97
+1iv	A-:min	147.103	.	voice	1A- 1cc- 1ee-
+=98	=98	=98	=98	=98	=98
+1iv	A-:min	148.625	.	voice	1A- 1cc- 1ee-
+=99	=99	=99	=99	=99	=99
+*>E_interlude	*>E_interlude	*>E_interlude	*>E_interlude	*>E_interlude	*>E_interlude
+1-III	G-:maj(11)	150.147	newline	synthesizer	1G- 1b- 1dd-
+=100	=100	=100	=100	=100	=100
+1ii	F:(b5,11)	151.676	.	synthesizer	1F 1a- 1cc
+=101	=101	=101	=101	=101	=101
+1Vc	B-:5(b7)/5	153.205	.	synthesizer	1b- 1dd 1F
+=102	=102	=102	=102	=102	=102
+1im7	E-:min7	154.734	.	synthesizer	1E- 1g- 1b- 1dd
+=103	=103	=103	=103	=103	=103
+1-III	G-:maj(11)	156.264	.	synthesizer	1G- 1b- 1dd-
+=104	=104	=104	=104	=104	=104
+1ii	F:(b5,11)	157.793	.	synthesizer	1F 1a- 1cc
+=105	=105	=105	=105	=105	=105
+1Vc	B-:5(b7)/5	159.322	.	synthesizer	1b- 1dd 1F
+=106	=106	=106	=106	=106	=106
+1im7	E-:min7	160.851	.	synthesizer	1E- 1g- 1b- 1dd
+=107	=107	=107	=107	=107	=107
+1-III	G-:maj(11)	162.38	.	synthesizer	1G- 1b- 1dd-
+=108	=108	=108	=108	=108	=108
+1ii	F:(b5,11)	163.909	.	synthesizer	1F 1a- 1cc
+=109	=109	=109	=109	=109	=109
+1Vc	B-:5(b7)/5	165.439	.	synthesizer	1b- 1dd 1F
+=110	=110	=110	=110	=110	=110
+1im7	E-:min7	166.968	.	synthesizer	1E- 1g- 1b- 1dd
+=111	=111	=111	=111	=111	=111
+1-III	G-:maj(11)	168.497	.	synthesizer	1G- 1b- 1dd-
+=112	=112	=112	=112	=112	=112
+1ii	F:(b5,11)	170.026	.	synthesizer	1F 1a- 1cc
+=113	=113	=113	=113	=113	=113
+1Vc	B-:5(b7)/5	171.555	.	synthesizer	1b- 1dd 1F
+=114	=114	=114	=114	=114	=114
+1im7	E-:min7	173.084	.	synthesizer	1E- 1g- 1b- 1dd
+=115	=115	=115	=115	=115	=115
+*>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo
+1i	E-:min(b13)	174.614	newline	guitar	1E- 1g- 1b-
+=116	=116	=116	=116	=116	=116
+1i	E-:min6	176.112	.	guitar	1E- 1g- 1b-
+=117	=117	=117	=117	=117	=117
+1im7	E-:min7	177.61	.	guitar	1E- 1g- 1b- 1dd
+=118	=118	=118	=118	=118	=118
+1I7	E-:maj9	179.109	.	guitar	1E- 1g 1b- 1dd
+=119	=119	=119	=119	=119	=119
+1-VI	C-:maj	180.607	newline	guitar	1C- 1e- 1g-
+=120	=120	=120	=120	=120	=120
+1-VIId	D-:maj/b7	182.157	.	guitar	1d- 1f 1a-
+=121	=121	=121	=121	=121	=121
+1-VI	C-:maj	183.708	.	guitar	1C- 1e- 1g-
+=122	=122	=122	=122	=122	=122
+2V	B-:sus4	185.258	.	guitar	2B- 2dd 2ff
+2V	B-:maj	186.033	.	guitar	2B- 2dd 2ff
+=123	=123	=123	=123	=123	=123
+1i	E-:min(b13)	186.809	newline	guitar	1E- 1g- 1b-
+=124	=124	=124	=124	=124	=124
+1i	E-:min6	188.339	.	guitar	1E- 1g- 1b-
+=125	=125	=125	=125	=125	=125
+1im7	E-:min7	189.87	.	guitar	1E- 1g- 1b- 1dd
+=126	=126	=126	=126	=126	=126
+1I7	E-:maj9	191.401	.	guitar	1E- 1g 1b- 1dd
+=127	=127	=127	=127	=127	=127
+1-VI	C-:maj	192.932	newline	guitar	1C- 1e- 1g-
+=128	=128	=128	=128	=128	=128
+1-VIId	D-:maj/b7	194.465	.	guitar	1d- 1f 1a-
+=129	=129	=129	=129	=129	=129
+1-VI	C-:maj	195.998	.	guitar	1C- 1e- 1g-
+=130	=130	=130	=130	=130	=130
+2V	B-:sus4	197.531	.	guitar	2B- 2dd 2ff
+2V	B-:maj	198.297	.	guitar	2B- 2dd 2ff
+=131	=131	=131	=131	=131	=131
+*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus
+1IVm7	A-:7	199.064	newline	voice	1A- 1cc 1ee- 1gg
+=132	=132	=132	=132	=132	=132
+1IVm7	A-:7	200.567	.	voice	1A- 1cc 1ee- 1gg
+=133	=133	=133	=133	=133	=133
+1V+	B-:aug	202.071	.	voice	1B- 1dd 1ff#
+=134	=134	=134	=134	=134	=134
+1V+	B-:aug	203.575	.	voice	1B- 1dd 1ff#
+=135	=135	=135	=135	=135	=135
+1-VI	C-:maj	205.079	newline	voice	1C- 1e- 1g-
+=136	=136	=136	=136	=136	=136
+1-VI	C-:maj	206.648	.	voice	1C- 1e- 1g-
+=137	=137	=137	=137	=137	=137
+1V	B-:sus4	208.217	.	voice	1B- 1dd 1ff
+=138	=138	=138	=138	=138	=138
+1V	B-:maj	209.786	.	voice	1B- 1dd 1ff
+=139	=139	=139	=139	=139	=139
+*>B_outro	*>B_outro	*>B_outro	*>B_outro	*>B_outro	*>B_outro
+1-VI7	C-:maj7(#11)	211.355	newline	.	1C- 1e- 1g- 1b-
+=140	=140	=140	=140	=140	=140
+1-VIIm7	D-:11	212.877	.	.	1D- 1f 1a- 1cc
+=141	=141	=141	=141	=141	=141
+1im7	E-:min7	214.4	.	.	1E- 1g- 1b- 1dd
+=142	=142	=142	=142	=142	=142
+1im7	E-:min11	215.923	.	.	1E- 1g- 1b- 1dd
+=143	=143	=143	=143	=143	=143
+1-VI7	C-:maj7(#11)	217.445	.	.	1C- 1e- 1g- 1b-
+=144	=144	=144	=144	=144	=144
+1-VIIm7	D-:11	218.968	.	.	1D- 1f 1a- 1cc
+=145	=145	=145	=145	=145	=145
+1im7	E-:min7	220.49	.	.	1E- 1g- 1b- 1dd
+=146	=146	=146	=146	=146	=146
+1im7	E-:min11	222.013	.	.	1E- 1g- 1b- 1dd
+=147	=147	=147	=147	=147	=147
+1-VI7	C-:maj7(#11)	223.536	.	.	1C- 1e- 1g- 1b-
+=148	=148	=148	=148	=148	=148
+1-VIIm7	D-:11	225.058	.	.	1D- 1f 1a- 1cc
+=149	=149	=149	=149	=149	=149
+1im7	E-:min7	226.581	.	.	1E- 1g- 1b- 1dd
+=150	=150	=150	=150	=150	=150
+1im7	E-:min11	228.104	.	.	1E- 1g- 1b- 1dd
+=151	=151	=151	=151	=151	=151
+1-VI7	C-:maj7(#11)	229.626	newline	.	1C- 1e- 1g- 1b-
+=152	=152	=152	=152	=152	=152
+1-VIIm7	D-:11	231.151	.	.	1D- 1f 1a- 1cc
+=153	=153	=153	=153	=153	=153
+1iv	A-:min	232.675	.	.	1A- 1cc- 1ee-
+=154	=154	=154	=154	=154	=154
+1iv	A-:min	234.2	.	.	1A- 1cc- 1ee-
+=155	=155	=155	=155	=155	=155
+*>B_outro	*>B_outro	*>B_outro	*>B_outro	*>B_outro	*>B_outro
+1-VI7	C-:maj7(#11)	235.725	newline	fadeout voice	1C- 1e- 1g- 1b-
+=156	=156	=156	=156	=156	=156
+1-VIIm7	D-:11	236.93	.	fadeout voice	1D- 1f 1a- 1cc
+=157	=157	=157	=157	=157	=157
+1im7	E-:min7	238.136	.	fadeout voice	1E- 1g- 1b- 1dd
+=158	=158	=158	=158	=158	=158
+1im7	E-:min11	239.342	.	fadeout voice	1E- 1g- 1b- 1dd
+=159	=159	=159	=159	=159	=159
+1-VI7	C-:maj7(#11)	240.547	.	fadeout voice	1C- 1e- 1g- 1b-
+=160	=160	=160	=160	=160	=160
+1-VIIm7	D-:11	241.753	.	fadeout voice	1D- 1f 1a- 1cc
+=161	=161	=161	=161	=161	=161
+1im7	E-:min7	242.959	.	fadeout voice	1E- 1g- 1b- 1dd
+=162	=162	=162	=162	=162	=162
+1im7	E-:min11	244.165	.	fadeout voice	1E- 1g- 1b- 1dd
+=163	=163	=163	=163	=163	=163
+1-VI7	C-:maj7(#11)	245.37	.	fadeout voice	1C- 1e- 1g- 1b-
+=164	=164	=164	=164	=164	=164
+1-VIIm7	D-:11	246.576	.	fadeout voice	1D- 1f 1a- 1cc
+=165	=165	=165	=165	=165	=165
+1im7	E-:min7	247.782	.	fadeout voice	1E- 1g- 1b- 1dd
+=166	=166	=166	=166	=166	=166
+1im7	E-:min11	248.988	.	fadeout voice	1E- 1g- 1b- 1dd
+1r;	N	250.193	.	r	1r;
+1r;	N	252.682	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Maniac
+!!!COC: Michael Sembello
+!!!BillboardChartDate: 1983/06/25
+!!!BillboardPeak: 1
+!!!BillboardWeeksOnChart: 22
+!!!SampleTargetRank: 49
+!!!SampleActualRank: 48
+!!!SampleID#: 0553
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

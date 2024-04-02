@@ -1,0 +1,158 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*D:	*D:	*	*	*	*D:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	D:maj	0.302	newline	r	1D 1f# 1a
+=2	=2	=2	=2	=2	=2
+1I	D:maj	2.522	.	r	1D 1f# 1a
+=3	=3	=3	=3	=3	=3
+1I	D:maj	4.742	.	r	1D 1f# 1a
+=4	=4	=4	=4	=4	=4
+1I	D:maj	6.963	.	r	1D 1f# 1a
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:maj	9.183	newline	voice	1D 1f# 1a
+=6	=6	=6	=6	=6	=6
+1I	D:maj	11.334	.	voice	1D 1f# 1a
+=7	=7	=7	=7	=7	=7
+1I	D:maj	13.484	.	voice	1D 1f# 1a
+=8	=8	=8	=8	=8	=8
+1I	D:maj	15.635	.	voice	1D 1f# 1a
+=9	=9	=9	=9	=9	=9
+1ii	E:min	17.786	.	voice	1E 1g 1b
+=10	=10	=10	=10	=10	=10
+1ii	E:min	19.936	.	voice	1E 1g 1b
+=11	=11	=11	=11	=11	=11
+1ii	E:min	22.087	newline	voice	1E 1g 1b
+=12	=12	=12	=12	=12	=12
+1ii	E:min	24.236	.	voice	1E 1g 1b
+=13	=13	=13	=13	=13	=13
+1ii	E:min	26.386	.	voice	1E 1g 1b
+=14	=14	=14	=14	=14	=14
+1ii	E:min	28.535	.	voice	1E 1g 1b
+=15	=15	=15	=15	=15	=15
+1I	D:maj	30.685	.	voice	1D 1f# 1a
+=16	=16	=16	=16	=16	=16
+1I	D:maj	32.834	.	voice	1D 1f# 1a
+=17	=17	=17	=17	=17	=17
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:maj	34.983	newline	voice	1D 1f# 1a
+=18	=18	=18	=18	=18	=18
+1I	D:maj	37.149	.	voice	1D 1f# 1a
+=19	=19	=19	=19	=19	=19
+1I	D:maj	39.314	.	voice	1D 1f# 1a
+=20	=20	=20	=20	=20	=20
+1I	D:maj	41.48	.	voice	1D 1f# 1a
+=21	=21	=21	=21	=21	=21
+1ii	E:min	43.645	.	voice	1E 1g 1b
+=22	=22	=22	=22	=22	=22
+1ii	E:min	45.811	.	voice	1E 1g 1b
+=23	=23	=23	=23	=23	=23
+1ii	E:min	47.976	newline	voice	1E 1g 1b
+=24	=24	=24	=24	=24	=24
+1ii	E:min	50.155	.	voice	1E 1g 1b
+=25	=25	=25	=25	=25	=25
+1ii	E:min	52.333	.	voice	1E 1g 1b
+=26	=26	=26	=26	=26	=26
+1ii	E:min	54.511	.	voice	1E 1g 1b
+=27	=27	=27	=27	=27	=27
+1I	D:maj	56.689	.	voice	1D 1f# 1a
+=28	=28	=28	=28	=28	=28
+1I	D:maj	58.867	.	voice	1D 1f# 1a
+=29	=29	=29	=29	=29	=29
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+1-VI	B-:maj	61.045	newline	voice	1B- 1dd 1ff
+=30	=30	=30	=30	=30	=30
+1-VI	B-:maj	63.187	.	voice	1B- 1dd 1ff
+=31	=31	=31	=31	=31	=31
+1-VI	B-:maj	65.328	.	voice	1B- 1dd 1ff
+=32	=32	=32	=32	=32	=32
+1-VI	B-:maj	67.469	.	voice	1B- 1dd 1ff
+=33	=33	=33	=33	=33	=33
+1-VI	B-:maj	69.611	newline	voice	1B- 1dd 1ff
+=34	=34	=34	=34	=34	=34
+1-VI	B-:maj	71.768	.	voice	1B- 1dd 1ff
+=35	=35	=35	=35	=35	=35
+1-IIIm7	F:7	73.926	.	voice	1F 1a 1cc 1ee
+=36	=36	=36	=36	=36	=36
+1-IIIm7	F:7	76.083	.	voice	1F 1a 1cc 1ee
+=37	=37	=37	=37	=37	=37
+1-IIIm7	F:7	78.24	newline	voice	1F 1a 1cc 1ee
+=38	=38	=38	=38	=38	=38
+1-IIIm7	F:7	80.414	.	voice	1F 1a 1cc 1ee
+=39	=39	=39	=39	=39	=39
+1-VI	B-:maj	82.588	.	voice	1B- 1dd 1ff
+=40	=40	=40	=40	=40	=40
+1-VI	B-:maj	84.762	.	voice	1B- 1dd 1ff
+=41	=41	=41	=41	=41	=41
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:maj	86.936	newline	voice	1D 1f# 1a
+=42	=42	=42	=42	=42	=42
+1I	D:maj	89.14	.	voice	1D 1f# 1a
+=43	=43	=43	=43	=43	=43
+1I	D:maj	91.344	.	voice	1D 1f# 1a
+=44	=44	=44	=44	=44	=44
+1I	D:maj	93.548	.	voice	1D 1f# 1a
+=45	=45	=45	=45	=45	=45
+1ii	E:min	95.752	.	voice	1E 1g 1b
+=46	=46	=46	=46	=46	=46
+1ii	E:min	97.956	.	voice	1E 1g 1b
+=47	=47	=47	=47	=47	=47
+1ii	E:min	100.16	newline	voice	1E 1g 1b
+=48	=48	=48	=48	=48	=48
+1ii	E:min	102.372	.	voice	1E 1g 1b
+=49	=49	=49	=49	=49	=49
+1ii	E:min	104.583	.	voice	1E 1g 1b
+=50	=50	=50	=50	=50	=50
+1ii	E:min	106.794	.	voice	1E 1g 1b
+=51	=51	=51	=51	=51	=51
+1I	D:maj	109.005	.	voice	1D 1f# 1a
+=52	=52	=52	=52	=52	=52
+1I	D:maj	111.216	.	voice	1D 1f# 1a
+=53	=53	=53	=53	=53	=53
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:maj	113.427	newline	voice	1D 1f# 1a
+=54	=54	=54	=54	=54	=54
+1I	D:maj	115.619	.	voice	1D 1f# 1a
+=55	=55	=55	=55	=55	=55
+1I	D:maj	117.811	.	voice	1D 1f# 1a
+=56	=56	=56	=56	=56	=56
+1I	D:maj	120.004	.	voice	1D 1f# 1a
+=57	=57	=57	=57	=57	=57
+1ii	E:min	122.196	.	voice	1E 1g 1b
+=58	=58	=58	=58	=58	=58
+1ii	E:min	124.388	.	voice	1E 1g 1b
+=59	=59	=59	=59	=59	=59
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1ii	E:min	126.58	newline	voice	1E 1g 1b
+=60	=60	=60	=60	=60	=60
+1ii	E:min	128.34	.	voice	1E 1g 1b
+=61	=61	=61	=61	=61	=61
+1ii	E:min	130.099	.	voice	1E 1g 1b
+=62	=62	=62	=62	=62	=62
+1ii	E:min	131.859	.	voice	1E 1g 1b
+=63	=63	=63	=63	=63	=63
+1I	D:maj	133.618	.	voice	1D 1f# 1a
+=64	=64	=64	=64	=64	=64
+1I	D:maj	135.378	.	voice	1D 1f# 1a
+1r;	N	137.137	.	r	1r;
+1r;	N	141.923	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Love Me Warm And Tender
+!!!COC: Paul Anka
+!!!BillboardChartDate: 1962/05/12
+!!!BillboardPeak: 12
+!!!BillboardWeeksOnChart: 12
+!!!SampleTargetRank: 36
+!!!SampleActualRank: 34
+!!!SampleID#: 0196
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

@@ -1,0 +1,656 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*F:	*F:	*	*	*	*	*	*F:
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1I	F:maj	.	.	0.255	newline	strings	1F 1a 1cc
+=2	=2	=2	=2	=2	=2	=2	=2
+1I	F:maj	.	.	2.019	.	strings	1F 1a 1cc
+=3	=3	=3	=3	=3	=3	=3	=3
+1IV	B-:maj	.	.	3.782	.	strings	1B- 1dd 1ff
+=4	=4	=4	=4	=4	=4	=4	=4
+2.IV	B-:maj	.	.	5.545	.	strings	1B- 1dd 1ff
+4V	C:maj	.	.	6.867	.	strings	4C 4e 4g
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	.	.	7.308	newline	voice	1F 1a 1cc
+.	.	Hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	how	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1I	F:maj	_	.	9.027	.	voice	1F 1a 1cc
+.	.	you	.	.	.	.	.
+.	.	thrill	(B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	me	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+1IV	B-:maj	hah	.	10.745	.	voice	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+1IV	B-:maj	.	.	12.464	.	voice	1B- 1dd 1ff
+=9	=9	=9	=9	=9	=9	=9	=9
+1I	F:maj	.	.	14.182	.	voice	1F 1a 1cc
+.	.	Hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	near-	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1I	F:maj	_	.	15.901	.	voice	1F 1a 1cc
+.	.	-ly	(a	.	.	.	.
+.	.	kill	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	me	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+1IV	B-:maj	hah	.	17.619	.	voice	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1IV	B-:maj	.	.	19.338	.	voice	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I'd	C	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	heard	.	21.056	newline	voice	1F 1a 1cc
+.	.	a-	.	.	.	.	.
+.	.	-bout	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	be-	.	.	.	.	.
+.	.	-fore	D	.	.	.	.
+.	.	_	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1vi	D:min	.	.	22.773	.	voice	1D 1f 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	C	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1I	F:maj	wan-	.	24.489	.	voice	1F 1a 1cc
+.	.	-ted	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	some	.	.	.	.	.
+.	.	more	D	.	.	.	.
+.	.	_	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1vi	D:min	.	.	26.205	.	voice	1D 1f 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1I	F:maj	now	.	27.921	newline	voice	1F 1a 1cc
+.	.	I	C	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	they	.	.	.	.	.
+.	.	mean	E	.	.	.	.
+.	.	_	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1vi	D:min	.	.	29.643	.	voice	1D 1f 1a
+.	.	you're	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	love	.	.	.	.	.
+.	.	ma-	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	-chine	E	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1IV	B-:maj	_	.	31.366	.	voice	1B- 1dd 1ff
+=20	=20	=20	=20	=20	=20	=20	=20
+2.IV	B-:maj	oh	.	33.088	.	voice	2.B- 2.dd 2.ff
+.	.	you	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	diz-	.	.	.	.	.
+4V	C:maj	-zy	.	34.379	.	voice	4C 4e 4g
+=21	=21	=21	=21	=21	=21	=21	=21
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	.	.	34.81	newline	.	1F 1a 1cc
+.	.	Hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	let	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1I	F:maj	_	.	36.519	.	.	1F 1a 1cc
+.	.	me	(a	.	.	.	.
+.	.	feel	B)	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1IV	B-:maj	hah	.	38.228	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1IV	B-:maj	.	.	39.937	.	.	1B- 1dd 1ff
+=25	=25	=25	=25	=25	=25	=25	=25
+1I	F:maj	.	.	41.646	.	.	1F 1a 1cc
+.	.	Hon	(A	.	.	.	.
+.	.	ey	a)	.	.	.	.
+.	.	hon	(A	.	.	.	.
+.	.	ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1I	F:maj	_	.	43.356	.	.	1F 1a 1cc
+.	.	con-	.	.	.	.	.
+.	.	-ceal	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1IV	B-:maj	hah	.	45.065	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1IV	B-:maj	.	.	46.774	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	The	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1I	F:maj	way	.	48.483	newline	.	1F 1a 1cc
+.	.	that	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	kiss	.	.	.	.	.
+.	.	good	.	.	.	.	.
+.	.	night	F	.	.	.	.
+.	.	_	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1vi	D:min	.	.	50.198	.	.	1D 1f 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1I	F:maj	way	.	51.913	.	.	1F 1a 1cc
+.	.	that	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	hold	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	tight	F	.	.	.	.
+.	.	_	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1vi	D:min	.	.	53.628	.	.	1D 1f 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	feel	.	55.343	newline	.	1F 1a 1cc
+.	.	like	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	wa-	.	.	.	.	.
+.	.	-nna	.	.	.	.	.
+.	.	sing	G	.	.	.	.
+.	.	_	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1vi	D:min	.	.	57.043	.	.	1D 1f 1a
+.	.	when	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	do	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	thing	G	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1IV	B-:maj	_	.	58.742	.	.	1B- 1dd 1ff
+=36	=36	=36	=36	=36	=36	=36	=36
+1v	C:sus4(b7)	.	.	60.442	.	.	1C 1e- 1g
+=37	=37	=37	=37	=37	=37	=37	=37
+1V7	C:7	.	.	62.142	.	.	1C 1e 1g 1b-
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1v	C:min	don't	.	63.842	newline	.	1C 1e- 1g
+.	.	wa-	.	.	.	.	.
+.	.	-nna	.	.	.	.	.
+.	.	hurt	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ba-	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1I	F:maj	_	.	65.558	.	.	1F 1a 1cc
+.	.	-by	a	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2IV	B-:maj	don't	.	67.274	.	.	2B- 2dd 2ff
+.	.	wa-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+.	.	see	.	.	.	.	.
+2Ib	F:maj/3	_	.	68.132	.	.	2f 2A 2cc
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	cry	H	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+1ii	G:min	_	.	68.99	.	.	1G 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	so	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1v	C:min	stay	.	70.706	newline	.	1C 1e- 1g
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	ground	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	girl	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1I	F:maj	be-	.	72.399	.	.	1F 1a 1cc
+.	.	-tter	.	.	.	.	.
+.	.	not	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	too	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	high	H	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1IV	B-:maj	_	.	74.092	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1IV	B-:maj	.	.	75.786	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	But	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1i	F:min	I'm	.	77.479	newline	.	1F 1a- 1cc
+.	.	gon-	.	.	.	.	.
+.	.	-na	.	.	.	.	.
+.	.	stick	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1IV	B-:maj	_	.	79.181	.	.	1B- 1dd 1ff
+.	.	boy	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you'll	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+2-VII	E-:maj	ne-	.	80.883	.	.	3...E- 3...g 3...b-
+.	.	-ver	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	rid	.	.	.	.	.
+2IVb	B-:maj/3	.	.	81.734	.	.	4.b- 4.D 4.ff
+.	.	of	.	.	.	.	.
+.	.	me	a	.	.	.	.
+.	.	_	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1-III	A-:maj	_	.	82.585	.	.	1A- 1cc 1ee-
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	there's	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1-III	A-:maj	no	.	84.287	newline	.	1A- 1cc 1ee-
+.	.	oth-	.	.	.	.	.
+.	.	-er	.	.	.	.	.
+.	.	place	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	this	.	.	.	.	.
+.	.	world	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1-VI	D-:maj	_	.	85.995	.	.	1D- 1f 1a-
+.	.	where	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	ra-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ther	.	.	.	.	.
+.	.	would	.	.	.	.	.
+.	.	be	a	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+1ii7	G:min7	_	.	87.703	.	.	1G 1b- 1dd 1ff
+=53	=53	=53	=53	=53	=53	=53	=53
+1V	C:maj	.	.	89.41	.	.	1C 1e 1g
+=54	=54	=54	=54	=54	=54	=54	=54
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	.	.	91.118	newline	.	1F 1a 1cc
+.	.	Hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	touch	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1I	F:maj	_	.	92.823	.	.	1F 1a 1cc
+.	.	me	(a	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-by	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+1IV	B-:maj	hah	.	94.528	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+1IV	B-:maj	.	.	96.233	.	.	1B- 1dd 1ff
+=58	=58	=58	=58	=58	=58	=58	=58
+1I	F:maj	.	.	97.938	.	.	1F 1a 1cc
+.	.	Hon	(A	.	.	.	.
+.	.	ey	a)	.	.	.	.
+.	.	hon	(A	.	.	.	.
+.	.	ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	hold	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1I	F:maj	_	.	99.643	.	.	1F 1a 1cc
+.	.	me	(a	.	.	.	.
+.	.	ba-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-by	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1IV	B-:maj	hah	.	101.348	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1IV	B-:maj	.	.	103.053	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	You	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	look	.	104.758	newline	.	1F 1a 1cc
+.	.	like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	mo-	(I	.	.	.	.
+.	.	-vie	a	.	.	.	.
+.	.	star	i)	.	.	.	.
+.	.	_	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1vi	D:min	.	.	106.453	.	.	1D 1f 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	but	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1I	F:maj	I	.	108.148	.	.	1F 1a 1cc
+.	.	know	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	who	(I	.	.	.	.
+.	.	you	I	.	.	.	.
+.	.	are	i)	.	.	.	.
+.	.	_	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+1vi	D:min	.	.	109.842	.	.	1D 1f 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+1I	F:maj	hon-	(A	111.537	newline	voice	1F 1a 1cc
+.	.	-ey	a)	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	say	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	least	J	.	.	.	.
+.	.	_	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+1vi	D:min	.	.	113.245	.	voice	1D 1f 1a
+.	.	you're	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	dog	.	.	.	.	.
+.	.	gone	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	beast	J	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+1IV	B-:maj	_	.	114.953	.	voice	1B- 1dd 1ff
+=69	=69	=69	=69	=69	=69	=69	=69
+1v	C:sus4(b7)	.	.	116.66	.	voice	1C 1e- 1g
+=70	=70	=70	=70	=70	=70	=70	=70
+1V7	C:7	.	.	118.368	.	voice	1C 1e 1g 1b-
+=71	=71	=71	=71	=71	=71	=71	=71
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1v	C:min	.	.	120.076	newline	strings	1C 1e- 1g
+=72	=72	=72	=72	=72	=72	=72	=72
+1I	F:maj	.	.	121.752	.	strings	1F 1a 1cc
+=73	=73	=73	=73	=73	=73	=73	=73
+2IV	B-:maj	.	.	123.427	.	strings	1B- 1dd 1ff
+2Ib	F:maj/3	.	.	124.265	.	strings	2f 2A 2cc
+=74	=74	=74	=74	=74	=74	=74	=74
+1ii	G:min	.	.	125.103	.	strings	1G 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	So	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1v	C:min	stay	.	126.779	newline	voice	1C 1e- 1g
+.	.	on	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	ground	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	girl	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1I	F:maj	be-	.	128.494	.	voice	1F 1a 1cc
+.	.	-tter	.	.	.	.	.
+.	.	not	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	too	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	high	H	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+1IV	B-:maj	_	.	130.21	.	voice	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+1IV	B-:maj	.	.	131.925	.	voice	1B- 1dd 1ff
+=79	=79	=79	=79	=79	=79	=79	=79
+1i	F:min	.	.	133.64	newline	strings	1F 1a- 1cc
+=80	=80	=80	=80	=80	=80	=80	=80
+1IV	B-:maj	.	.	135.329	.	strings	1B- 1dd 1ff
+=81	=81	=81	=81	=81	=81	=81	=81
+2-VII	E-:maj	.	.	137.019	.	strings	1E- 1g 1b-
+2IVb	B-:maj/3	.	.	137.863	.	strings	2b- 2D 2ff
+=82	=82	=82	=82	=82	=82	=82	=82
+1-III	A-:maj	.	.	138.708	.	strings	1A- 1cc 1ee-
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	there's	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+1-III	A-:maj	no	.	140.397	newline	voice	1A- 1cc 1ee-
+.	.	oth-	.	.	.	.	.
+.	.	-er	.	.	.	.	.
+.	.	place	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	this	.	.	.	.	.
+.	.	world	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1-VI	D-:maj	_	.	142.086	.	voice	1D- 1f 1a-
+.	.	where	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	ra-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-ther	.	.	.	.	.
+.	.	would	.	.	.	.	.
+.	.	be	a	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+1ii7	G:min7	_	.	143.776	.	voice	1G 1b- 1dd 1ff
+=86	=86	=86	=86	=86	=86	=86	=86
+1V	C:maj	.	.	145.466	.	voice	1C 1e 1g
+=87	=87	=87	=87	=87	=87	=87	=87
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	.	.	147.155	newline	.	1F 1a 1cc
+.	.	Hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	how	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1I	F:maj	_	.	148.861	.	.	1F 1a 1cc
+.	.	you	.	.	.	.	.
+.	.	thrill	(B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	me	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89
+1IV	B-:maj	hah	.	150.566	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90
+1IV	B-:maj	.	.	152.271	.	.	1B- 1dd 1ff
+=91	=91	=91	=91	=91	=91	=91	=91
+1I	F:maj	.	.	153.976	.	.	1F 1a 1cc
+.	.	Hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	near-	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92
+1I	F:maj	_	.	155.682	.	.	1F 1a 1cc
+.	.	-ly	(a	.	.	.	.
+.	.	kill	B	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	me	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	ah	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93
+1IV	B-:maj	hah	.	157.387	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	hon-	(A	.	.	.	.
+.	.	-ey	a)	.	.	.	.
+.	.	.	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94
+1IV	B-:maj	.	.	159.092	.	.	1B- 1dd 1ff
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I'd	C	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	F:maj	heard	.	160.798	newline	fadeout	1F 1a 1cc
+.	.	a-	.	.	.	.	.
+.	.	-bout	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	be-	(a	.	.	.	.
+.	.	-fore	D)	.	.	.	.
+.	.	_	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96
+1vi	D:min	.	.	162.48	.	fadeout	1D 1f 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	C	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97
+1I	F:maj	wan-	.	164.163	.	fadeout	1F 1a 1cc
+.	.	-ted	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	some	.	.	.	.	.
+.	.	more	D	.	.	.	.
+.	.	_	.	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98
+1vi	D:min	.	.	165.846	.	fadeout	1D 1f 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99
+1I	F:maj	now	.	167.529	newline	voice	1F 1a 1cc
+.	.	I	C	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	what	.	.	.	.	.
+.	.	they	.	.	.	.	.
+.	.	mean	E	.	.	.	.
+.	.	_	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100
+1vi	D:min	.	.	169.114	.	voice	1D 1f 1a
+.	.	you're	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	love	.	.	.	.	.
+.	.	ma-	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	-chine	E	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101
+1IV	B-:maj	_	.	170.7	.	voice	1B- 1dd 1ff
+=102	=102	=102	=102	=102	=102	=102	=102
+1IV	B-:maj	.	.	172.285	.	voice	1B- 1dd 1ff
+1r;	N	.	.	173.871	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1974/09/21
+!!!BillboardPeak: 27
+!!!BillboardWeeksOnChart: 10
+!!!COC: Abba
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Honey, Honey
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 72
+!!!SampleID#: 0902
+!!!SampleTargetRank: 73
+!!!MBID: 41ddb95e-2c40-4098-a900-753b5e51ed56

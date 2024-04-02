@@ -1,0 +1,729 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*G:	*G:	*	*	*	*	*	*	*G:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1I	G:maj	.	.	.	0.859	newline	r	1G 1b 1dd
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+1I	G:maj	.	.	.	3.405	.	r	1G 1b 1dd
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1I	G:maj	.	.	.	5.95	.	r	1G 1b 1dd
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1I	G:maj	.	.	.	8.496	.	r	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	When	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	night	.	A	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	G:maj	_	.	.	11.041	newline	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	has	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+1I	G:maj	_	.	.	13.54	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	come,	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1vi	E:min	_	.	.	16.039	.	voice	1E 1g 1b
+.	.	.	Hmm.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	land	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1vi	E:min	_	.	.	18.538	.	voice	1E 1g 1b
+.	.	is	.	.	.	.	.	.
+.	.	so	.	.	.	.	.	.
+.	.	dark,	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1IV	C:maj	_	.	.	21.037	newline	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	moon	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+1V	D:maj	.	.	.	23.522	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	on-	.	.	.	.	.	.
+.	.	-ly	.	.	.	.	.	.
+.	.	light	.	A	.	.	.	.
+.	.	we'l	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+1I	G:maj	see	.	B	26.006	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	bro-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-ther:	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+1I	G:maj	.	.	.	28.491	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	No	No	.	.	.	.	.
+.	.	.	I	.	.	.	.	.
+.	.	.	won't.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+1I	G:maj	I	_	.	30.975	newline	voice	1G 1b 1dd
+.	.	won't	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	be	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1I	G:maj	-fraid;	.	.	33.48	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1vi	E:min	_	.	.	35.985	.	voice	1E 1g 1b
+.	.	.	No	.	.	.	.	.
+.	.	.	I	.	.	.	.	.
+.	.	.	won't.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	be	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1vi	E:min	-fraid;	.	.	38.49	.	voice	1E 1g 1b
+.	.	_	.	.	.	.	.	.
+.	.	.	Hmm	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	just	just	.	.	.	.	.
+.	.	as	as	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1IV	C:maj	long	long.	.	40.995	newline	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	as	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+1V	D:maj	you	.	.	43.482	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	stand	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1I	G:maj	me.	.	B	45.97	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1I	G:maj	.	.	.	48.457	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	Oh	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	G:maj	.	stand	.	50.945	newline	voice	1G 1b 1dd
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1I	G:maj	_	.	.	53.447	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	Woh	Woh	.	.	.	.	.
+.	.	Oh	oh	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1vi	E:min	_	stand	.	55.95	.	voice	1E 1g 1b
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	stand	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	by	.	.	.	.	.
+.	.	by	me	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+1vi	E:min	_	_	.	58.453	.	voice	1E 1g 1b
+.	.	me	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Mmm	Mmm	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+1IV	C:maj	hmm	hmm	.	60.956	newline	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	Ah	Ah	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+1V	D:maj	ha	ha	.	63.44	.	voice	1D 1f# 1a
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Stand	Stand	.	.	.	.	.
+.	.	by	by	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+1I	G:maj	_	_	.	65.923	.	voice	1G 1b 1dd
+.	.	me	me	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+1I	G:maj	.	.	.	68.407	.	voice	1G 1b 1dd
+.	.	.	Oh	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	If	.	.	.	.	.
+.	.	.	the	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	G:maj	.	sky	A	70.891	newline	voice	1G 1b 1dd
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	that	.	.	.	.	.
+.	.	.	we	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+1I	G:maj	.	_	.	73.384	.	voice	1G 1b 1dd
+.	.	.	look	.	.	.	.	.
+.	.	.	u-	.	.	.	.	.
+.	.	.	-pon	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+1vi	E:min	.	_	.	75.877	.	voice	1E 1g 1b
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	should	.	.	.	.	.
+.	.	.	crum-	.	.	.	.	.
+.	.	.	-ble	.	.	.	.	.
+.	.	.	and	.	.	.	.	.
+.	.	.	fall	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+1vi	E:min	.	_	.	78.37	.	voice	1E 1g 1b
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+1IV	C:maj	or	.	.	80.863	newline	voice	1C 1e 1g
+.	.	the	.	.	.	.	.	.
+.	.	moun-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-tains	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+1V	D:maj	.	.	.	83.347	.	voice	1D 1f# 1a
+.	.	.	Mm	.	.	.	.	.
+.	.	should	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	crum-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-ble	.	.	.	.	.	.
+.	.	down	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+1I	G:maj	sea	.	B	85.83	.	voice	1G 1b 1dd
+.	.	Oh	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	yeah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+1I	G:maj	.	.	.	88.313	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+.	.	won't	won't	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+1I	G:maj	cry	cry	A	90.796	newline	voice	1G 1b 1dd
+.	.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	I	.	.	.	.	.
+.	.	.	won't	.	.	.	.	.
+.	.	.	cry	.	.	.	.	.
+.	.	I	_	.	.	.	.	.
+.	.	.	I	.	.	.	.	.
+.	.	won't	won't	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1I	G:maj	cry	cry	.	93.274	.	voice	1G 1b 1dd
+.	.	.	no	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	no	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	I	_	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1vi	E:min	won't	.	.	95.751	.	voice	1E 1g 1b
+.	.	_	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	won't	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	shed	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+1vi	E:min	a	.	.	98.228	.	voice	1E 1g 1b
+.	.	tear	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	as	Just	.	.	.	.	.
+.	.	long	as	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+1IV	C:maj	_	long	.	100.705	newline	voice	1C 1e 1g
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	as	.	.	.	.	.	.
+.	.	.	as	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1V	D:maj	you	you	.	103.181	.	voice	1D 1f# 1a
+.	.	_	.	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	stand	stand	.	.	.	.	.
+.	.	by	by	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+1I	G:maj	me	me	B	105.657	.	voice	1G 1b 1dd
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+1I	G:maj	.	.	.	108.132	.	voice	1G 1b 1dd
+.	.	Don't	Don't	.	.	.	.	.
+.	.	you	you	.	.	.	.	.
+.	.	worry	wor-	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	-ry	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	.	Oh!	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	G:maj	Stand	.	.	110.608	newline	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1I	G:maj	_	.	.	113.067	.	voice	1G 1b 1dd
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	Oh	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1vi	E:min	stand	stand	.	115.525	.	voice	1E 1g 1b
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	by	by	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+1vi	E:min	_	_	.	117.983	.	voice	1E 1g 1b
+.	.	me	me	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Oh	.	.	.	.	.
+.	.	.	hoo	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+1IV	C:maj	.	_	.	120.442	newline	voice	1C 1e 1g
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+1V	D:maj	_	.	.	122.877	.	voice	1D 1f# 1a
+.	.	stand	stand	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+1I	G:maj	.	Stand	.	125.312	.	voice	1G 1b 1dd
+.	.	.	by	.	.	.	.	.
+.	.	Oh	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	yeah	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+1I	G:maj	yeah	.	.	127.747	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	Mmm	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	hmm	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+1I	G:maj	.	_	.	130.183	newline	voice	1G 1b 1dd
+.	.	yeah	yeah	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+1I	G:maj	.	.	.	132.656	.	voice	1G 1b 1dd
+.	.	.	Da-	.	.	.	.	.
+.	.	.	-vid	.	.	.	.	.
+.	.	.	stand	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	by	.	.	.	.	.
+.	.	.	my	.	.	.	.	.
+.	.	.	side	A	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+1vi	E:min	.	_	.	135.129	.	voice	1E 1g 1b
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+1vi	E:min	.	.	.	137.601	.	voice	1E 1g 1b
+.	.	.	.	.	.	.	.	.
+.	.	ev-	.	.	.	.	.	.
+.	.	-e-	.	.	.	.	.	.
+.	.	-ry	.	.	.	.	.	.
+.	.	once	.	.	.	.	.	.
+.	.	in	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	while	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1IV	C:maj	_	.	.	140.074	newline	voice	1C 1e 1g
+.	.	I	.	.	.	.	.	.
+.	.	might	.	.	.	.	.	.
+.	.	need	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	ride	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1V	D:maj	.	.	.	142.55	.	voice	1D 1f# 1a
+.	.	Oh	.	.	.	.	.	.
+.	.	come	.	.	.	.	.	.
+.	.	on	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	stand	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+1I	G:maj	.	.	.	145.026	.	voice	1G 1b 1dd
+.	.	.	Look-	.	.	.	.	.
+.	.	.	-a	.	.	.	.	.
+.	.	stand	here	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	stand	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+1I	G:maj	_	.	.	147.502	.	voice	1G 1b 1dd
+.	.	_	If	.	.	.	.	.
+.	.	.	you're	.	.	.	.	.
+.	.	.	e-	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	-ver	.	.	.	.	.
+.	.	.	in	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	trou-	.	.	.	.	.
+.	.	.	-ble	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+1I	G:maj	.	.	.	149.978	newline	voice	1G 1b 1dd
+.	.	Stand	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+1I	G:maj	_	.	.	152.445	.	voice	1G 1b 1dd
+.	.	_	Da-	.	.	.	.	.
+.	.	.	-vid	.	.	.	.	.
+.	.	.	just	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	look	.	.	.	.	.
+.	.	.	o-	.	.	.	.	.
+.	.	.	-ver	.	.	.	.	.
+.	.	.	your	.	.	.	.	.
+.	.	.	shou-	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+1vi	E:min	.	-lder	.	154.912	.	voice	1E 1g 1b
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	I'll	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	be	.	.	.	.	.	.
+.	.	stan-	.	.	.	.	.	.
+.	.	-din'	.	.	.	.	.	.
+.	.	there	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+1vi	E:min	_	.	.	157.379	.	voice	1E 1g 1b
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	You	.	.	.	.	.
+.	.	.	gon-	.	.	.	.	.
+.	.	.	-na'	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+1IV	C:maj	.	find	.	159.846	newline	voice	1C 1e 1g
+.	.	.	me	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	stand-	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	stand-	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+1V	D:maj	.	-ing	.	162.295	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Stand-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-ing	.	.	.	.	.	.
+.	.	right	Stand-	.	.	.	.	.
+.	.	there	-ing	.	.	.	.	.
+.	.	.	right	.	.	.	.	.
+.	.	by	there	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+1I	G:maj	your	_	.	164.745	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	side	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+1I	G:maj	.	.	.	167.195	.	voice	1G 1b 1dd
+.	.	Don't	Don't	.	.	.	.	.
+.	.	you	you	.	.	.	.	.
+.	.	wor-	wor-	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	-ry	-ry	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1I	G:maj	Stand	Stand	.	169.645	newline	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	.	by	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+1I	G:maj	_	_	.	172.1	.	voice	1G 1b 1dd
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	ma-	.	.	.	.	.	.
+.	.	-ma	.	.	.	.	.	.
+.	.	.	Oh	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1vi	E:min	.	stand	.	174.556	.	voice	1E 1g 1b
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+1vi	E:min	_	.	.	177.012	.	voice	1E 1g 1b
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Ooh	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+1IV	C:maj	Come	_	.	179.467	newline	voice	1C 1e 1g
+.	.	on!	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	Uh	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1V	D:maj	come	.	.	181.914	.	voice	1D 1f# 1a
+.	.	on!	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Stand	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	Stand	.	.	.	.	.	.
+.	.	up	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+1I	G:maj	_	.	.	184.361	.	voice	1G 1b 1dd
+.	.	me	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Stand	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	by	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+1I	G:maj	Ooh	.	.	186.807	.	voice	1G 1b 1dd
+.	.	.	Ooh	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1I	G:maj	Stand	.	.	189.254	newline	voice	1G 1b 1dd
+.	.	.	Stand	.	.	.	.	.
+.	.	Stand	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	by	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+1I	G:maj	.	_	.	191.69	.	voice	1G 1b 1dd
+.	.	Oh	.	.	.	.	.	.
+.	.	.	come	.	.	.	.	.
+.	.	come	on	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	m-	.	.	.	.	.	.
+.	.	.	Oh	.	.	.	.	.
+.	.	-e	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+1vi	E:min	_	stand	.	194.125	.	voice	1E 1g 1b
+.	.	.	_	.	.	.	.	.
+.	.	Oh	.	.	.	.	.	.
+.	.	.	and	.	.	.	.	.
+.	.	_	stand	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	by	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	x	me	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+1vi	E:min	x	_	.	196.561	.	voice	1E 1g 1b
+.	.	right	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	side	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	X	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	x	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+1IV	C:maj	.	x	.	198.996	newline	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	Stand	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+1V	D:maj	.	Stand	.	201.425	.	voice	1D 1f# 1a
+.	.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	By	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+1I	G:maj	_	.	.	203.854	.	voice	1G 1b 1dd
+.	.	me	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	Stand	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	by	.	.	.	.	.
+.	.	.	me	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+1I	G:maj	.	.	.	206.283	.	voice	1G 1b 1dd
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+1I	G:maj	.	.	.	208.713	newline	voice	1G 1b 1dd
+.	.	.	Yeah!	.	.	.	.	.
+.	.	Stand	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+1I	G:maj	.	.	.	211.142	.	voice	1G 1b 1dd
+.	.	Woh	.	.	.	.	.	.
+.	.	_	Come	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	on	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	oh	yeah	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+1vi	E:min	.	.	.	213.571	.	voice	1E 1g 1b
+.	.	.	Yeah!	.	.	.	.	.
+.	.	Stand	.	.	.	.	.	.
+.	.	by	.	.	.	.	.	.
+.	.	me	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+1vi	E:min	.	.	.	216.001	.	voice	1E 1g 1b
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+1IV	C:maj	.	.	.	218.43	newline	fadeout voice	1C 1e 1g
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+1V	D:maj	.	.	.	220.932	.	fadeout voice	1D 1f# 1a
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+1I	G:maj	.	.	.	223.434	.	fadeout voice	1G 1b 1dd
+=92	=92	=92	=92	=92	=92	=92	=92	=92
+1I	G:maj	.	.	.	225.936	.	fadeout voice	1G 1b 1dd
+1r;	N	.	.	.	228.438	.	r	1r;
+1r;	N	.	.	.	228.702	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1970/11/28
+!!!BillboardPeak: 61
+!!!BillboardWeeksOnChart: 7
+!!!COC: David Ruffin & Jimmy Ruffin
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Stand By Me
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 61
+!!!SampleID#: 0119
+!!!SampleTargetRank: 61
+!!!MBID: 7e18e389-5cae-4358-ad53-9a6e4d0e309a

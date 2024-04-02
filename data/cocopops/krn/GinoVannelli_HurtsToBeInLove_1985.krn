@@ -1,0 +1,194 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*e:	*e:	*	*	*	*e:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1-VI7	C:maj7	2.148	newline	synthesizer	1C- 1e- 1g- 1b
+=2	=2	=2	=2	=2	=2
+1-VII	D:maj6	4.954	.	synthesizer	1D 1f# 1a
+=3	=3	=3	=3	=3	=3
+1-VI7	C:maj7	7.76	.	synthesizer	1C- 1e- 1g- 1b
+=4	=4	=4	=4	=4	=4
+1-VII	D:maj6	10.566	.	synthesizer	1D 1f# 1a
+=5	=5	=5	=5	=5	=5
+1-VI7	C:maj7	13.372	newline	synthesizer	1C- 1e- 1g- 1b
+=6	=6	=6	=6	=6	=6
+1-VII	D:maj6	16.158	.	synthesizer	1D 1f# 1a
+=7	=7	=7	=7	=7	=7
+1-VI7	C:maj7	18.943	.	synthesizer	1C- 1e- 1g- 1b
+=8	=8	=8	=8	=8	=8
+1-VII	D:maj6	21.729	.	synthesizer	1D 1f# 1a
+=9	=9	=9	=9	=9	=9
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1-VIIe	D:maj/2	24.514	newline	voice	1D 1f# 1a
+=10	=10	=10	=10	=10	=10
+1i	E:min	27.311	.	voice	1E 1g 1b
+=11	=11	=11	=11	=11	=11
+1-VIIe	D:maj/2	30.108	.	voice	1D 1f# 1a
+=12	=12	=12	=12	=12	=12
+1i	E:min	32.905	.	voice	1E 1g 1b
+=13	=13	=13	=13	=13	=13
+1-VIIe	D:maj/2	35.702	newline	voice	1D 1f# 1a
+=14	=14	=14	=14	=14	=14
+1i	E:min	38.522	.	voice	1E 1g 1b
+=15	=15	=15	=15	=15	=15
+1-VIIe	D:maj/2	41.341	.	voice	1D 1f# 1a
+=16	=16	=16	=16	=16	=16
+1I	E:maj	44.161	.	voice	1E 1g# 1b
+=17	=17	=17	=17	=17	=17
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1-VI7	C:maj7	46.981	newline	voice	1C- 1e- 1g- 1b
+=18	=18	=18	=18	=18	=18
+1-VII	D:maj6	49.796	.	voice	1D 1f# 1a
+=19	=19	=19	=19	=19	=19
+1-VI7	C:maj7	52.612	.	voice	1C- 1e- 1g- 1b
+=20	=20	=20	=20	=20	=20
+1-VII	D:maj6	55.428	.	voice	1D 1f# 1a
+=21	=21	=21	=21	=21	=21
+1-VI7	C:maj7	58.243	newline	voice	1C- 1e- 1g- 1b
+=22	=22	=22	=22	=22	=22
+1V7	B:7	61.098	.	voice	1B 1dd# 1ff# 1aa
+=23	=23	=23	=23	=23	=23
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1-VIIe	D:maj/2	63.952	newline	voice	1D 1f# 1a
+=24	=24	=24	=24	=24	=24
+1i	E:min	66.769	.	voice	1E 1g 1b
+=25	=25	=25	=25	=25	=25
+1-VIIe	D:maj/2	69.587	.	voice	1D 1f# 1a
+=26	=26	=26	=26	=26	=26
+1i	E:min	72.405	.	voice	1E 1g 1b
+=27	=27	=27	=27	=27	=27
+1-VIIe	D:maj/2	75.223	newline	voice	1D 1f# 1a
+=28	=28	=28	=28	=28	=28
+1i	E:min	78.018	.	voice	1E 1g 1b
+=29	=29	=29	=29	=29	=29
+1-VIIe	D:maj/2	80.813	.	voice	1D 1f# 1a
+=30	=30	=30	=30	=30	=30
+1I	E:maj	83.609	.	voice	1E 1g# 1b
+=31	=31	=31	=31	=31	=31
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1-VI7	C:maj7	86.404	newline	voice	1C- 1e- 1g- 1b
+=32	=32	=32	=32	=32	=32
+1-VII	D:maj6	89.249	.	voice	1D 1f# 1a
+=33	=33	=33	=33	=33	=33
+1-VI7	C:maj7	92.095	.	voice	1C- 1e- 1g- 1b
+=34	=34	=34	=34	=34	=34
+1-VII	D:maj6	94.94	.	voice	1D 1f# 1a
+=35	=35	=35	=35	=35	=35
+1-VI7	C:maj7	97.785	newline	voice	1C- 1e- 1g- 1b
+=36	=36	=36	=36	=36	=36
+1V7	B:7	100.628	.	voice	1B 1dd# 1ff# 1aa
+=37	=37	=37	=37	=37	=37
+*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+1i	E:min	103.471	newline	voice	1E 1g 1b
+=38	=38	=38	=38	=38	=38
+2-VIId	D:maj/b7	106.322	.	voice	2d 2f# 2a
+2-VI	C:maj	107.748	.	voice	2C- 2e- 2g-
+=39	=39	=39	=39	=39	=39
+2-VII	D:sus4	109.173	.	voice	2D 2f# 2a
+2-VIId	D:maj/b7	110.599	.	voice	2d 2f# 2a
+=40	=40	=40	=40	=40	=40
+2v	B:sus4(b7)	112.024	.	voice	2B 2dd 2ff#
+2v7	B:min7	113.449	.	voice	2B 2dd 2ff# 2aa
+=41	=41	=41	=41	=41	=41
+1i	E:min	114.875	newline	voice	1E 1g 1b
+=42	=42	=42	=42	=42	=42
+2-VIId	D:maj/b7	117.735	.	voice	2d 2f# 2a
+2-VI	C:maj	119.165	.	voice	2C- 2e- 2g-
+=43	=43	=43	=43	=43	=43
+1iv	A:min	120.595	.	voice	1A 1cc 1ee
+=44	=44	=44	=44	=44	=44
+1v	B:sus4(b7)	123.455	.	voice	1B 1dd 1ff#
+=45	=45	=45	=45	=45	=45
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1-VI7	C:maj7	126.315	newline	synthesizer	1C- 1e- 1g- 1b
+=46	=46	=46	=46	=46	=46
+1-VII	D:maj6	129.138	.	synthesizer	1D 1f# 1a
+=47	=47	=47	=47	=47	=47
+1-VI7	C:maj7	131.961	.	synthesizer	1C- 1e- 1g- 1b
+=48	=48	=48	=48	=48	=48
+1-VII	D:maj6	134.783	.	synthesizer	1D 1f# 1a
+=49	=49	=49	=49	=49	=49
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1-VIIe	D:maj/2	137.606	newline	synthesizer	1D 1f# 1a
+=50	=50	=50	=50	=50	=50
+1i	E:min	140.424	.	synthesizer	1E 1g 1b
+=51	=51	=51	=51	=51	=51
+1-VIIe	D:maj/2	143.243	.	synthesizer	1D 1f# 1a
+=52	=52	=52	=52	=52	=52
+1i	E:min	146.061	.	synthesizer	1E 1g 1b
+=53	=53	=53	=53	=53	=53
+1-VIIe	D:maj/2	148.88	newline	voice	1D 1f# 1a
+=54	=54	=54	=54	=54	=54
+1i	E:min	151.726	.	voice	1E 1g 1b
+=55	=55	=55	=55	=55	=55
+1-VIIe	D:maj/2	154.573	.	voice	1D 1f# 1a
+=56	=56	=56	=56	=56	=56
+1I	E:maj	157.419	.	voice	1E 1g# 1b
+=57	=57	=57	=57	=57	=57
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1-VI7	C:maj7	160.265	newline	voice	1C- 1e- 1g- 1b
+=58	=58	=58	=58	=58	=58
+1-VII	D:maj6	163.11	.	voice	1D 1f# 1a
+=59	=59	=59	=59	=59	=59
+1-VI7	C:maj7	165.955	.	voice	1C- 1e- 1g- 1b
+=60	=60	=60	=60	=60	=60
+1-VII	D:maj6	168.8	.	voice	1D 1f# 1a
+=61	=61	=61	=61	=61	=61
+1-VI7	C:maj7	171.644	newline	voice	1C- 1e- 1g- 1b
+=62	=62	=62	=62	=62	=62
+1V7	B:7	174.484	.	voice	1B 1dd# 1ff# 1aa
+=63	=63	=63	=63	=63	=63
+*>A_outro	*>A_outro	*>A_outro	*>A_outro	*>A_outro	*>A_outro
+1-VI7	C:maj7	177.323	newline	synthesizer	1C- 1e- 1g- 1b
+=64	=64	=64	=64	=64	=64
+1-VII	D:maj6	180.166	.	synthesizer	1D 1f# 1a
+=65	=65	=65	=65	=65	=65
+1-VI7	C:maj7	183.01	.	synthesizer	1C- 1e- 1g- 1b
+=66	=66	=66	=66	=66	=66
+1-VII	D:maj6	185.853	.	synthesizer	1D 1f# 1a
+=67	=67	=67	=67	=67	=67
+1-VI7	C:maj7	188.696	newline	synthesizer	1C- 1e- 1g- 1b
+=68	=68	=68	=68	=68	=68
+1-VII	D:maj6	191.5	.	synthesizer	1D 1f# 1a
+=69	=69	=69	=69	=69	=69
+1-VI7	C:maj7	194.305	.	synthesizer	1C- 1e- 1g- 1b
+=70	=70	=70	=70	=70	=70
+1-VII	D:maj6	197.109	.	synthesizer	1D 1f# 1a
+=71	=71	=71	=71	=71	=71
+1-VI7	C:maj7	199.913	newline	synthesizer	1C- 1e- 1g- 1b
+=72	=72	=72	=72	=72	=72
+1-VII	D:maj6	202.709	.	synthesizer	1D 1f# 1a
+=73	=73	=73	=73	=73	=73
+1-VI7	C:maj7	205.505	.	synthesizer	1C- 1e- 1g- 1b
+=74	=74	=74	=74	=74	=74
+1-VII	D:maj6	208.3	.	synthesizer	1D 1f# 1a
+=75	=75	=75	=75	=75	=75
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1-VI7	C:maj7	211.096	newline	synthesizer	1C- 1e- 1g- 1b
+=76	=76	=76	=76	=76	=76
+1-VII	D:maj6	213.196	.	synthesizer	1D 1f# 1a
+=77	=77	=77	=77	=77	=77
+1-VI7	C:maj7	215.297	.	synthesizer	1C- 1e- 1g- 1b
+=78	=78	=78	=78	=78	=78
+1-VII	D:maj6	217.398	.	synthesizer	1D 1f# 1a
+1r;	N	219.498	.	r	1r;
+1r;	N	222.694	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Hurts To Be In Love
+!!!COC: Gino Vannelli
+!!!BillboardChartDate: 1985/09/28, 1985/11/30
+!!!BillboardPeak: 57, 57
+!!!BillboardWeeksOnChart: 12, 12
+!!!SampleTargetRank: 90, 75
+!!!SampleActualRank: 89, 76
+!!!SampleID#: 62, 1067
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

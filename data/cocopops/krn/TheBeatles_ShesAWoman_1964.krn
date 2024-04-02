@@ -1,0 +1,274 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*A-:	*A-:	*	*	*	*A-:
+1r;	N	0	.	r	1r;
+1r;	N	0.041	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1V7	E-:7	0.372	newline	guitar	1E- 1g 1b- 1dd-
+=2	=2	=2	=2	=2	=2
+1V7	E-:7	1.763	.	guitar	1E- 1g 1b- 1dd-
+=3	=3	=3	=3	=3	=3
+1IVm7	D-:7	3.155	.	guitar	1D- 1f 1a- 1cc
+=4	=4	=4	=4	=4	=4
+1IVm7	D-:7	4.547	.	guitar	1D- 1f 1a- 1cc
+=5	=5	=5	=5	=5	=5
+1Im7	A-:7	5.938	newline	guitar	1A- 1cc 1ee- 1gg
+=6	=6	=6	=6	=6	=6
+1Im7	A-:7	7.321	.	guitar	1A- 1cc 1ee- 1gg
+=7	=7	=7	=7	=7	=7
+1Im7	A-:7	8.703	.	guitar	1A- 1cc 1ee- 1gg
+=8	=8	=8	=8	=8	=8
+1Im7	A-:7	10.085	.	guitar	1A- 1cc 1ee- 1gg
+=9	=9	=9	=9	=9	=9
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	A-:7	11.467	newline	voice	1A- 1cc 1ee- 1gg
+=10	=10	=10	=10	=10	=10
+1IVm7	D-:7	12.846	.	voice	1D- 1f 1a- 1cc
+=11	=11	=11	=11	=11	=11
+1Im7	A-:7	14.225	.	voice	1A- 1cc 1ee- 1gg
+=12	=12	=12	=12	=12	=12
+1Im7	A-:7	15.604	.	voice	1A- 1cc 1ee- 1gg
+=13	=13	=13	=13	=13	=13
+1Im7	A-:7	16.983	newline	voice	1A- 1cc 1ee- 1gg
+=14	=14	=14	=14	=14	=14
+1IVm7	D-:7	18.351	.	voice	1D- 1f 1a- 1cc
+=15	=15	=15	=15	=15	=15
+1Im7	A-:7	19.72	.	voice	1A- 1cc 1ee- 1gg
+=16	=16	=16	=16	=16	=16
+1Im7	A-:7	21.089	.	voice	1A- 1cc 1ee- 1gg
+=17	=17	=17	=17	=17	=17
+1IVm7	D-:7	22.458	newline	voice	1D- 1f 1a- 1cc
+=18	=18	=18	=18	=18	=18
+1IVm7	D-:7	23.84	.	voice	1D- 1f 1a- 1cc
+=19	=19	=19	=19	=19	=19
+1IVm7	D-:7	25.223	.	voice	1D- 1f 1a- 1cc
+=20	=20	=20	=20	=20	=20
+1IVm7	D-:7	26.606	.	voice	1D- 1f 1a- 1cc
+=21	=21	=21	=21	=21	=21
+1Im7	A-:7	27.988	newline	voice	1A- 1cc 1ee- 1gg
+=22	=22	=22	=22	=22	=22
+1IVm7	D-:7	29.351	.	voice	1D- 1f 1a- 1cc
+=23	=23	=23	=23	=23	=23
+1Im7	A-:7	30.714	.	voice	1A- 1cc 1ee- 1gg
+=24	=24	=24	=24	=24	=24
+1Im7	A-:7	32.077	.	voice	1A- 1cc 1ee- 1gg
+=25	=25	=25	=25	=25	=25
+1V7	E-:7	33.44	newline	voice	1E- 1g 1b- 1dd-
+=26	=26	=26	=26	=26	=26
+1V7	E-:7	34.817	.	voice	1E- 1g 1b- 1dd-
+=27	=27	=27	=27	=27	=27
+1IVm7	D-:7	36.194	.	voice	1D- 1f 1a- 1cc
+=28	=28	=28	=28	=28	=28
+1IVm7	D-:7	37.571	.	voice	1D- 1f 1a- 1cc
+=29	=29	=29	=29	=29	=29
+1Im7	A-:7	38.949	newline	voice	1A- 1cc 1ee- 1gg
+=30	=30	=30	=30	=30	=30
+1IVm7	D-:7	40.311	.	voice	1D- 1f 1a- 1cc
+=31	=31	=31	=31	=31	=31
+1Im7	A-:7	41.674	.	voice	1A- 1cc 1ee- 1gg
+=32	=32	=32	=32	=32	=32
+1V7	E-:7	43.037	.	voice	1E- 1g 1b- 1dd-
+=33	=33	=33	=33	=33	=33
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	A-:7	44.399	newline	voice	1A- 1cc 1ee- 1gg
+=34	=34	=34	=34	=34	=34
+1IVm7	D-:7	45.771	.	voice	1D- 1f 1a- 1cc
+=35	=35	=35	=35	=35	=35
+1Im7	A-:7	47.143	.	voice	1A- 1cc 1ee- 1gg
+=36	=36	=36	=36	=36	=36
+1Im7	A-:7	48.515	.	voice	1A- 1cc 1ee- 1gg
+=37	=37	=37	=37	=37	=37
+1Im7	A-:7	49.887	newline	voice	1A- 1cc 1ee- 1gg
+=38	=38	=38	=38	=38	=38
+1IVm7	D-:7	51.258	.	voice	1D- 1f 1a- 1cc
+=39	=39	=39	=39	=39	=39
+1Im7	A-:7	52.628	.	voice	1A- 1cc 1ee- 1gg
+=40	=40	=40	=40	=40	=40
+1Im7	A-:7	53.998	.	voice	1A- 1cc 1ee- 1gg
+=41	=41	=41	=41	=41	=41
+1IVm7	D-:7	55.368	newline	voice	1D- 1f 1a- 1cc
+=42	=42	=42	=42	=42	=42
+1IVm7	D-:7	56.748	.	voice	1D- 1f 1a- 1cc
+=43	=43	=43	=43	=43	=43
+1IVm7	D-:7	58.128	.	voice	1D- 1f 1a- 1cc
+=44	=44	=44	=44	=44	=44
+1IVm7	D-:7	59.508	.	voice	1D- 1f 1a- 1cc
+=45	=45	=45	=45	=45	=45
+1Im7	A-:7	60.888	newline	voice	1A- 1cc 1ee- 1gg
+=46	=46	=46	=46	=46	=46
+1IVm7	D-:7	62.252	.	voice	1D- 1f 1a- 1cc
+=47	=47	=47	=47	=47	=47
+1Im7	A-:7	63.616	.	voice	1A- 1cc 1ee- 1gg
+=48	=48	=48	=48	=48	=48
+1Im7	A-:7	64.98	.	voice	1A- 1cc 1ee- 1gg
+=49	=49	=49	=49	=49	=49
+1V7	E-:7	66.343	newline	voice	1E- 1g 1b- 1dd-
+=50	=50	=50	=50	=50	=50
+1V7	E-:7	67.712	.	voice	1E- 1g 1b- 1dd-
+=51	=51	=51	=51	=51	=51
+1IVm7	D-:7	69.081	.	voice	1D- 1f 1a- 1cc
+=52	=52	=52	=52	=52	=52
+1IVm7	D-:7	70.45	.	voice	1D- 1f 1a- 1cc
+=53	=53	=53	=53	=53	=53
+1Im7	A-:7	71.819	newline	voice	1A- 1cc 1ee- 1gg
+=54	=54	=54	=54	=54	=54
+1IVm7	D-:7	73.188	.	voice	1D- 1f 1a- 1cc
+=55	=55	=55	=55	=55	=55
+1Im7	A-:7	74.556	.	voice	1A- 1cc 1ee- 1gg
+=56	=56	=56	=56	=56	=56
+1V7	E-:7	75.925	.	voice	1E- 1g 1b- 1dd-
+=57	=57	=57	=57	=57	=57
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+1iii	C:min	77.293	newline	voice	1C 1e- 1g
+=58	=58	=58	=58	=58	=58
+1vi	F:min	78.645	.	voice	1F 1a- 1cc
+=59	=59	=59	=59	=59	=59
+1iii	C:min	79.998	.	voice	1C 1e- 1g
+=60	=60	=60	=60	=60	=60
+2IVm7	D-:7	81.35	.	voice	2D- 2f 2a- 2cc
+2V7	E-:7	82.026	.	voice	2E- 2g 2b- 2dd-
+=61	=61	=61	=61	=61	=61
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	A-:7	82.702	newline	voice	1A- 1cc 1ee- 1gg
+=62	=62	=62	=62	=62	=62
+1IVm7	D-:7	84.053	.	voice	1D- 1f 1a- 1cc
+=63	=63	=63	=63	=63	=63
+1Im7	A-:7	85.405	.	voice	1A- 1cc 1ee- 1gg
+=64	=64	=64	=64	=64	=64
+1Im7	A-:7	86.756	.	voice	1A- 1cc 1ee- 1gg
+=65	=65	=65	=65	=65	=65
+1Im7	A-:7	88.108	newline	voice	1A- 1cc 1ee- 1gg
+=66	=66	=66	=66	=66	=66
+1IVm7	D-:7	89.482	.	voice	1D- 1f 1a- 1cc
+=67	=67	=67	=67	=67	=67
+1Im7	A-:7	90.857	.	voice	1A- 1cc 1ee- 1gg
+=68	=68	=68	=68	=68	=68
+1Im7	A-:7	92.231	.	voice	1A- 1cc 1ee- 1gg
+=69	=69	=69	=69	=69	=69
+1IVm7	D-:7	93.606	newline	voice	1D- 1f 1a- 1cc
+=70	=70	=70	=70	=70	=70
+1IVm7	D-:7	94.976	.	voice	1D- 1f 1a- 1cc
+=71	=71	=71	=71	=71	=71
+1IVm7	D-:7	96.346	.	voice	1D- 1f 1a- 1cc
+=72	=72	=72	=72	=72	=72
+1IVm7	D-:7	97.717	.	voice	1D- 1f 1a- 1cc
+=73	=73	=73	=73	=73	=73
+1Im7	A-:7	99.087	newline	voice	1A- 1cc 1ee- 1gg
+=74	=74	=74	=74	=74	=74
+1IVm7	D-:7	100.449	.	voice	1D- 1f 1a- 1cc
+=75	=75	=75	=75	=75	=75
+1Im7	A-:7	101.811	.	voice	1A- 1cc 1ee- 1gg
+=76	=76	=76	=76	=76	=76
+1Im7	A-:7	103.172	.	voice	1A- 1cc 1ee- 1gg
+=77	=77	=77	=77	=77	=77
+1V7	E-:7	104.534	newline	voice	1E- 1g 1b- 1dd-
+=78	=78	=78	=78	=78	=78
+1V7	E-:7	105.906	.	voice	1E- 1g 1b- 1dd-
+=79	=79	=79	=79	=79	=79
+1IVm7	D-:7	107.277	.	voice	1D- 1f 1a- 1cc
+=80	=80	=80	=80	=80	=80
+1IVm7	D-:7	108.649	.	voice	1D- 1f 1a- 1cc
+=81	=81	=81	=81	=81	=81
+1Im7	A-:7	110.021	newline	voice	1A- 1cc 1ee- 1gg
+=82	=82	=82	=82	=82	=82
+1IVm7	D-:7	111.387	.	voice	1D- 1f 1a- 1cc
+=83	=83	=83	=83	=83	=83
+1Im7	A-:7	112.753	.	voice	1A- 1cc 1ee- 1gg
+=84	=84	=84	=84	=84	=84
+1V7	E-:7	114.12	.	voice	1E- 1g 1b- 1dd-
+=85	=85	=85	=85	=85	=85
+*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo
+1Im7	A-:7	115.486	newline	guitar	1A- 1cc 1ee- 1gg
+=86	=86	=86	=86	=86	=86
+1Im7	A-:7	116.84	.	guitar	1A- 1cc 1ee- 1gg
+=87	=87	=87	=87	=87	=87
+1Im7	A-:7	118.194	.	guitar	1A- 1cc 1ee- 1gg
+=88	=88	=88	=88	=88	=88
+1Im7	A-:7	119.548	.	guitar	1A- 1cc 1ee- 1gg
+=89	=89	=89	=89	=89	=89
+1IVm7	D-:7	120.903	newline	guitar	1D- 1f 1a- 1cc
+=90	=90	=90	=90	=90	=90
+1IVm7	D-:7	122.264	.	guitar	1D- 1f 1a- 1cc
+=91	=91	=91	=91	=91	=91
+1Im7	A-:7	123.625	.	guitar	1A- 1cc 1ee- 1gg
+=92	=92	=92	=92	=92	=92
+1Im7	A-:7	124.987	.	guitar	1A- 1cc 1ee- 1gg
+=93	=93	=93	=93	=93	=93
+1V7	E-:7	126.348	newline	guitar	1E- 1g 1b- 1dd-
+=94	=94	=94	=94	=94	=94
+1IVm7	D-:7	127.702	.	guitar	1D- 1f 1a- 1cc
+=95	=95	=95	=95	=95	=95
+1Im7	A-:7	129.055	.	guitar	1A- 1cc 1ee- 1gg
+=96	=96	=96	=96	=96	=96
+1Im7	A-:7	130.409	.	guitar	1A- 1cc 1ee- 1gg
+=97	=97	=97	=97	=97	=97
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1Im7	A-:7	131.763	newline	voice	1A- 1cc 1ee- 1gg
+=98	=98	=98	=98	=98	=98
+1Im7	A-:7	133.109	.	voice	1A- 1cc 1ee- 1gg
+=99	=99	=99	=99	=99	=99
+1Im7	A-:7	134.455	.	voice	1A- 1cc 1ee- 1gg
+=100	=100	=100	=100	=100	=100
+1Im7	A-:7	135.801	.	voice	1A- 1cc 1ee- 1gg
+=101	=101	=101	=101	=101	=101
+1IVm7	D-:7	137.147	newline	voice	1D- 1f 1a- 1cc
+=102	=102	=102	=102	=102	=102
+1IVm7	D-:7	138.525	.	voice	1D- 1f 1a- 1cc
+=103	=103	=103	=103	=103	=103
+1Im7	A-:7	139.903	.	voice	1A- 1cc 1ee- 1gg
+=104	=104	=104	=104	=104	=104
+1Im7	A-:7	141.28	.	voice	1A- 1cc 1ee- 1gg
+=105	=105	=105	=105	=105	=105
+1V7	E-:7	142.658	newline	voice	1E- 1g 1b- 1dd-
+=106	=106	=106	=106	=106	=106
+1IVm7	D-:7	144.002	.	voice	1D- 1f 1a- 1cc
+=107	=107	=107	=107	=107	=107
+1Im7	A-:7	145.346	.	voice	1A- 1cc 1ee- 1gg
+=108	=108	=108	=108	=108	=108
+1Im7	A-:7	146.69	.	voice	1A- 1cc 1ee- 1gg
+=109	=109	=109	=109	=109	=109
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1Im7	A-:7	148.035	newline	voice	1A- 1cc 1ee- 1gg
+=110	=110	=110	=110	=110	=110
+1Im7	A-:7	149.392	.	voice	1A- 1cc 1ee- 1gg
+=111	=111	=111	=111	=111	=111
+1Im7	A-:7	150.75	.	voice	1A- 1cc 1ee- 1gg
+=112	=112	=112	=112	=112	=112
+1Im7	A-:7	152.108	.	voice	1A- 1cc 1ee- 1gg
+=113	=113	=113	=113	=113	=113
+1IVm7	D-:7	153.466	newline	voice	1D- 1f 1a- 1cc
+=114	=114	=114	=114	=114	=114
+1IVm7	D-:7	154.821	.	voice	1D- 1f 1a- 1cc
+=115	=115	=115	=115	=115	=115
+1Im7	A-:7	156.177	.	voice	1A- 1cc 1ee- 1gg
+=116	=116	=116	=116	=116	=116
+1Im7	A-:7	157.532	.	voice	1A- 1cc 1ee- 1gg
+=117	=117	=117	=117	=117	=117
+1V7	E-:7	158.888	newline	voice	1E- 1g 1b- 1dd-
+=118	=118	=118	=118	=118	=118
+1IVm7	D-:7	160.251	.	voice	1D- 1f 1a- 1cc
+=119	=119	=119	=119	=119	=119
+1Im7	A-:7	161.615	.	voice	1A- 1cc 1ee- 1gg
+=120	=120	=120	=120	=120	=120
+1Im7	A-:13	162.978	.	voice	1A- 1cc 1ee- 1gg
+1r;	N	167.068	.	r	1r;
+1r;	N	173.36	.	r	1r;
+1r;	N	174.733	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: She's A Woman
+!!!COC: The Beatles
+!!!BillboardChartDate: 1964/12/12
+!!!BillboardPeak: 4
+!!!BillboardWeeksOnChart: 9
+!!!SampleTargetRank: 30
+!!!SampleActualRank: 29
+!!!SampleID#: 1193
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

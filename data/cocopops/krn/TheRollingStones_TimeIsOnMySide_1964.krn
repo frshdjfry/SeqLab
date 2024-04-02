@@ -1,0 +1,368 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M12/8	*M12/8	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*F:	*F:	*	*	*	*	*	*F:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1.IV7	B-:maj7	.	.	0.432	newline	guitar	1.B- 1.dd 1.ff 1.aa
+=2	=2	=2	=2	=2	=2	=2	=2
+1.vi	D:min	.	.	4.174	.	guitar	1.D 1.f 1.a
+=3	=3	=3	=3	=3	=3	=3	=3
+1.II7	G:7	.	.	7.917	newline	guitar	1.G 1.b 1.dd 1.ff
+=4	=4	=4	=4	=4	=4	=4	=4
+1.V7	C:7	.	.	11.156	.	guitar	1.C 1.e 1.g 1.b-
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1.I	F:maj	Time	.	14.395	newline	voice	1.F 1.a 1.cc
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2.IV	B-:maj	_	.	17.984	.	voice	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.
+.	.	it	.	.	.	.	.
+2.V	C:maj	is	.	19.778	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+1.I	F:maj	Time	.	21.573	newline	voice	1.F 1.a 1.cc
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2.IV	B-:maj	_	.	25.208	.	voice	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.
+.	.	it	.	.	.	.	.
+2.V	C:maj	is	.	27.026	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.vi	D:min	.	.	28.844	newline	voice	2.D 2.f 2.a
+.	.	Now	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	al-	.	.	.	.	.
+.	.	-ways	.	.	.	.	.
+2.V	C:maj	say	.	30.678	.	voice	2.C 2.e 2.g
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2.vi	D:min	.	.	32.512	.	voice	2.D 2.f 2.a
+.	.	That	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	want	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+2.II7	G:7	free	A	34.346	.	voice	2.G 2.b 2.dd 2.ff
+.	.	.	.	.	.	.	.
+.	.	but	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2.V	C:maj	you'll	.	36.18	newline	voice	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	38.001	.	voice	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+2.V	C:maj	You'll	.	39.822	.	voice	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	41.644	.	voice	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2.V	C:maj	You'll	.	43.465	newline	voice	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	45.248	.	voice	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2.V	C:maj	me	A	47.031	.	voice	2.C 2.e 2.g
+.	.	_	.	.	.	.	.
+2.V7	C:7	_	.	48.815	.	voice	2.C 2.e 2.g 2.b-
+.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1.I	F:maj	Time	.	50.598	newline	voice	1.F 1.a 1.cc
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2.IV	B-:maj	_	.	54.256	.	voice	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.
+.	.	it	.	.	.	.	.
+2.V	C:maj	is	.	56.085	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1.I	F:maj	Time	.	57.914	newline	voice	1.F 1.a 1.cc
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2.IV	B-:maj	_	.	61.519	.	voice	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.
+.	.	it	.	.	.	.	.
+2.V	C:maj	is	.	63.321	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.vi	D:min	.	.	65.123	newline	voice	2.D 2.f 2.a
+.	.	You're	.	.	.	.	.
+.	.	search-	.	.	.	.	.
+.	.	-in'	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	good	.	.	.	.	.
+2.V	C:maj	times	.	66.952	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2.vi	D:min	.	.	68.78	.	voice	2.D 2.f 2.a
+.	.	but	.	.	.	.	.
+.	.	just	.	.	.	.	.
+.	.	wait	.	.	.	.	.
+.	.	and	.	.	.	.	.
+2.II7	G:7	see	B	70.609	.	voice	2.G 2.b 2.dd 2.ff
+.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2.V	C:maj	You'll	.	72.438	newline	voice	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	74.238	.	voice	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+2.V	C:maj	You'll	.	76.037	.	voice	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	77.837	.	voice	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2.V	C:maj	You'll	.	79.636	newline	voice	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	81.424	.	voice	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2.V	C:maj	me	B	83.212	.	voice	2.C 2.e 2.g
+.	.	_	.	.	.	.	.
+2.V7	C:7	_	.	85	.	voice	2.C 2.e 2.g 2.b-
+.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+1.IV	B-:maj	.	.	86.788	newline	guitar	1.B- 1.dd 1.ff
+=26	=26	=26	=26	=26	=26	=26	=26
+1.I	F:maj	.	.	90.539	.	guitar	1.F 1.a 1.cc
+=27	=27	=27	=27	=27	=27	=27	=27
+1.IV	B-:maj	.	.	94.289	newline	guitar	1.B- 1.dd 1.ff
+=28	=28	=28	=28	=28	=28	=28	=28
+1.I	F:maj	.	.	97.997	.	guitar	1.F 1.a 1.cc
+=29	=29	=29	=29	=29	=29	=29	=29
+1.IV	B-:maj	.	.	101.706	newline	guitar	1.B- 1.dd 1.ff
+=30	=30	=30	=30	=30	=30	=30	=30
+1.vi	D:min	.	.	105.473	.	guitar	1.D 1.f 1.a
+=31	=31	=31	=31	=31	=31	=31	=31
+1.II7	G:7	.	.	109.241	newline	guitar	1.G 1.b 1.dd 1.ff
+=32	=32	=32	=32	=32	=32	=32	=32
+1.V7	C:7	.	.	112.786	.	guitar	1.C 1.e 1.g 1.b-
+=33	=33	=33	=33	=33	=33	=33	=33
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1.I	F:maj	Time	.	116.33	newline	guitar	1.F 1.a 1.cc
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2.IV	B-:maj	_	.	119.969	.	guitar	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.
+.	.	it	.	.	.	.	.
+2.V	C:maj	is	.	121.788	.	guitar	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1.I	F:maj	Time	.	123.607	newline	guitar	1.F 1.a 1.cc
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+2.IV	B-:maj	_	.	127.262	.	guitar	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.
+.	.	it	.	.	.	.	.
+2.V	C:maj	is	.	129.089	.	guitar	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.vi	D:min	.	.	130.916	newline	guitar	2.D 2.f 2.a
+.	.	'Cause	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	real	.	.	.	.	.
+2.V	C:maj	_	.	132.791	.	guitar	2.C 2.e 2.g
+.	.	love	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+2.vi	D:min	.	.	134.667	.	guitar	2.D 2.f 2.a
+.	.	The	.	.	.	.	.
+.	.	kind	.	.	.	.	.
+.	.	that	.	.	.	.	.
+.	.	you	.	.	.	.	.
+2.II7	G:7	need	C	136.542	.	guitar	2.G 2.b 2.dd 2.ff
+.	.	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+2.V	C:maj	You'll	.	138.417	newline	guitar	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	140.243	.	guitar	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2.V	C:maj	You'll	.	142.068	.	guitar	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	143.894	.	guitar	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2.V	C:maj	You'll	.	145.72	newline	guitar	2.C 2.e 2.g
+.	.	come	.	.	.	.	.
+2.IV	B-:maj	run-	.	147.561	.	guitar	2.B- 2.dd 2.ff
+.	.	-ning	.	.	.	.	.
+.	.	back	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	to	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+2.V	C:maj	me	C	149.401	.	guitar	2.C 2.e 2.g
+.	.	_	.	.	.	.	.
+2.V7	C:7	_	.	151.242	.	guitar	2.C 2.e 2.g 2.b-
+.	.	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1.I	F:maj	Time	.	153.082	newline	guitar	1.F 1.a 1.cc
+.	.	.	.	.	.	.	.
+.	.	Time	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Time	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+2.IV	B-:maj	_	.	156.647	.	guitar	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.
+.	.	it	.	.	.	.	.
+2.V	C:maj	is	.	158.429	.	guitar	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1.I	F:maj	Time	.	160.211	newline	guitar	1.F 1.a 1.cc
+.	.	.	.	.	.	.	.
+.	.	Time	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Time	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+2.IV	B-:maj	_	.	163.786	.	guitar	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	yes	.	.	.	.	.
+.	.	it	.	.	.	.	.
+2.V	C:maj	is	.	165.574	.	guitar	2.C 2.e 2.g
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1.I	F:maj	Time	.	167.361	newline	guitar	1.F 1.a 1.cc
+.	.	.	.	.	.	.	.
+.	.	Time	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Time	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	my	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+2.IV	B-:maj	_	.	170.966	.	guitar	2.B- 2.dd 2.ff
+.	.	side	.	.	.	.	.
+.	.	.	.	.	.	.	.
+2.V	C:maj	.	.	172.768	.	guitar	2.C 2.e 2.g
+=49	=49	=49	=49	=49	=49	=49	=49
+1.I	F:maj	.	.	174.571	newline	voice	1.F 1.a 1.cc
+1r;	N	.	.	177.988	.	r	1r;
+1r;	N	.	.	178.782	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1964/11/14, 1964/11/07, 1964/10/24
+!!!BillboardPeak: 6, 6, 6
+!!!BillboardWeeksOnChart: 13, 13, 13
+!!!COC: The Rolling Stones
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Time Is On My Side
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 18, 30, 65
+!!!SampleID#: 387, 597, 780
+!!!SampleTargetRank: 18, 31, 64
+!!!MBID: 696abb45-36d0-4c3e-820a-c369aeb9c38b

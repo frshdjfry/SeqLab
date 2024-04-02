@@ -1,0 +1,444 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*G:	*G:	*	*	*	*G:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1r	N	0.673	newline	r	1r
+=2	=2	=2	=2	=2	=2
+1r	N	2.833	.	r	1r
+=3	=3	=3	=3	=3	=3
+1r	N	4.993	.	r	1r
+=4	=4	=4	=4	=4	=4
+1r	N	7.153	.	r	1r
+=5	=5	=5	=5	=5	=5
+2I	G:maj	9.312	newline	trumpet	2G 2b 2dd
+4ii	A:min	10.324	.	trumpet	4A 4cc 4ee
+4iif	A:min/4	10.83	.	trumpet	4A 4cc 4ee
+=6	=6	=6	=6	=6	=6
+2I	G:maj	11.336	.	trumpet	2G 2b 2dd
+4ii	A:min	12.347	.	trumpet	4A 4cc 4ee
+4iif	A:min/4	12.853	.	trumpet	4A 4cc 4ee
+=7	=7	=7	=7	=7	=7
+2I	G:maj	13.359	.	trumpet	2G 2b 2dd
+4ii	A:min	14.37	.	trumpet	4A 4cc 4ee
+4iif	A:min/4	14.876	.	trumpet	4A 4cc 4ee
+=8	=8	=8	=8	=8	=8
+2I	G:maj	15.382	.	trumpet	2G 2b 2dd
+4ii	A:min	16.393	.	trumpet	4A 4cc 4ee
+4iif	A:min/4	16.899	.	trumpet	4A 4cc 4ee
+=9	=9	=9	=9	=9	=9
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+2I	G:maj	17.405	newline	voice	2G 2b 2dd
+4ii	A:min	18.417	.	voice	4A 4cc 4ee
+4iif	A:min/4	18.923	.	voice	4A 4cc 4ee
+=10	=10	=10	=10	=10	=10
+2I	G:maj	19.429	.	voice	2G 2b 2dd
+4ii	A:min	20.441	.	voice	4A 4cc 4ee
+4iif	A:min/4	20.947	.	voice	4A 4cc 4ee
+=11	=11	=11	=11	=11	=11
+2I	G:maj	21.453	.	voice	2G 2b 2dd
+4ii	A:min	22.465	.	voice	4A 4cc 4ee
+4iif	A:min/4	22.971	.	voice	4A 4cc 4ee
+=12	=12	=12	=12	=12	=12
+2I	G:maj	23.477	.	voice	2G 2b 2dd
+4ii	A:min	24.489	.	voice	4A 4cc 4ee
+4iif	A:min/4	24.995	.	voice	4A 4cc 4ee
+=13	=13	=13	=13	=13	=13
+2I	G:maj	25.501	newline	voice	2G 2b 2dd
+4ii	A:min	26.505	.	voice	4A 4cc 4ee
+4iif	A:min/4	27.007	.	voice	4A 4cc 4ee
+=14	=14	=14	=14	=14	=14
+2I	G:maj	27.509	.	voice	2G 2b 2dd
+4ii	A:min	28.513	.	voice	4A 4cc 4ee
+4iif	A:min/4	29.016	.	voice	4A 4cc 4ee
+=15	=15	=15	=15	=15	=15
+2I	G:maj	29.518	.	voice	2G 2b 2dd
+4ii	A:min	30.522	.	voice	4A 4cc 4ee
+4iif	A:min/4	31.024	.	voice	4A 4cc 4ee
+=16	=16	=16	=16	=16	=16
+2I	G:maj	31.526	.	voice	2G 2b 2dd
+4ii	A:min	32.531	.	voice	4A 4cc 4ee
+4iif	A:min/4	33.033	.	voice	4A 4cc 4ee
+=17	=17	=17	=17	=17	=17
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+1V	D:maj6	33.535	newline	voice	1D 1f# 1a
+=18	=18	=18	=18	=18	=18
+1IV	C:maj6	35.566	.	voice	1C 1e 1g
+=19	=19	=19	=19	=19	=19
+1V	D:maj6	37.596	.	voice	1D 1f# 1a
+=20	=20	=20	=20	=20	=20
+1IV	C:maj6	39.627	.	voice	1C 1e 1g
+=21	=21	=21	=21	=21	=21
+1V	D:maj6	41.658	newline	voice	1D 1f# 1a
+=22	=22	=22	=22	=22	=22
+1III7b	B:7/3	43.667	.	voice	1b 1D# 1ff# 1aa
+=23	=23	=23	=23	=23	=23
+1vi	E:min	45.677	.	voice	1E 1g 1b
+=24	=24	=24	=24	=24	=24
+1ivm7b	C:min7/b3	47.686	.	voice	1c 1E- 1g 1b
+=25	=25	=25	=25	=25	=25
+*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus
+2ii	A:min	49.696	newline	voice	2A 2cc 2ee
+2iii	B:min	50.711	.	voice	2B 2dd 2ff#
+=26	=26	=26	=26	=26	=26
+2ii	A:min	51.726	.	voice	2A 2cc 2ee
+2iii	B:min	52.742	.	voice	2B 2dd 2ff#
+=27	=27	=27	=27	=27	=27
+2ii	A:min	53.757	.	voice	2A 2cc 2ee
+2iii	B:min	54.773	.	voice	2B 2dd 2ff#
+=28	=28	=28	=28	=28	=28
+2ii	A:min	55.788	.	voice	2A 2cc 2ee
+2iii	B:min	56.804	.	voice	2B 2dd 2ff#
+=29	=29	=29	=29	=29	=29
+2ii	A:min	57.819	newline	voice	2A 2cc 2ee
+2iii	B:min	58.834	.	voice	2B 2dd 2ff#
+=30	=30	=30	=30	=30	=30
+2ii	A:min	59.848	.	voice	2A 2cc 2ee
+2iii	B:min	60.863	.	voice	2B 2dd 2ff#
+=31	=31	=31	=31	=31	=31
+1V	D:sus4(b7)	61.877	.	voice	1D 1f# 1a
+=32	=32	=32	=32	=32	=32
+1V7	D:7	63.906	.	voice	1D 1f# 1a 1cc
+=33	=33	=33	=33	=33	=33
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+2I	G:maj	65.935	newline	voice	2G 2b 2dd
+4ii	A:min	66.934	.	voice	4A 4cc 4ee
+4iif	A:min/4	67.434	.	voice	4A 4cc 4ee
+=34	=34	=34	=34	=34	=34
+2I	G:maj	67.933	.	voice	2G 2b 2dd
+4ii	A:min	68.932	.	voice	4A 4cc 4ee
+4iif	A:min/4	69.431	.	voice	4A 4cc 4ee
+=35	=35	=35	=35	=35	=35
+2I	G:maj	69.931	.	voice	2G 2b 2dd
+4ii	A:min	70.93	.	voice	4A 4cc 4ee
+4iif	A:min/4	71.429	.	voice	4A 4cc 4ee
+=36	=36	=36	=36	=36	=36
+2I	G:maj	71.929	.	voice	2G 2b 2dd
+4ii	A:min	72.928	.	voice	4A 4cc 4ee
+4iif	A:min/4	73.427	.	voice	4A 4cc 4ee
+=37	=37	=37	=37	=37	=37
+2I	G:maj	73.926	newline	voice	2G 2b 2dd
+4ii	A:min	74.941	.	voice	4A 4cc 4ee
+4iif	A:min/4	75.448	.	voice	4A 4cc 4ee
+=38	=38	=38	=38	=38	=38
+2I	G:maj	75.955	.	voice	2G 2b 2dd
+4ii	A:min	76.969	.	voice	4A 4cc 4ee
+4iif	A:min/4	77.476	.	voice	4A 4cc 4ee
+=39	=39	=39	=39	=39	=39
+2I	G:maj	77.983	.	voice	2G 2b 2dd
+4ii	A:min	78.997	.	voice	4A 4cc 4ee
+4iif	A:min/4	79.505	.	voice	4A 4cc 4ee
+=40	=40	=40	=40	=40	=40
+2I	G:maj	80.012	.	voice	2G 2b 2dd
+4ii	A:min	81.026	.	voice	4A 4cc 4ee
+4iif	A:min/4	81.533	.	voice	4A 4cc 4ee
+=41	=41	=41	=41	=41	=41
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+1V	D:maj6	82.04	newline	voice	1D 1f# 1a
+=42	=42	=42	=42	=42	=42
+1IV	C:maj6	84.059	.	voice	1C 1e 1g
+=43	=43	=43	=43	=43	=43
+1V	D:maj6	86.077	.	voice	1D 1f# 1a
+=44	=44	=44	=44	=44	=44
+1IV	C:maj6	88.096	.	voice	1C 1e 1g
+=45	=45	=45	=45	=45	=45
+1V	D:maj6	90.114	newline	voice	1D 1f# 1a
+=46	=46	=46	=46	=46	=46
+1III7b	B:7/3	92.126	.	voice	1b 1D# 1ff# 1aa
+=47	=47	=47	=47	=47	=47
+1vi	E:min	94.138	.	voice	1E 1g 1b
+=48	=48	=48	=48	=48	=48
+1ivm7b	C:min7/b3	96.149	.	voice	1c 1E- 1g 1b
+=49	=49	=49	=49	=49	=49
+*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus	*>D_prechorus
+2ii	A:min	98.161	newline	voice	2A 2cc 2ee
+2iii	B:min	99.161	.	voice	2B 2dd 2ff#
+=50	=50	=50	=50	=50	=50
+2ii	A:min	100.161	.	voice	2A 2cc 2ee
+2iii	B:min	101.16	.	voice	2B 2dd 2ff#
+=51	=51	=51	=51	=51	=51
+2ii	A:min	102.16	.	voice	2A 2cc 2ee
+2iii	B:min	103.16	.	voice	2B 2dd 2ff#
+=52	=52	=52	=52	=52	=52
+2ii	A:min	104.159	.	voice	2A 2cc 2ee
+2iii	B:min	105.159	.	voice	2B 2dd 2ff#
+=53	=53	=53	=53	=53	=53
+2ii	A:min	106.159	newline	voice	2A 2cc 2ee
+2iii	B:min	107.166	.	voice	2B 2dd 2ff#
+=54	=54	=54	=54	=54	=54
+2ii	A:min	108.173	.	voice	2A 2cc 2ee
+2iii	B:min	109.181	.	voice	2B 2dd 2ff#
+=55	=55	=55	=55	=55	=55
+1V	D:sus4(b7)	110.188	.	voice	1D 1f# 1a
+=56	=56	=56	=56	=56	=56
+1V7	D:7	112.203	.	voice	1D 1f# 1a 1cc
+=57	=57	=57	=57	=57	=57
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+2I	G:maj	114.217	newline	voice	2G 2b 2dd
+4ii	A:min	115.222	.	voice	4A 4cc 4ee
+4iif	A:min/4	115.725	.	voice	4A 4cc 4ee
+=58	=58	=58	=58	=58	=58
+2I	G:maj	116.228	.	voice	2G 2b 2dd
+4ii	A:min	117.233	.	voice	4A 4cc 4ee
+4iif	A:min/4	117.735	.	voice	4A 4cc 4ee
+=59	=59	=59	=59	=59	=59
+2I	G:maj	118.238	.	voice	2G 2b 2dd
+4ii	A:min	119.243	.	voice	4A 4cc 4ee
+4iif	A:min/4	119.746	.	voice	4A 4cc 4ee
+=60	=60	=60	=60	=60	=60
+2I	G:maj	120.248	.	voice	2G 2b 2dd
+4ii	A:min	121.254	.	voice	4A 4cc 4ee
+4iif	A:min/4	121.756	.	voice	4A 4cc 4ee
+=61	=61	=61	=61	=61	=61
+2I	G:maj	122.259	newline	voice	2G 2b 2dd
+4ii	A:min	123.279	.	voice	4A 4cc 4ee
+4iif	A:min/4	123.789	.	voice	4A 4cc 4ee
+=62	=62	=62	=62	=62	=62
+2I	G:maj	124.299	.	voice	2G 2b 2dd
+4ii	A:min	125.32	.	voice	4A 4cc 4ee
+4iif	A:min/4	125.83	.	voice	4A 4cc 4ee
+=63	=63	=63	=63	=63	=63
+2I	G:maj	126.34	.	voice	2G 2b 2dd
+4ii	A:min	127.36	.	voice	4A 4cc 4ee
+4iif	A:min/4	127.87	.	voice	4A 4cc 4ee
+=64	=64	=64	=64	=64	=64
+2I	G:maj	128.381	.	voice	2G 2b 2dd
+4ii	A:min	129.401	.	voice	4A 4cc 4ee
+4iif	A:min/4	129.911	.	voice	4A 4cc 4ee
+=65	=65	=65	=65	=65	=65
+2I	G:maj	130.421	newline	voice	2G 2b 2dd
+4ii	A:min	131.433	.	voice	4A 4cc 4ee
+4iif	A:min/4	131.938	.	voice	4A 4cc 4ee
+=66	=66	=66	=66	=66	=66
+2I	G:maj	132.444	.	voice	2G 2b 2dd
+4ii	A:min	133.455	.	voice	4A 4cc 4ee
+4iif	A:min/4	133.961	.	voice	4A 4cc 4ee
+=67	=67	=67	=67	=67	=67
+2I	G:maj	134.467	.	voice	2G 2b 2dd
+4ii	A:min	135.478	.	voice	4A 4cc 4ee
+4iif	A:min/4	135.984	.	voice	4A 4cc 4ee
+=68	=68	=68	=68	=68	=68
+2I	G:maj	136.489	.	voice	2G 2b 2dd
+4ii	A:min	137.501	.	voice	4A 4cc 4ee
+4iif	A:min/4	138.006	.	voice	4A 4cc 4ee
+=69	=69	=69	=69	=69	=69
+2I	G:maj	138.512	newline	voice	2G 2b 2dd
+4ii	A:min	139.532	.	voice	4A 4cc 4ee
+4iif	A:min/4	140.042	.	voice	4A 4cc 4ee
+=70	=70	=70	=70	=70	=70
+2I	G:maj	140.552	.	voice	2G 2b 2dd
+4ii	A:min	141.572	.	voice	4A 4cc 4ee
+4iif	A:min/4	142.082	.	voice	4A 4cc 4ee
+=71	=71	=71	=71	=71	=71
+2I	G:maj	142.592	.	voice	2G 2b 2dd
+4ii	A:min	143.611	.	voice	4A 4cc 4ee
+4iif	A:min/4	144.121	.	voice	4A 4cc 4ee
+=72	=72	=72	=72	=72	=72
+2I	G:maj	144.631	.	voice	2G 2b 2dd
+4ii	A:min	145.651	.	voice	4A 4cc 4ee
+4iif	A:min/4	146.161	.	voice	4A 4cc 4ee
+=73	=73	=73	=73	=73	=73
+2I	G:maj	146.671	newline	voice	2G 2b 2dd
+4ii	A:min	147.674	.	voice	4A 4cc 4ee
+4iif	A:min/4	148.175	.	voice	4A 4cc 4ee
+=74	=74	=74	=74	=74	=74
+2I	G:maj	148.677	.	voice	2G 2b 2dd
+4ii	A:min	149.68	.	voice	4A 4cc 4ee
+4iif	A:min/4	150.181	.	voice	4A 4cc 4ee
+=75	=75	=75	=75	=75	=75
+2I	G:maj	150.683	.	voice	2G 2b 2dd
+4ii	A:min	151.685	.	voice	4A 4cc 4ee
+4iif	A:min/4	152.187	.	voice	4A 4cc 4ee
+=76	=76	=76	=76	=76	=76
+2I	G:maj	152.688	.	voice	2G 2b 2dd
+4ii	A:min	153.691	.	voice	4A 4cc 4ee
+4iif	A:min/4	154.193	.	voice	4A 4cc 4ee
+=77	=77	=77	=77	=77	=77
+2I	G:maj	154.694	newline	voice	2G 2b 2dd
+4ii	A:min	155.704	.	voice	4A 4cc 4ee
+4iif	A:min/4	156.209	.	voice	4A 4cc 4ee
+=78	=78	=78	=78	=78	=78
+2I	G:maj	156.714	.	voice	2G 2b 2dd
+4ii	A:min	157.724	.	voice	4A 4cc 4ee
+4iif	A:min/4	158.229	.	voice	4A 4cc 4ee
+=79	=79	=79	=79	=79	=79
+2I	G:maj	158.734	.	voice	2G 2b 2dd
+4ii	A:min	159.744	.	voice	4A 4cc 4ee
+4iif	A:min/4	160.249	.	voice	4A 4cc 4ee
+=80	=80	=80	=80	=80	=80
+2I	G:maj	160.754	.	voice	2G 2b 2dd
+4ii	A:min	161.764	.	voice	4A 4cc 4ee
+4iif	A:min/4	162.27	.	voice	4A 4cc 4ee
+=81	=81	=81	=81	=81	=81
+2I	G:maj	162.775	newline	voice	2G 2b 2dd
+4ii	A:min	163.774	.	voice	4A 4cc 4ee
+4iif	A:min/4	164.274	.	voice	4A 4cc 4ee
+=82	=82	=82	=82	=82	=82
+2I	G:maj	164.774	.	voice	2G 2b 2dd
+4ii	A:min	165.773	.	voice	4A 4cc 4ee
+4iif	A:min/4	166.273	.	voice	4A 4cc 4ee
+=83	=83	=83	=83	=83	=83
+2I	G:maj	166.773	.	voice	2G 2b 2dd
+4ii	A:min	167.772	.	voice	4A 4cc 4ee
+4iif	A:min/4	168.272	.	voice	4A 4cc 4ee
+=84	=84	=84	=84	=84	=84
+2I	G:maj	168.772	.	voice	2G 2b 2dd
+4ii	A:min	169.771	.	voice	4A 4cc 4ee
+4iif	A:min/4	170.271	.	voice	4A 4cc 4ee
+=85	=85	=85	=85	=85	=85
+2I	G:maj	170.771	newline	voice	2G 2b 2dd
+4ii	A:min	171.786	.	voice	4A 4cc 4ee
+4iif	A:min/4	172.293	.	voice	4A 4cc 4ee
+=86	=86	=86	=86	=86	=86
+2I	G:maj	172.801	.	voice	2G 2b 2dd
+4ii	A:min	173.816	.	voice	4A 4cc 4ee
+4iif	A:min/4	174.324	.	voice	4A 4cc 4ee
+=87	=87	=87	=87	=87	=87
+2I	G:maj	174.831	.	voice	2G 2b 2dd
+4ii	A:min	175.846	.	voice	4A 4cc 4ee
+4iif	A:min/4	176.354	.	voice	4A 4cc 4ee
+=88	=88	=88	=88	=88	=88
+2I	G:maj	176.861	.	voice	2G 2b 2dd
+4ii	A:min	177.877	.	voice	4A 4cc 4ee
+4iif	A:min/4	178.384	.	voice	4A 4cc 4ee
+=89	=89	=89	=89	=89	=89
+2I	G:maj	178.892	newline	voice	2G 2b 2dd
+4ii	A:min	179.907	.	voice	4A 4cc 4ee
+4iif	A:min/4	180.415	.	voice	4A 4cc 4ee
+=90	=90	=90	=90	=90	=90
+2I	G:maj	180.923	.	voice	2G 2b 2dd
+4ii	A:min	181.938	.	voice	4A 4cc 4ee
+4iif	A:min/4	182.446	.	voice	4A 4cc 4ee
+=91	=91	=91	=91	=91	=91
+2I	G:maj	182.954	.	voice	2G 2b 2dd
+4ii	A:min	183.969	.	voice	4A 4cc 4ee
+4iif	A:min/4	184.477	.	voice	4A 4cc 4ee
+=92	=92	=92	=92	=92	=92
+2I	G:maj	184.985	.	voice	2G 2b 2dd
+4ii	A:min	186	.	voice	4A 4cc 4ee
+4iif	A:min/4	186.508	.	voice	4A 4cc 4ee
+=93	=93	=93	=93	=93	=93
+2I	G:maj	187.016	newline	voice	2G 2b 2dd
+4ii	A:min	188.029	.	voice	4A 4cc 4ee
+4iif	A:min/4	188.535	.	voice	4A 4cc 4ee
+=94	=94	=94	=94	=94	=94
+2I	G:maj	189.041	.	voice	2G 2b 2dd
+4ii	A:min	190.054	.	voice	4A 4cc 4ee
+4iif	A:min/4	190.561	.	voice	4A 4cc 4ee
+=95	=95	=95	=95	=95	=95
+2I	G:maj	191.067	.	voice	2G 2b 2dd
+4ii	A:min	192.08	.	voice	4A 4cc 4ee
+4iif	A:min/4	192.587	.	voice	4A 4cc 4ee
+=96	=96	=96	=96	=96	=96
+2I	G:maj	193.093	.	voice	2G 2b 2dd
+4ii	A:min	194.106	.	voice	4A 4cc 4ee
+4iif	A:min/4	194.613	.	voice	4A 4cc 4ee
+=97	=97	=97	=97	=97	=97
+2I	G:maj	195.119	newline	voice	2G 2b 2dd
+4ii	A:min	196.126	.	voice	4A 4cc 4ee
+4iif	A:min/4	196.629	.	voice	4A 4cc 4ee
+=98	=98	=98	=98	=98	=98
+2I	G:maj	197.132	.	voice	2G 2b 2dd
+4ii	A:min	198.139	.	voice	4A 4cc 4ee
+4iif	A:min/4	198.642	.	voice	4A 4cc 4ee
+=99	=99	=99	=99	=99	=99
+2I	G:maj	199.145	.	voice	2G 2b 2dd
+4ii	A:min	200.152	.	voice	4A 4cc 4ee
+4iif	A:min/4	200.655	.	voice	4A 4cc 4ee
+=100	=100	=100	=100	=100	=100
+2I	G:maj	201.158	.	voice	2G 2b 2dd
+4ii	A:min	202.165	.	voice	4A 4cc 4ee
+4iif	A:min/4	202.668	.	voice	4A 4cc 4ee
+=101	=101	=101	=101	=101	=101
+2I	G:maj	203.171	newline	voice	2G 2b 2dd
+4ii	A:min	204.191	.	voice	4A 4cc 4ee
+4iif	A:min/4	204.7	.	voice	4A 4cc 4ee
+=102	=102	=102	=102	=102	=102
+2I	G:maj	205.21	.	voice	2G 2b 2dd
+4ii	A:min	206.229	.	voice	4A 4cc 4ee
+4iif	A:min/4	206.739	.	voice	4A 4cc 4ee
+=103	=103	=103	=103	=103	=103
+2I	G:maj	207.248	.	voice	2G 2b 2dd
+4ii	A:min	208.267	.	voice	4A 4cc 4ee
+4iif	A:min/4	208.777	.	voice	4A 4cc 4ee
+=104	=104	=104	=104	=104	=104
+2I	G:maj	209.287	.	voice	2G 2b 2dd
+4ii	A:min	210.306	.	voice	4A 4cc 4ee
+4iif	A:min/4	210.815	.	voice	4A 4cc 4ee
+=105	=105	=105	=105	=105	=105
+2I	G:maj	211.325	newline	voice	2G 2b 2dd
+4ii	A:min	212.34	.	voice	4A 4cc 4ee
+4iif	A:min/4	212.847	.	voice	4A 4cc 4ee
+=106	=106	=106	=106	=106	=106
+2I	G:maj	213.354	.	voice	2G 2b 2dd
+4ii	A:min	214.369	.	voice	4A 4cc 4ee
+4iif	A:min/4	214.876	.	voice	4A 4cc 4ee
+=107	=107	=107	=107	=107	=107
+2I	G:maj	215.384	.	voice	2G 2b 2dd
+4ii	A:min	216.398	.	voice	4A 4cc 4ee
+4iif	A:min/4	216.906	.	voice	4A 4cc 4ee
+=108	=108	=108	=108	=108	=108
+2I	G:maj	217.413	.	voice	2G 2b 2dd
+4ii	A:min	218.428	.	voice	4A 4cc 4ee
+4iif	A:min/4	218.935	.	voice	4A 4cc 4ee
+=109	=109	=109	=109	=109	=109
+2I	G:maj	219.442	newline	voice	2G 2b 2dd
+4ii	A:min	220.444	.	voice	4A 4cc 4ee
+4iif	A:min/4	220.946	.	voice	4A 4cc 4ee
+=110	=110	=110	=110	=110	=110
+2I	G:maj	221.447	.	voice	2G 2b 2dd
+4ii	A:min	222.449	.	voice	4A 4cc 4ee
+4iif	A:min/4	222.95	.	voice	4A 4cc 4ee
+=111	=111	=111	=111	=111	=111
+2I	G:maj	223.451	.	voice	2G 2b 2dd
+4ii	A:min	224.453	.	voice	4A 4cc 4ee
+4iif	A:min/4	224.954	.	voice	4A 4cc 4ee
+=112	=112	=112	=112	=112	=112
+2I	G:maj	225.455	.	voice	2G 2b 2dd
+4ii	A:min	226.457	.	voice	4A 4cc 4ee
+4iif	A:min/4	226.958	.	voice	4A 4cc 4ee
+=113	=113	=113	=113	=113	=113
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+2I	G:maj	227.459	newline	voice	2G 2b 2dd
+4ii	A:min	228.463	.	voice	4A 4cc 4ee
+4iif	A:min/4	228.964	.	voice	4A 4cc 4ee
+=114	=114	=114	=114	=114	=114
+2I	G:maj	229.466	.	voice	2G 2b 2dd
+4ii	A:min	230.469	.	voice	4A 4cc 4ee
+4iif	A:min/4	230.971	.	voice	4A 4cc 4ee
+=115	=115	=115	=115	=115	=115
+2I	G:maj	231.472	.	voice	2G 2b 2dd
+4ii	A:min	232.476	.	voice	4A 4cc 4ee
+4iif	A:min/4	232.977	.	voice	4A 4cc 4ee
+=116	=116	=116	=116	=116	=116
+2I	G:maj	233.479	.	voice	2G 2b 2dd
+4ii	A:min	234.482	.	voice	4A 4cc 4ee
+4iif	A:min/4	234.984	.	voice	4A 4cc 4ee
+=117	=117	=117	=117	=117	=117
+2I	G:maj	235.485	newline	voice	2G 2b 2dd
+4ii	A:min	236.46	.	voice	4A 4cc 4ee
+4iif	A:min/4	236.948	.	voice	4A 4cc 4ee
+=118	=118	=118	=118	=118	=118
+2I	G:maj	237.436	.	voice	2G 2b 2dd
+4ii	A:min	238.411	.	voice	4A 4cc 4ee
+4iif	A:min/4	238.898	.	voice	4A 4cc 4ee
+1r;	N	239.386	.	r	1r;
+1r;	N	243.561	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: I Don't Love You Anymore
+!!!COC: Teddy Pendergrass
+!!!BillboardChartDate: 1977/06/25
+!!!BillboardPeak: 41
+!!!BillboardWeeksOnChart: 14
+!!!SampleTargetRank: 51
+!!!SampleActualRank: 51
+!!!SampleID#: 0797
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

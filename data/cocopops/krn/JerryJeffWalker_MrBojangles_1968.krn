@@ -1,0 +1,778 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M3/4	*M3/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*D:	*D:	*	*	*	*	*	*D:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	.	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+2.I	D:maj	.	.	0.31	newline	guitar	2.D 2.f# 2.a
+=2	=2	=2	=2	=2	=2	=2	=2
+2.Id	D:maj/7	.	.	.	.	guitar	2.d 2.f# 2.a
+=3	=3	=3	=3	=3	=3	=3	=3
+2.Ig	D:maj/6	.	.	.	.	guitar	2.D 2.f# 2.a
+=4	=4	=4	=4	=4	=4	=4	=4
+2.Ic	D:maj/5	.	.	.	.	guitar	2.d 2.f# 2.A
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.I	D:maj	knew	.	4.825	newline	voice	2.D 2.f# 2.a
+.	.	a	.	.	.	.	.
+.	.	man,	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+.	.	-jan	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2.Id	D:maj/7	_	.	.	.	voice	2.d 2.f# 2.a
+.	.	gles	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	he	.	.	.	.	.
+.	.	danced	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+2.Ig	D:maj/6	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	for	.	.	.	.	.
+.	.	you	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2.Ic	D:maj/5	.	.	.	.	voice	2.d 2.f# 2.A
+=9	=9	=9	=9	=9	=9	=9	=9
+2.IV	G:maj	.	.	9.35	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	in	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2.IV	G:maj	worn-	.	.	.	voice	2.G 2.b 2.dd
+.	.	-out	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2.V	A:maj	shoes	A	.	.	voice	2.A 2.cc# 2.ee
+=12	=12	=12	=12	=12	=12	=12	=12
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	The	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2.I	D:maj	sil-	.	13.895	newline	voice	2.D 2.f# 2.a
+.	.	-ver	.	.	.	.	.
+.	.	hair,	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	rag	(B	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2.Id	D:maj/7	_	.	.	.	voice	2.d 2.f# 2.a
+.	.	ged	b)	.	.	.	.
+.	.	shirt	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	bag	(B	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2.Ig	D:maj/6	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	gy	b)	.	.	.	.
+.	.	pants,	C	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2.Ic	D:maj/5	.	.	.	.	voice	2.d 2.f# 2.A
+=17	=17	=17	=17	=17	=17	=17	=17
+2.IV	G:maj	.	.	18.45	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2.IV	G:maj	old	.	.	.	voice	2.G 2.b 2.dd
+.	.	soft	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2.V	A:maj	shoe.	A	.	.	voice	2.A 2.cc# 2.ee
+=20	=20	=20	=20	=20	=20	=20	=20
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=21	=21	=21	=21	=21	=21	=21	=21
+2.IV	G:maj	.	.	22.965	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+2.IV	G:maj	jumped	.	.	.	voice	2.G 2.b 2.dd
+.	.	_	.	.	.	.	.
+.	.	so	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2.I	D:maj	high,	.	.	.	voice	2.D 2.f# 2.a
+=24	=24	=24	=24	=24	=24	=24	=24
+2.III	F#:maj	_	.	.	.	voice	2.F# 2.a# 2.cc#
+.	.	jumped	.	.	.	.	.
+.	.	so	.	.	.	.	.
+.	.	high,	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2.vi	B:min	_	.	27.585	newline	voice	2.B 2.dd 2.ff#
+=26	=26	=26	=26	=26	=26	=26	=26
+2.vid	B:min/b7	.	.	.	.	voice	2.b 2.dd 2.ff#
+=27	=27	=27	=27	=27	=27	=27	=27
+2.II7b	E:9/3	.	.	.	.	voice	2.e 2.G# 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	then	.	.	.	.	.
+.	.	he'd	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+2.II7	E:9	light-	.	.	.	voice	2.E 2.g# 2.b 2.dd
+.	.	-ly	.	.	.	.	.
+.	.	touch	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	down	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+2.V	A:maj	.	.	32.305	newline	voice	2.A 2.cc# 2.ee
+=30	=30	=30	=30	=30	=30	=30	=30
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=31	=31	=31	=31	=31	=31	=31	=31
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=32	=32	=32	=32	=32	=32	=32	=32
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=33	=33	=33	=33	=33	=33	=33	=33
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.vi	B:min	.	.	36.915	newline	voice	2.B 2.dd 2.ff#
+=34	=34	=34	=34	=34	=34	=34	=34
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2.vi	B:min	.	.	41.48	newline	voice	2.B 2.dd 2.ff#
+=38	=38	=38	=38	=38	=38	=38	=38
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2.vi	B:min	.	.	46.005	newline	voice	2.B 2.dd 2.ff#
+=42	=42	=42	=42	=42	=42	=42	=42
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+2.I	D:maj	dance	C	50.485	newline	guitar	2.D 2.f# 2.a
+=46	=46	=46	=46	=46	=46	=46	=46
+2.Id	D:maj/7	_	.	.	.	guitar	2.d 2.f# 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+2.Ig	D:maj/6	.	.	.	.	guitar	2.D 2.f# 2.a
+=48	=48	=48	=48	=48	=48	=48	=48
+2.Ic	D:maj/5	.	.	.	.	guitar	2.d 2.f# 2.A
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.Ig	D:maj/6	met	.	54.99	newline	voice	2.D 2.f# 2.a
+.	.	him	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	cell	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+2.Id	D:maj/7	_	.	.	.	voice	2.d 2.f# 2.a
+.	.	in	.	.	.	.	.
+.	.	New	.	.	.	.	.
+.	.	Or-	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	-leans,	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+2.Ig	D:maj/6	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	I	.	.	.	.	.
+.	.	was	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+2.Ic	D:maj/5	.	.	.	.	voice	2.d 2.f# 2.A
+=53	=53	=53	=53	=53	=53	=53	=53
+2.IV	G:maj	.	.	59.5	newline	voice	2.G 2.b 2.dd
+=54	=54	=54	=54	=54	=54	=54	=54
+.	.	_	.	.	.	.	.
+2.IV	G:maj	down	.	.	.	voice	2.G 2.b 2.dd
+.	.	and	.	.	.	.	.
+.	.	out	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+2.V	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+=56	=56	=56	=56	=56	=56	=56	=56
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+2.I	D:maj	looked	.	64.07	newline	voice	2.D 2.f# 2.a
+.	.	to	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	be	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+2.Id	D:maj/7	_	.	.	.	voice	2.d 2.f# 2.a
+.	.	the	.	.	.	.	.
+.	.	eyes	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+2.Ig	D:maj/6	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	of	.	.	.	.	.
+.	.	age	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+2.Ic	D:maj/5	.	.	.	.	voice	2.d 2.f# 2.A
+=61	=61	=61	=61	=61	=61	=61	=61
+2.IV	G:maj	.	.	68.655	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	as	.	.	.	.	.
+.	.	he	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+2.IV	G:maj	spoke	.	.	.	voice	2.G 2.b 2.dd
+.	.	right	.	.	.	.	.
+.	.	out	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+2.V	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+=64	=64	=64	=64	=64	=64	=64	=64
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=65	=65	=65	=65	=65	=65	=65	=65
+2.IV	G:maj	.	.	73.175	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+2.IV	G:maj	talked	.	.	.	voice	2.G 2.b 2.dd
+.	.	_	.	.	.	.	.
+.	.	of	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+2.I	D:maj	life,	.	.	.	voice	2.D 2.f# 2.a
+=68	=68	=68	=68	=68	=68	=68	=68
+2.III	F#:maj	_	.	.	.	voice	2.F# 2.a# 2.cc#
+.	.	talked	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	life	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+2.vi	B:min	.	.	77.775	newline	voice	2.B 2.dd 2.ff#
+=70	=70	=70	=70	=70	=70	=70	=70
+2.vid	B:min/b7	.	.	.	.	voice	2.b 2.dd 2.ff#
+=71	=71	=71	=71	=71	=71	=71	=71
+2.II7b	E:9/3	.	.	.	.	voice	2.e 2.G# 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+2.II7	E:9	laughed,	.	.	.	voice	2.E 2.g# 2.b 2.dd
+.	.	slapped	.	.	.	.	.
+.	.	his	.	.	.	.	.
+.	.	leg	.	.	.	.	.
+.	.	in-	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+2.V	A:maj	-stead...	.	82.435	newline	voice	2.A 2.cc# 2.ee
+=74	=74	=74	=74	=74	=74	=74	=74
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=75	=75	=75	=75	=75	=75	=75	=75
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=76	=76	=76	=76	=76	=76	=76	=76
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	he	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.I	D:maj	said	.	87.025	newline	voice	2.D 2.f# 2.a
+.	.	the	.	.	.	.	.
+.	.	name	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+.	.	-jan	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+2.Id	D:maj/7	_	.	.	.	voice	2.d 2.f# 2.a
+.	.	gles	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	he	.	.	.	.	.
+.	.	danced	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+2.Ig	D:maj/6	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	a	.	.	.	.	.
+.	.	lick	D	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+2.Ic	D:maj/5	.	.	.	.	voice	2.d 2.f# 2.A
+=81	=81	=81	=81	=81	=81	=81	=81
+2.IV	G:maj	.	.	91.665	newline	voice	2.G 2.b 2.dd
+=82	=82	=82	=82	=82	=82	=82	=82
+2.IV	G:maj	'Cross	.	.	.	voice	2.G 2.b 2.dd
+.	.	the	.	.	.	.	.
+.	.	cell	E	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+2.V	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+=84	=84	=84	=84	=84	=84	=84	=84
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+2.I	D:maj	grabbed	.	96.26	newline	voice	2.D 2.f# 2.a
+.	.	his	.	.	.	.	.
+.	.	pants	.	.	.	.	.
+.	.	for	.	.	.	.	.
+.	.	bet-	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+2.Id	D:maj/7	-ter	.	.	.	voice	2.d 2.f# 2.a
+.	.	stance,	C	.	.	.	.
+.	.	ooh,	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	he	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+2.Ig	D:maj/6	jumped	.	.	.	voice	2.D 2.f# 2.a
+.	.	so	.	.	.	.	.
+.	.	high	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+2.Ic	D:maj/5	.	.	.	.	voice	2.d 2.f# 2.A
+=89	=89	=89	=89	=89	=89	=89	=89
+2.IV	G:maj	.	.	100.87	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	he	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90
+2.IV	G:maj	clicked	D	.	.	voice	2.G 2.b 2.dd
+.	.	his	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91
+2.V	A:maj	heels.	E	.	.	voice	2.A 2.cc# 2.ee
+=92	=92	=92	=92	=92	=92	=92	=92
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=93	=93	=93	=93	=93	=93	=93	=93
+2.IV	G:maj	.	.	105.465	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94
+2.IV	G:maj	let	.	.	.	voice	2.G 2.b 2.dd
+.	.	go	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	laugh,	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+2.I	D:maj	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	_	.	.	.	.	.
+.	.	he	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96
+2.III	F#:maj	let	.	.	.	voice	2.F# 2.a# 2.cc#
+.	.	go	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	laugh	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97
+2.vi	B:min	.	.	110.11	newline	voice	2.B 2.dd 2.ff#
+.	.	.	.	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98
+2.vid	B:min/b7	.	.	.	.	voice	2.b 2.dd 2.ff#
+=99	=99	=99	=99	=99	=99	=99	=99
+2.II7b	E:9/3	.	.	.	.	voice	2.e 2.G# 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	shook	.	.	.	.	.
+.	.	back	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100
+2.II7	E:9	_	.	.	.	voice	2.E 2.g# 2.b 2.dd
+.	.	his	.	.	.	.	.
+.	.	clothes	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	all	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101
+2.V	A:maj	-round.	.	114.77	newline	voice	2.A 2.cc# 2.ee
+=102	=102	=102	=102	=102	=102	=102	=102
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=103	=103	=103	=103	=103	=103	=103	=103
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=104	=104	=104	=104	=104	=104	=104	=104
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=105	=105	=105	=105	=105	=105	=105	=105
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.vi	B:min	.	.	119.33	newline	voice	2.B 2.dd 2.ff#
+=106	=106	=106	=106	=106	=106	=106	=106
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=107	=107	=107	=107	=107	=107	=107	=107
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles	.	.	.	.	.
+=108	=108	=108	=108	=108	=108	=108	=108
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=109	=109	=109	=109	=109	=109	=109	=109
+2.vi	B:min	.	.	123.98	newline	voice	2.B 2.dd 2.ff#
+=110	=110	=110	=110	=110	=110	=110	=110
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles...	.	.	.	.	.
+=112	=112	=112	=112	=112	=112	=112	=112
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=113	=113	=113	=113	=113	=113	=113	=113
+2.vi	B:min	.	.	128.635	newline	voice	2.B 2.dd 2.ff#
+=114	=114	=114	=114	=114	=114	=114	=114
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=115	=115	=115	=115	=115	=115	=115	=115
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles	.	.	.	.	.
+=116	=116	=116	=116	=116	=116	=116	=116
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=117	=117	=117	=117	=117	=117	=117	=117
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+2.Ig	D:maj/6	dance	C	133.235	newline	guitar	2.D 2.f# 2.a
+=118	=118	=118	=118	=118	=118	=118	=118
+2.Id	D:maj/7	_	.	.	.	guitar	2.d 2.f# 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=119	=119	=119	=119	=119	=119	=119	=119
+2.Ig	D:maj/6	.	.	.	.	guitar	2.D 2.f# 2.a
+=120	=120	=120	=120	=120	=120	=120	=120
+2.Ic	D:maj/5	.	.	.	.	guitar	2.d 2.f# 2.A
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=121	=121	=121	=121	=121	=121	=121	=121
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.Ig	D:maj/6	danced	.	137.885	newline	voice	2.D 2.f# 2.a
+.	.	for	.	.	.	.	.
+.	.	those	F	.	.	.	.
+.	.	at	.	.	.	.	.
+=122	=122	=122	=122	=122	=122	=122	=122
+2.Id	D:maj/7	min-	.	.	.	voice	2.d 2.f# 2.a
+.	.	-strel	.	.	.	.	.
+.	.	shows	F	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	coun	.	.	.	.	.
+=123	=123	=123	=123	=123	=123	=123	=123
+2.Ig	D:maj/6	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	ty	.	.	.	.	.
+.	.	fairs...	.	.	.	.	.
+=124	=124	=124	=124	=124	=124	=124	=124
+2.Ic	D:maj/5	.	.	.	.	voice	2.d 2.f# 2.A
+=125	=125	=125	=125	=125	=125	=125	=125
+2.IV	G:maj	.	.	142.5	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	through-	G	.	.	.	.
+=126	=126	=126	=126	=126	=126	=126	=126
+2.IV	G:maj	-out	.	.	.	voice	2.G 2.b 2.dd
+.	.	the	.	.	.	.	.
+.	.	south	G	.	.	.	.
+=127	=127	=127	=127	=127	=127	=127	=127
+2.V	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+=128	=128	=128	=128	=128	=128	=128	=128
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=129	=129	=129	=129	=129	=129	=129	=129
+2.Ig	D:maj/6	spoke	.	147.1	newline	voice	2.D 2.f# 2.a
+.	.	with	.	.	.	.	.
+.	.	tears	H	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	fif	.	.	.	.	.
+=130	=130	=130	=130	=130	=130	=130	=130
+2.Id	D:maj/7	.	.	.	.	voice	2.d 2.f# 2.a
+.	.	teen	.	.	.	.	.
+.	.	years	H	.	.	.	.
+.	.	how	.	.	.	.	.
+.	.	his	.	.	.	.	.
+=131	=131	=131	=131	=131	=131	=131	=131
+2.Ig	D:maj/6	dog	.	.	.	voice	2.D 2.f# 2.a
+.	.	and	.	.	.	.	.
+.	.	him...	.	.	.	.	.
+=132	=132	=132	=132	=132	=132	=132	=132
+2.Ic	D:maj/5	.	.	.	.	voice	2.d 2.f# 2.A
+=133	=133	=133	=133	=133	=133	=133	=133
+2.IV	G:maj	.	.	151.715	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	they	.	.	.	.	.
+=134	=134	=134	=134	=134	=134	=134	=134
+2.IV	G:maj	tra-	.	.	.	voice	2.G 2.b 2.dd
+.	.	-velled	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-bout	G	.	.	.	.
+=135	=135	=135	=135	=135	=135	=135	=135
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=136	=136	=136	=136	=136	=136	=136	=136
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=137	=137	=137	=137	=137	=137	=137	=137
+2.IV	G:maj	.	.	156.31	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	His	.	.	.	.	.
+=138	=138	=138	=138	=138	=138	=138	=138
+2.IV	G:maj	dog	.	.	.	voice	2.G 2.b 2.dd
+.	.	up	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	died,	.	.	.	.	.
+=139	=139	=139	=139	=139	=139	=139	=139
+2.I	D:maj	_	.	.	.	voice	2.D 2.f# 2.a
+=140	=140	=140	=140	=140	=140	=140	=140
+2.III	F#:maj	_	.	.	.	voice	2.F# 2.a# 2.cc#
+.	.	he	.	.	.	.	.
+.	.	up	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=141	=141	=141	=141	=141	=141	=141	=141
+2.vi	B:min	died.	.	161.01	newline	voice	2.B 2.dd 2.ff#
+=142	=142	=142	=142	=142	=142	=142	=142
+2.vid	B:min/b7	.	.	.	.	voice	2.b 2.dd 2.ff#
+=143	=143	=143	=143	=143	=143	=143	=143
+2.II7b	E:9/3	.	.	.	.	voice	2.e 2.G# 2.b 2.dd
+.	.	Af-	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+.	.	twen-	.	.	.	.	.
+.	.	-ty	.	.	.	.	.
+=144	=144	=144	=144	=144	=144	=144	=144
+2.II7	E:9	years	.	.	.	voice	2.E 2.g# 2.b 2.dd
+.	.	he	.	.	.	.	.
+.	.	still	.	.	.	.	.
+.	.	grieves	.	.	.	.	.
+=145	=145	=145	=145	=145	=145	=145	=145
+2.V	A:maj	.	.	165.67	newline	voice	2.A 2.cc# 2.ee
+=146	=146	=146	=146	=146	=146	=146	=146
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=147	=147	=147	=147	=147	=147	=147	=147
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=148	=148	=148	=148	=148	=148	=148	=148
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=149	=149	=149	=149	=149	=149	=149	=149
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.Ic	D:maj/5	said,	.	170.26	newline	voice	2.d 2.f# 2.A
+.	.	"I	.	.	.	.	.
+.	.	4F#	dance	C	.	.	.	.
+.	.	8F#	now	.	.	.	.	.
+.	.	8E	at	.	.	.	.	.
+=150	=150	=150	=150	=150	=150	=150	=150	=150
+2.Id	D:maj/7	8F#	ev-	.	.	.	voice	2.d 2.f# 2.a
+.	.	8E	-'ry	.	.	.	.	.
+.	.	4F#	chance	C	.	.	.	.
+.	.	8E	and	.	.	.	.	.
+.	.	[8F#	hon	.	.	.	.	.
+=151	=151	=151	=151	=151	=151	=151	=151	=151
+2.Ig	D:maj/6	8F#]	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	8E	ky	.	.	.	.	.
+.	.	2D	tonk	.	.	.	.	.
+=152	=152	=152	=152	=152	=152	=152	=152	=152
+2.Ic	D:maj/5	2.r	.	.	.	.	voice	2.d 2.f# 2.A
+=153	=153	=153	=153	=153	=153	=153	=153	=153
+2.IV	G:maj	4r	.	.	174.88	newline	voice	2.G 2.b 2.dd
+.	.	4r	.	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.
+.	.	8~GG	for	.	.	.	.	.
+=154	=154	=154	=154	=154	=154	=154	=154	=154
+2.IV	G:maj	2B	drinks	.	.	.	voice	2.G 2.b 2.dd
+.	.	8A	and	.	.	.	.	.
+.	.	[8A	tips	H	.	.	.	.
+=155	=155	=155	=155	=155	=155	=155	=155	=155
+2.V	A:maj	2A]	_	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	4r	.	.	.	.	.	.
+=156	=156	=156	=156	=156	=156	=156	=156	=156
+2.V	A:maj	4r	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	4r	.	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.
+.	.	8~BB	But	.	.	.	.	.
+=157	=157	=157	=157	=157	=157	=157	=157	=157
+2.I	D:maj	8F#	most	.	179.49	newline	voice	2.D 2.f# 2.a
+.	.	8E	the	.	.	.	.	.
+.	.	4F#	time,	I	.	.	.	.
+.	.	8E	I	.	.	.	.	.
+.	.	[8F#	spend	.	.	.	.	.
+=158	=158	=158	=158	=158	=158	=158	=158	=158
+2.Id	D:maj/7	8F#]	_	.	.	.	voice	2.d 2.f# 2.a
+.	.	8E	be-	.	.	.	.	.
+.	.	4F#	-hind	I	.	.	.	.
+.	.	8E	these	.	.	.	.	.
+.	.	[8F#	coun	.	.	.	.	.
+=159	=159	=159	=159	=159	=159	=159	=159	=159
+2.Ig	D:maj/6	8F#]	_	.	.	.	voice	2.D 2.f# 2.a
+.	.	8E	ty	.	.	.	.	.
+.	.	2D	bars	.	.	.	.	.
+=160	=160	=160	=160	=160	=160	=160	=160	=160
+2.Ic	D:maj/5	2.r	.	.	.	.	voice	2.d 2.f# 2.A
+=161	=161	=161	=161	=161	=161	=161	=161	=161
+2.IV	G:maj	4r	.	.	184.07	newline	voice	2.G 2.b 2.dd
+.	.	8r	.	.	.	.	.	.
+.	.	8~GG	cuz	.	.	.	.	.
+.	.	8B	I	.	.	.	.	.
+.	.	8~A	can	.	.	.	.	.
+=162	=162	=162	=162	=162	=162	=162	=162	=162
+2.IV	G:maj	2B	drinks	.	.	.	voice	2.G 2.b 2.dd
+.	.	8A	a	.	.	.	.	.
+.	.	[8A	bit."	H	.	.	.	.
+=163	=163	=163	=163	=163	=163	=163	=163
+2.V	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+=164	=164	=164	=164	=164	=164	=164	=164
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=165	=165	=165	=165	=165	=165	=165	=165
+2.IV	G:maj	.	.	188.655	newline	voice	2.G 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	He	.	.	.	.	.
+=166	=166	=166	=166	=166	=166	=166	=166
+2.IV	G:maj	shook	.	.	.	voice	2.G 2.b 2.dd
+.	.	his	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=167	=167	=167	=167	=167	=167	=167	=167
+2.I	D:maj	head,	.	.	.	voice	2.D 2.f# 2.a
+.	.	_	.	.	.	.	.
+=168	=168	=168	=168	=168	=168	=168	=168
+2.III	F#:maj	as	.	.	.	voice	2.F# 2.a# 2.cc#
+.	.	he	.	.	.	.	.
+.	.	shook	.	.	.	.	.
+.	.	his	.	.	.	.	.
+=169	=169	=169	=169	=169	=169	=169	=169
+2.vi	B:min	head	.	193.295	newline	voice	2.B 2.dd 2.ff#
+=170	=170	=170	=170	=170	=170	=170	=170
+2.vid	B:min/b7	.	.	.	.	voice	2.b 2.dd 2.ff#
+=171	=171	=171	=171	=171	=171	=171	=171
+2.II7b	E:9/3	.	.	.	.	voice	2.e 2.G# 2.b 2.dd
+.	.	.	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	heard	.	.	.	.	.
+=172	=172	=172	=172	=172	=172	=172	=172
+2.II7	E:9	some-	.	.	.	voice	2.E 2.g# 2.b 2.dd
+.	.	-one	.	.	.	.	.
+.	.	ask,	.	.	.	.	.
+=173	=173	=173	=173	=173	=173	=173	=173
+2.V	A:maj	please	.	197.905	newline	voice	2.A 2.cc# 2.ee
+=174	=174	=174	=174	=174	=174	=174	=174
+2.V	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+=175	=175	=175	=175	=175	=175	=175	=175
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=176	=176	=176	=176	=176	=176	=176	=176
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+=177	=177	=177	=177	=177	=177	=177	=177
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.vi	B:min	.	.	202.475	newline	voice	2.B 2.dd 2.ff#
+=178	=178	=178	=178	=178	=178	=178	=178
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=179	=179	=179	=179	=179	=179	=179	=179
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles	.	.	.	.	.
+=180	=180	=180	=180	=180	=180	=180	=180
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=181	=181	=181	=181	=181	=181	=181	=181
+2.vi	B:min	.	.	207.14	newline	voice	2.B 2.dd 2.ff#
+=182	=182	=182	=182	=182	=182	=182	=182
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=183	=183	=183	=183	=183	=183	=183	=183
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles...	.	.	.	.	.
+=184	=184	=184	=184	=184	=184	=184	=184
+2.V	A:maj	_	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=185	=185	=185	=185	=185	=185	=185	=185
+2.vi	B:min	.	.	211.725	newline	voice	2.B 2.dd 2.ff#
+=186	=186	=186	=186	=186	=186	=186	=186
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=187	=187	=187	=187	=187	=187	=187	=187
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles	.	.	.	.	.
+=188	=188	=188	=188	=188	=188	=188	=188
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=189	=189	=189	=189	=189	=189	=189	=189
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+2.I	D:maj	dance	C	216.275	newline	guitar	2.D 2.f# 2.a
+=190	=190	=190	=190	=190	=190	=190	=190
+2.Id	D:maj/7	_	.	.	.	guitar	2.d 2.f# 2.a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=191	=191	=191	=191	=191	=191	=191	=191
+2.Ig	D:maj/6	.	.	.	.	guitar	2.D 2.f# 2.a
+=192	=192	=192	=192	=192	=192	=192	=192
+2.Ic	D:maj/5	.	.	.	.	guitar	2.d 2.f# 2.A
+=193	=193	=193	=193	=193	=193	=193	=193
+2.vi	B:min	.	.	220.845	newline	voice	2.B 2.dd 2.ff#
+=194	=194	=194	=194	=194	=194	=194	=194
+2.vi	B:min	Mis-	.	.	.	voice	2.B 2.dd 2.ff#
+.	.	-ter	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Bo-	.	.	.	.	.
+=195	=195	=195	=195	=195	=195	=195	=195
+2.V	A:maj	-jan	.	.	.	voice	2.A 2.cc# 2.ee
+.	.	_	.	.	.	.	.
+.	.	gles	.	.	.	.	.
+=196	=196	=196	=196	=196	=196	=196	=196
+2.V	A:maj	.	.	.	.	voice	2.A 2.cc# 2.ee
+1r;	N	.	.	.	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1968/08/24
+!!!BillboardPeak: 77
+!!!BillboardWeeksOnChart: 5
+!!!COC: Jerry Jeff Walker
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Mr. Bojangles
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 79
+!!!SampleID#: 0294
+!!!SampleTargetRank: 78
+!!!MBID: bf27f431-071b-4499-8266-03718ef9d183
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2023-11-04

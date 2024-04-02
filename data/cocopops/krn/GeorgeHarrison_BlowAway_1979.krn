@@ -1,0 +1,832 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*D:	*D:	*	*	*	*	*	*	*D:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1I	D:maj	.	.	.	0.302	newline	guitar	1D 1f# 1a
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+1vi7	B:min7	.	.	.	2.467	.	guitar	1B 1dd 1ff# 1aa
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1iii7	F#:min7	.	.	.	4.632	.	guitar	1F# 1a 1cc# 1ee
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+2V	A:sus4(b7)	.	.	.	6.798	.	guitar	1A 1cc# 1ee
+2V	A:maj	.	.	.	7.88	.	guitar	2A 2cc# 2ee
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+1I	D:maj	.	.	.	8.963	newline	guitar	1D 1f# 1a
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+1vi7	B:min7	.	.	.	11.039	.	guitar	1B 1dd 1ff# 1aa
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1iii7	F#:min7	.	.	.	13.114	.	guitar	1F# 1a 1cc# 1ee
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+2V	A:sus4(b7)	.	.	.	15.19	.	guitar	1A 1cc# 1ee
+2V	A:maj	.	.	.	16.228	.	guitar	2A 2cc# 2ee
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1V	A:sus4(b7)	.	.	.	17.266	.	guitar	1A 1cc# 1ee
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	D:maj	Day	.	.	19.342	newline	voice	1D 1f# 1a
+.	.	turned	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	black	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+1vi7	B:min7	sky	.	.	21.43	.	voice	1B 1dd 1ff# 1aa
+.	.	ripped	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+.	.	-part	.	A	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+1iii7	F#:min7	.	.	.	23.518	.	voice	1F# 1a 1cc# 1ee
+.	.	rained	.	.	.	.	.	.
+.	.	for	.	.	.	.	.	.
+.	.	a	.	.	.	.	.	.
+.	.	year,	.	.	.	.	.	.
+.	.	'till	.	.	.	.	.	.
+.	.	it	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+.	.	_	.	.	.	.	.	.
+2V	A:sus4(b7)	dam	.	.	25.606	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	pened	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+2V	A:maj	heart	.	A	26.65	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1I	D:maj	.	.	.	27.694	newline	voice	1D 1f# 1a
+.	.	Cracks	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	l-	.	.	.	.	.	.
+.	.	-leaks,	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	floor	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1vi7	B:min7	_	.	.	29.764	.	voice	1B 1dd 1ff# 1aa
+.	.	boards	.	.	.	.	.	.
+.	.	caught	.	B	.	.	.	.
+.	.	rot	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1iii7	F#:min7	.	.	.	31.834	.	voice	1F# 1a 1cc# 1ee
+.	.	'bout	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	go	.	.	.	.	.	.
+.	.	down,	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	had	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+2V	A:sus4(b7)	al-	.	.	33.904	.	voice	2A 2cc# 2ee
+.	.	-most	.	.	.	.	.	.
+2V	A:maj	_	.	.	34.939	.	voice	2A 2cc# 2ee
+.	.	for-	.	.	.	.	.	.
+.	.	-got.	.	B	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+1V	A:sus4(b7)	.	.	.	35.974	.	voice	1A 1cc# 1ee
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2I	D:maj	All	.	.	38.044	newline	voice	2D 2f# 2a
+.	.	I	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+2vi	B:min	do	.	C	39.083	.	voice	2B 2dd 2ff#
+.	.	_	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	to	.	C	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+2iii	F#:min	.	.	.	40.122	.	voice	2F# 2a 2cc#
+.	.	.	.	.	.	.	.	.
+.	.	to	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V	A:sus4(b7)	love	.	.	41.161	.	voice	4A 4cc# 4ee
+4V7	A:7	you,	.	C	41.68	.	voice	4A 4cc# 4ee 4gg
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+2I	D:maj	all	.	.	42.2	.	voice	2D 2f# 2a
+.	.	I	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+2vi	B:min	be	.	D	43.238	.	voice	2B 2dd 2ff#
+.	.	_	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	a'	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+2.-VII	C:maj	.	.	.	44.277	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	D	.	.	.	.
+.	.	hap	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4IV	G:maj	py,	.	d	45.835	.	voice	4G 4b 4dd
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+2iii7	F#:min7	all	.	.	46.355	newline	voice	2F# 2a 2cc# 2ee
+.	.	it's	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+2vi	B:min	take	.	E	47.394	.	voice	2B 2dd 2ff#
+.	.	_	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	some	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+2iii	F#:min	.	.	.	48.433	.	voice	2F# 2a 2cc#
+.	.	warmth	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	make	.	E	.	.	.	.
+2V7	A:7	_	.	.	49.473	.	voice	2A 2cc# 2ee 2gg
+.	.	it	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+2-III	F:maj	-way,	.	.	50.512	.	voice	2F 2a 2cc
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+2-VII	C:maj	-way	.	.	51.551	.	voice	2C 2e 2g
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+2V	A:sus4(b7)	-way	.	.	52.591	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+2V	A:maj	.	.	.	53.63	.	voice	2A 2cc# 2ee
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+2I	D:maj	All	All	.	54.669	newline	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	do	do	B	55.704	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	to	to	B	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+2iii	F#:min	.	.	.	56.739	.	voice	2F# 2a 2cc#
+.	.	.	.	.	.	.	.	.
+.	.	to	.	B	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V	A:sus4(b7)	love	.	B	57.774	.	voice	4A 4cc# 4ee
+4V7	A:7	you,	.	.	58.291	.	voice	4A 4cc# 4ee 4gg
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+2I	D:maj	all	all	.	58.808	.	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	be	be	C	59.843	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	a'	a'	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+2.-VII	C:maj	.	.	.	60.878	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	C	.	.	.	.
+.	.	hap	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4IV	G:maj	py,	.	C	62.43	.	voice	4G 4b 4dd
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+2iii7	F#:min7	all	all	.	62.947	newline	voice	2F# 2a 2cc# 2ee
+.	.	it's	it's	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	take	take	D	63.996	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	some	some	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+2iii	F#:min	.	.	.	65.045	.	voice	2F# 2a 2cc#
+.	.	warmth	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	make	.	D	.	.	.	.
+2V7	A:7	_	.	.	66.094	.	voice	2A 2cc# 2ee 2gg
+.	.	it	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+2-III	F:maj	-way,	way,	.	67.143	.	voice	2F 2a 2cc
+.	.	blow	blow	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+2-VII	C:maj	-way	-way	.	68.192	.	voice	2C 2e 2g
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	blow	blow	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+2IV	G:maj	-way	-way	.	69.24	.	voice	2G 2b 2dd
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-VII	C:maj	.	.	.	70.289	.	voice	2C 2e 2g
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+2-III	F:maj	.	.	.	71.338	newline	guitar	1F 1a 1cc
+2-VII	C:maj	.	.	.	72.4	.	guitar	2C 2e 2g
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+1V	A:sus4(b7)	.	.	.	73.461	.	guitar	1A 1cc# 1ee
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+1V	A:sus4(b7)	.	.	.	75.585	.	guitar	1A 1cc# 1ee
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	D:maj	Sky	.	.	77.708	newline	voice	1D 1f# 1a
+.	.	cleared	.	.	.	.	.	.
+.	.	up	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1vi7	B:min7	_	.	.	79.847	.	voice	1B 1dd 1ff# 1aa
+.	.	turned	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	bright	.	F	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+1iii7	F#:min7	.	.	.	81.985	.	voice	1F# 1a 1cc# 1ee
+.	.	clo	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	sing	.	.	.	.	.	.
+.	.	both	.	.	.	.	.	.
+.	.	eyes	.	.	.	.	.	.
+.	.	now	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+.	.	_	.	.	.	.	.	.
+2V	A:sus4(b7)	head	.	.	84.124	.	voice	2A 2cc# 2ee
+.	.	_	.	.	.	.	.	.
+.	.	filled	.	.	.	.	.	.
+.	.	with	.	.	.	.	.	.
+2V	A:maj	light	.	F	85.193	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1I	D:maj	.	.	.	86.262	newline	voice	1D 1f# 1a
+.	.	_	_	.	.	.	.	.
+.	.	hard	hard	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+.	.	re-	re-	.	.	.	.	.
+.	.	-mem-	-mem-	.	.	.	.	.
+.	.	-ber	-ber	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+1vi7	B:min7	state	state	.	88.346	.	voice	1B 1dd 1ff# 1aa
+.	.	I	I	.	.	.	.	.
+.	.	was	was	.	.	.	.	.
+.	.	in	in	G	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+1iii7	F#:min7	.	.	.	90.43	.	voice	1F# 1a 1cc# 1ee
+.	.	in	in	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	stant	stant	.	.	.	.	.
+.	.	am-	am-	.	.	.	.	.
+.	.	-nes-	-nes-	.	.	.	.	.
+.	.	-ia,	-ia,	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	y-	y-	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+.	.	_	_	.	.	.	.	.
+2V	A:sus4(b7)	-yang	-yang	.	92.514	.	voice	2A 2cc# 2ee
+.	.	_	_	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+2V	A:maj	yin	yin	G	93.556	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1V	A:sus4(b7)	.	.	.	94.598	.	voice	1A 1cc# 1ee
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2I	D:maj	All	.	.	96.681	newline	voice	2D 2f# 2a
+.	.	I	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+2vi	B:min	do	.	C	97.731	.	voice	2B 2dd 2ff#
+.	.	_	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	to	.	C	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+2iii	F#:min	.	.	.	98.781	.	voice	2F# 2a 2cc#
+.	.	.	.	.	.	.	.	.
+.	.	to	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V	A:sus4(b7)	love	.	.	99.831	.	voice	4A 4cc# 4ee
+4V7	A:7	you,	.	C	100.356	.	voice	4A 4cc# 4ee 4gg
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+2I	D:maj	all	.	.	100.881	.	voice	2D 2f# 2a
+.	.	I	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+2vi	B:min	be	.	D	101.931	.	voice	2B 2dd 2ff#
+.	.	_	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	a'	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+2.-VII	C:maj	.	.	.	102.981	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	D	.	.	.	.
+.	.	hap	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4IV	G:maj	py,	.	d	104.555	.	voice	4G 4b 4dd
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+2iii7	F#:min7	all	.	.	105.08	newline	voice	2F# 2a 2cc# 2ee
+.	.	it's	.	.	.	.	.	.
+.	.	got	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+2vi	B:min	take	.	E	106.131	.	voice	2B 2dd 2ff#
+.	.	_	.	.	.	.	.	.
+.	.	is	.	.	.	.	.	.
+.	.	some	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+2iii	F#:min	.	.	.	107.181	.	voice	2F# 2a 2cc#
+.	.	warmth	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	make	.	E	.	.	.	.
+2V7	A:7	_	.	.	108.231	.	voice	2A 2cc# 2ee 2gg
+.	.	it	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+2-III	F:maj	-way,	.	.	109.282	.	voice	2F 2a 2cc
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+2-VII	C:maj	-way	.	.	110.332	.	voice	2C 2e 2g
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+2V	A:sus4(b7)	-way	.	.	111.383	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2V	A:maj	.	.	.	112.433	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+2I	D:maj	All	All	.	113.483	newline	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	do	do	C	114.509	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	to	to	C	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+2iii	F#:min	.	.	.	115.534	.	voice	2F# 2a 2cc#
+.	.	.	.	.	.	.	.	.
+.	.	to	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V	A:sus4(b7)	love	.	.	116.559	.	voice	4A 4cc# 4ee
+4V7	A:7	you,	.	C	117.072	.	voice	4A 4cc# 4ee 4gg
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+2I	D:maj	all	all	.	117.584	.	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	be	be	D	118.609	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	a'	a'	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+2.-VII	C:maj	.	.	.	119.635	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	D	.	.	.	.
+.	.	hap	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4IV	G:maj	py,	.	d	121.172	.	voice	4G 4b 4dd
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+2iii7	F#:min7	all	all	.	121.685	newline	voice	2F# 2a 2cc# 2ee
+.	.	it's	it's	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	take	take	E	122.732	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	some	some	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+2iii	F#:min	.	.	.	123.779	.	voice	2F# 2a 2cc#
+.	.	warmth	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	make	.	E	.	.	.	.
+2V7	A:7	_	.	.	124.826	.	voice	2A 2cc# 2ee 2gg
+.	.	it	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+2-III	F:maj	-way,	way,	.	125.874	.	voice	2F 2a 2cc
+.	.	blow	blow	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+2-VII	C:maj	-way	-way	.	126.921	.	voice	2C 2e 2g
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	blow	blow	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+2IV	G:maj	-way	-way	.	127.968	.	voice	2G 2b 2dd
+.	.	.	.	.	.	.	.	.
+2-VII	C:maj	.	.	.	129.015	.	voice	2C 2e 2g
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+2-III	F:maj	.	.	.	130.062	newline	guitar	1F 1a 1cc
+2-VII	C:maj	.	.	.	131.133	.	guitar	2C 2e 2g
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+1V	A:sus4(b7)	.	.	.	132.205	.	guitar	1A 1cc# 1ee
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+1V	A:sus4(b7)	.	.	.	134.347	.	guitar	1A 1cc# 1ee
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	D:maj	Wind	Wind	.	136.49	newline	voice	1D 1f# 1a
+.	.	blew	blew	.	.	.	.	.
+.	.	in	in	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	cloud	cloud	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+1vi7	B:min7	_	_	.	138.572	.	voice	1B 1dd 1ff# 1aa
+.	.	was	was	.	.	.	.	.
+.	.	dis-	dis-	.	.	.	.	.
+.	.	-persed	-persed	H	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+1iii7	F#:min7	.	.	.	140.655	.	voice	1F# 1a 1cc# 1ee
+.	.	rain	rain	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	bows	bows	.	.	.	.	.
+.	.	ap-	ap-	.	.	.	.	.
+.	.	-pear-	-pear-	.	.	.	.	.
+.	.	-ing,	-ing,	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+.	.	_	_	.	.	.	.	.
+2V	A:sus4(b7)	pres	pres	.	142.737	.	voice	2A 2cc# 2ee
+.	.	_	_	.	.	.	.	.
+.	.	sures	sures	.	.	.	.	.
+.	.	were	were	.	.	.	.	.
+2V	A:maj	burst	burst	H	143.778	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+1I	D:maj	.	.	.	144.819	newline	voice	1D 1f# 1a
+.	.	_	_	.	.	.	.	.
+.	.	Bree	Bree	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	zes	zes	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+.	.	-sin-	-sin-	.	.	.	.	.
+.	.	-ging,	-ging,	.	.	.	.	.
+.	.	now	now	.	.	.	.	.
+.	.	I'm	I'm	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1vi7	B:min7	_	_	.	146.916	.	voice	1B 1dd 1ff# 1aa
+.	.	fee-	fee-	.	.	.	.	.
+.	.	-ling	-ling	.	.	.	.	.
+.	.	good	good	I	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+1iii7	F#:min7	.	.	.	149.012	.	voice	1F# 1a 1cc# 1ee
+.	.	mo	mo	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	ment	ment	.	.	.	.	.
+.	.	had	had	.	.	.	.	.
+.	.	passed	passed	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	like	like	.	.	.	.	.
+.	.	I	I	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+.	.	_	_	.	.	.	.	.
+2V	A:sus4(b7)	knew	knew	.	151.108	.	voice	2A 2cc# 2ee
+.	.	_	_	.	.	.	.	.
+.	.	that	that	.	.	.	.	.
+.	.	it	it	.	.	.	.	.
+2V	A:maj	should	should	I	152.156	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1V	A:sus4(b7)	.	.	.	153.205	.	voice	1A 1cc# 1ee
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2I	D:maj	All	All	.	155.301	newline	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	do	do	C	156.35	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	to	to	C	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+2iii	F#:min	.	.	.	157.4	.	voice	2F# 2a 2cc#
+.	.	.	.	.	.	.	.	.
+.	.	to	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V	A:sus4(b7)	love	.	.	158.45	.	voice	4A 4cc# 4ee
+4V7	A:7	you,	.	C	158.974	.	voice	4A 4cc# 4ee 4gg
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+2I	D:maj	all	all	.	159.499	.	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	be	be	D	160.549	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	a'	a'	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+2.-VII	C:maj	.	.	.	161.598	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	D	.	.	.	.
+.	.	hap	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4IV	G:maj	py,	.	d	163.173	.	voice	4G 4b 4dd
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+2iii7	F#:min7	all	all	.	163.698	newline	voice	2F# 2a 2cc# 2ee
+.	.	it's	it's	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	take	take	E	164.738	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	some	some	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+2iii	F#:min	.	.	.	165.779	.	voice	2F# 2a 2cc#
+.	.	warmth	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	make	.	E	.	.	.	.
+2V7	A:7	_	.	.	166.82	.	voice	2A 2cc# 2ee 2gg
+.	.	it	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+2-III	F:maj	-way,	way,	.	167.861	.	voice	2F 2a 2cc
+.	.	blow	blow	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+2-VII	C:maj	-way	-way	.	168.901	.	voice	2C 2e 2g
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	blow	blow	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+2V	A:sus4(b7)	-way	-way	.	169.942	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+2V	A:maj	.	(Vocalizing)	.	170.983	.	voice	2A 2cc# 2ee
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+2I	D:maj	All	All	.	172.024	newline	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	do	do	C	173.058	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	to	to	C	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+2iii	F#:min	.	.	.	174.092	.	voice	2F# 2a 2cc#
+.	.	.	.	.	.	.	.	.
+.	.	to	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V	A:sus4(b7)	love	.	.	175.126	.	voice	4A 4cc# 4ee
+4V7	A:7	you,	.	C	175.643	.	voice	4A 4cc# 4ee 4gg
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+2I	D:maj	all	all	.	176.16	.	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	be	be	D	177.194	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	a'	a'	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+2.-VII	C:maj	.	.	.	178.227	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	D	.	.	.	.
+.	.	hap	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4IV	G:maj	py,	.	d	179.778	.	voice	4G 4b 4dd
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+2iii7	F#:min7	all	all	.	180.295	newline	voice	2F# 2a 2cc# 2ee
+.	.	it's	it's	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	take	take	E	181.339	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	some	some	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
+2iii	F#:min	.	.	.	182.382	.	voice	2F# 2a 2cc#
+.	.	warmth	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	make	.	E	.	.	.	.
+2V7	A:7	_	.	.	183.426	.	voice	2A 2cc# 2ee 2gg
+.	.	it	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+2-III	F:maj	-way,	way,	.	184.469	.	voice	2F 2a 2cc
+.	.	blow	blow	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+2-VII	C:maj	-way	-way	.	185.513	.	voice	2C 2e 2g
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	blow	blow	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+2IV	G:maj	-way	-way	.	186.556	.	voice	2G 2b 2dd
+.	.	.	.	.	.	.	.	.
+2-VII	C:maj	.	.	.	187.6	.	voice	2C 2e 2g
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+2-III	F:maj	.	.	.	188.643	newline	guitar	1F 1a 1cc
+2-VII	C:maj	.	.	.	189.695	.	guitar	2C 2e 2g
+=92	=92	=92	=92	=92	=92	=92	=92	=92
+1V	A:sus4(b7)	.	.	.	190.748	.	guitar	1A 1cc# 1ee
+=93	=93	=93	=93	=93	=93	=93	=93	=93
+1V	A:sus4(b7)	.	.	.	192.852	.	guitar	1A 1cc# 1ee
+=94	=94	=94	=94	=94	=94	=94	=94	=94
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+2I	D:maj	.	.	.	194.956	newline	guitar	1D 1f# 1a
+2vi	B:min	.	.	.	196.004	.	guitar	2B 2dd 2ff#
+=95	=95	=95	=95	=95	=95	=95	=95	=95
+2iii	F#:min	.	.	.	197.051	.	guitar	1F# 1a 1cc#
+4V	A:sus4(b7)	.	.	.	198.099	.	guitar	4A 4cc# 4ee
+4V7	A:7	.	.	.	198.622	.	guitar	4A 4cc# 4ee 4gg
+=96	=96	=96	=96	=96	=96	=96	=96	=96
+2I	D:maj	.	.	.	199.146	.	guitar	1D 1f# 1a
+2vi	B:min	.	.	.	200.194	.	guitar	2B 2dd 2ff#
+=97	=97	=97	=97	=97	=97	=97	=97	=97
+2.-VII	C:maj	.	.	.	201.241	.	guitar	1C 1e 1g
+4IV	G:maj	.	.	.	202.812	.	guitar	4G 4b 4dd
+=98	=98	=98	=98	=98	=98	=98	=98	=98
+*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2iii7	F#:min7	all	all	.	203.336	newline	voice	2F# 2a 2cc# 2ee
+.	.	it's	it's	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	take	take	E	204.372	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	some	some	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99
+2iii	F#:min	.	.	.	205.409	.	voice	2F# 2a 2cc#
+.	.	warmth	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	make	.	E	.	.	.	.
+2V7	A:7	_	.	.	206.445	.	voice	2A 2cc# 2ee 2gg
+.	.	it	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100
+2-III	F:maj	-way,	way,	.	207.481	.	voice	2F 2a 2cc
+.	.	blow	blow	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+2-VII	C:maj	-way	-way	.	208.518	.	voice	2C 2e 2g
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	blow	blow	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101
+2V	A:sus4(b7)	-way	-way	.	209.554	.	voice	2A 2cc# 2ee
+.	.	.	.	.	.	.	.	.
+.	.	.	(Vocalizing)	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+2V	A:maj	.	_	.	210.59	.	voice	2A 2cc# 2ee
+.	.	(Ah)	.	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+=102	=102	=102	=102	=102	=102	=102	=102	=102
+2I	D:maj	All	All	.	211.627	newline	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	do	do	C	212.654	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	to	to	C	.	.	.	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103
+2iii	F#:min	.	.	.	213.681	.	voice	2F# 2a 2cc#
+.	.	.	.	.	.	.	.	.
+.	.	to	.	C	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4V	A:sus4(b7)	love	.	.	214.709	.	voice	4A 4cc# 4ee
+4V7	A:7	you,	.	C	215.222	.	voice	4A 4cc# 4ee 4gg
+=104	=104	=104	=104	=104	=104	=104	=104	=104
+2I	D:maj	all	all	.	215.736	.	voice	2D 2f# 2a
+.	.	I	I	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	be	be	D	216.763	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	a'	a'	.	.	.	.	.
+=105	=105	=105	=105	=105	=105	=105	=105	=105
+2.-VII	C:maj	.	.	.	217.791	.	voice	2.C 2.e 2.g
+.	.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	be	.	D	.	.	.	.
+.	.	hap	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+4IV	G:maj	py,	.	d	219.332	.	voice	4G 4b 4dd
+=106	=106	=106	=106	=106	=106	=106	=106	=106
+2iii7	F#:min7	all	all	.	219.845	newline	voice	2F# 2a 2cc# 2ee
+.	.	it's	it's	.	.	.	.	.
+.	.	got	got	.	.	.	.	.
+.	.	to	to	.	.	.	.	.
+2vi	B:min	take	take	E	220.897	.	voice	2B 2dd 2ff#
+.	.	_	_	.	.	.	.	.
+.	.	is	is	.	.	.	.	.
+.	.	some	some	.	.	.	.	.
+=107	=107	=107	=107	=107	=107	=107	=107	=107
+2iii	F#:min	.	.	.	221.948	.	voice	2F# 2a 2cc#
+.	.	warmth	.	.	.	.	.	.
+.	.	to	.	.	.	.	.	.
+.	.	make	.	E	.	.	.	.
+2V7	A:7	_	.	.	222.999	.	voice	2A 2cc# 2ee 2gg
+.	.	it	.	.	.	.	.	.
+.	.	blow	.	.	.	.	.	.
+.	.	a-	.	.	.	.	.	.
+=108	=108	=108	=108	=108	=108	=108	=108	=108
+2-III	F:maj	-way,	way,	.	224.05	.	voice	2F 2a 2cc
+.	.	blow	blow	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+.	.	.	_	.	.	.	.	.
+2-VII	C:maj	-way	-way	.	225.101	.	voice	2C 2e 2g
+.	.	_	_	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	blow	blow	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	a-	a-	.	.	.	.	.
+=109	=109	=109	=109	=109	=109	=109	=109	=109
+2IV	G:maj	-way	-way	.	226.152	.	voice	2G 2b 2dd
+.	.	.	.	.	.	.	.	.
+2-VII	C:maj	.	.	.	227.203	.	voice	2C 2e 2g
+.	.	Ah	.	.	.	.	.	.
+=110	=110	=110	=110	=110	=110	=110	=110	=110
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+2-III	F:maj	_	.	.	228.254	newline	guitar	2F 2a 2cc
+.	.	_	.	.	.	.	.	.
+2-VII	C:maj	_	.	.	229.304	.	guitar	2C 2e 2g
+.	.	.	.	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111	=111
+1V	A:sus4(b7)	.	.	.	230.355	.	guitar	1A 1cc# 1ee
+=112	=112	=112	=112	=112	=112	=112	=112	=112
+1V	A:sus4(b7)	.	.	.	232.456	.	guitar	1A 1cc# 1ee
+1r;	N	.	.	.	237.708	.	r	1r;
+1r;	N	.	.	.	240.718	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1979/04/07
+!!!BillboardPeak: 16
+!!!BillboardWeeksOnChart: 14
+!!!COC: George Harrison
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Blow Away
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 26
+!!!SampleID#: 0419
+!!!SampleTargetRank: 26
+!!!MBID: 24352418-7187-40fa-be69-5baa14c473cc

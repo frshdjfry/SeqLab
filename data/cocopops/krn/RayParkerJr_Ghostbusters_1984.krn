@@ -1,0 +1,438 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*b:	*b:	*	*	*	*b:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1i	B:1	2.185	newline	synth	1B 1dd 1ff#
+.	G:1	3.236	.	synth	.
+=2	=2	=2	=2	=2	=2
+1i	F#:1	4.287	.	synth	1B 1dd 1ff#
+.	F:1	5.338	.	synth	.
+=3	=3	=3	=3	=3	=3
+1i	E:1	6.389	.	synth	1B 1dd 1ff#
+.	D:1	7.44	.	synth	.
+=4	=4	=4	=4	=4	=4
+1viio	A#:1	8.491	.	synth	1A# 1cc# 1ee
+=5	=5	=5	=5	=5	=5
+1viio	A#:1	10.593	.	synth	1A# 1cc# 1ee
+=6	=6	=6	=6	=6	=6
+*>B_instrumental	*>B_instrumental	*>B_instrumental	*>B_instrumental	*>B_instrumental	*>B_instrumental
+2I	B:maj	12.695	newline	synth	2B 2dd# 2ff#
+4-VII	A:maj	13.728	.	synth	4A 4cc# 4ee
+4IV	E:maj	14.244	.	synth	4E 4g# 4b
+=7	=7	=7	=7	=7	=7
+2I	B:maj	14.761	.	synth	2B 2dd# 2ff#
+4-VII	A:maj	15.793	.	synth	4A 4cc# 4ee
+4IV	E:maj	16.31	.	synth	4E 4g# 4b
+=8	=8	=8	=8	=8	=8
+2I	B:maj	16.826	.	synth	2B 2dd# 2ff#
+4-VII	A:maj	17.859	.	synth	4A 4cc# 4ee
+4IV	E:maj	18.375	.	synth	4E 4g# 4b
+=9	=9	=9	=9	=9	=9
+2I	B:maj	18.891	.	synth	2B 2dd# 2ff#
+4-VII	A:maj	19.924	.	synth	4A 4cc# 4ee
+4IV	E:maj	20.44	.	synth	4E 4g# 4b
+=10	=10	=10	=10	=10	=10
+2I	B:maj	20.957	.	synth	2B 2dd# 2ff#
+4-VII	A:maj	21.989	.	synth	4A 4cc# 4ee
+4IV	E:maj	22.506	.	synth	4E 4g# 4b
+=11	=11	=11	=11	=11	=11
+2I	B:maj	23.022	.	synth	2B 2dd# 2ff#
+4-VII	A:maj	24.055	.	synth	4A 4cc# 4ee
+4IV	E:maj	24.571	.	synth	4E 4g# 4b
+=12	=12	=12	=12	=12	=12
+2I	B:maj	25.087	.	synth	2B 2dd# 2ff#
+4-VII	A:maj	26.12	.	synth	4A 4cc# 4ee
+4IV	E:maj	26.636	.	synth	4E 4g# 4b
+=13	=13	=13	=13	=13	=13
+2I	B:maj	27.153	.	synth	2B 2dd# 2ff#
+4-VII	A:maj	28.185	.	synth	4A 4cc# 4ee
+4IV	E:maj	28.702	.	synth	4E 4g# 4b
+=14	=14	=14	=14	=14	=14
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+2I	B:maj	29.218	newline	voice	2B 2dd# 2ff#
+4-VII	A:maj	30.256	.	voice	4A 4cc# 4ee
+4IV	E:maj	30.775	.	voice	4E 4g# 4b
+=15	=15	=15	=15	=15	=15
+2I	B:maj	31.293	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	32.331	.	voice	4A 4cc# 4ee
+4IV	E:maj	32.85	.	voice	4E 4g# 4b
+=16	=16	=16	=16	=16	=16
+2I	B:maj	33.369	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	34.406	.	voice	4A 4cc# 4ee
+4IV	E:maj	34.925	.	voice	4E 4g# 4b
+=17	=17	=17	=17	=17	=17
+2I	B:maj	35.444	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	36.481	.	voice	4A 4cc# 4ee
+4IV	E:maj	37	.	voice	4E 4g# 4b
+=18	=18	=18	=18	=18	=18
+2I	B:maj	37.519	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	38.557	.	voice	4A 4cc# 4ee
+4IV	E:maj	39.076	.	voice	4E 4g# 4b
+=19	=19	=19	=19	=19	=19
+2I	B:maj	39.594	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	40.632	.	voice	4A 4cc# 4ee
+4IV	E:maj	41.151	.	voice	4E 4g# 4b
+=20	=20	=20	=20	=20	=20
+2I	B:maj	41.67	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	42.707	.	voice	4A 4cc# 4ee
+4IV	E:maj	43.226	.	voice	4E 4g# 4b
+=21	=21	=21	=21	=21	=21
+2I	B:maj	43.745	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	44.783	.	voice	4A 4cc# 4ee
+4IV	E:maj	45.301	.	voice	4E 4g# 4b
+=22	=22	=22	=22	=22	=22
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+2.i	B:min	45.82	newline	synth	2B 2dd 2ff#
+4id	B:min/b7	47.397	.	synth	4b 4dd 4ff#
+=23	=23	=23	=23	=23	=23
+1id	B:min/b7	47.923	.	synth	1b 1dd 1ff#
+=24	=24	=24	=24	=24	=24
+2.ig	B:min/6	50.026	.	synth	2B 2dd 2ff#
+4if	B:min/4	51.603	.	synth	4B 4dd 4ff#
+=25	=25	=25	=25	=25	=25
+1if	B:min/4	52.129	.	synth	1B 1dd 1ff#
+=26	=26	=26	=26	=26	=26
+2.i	B:min	54.232	newline	synth	2B 2dd 2ff#
+4id	B:min/b7	55.777	.	synth	4b 4dd 4ff#
+=27	=27	=27	=27	=27	=27
+1id	B:min/b7	56.292	.	synth	1b 1dd 1ff#
+=28	=28	=28	=28	=28	=28
+2.ig	B:min/6	58.352	.	synth	2B 2dd 2ff#
+4if	B:min/4	59.896	.	synth	4B 4dd 4ff#
+=29	=29	=29	=29	=29	=29
+1if	B:min/4	60.411	.	synth	1B 1dd 1ff#
+=30	=30	=30	=30	=30	=30
+*>B_instrumental	*>B_instrumental	*>B_instrumental	*>B_instrumental	*>B_instrumental	*>B_instrumental
+2I	B:maj	62.471	newline	guitar	2B 2dd# 2ff#
+4-VII	A:maj	63.498	.	guitar	4A 4cc# 4ee
+4IV	E:maj	64.012	.	guitar	4E 4g# 4b
+=31	=31	=31	=31	=31	=31
+2I	B:maj	64.526	.	guitar	2B 2dd# 2ff#
+4-VII	A:maj	65.553	.	guitar	4A 4cc# 4ee
+4IV	E:maj	66.067	.	guitar	4E 4g# 4b
+=32	=32	=32	=32	=32	=32
+2I	B:maj	66.581	.	guitar	2B 2dd# 2ff#
+4-VII	A:maj	67.608	.	guitar	4A 4cc# 4ee
+4IV	E:maj	68.122	.	guitar	4E 4g# 4b
+=33	=33	=33	=33	=33	=33
+2I	B:maj	68.636	.	guitar	2B 2dd# 2ff#
+4-VII	A:maj	69.663	.	guitar	4A 4cc# 4ee
+4IV	E:maj	70.177	.	guitar	4E 4g# 4b
+=34	=34	=34	=34	=34	=34
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+2I	B:maj	70.691	newline	voice	2B 2dd# 2ff#
+4-VII	A:maj	71.729	.	voice	4A 4cc# 4ee
+4IV	E:maj	72.249	.	voice	4E 4g# 4b
+=35	=35	=35	=35	=35	=35
+2I	B:maj	72.768	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	73.807	.	voice	4A 4cc# 4ee
+4IV	E:maj	74.326	.	voice	4E 4g# 4b
+=36	=36	=36	=36	=36	=36
+2I	B:maj	74.846	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	75.885	.	voice	4A 4cc# 4ee
+4IV	E:maj	76.404	.	voice	4E 4g# 4b
+=37	=37	=37	=37	=37	=37
+2I	B:maj	76.923	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	77.962	.	voice	4A 4cc# 4ee
+4IV	E:maj	78.482	.	voice	4E 4g# 4b
+=38	=38	=38	=38	=38	=38
+2I	B:maj	79.001	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	80.04	.	voice	4A 4cc# 4ee
+4IV	E:maj	80.559	.	voice	4E 4g# 4b
+=39	=39	=39	=39	=39	=39
+2I	B:maj	81.079	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	82.117	.	voice	4A 4cc# 4ee
+4IV	E:maj	82.637	.	voice	4E 4g# 4b
+=40	=40	=40	=40	=40	=40
+2I	B:maj	83.156	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	84.195	.	voice	4A 4cc# 4ee
+4IV	E:maj	84.714	.	voice	4E 4g# 4b
+=41	=41	=41	=41	=41	=41
+2I	B:maj	85.234	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	86.272	.	voice	4A 4cc# 4ee
+4IV	E:maj	86.792	.	voice	4E 4g# 4b
+=42	=42	=42	=42	=42	=42
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+2.i	B:min	87.311	newline	synth	2B 2dd 2ff#
+4id	B:min/b7	88.867	.	synth	4b 4dd 4ff#
+=43	=43	=43	=43	=43	=43
+1id	B:min/b7	89.385	.	synth	1b 1dd 1ff#
+=44	=44	=44	=44	=44	=44
+2.ig	B:min/6	91.459	.	synth	2B 2dd 2ff#
+4if	B:min/4	93.015	.	synth	4B 4dd 4ff#
+=45	=45	=45	=45	=45	=45
+1if	B:min/4	93.533	.	synth	1B 1dd 1ff#
+=46	=46	=46	=46	=46	=46
+2.i	B:min	95.607	newline	synth	2B 2dd 2ff#
+4id	B:min/b7	97.17	.	synth	4b 4dd 4ff#
+=47	=47	=47	=47	=47	=47
+1id	B:min/b7	97.691	.	synth	1b 1dd 1ff#
+=48	=48	=48	=48	=48	=48
+2.ig	B:min/6	99.775	.	synth	2B 2dd 2ff#
+4if	B:min/4	101.338	.	synth	4B 4dd 4ff#
+=49	=49	=49	=49	=49	=49
+1if	B:min/4	101.859	.	synth	1B 1dd 1ff#
+=50	=50	=50	=50	=50	=50
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+2I	B:maj	103.943	newline	voice	2B 2dd# 2ff#
+4-VII	A:maj	104.979	.	voice	4A 4cc# 4ee
+4IV	E:maj	105.497	.	voice	4E 4g# 4b
+=51	=51	=51	=51	=51	=51
+2I	B:maj	106.014	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	107.05	.	voice	4A 4cc# 4ee
+4IV	E:maj	107.568	.	voice	4E 4g# 4b
+=52	=52	=52	=52	=52	=52
+2I	B:maj	108.086	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	109.122	.	voice	4A 4cc# 4ee
+4IV	E:maj	109.64	.	voice	4E 4g# 4b
+=53	=53	=53	=53	=53	=53
+2I	B:maj	110.158	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	111.194	.	voice	4A 4cc# 4ee
+4IV	E:maj	111.712	.	voice	4E 4g# 4b
+=54	=54	=54	=54	=54	=54
+2I	B:maj	112.23	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	113.266	.	voice	4A 4cc# 4ee
+4IV	E:maj	113.784	.	voice	4E 4g# 4b
+=55	=55	=55	=55	=55	=55
+2I	B:maj	114.301	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	115.337	.	voice	4A 4cc# 4ee
+4IV	E:maj	115.855	.	voice	4E 4g# 4b
+=56	=56	=56	=56	=56	=56
+2I	B:maj	116.373	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	117.409	.	voice	4A 4cc# 4ee
+4IV	E:maj	117.927	.	voice	4E 4g# 4b
+=57	=57	=57	=57	=57	=57
+2I	B:maj	118.445	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	119.481	.	voice	4A 4cc# 4ee
+4IV	E:maj	119.999	.	voice	4E 4g# 4b
+=58	=58	=58	=58	=58	=58
+*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge
+4i	B:min	120.517	newline	voice	4B 4dd 4ff#
+2.-VII	A:maj	121.036	.	voice	2A 2cc# 2ee
+=59	=59	=59	=59	=59	=59
+2-VII	A:maj	122.595	.	voice	2A 2cc# 2ee
+2i	B:min	123.633	.	voice	2B 2dd 2ff#
+=60	=60	=60	=60	=60	=60
+4i	B:min	124.672	.	voice	4B 4dd 4ff#
+2.-VII	A:maj	125.192	.	voice	2A 2cc# 2ee
+=61	=61	=61	=61	=61	=61
+2-VII	A:maj	126.75	.	voice	2A 2cc# 2ee
+2i	B:min	127.789	.	voice	2B 2dd 2ff#
+=62	=62	=62	=62	=62	=62
+4i	B:min	128.828	.	voice	4B 4dd 4ff#
+2.-VII	A:maj	129.347	.	voice	2A 2cc# 2ee
+=63	=63	=63	=63	=63	=63
+2-VII	A:maj	130.906	.	voice	2A 2cc# 2ee
+2i	B:min	131.945	.	voice	2B 2dd 2ff#
+=64	=64	=64	=64	=64	=64
+4i	B:min	132.984	.	voice	4B 4dd 4ff#
+2.-VII	A:maj	133.503	.	voice	2A 2cc# 2ee
+=65	=65	=65	=65	=65	=65
+2-VII	A:maj	135.061	.	voice	2A 2cc# 2ee
+2i	B:min	136.1	.	voice	2B 2dd 2ff#
+=66	=66	=66	=66	=66	=66
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+2I	B:maj	137.139	newline	voice	2B 2dd# 2ff#
+4-VII	A:maj	138.177	.	voice	4A 4cc# 4ee
+4IV	E:maj	138.696	.	voice	4E 4g# 4b
+=67	=67	=67	=67	=67	=67
+2I	B:maj	139.214	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	140.252	.	voice	4A 4cc# 4ee
+4IV	E:maj	140.771	.	voice	4E 4g# 4b
+=68	=68	=68	=68	=68	=68
+2I	B:maj	141.29	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	142.327	.	voice	4A 4cc# 4ee
+4IV	E:maj	142.846	.	voice	4E 4g# 4b
+=69	=69	=69	=69	=69	=69
+2I	B:maj	143.365	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	144.402	.	voice	4A 4cc# 4ee
+4IV	E:maj	144.921	.	voice	4E 4g# 4b
+=70	=70	=70	=70	=70	=70
+2I	B:maj	145.44	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	146.477	.	voice	4A 4cc# 4ee
+4IV	E:maj	146.996	.	voice	4E 4g# 4b
+=71	=71	=71	=71	=71	=71
+2I	B:maj	147.515	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	148.553	.	voice	4A 4cc# 4ee
+4IV	E:maj	149.071	.	voice	4E 4g# 4b
+=72	=72	=72	=72	=72	=72
+2I	B:maj	149.59	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	150.628	.	voice	4A 4cc# 4ee
+4IV	E:maj	151.146	.	voice	4E 4g# 4b
+=73	=73	=73	=73	=73	=73
+2I	B:maj	151.665	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	152.703	.	voice	4A 4cc# 4ee
+4IV	E:maj	153.222	.	voice	4E 4g# 4b
+=74	=74	=74	=74	=74	=74
+*>F_instrumental	*>F_instrumental	*>F_instrumental	*>F_instrumental	*>F_instrumental	*>F_instrumental
+1v	F#:min	153.74	newline	voice	1F# 1a 1cc#
+=75	=75	=75	=75	=75	=75
+1v	F#:min	155.824	.	voice	1F# 1a 1cc#
+=76	=76	=76	=76	=76	=76
+1v	F#:min	157.907	.	voice	1F# 1a 1cc#
+=77	=77	=77	=77	=77	=77
+1v	F#:min	159.99	.	voice	1F# 1a 1cc#
+=78	=78	=78	=78	=78	=78
+1v	F#:min	162.073	.	voice	1F# 1a 1cc#
+=79	=79	=79	=79	=79	=79
+1v	F#:min	164.157	.	voice	1F# 1a 1cc#
+=80	=80	=80	=80	=80	=80
+1v	F#:min	166.24	.	voice	1F# 1a 1cc#
+=81	=81	=81	=81	=81	=81
+1v	F#:min	168.323	.	voice	1F# 1a 1cc#
+=82	=82	=82	=82	=82	=82
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+2.i	B:min	170.406	newline	synth	2B 2dd 2ff#
+4id	B:min/b7	171.948	.	synth	4b 4dd 4ff#
+=83	=83	=83	=83	=83	=83
+1id	B:min/b7	172.461	.	synth	1b 1dd 1ff#
+=84	=84	=84	=84	=84	=84
+2.ig	B:min/6	174.516	.	synth	2B 2dd 2ff#
+4if	B:min/4	176.058	.	synth	4B 4dd 4ff#
+=85	=85	=85	=85	=85	=85
+1if	B:min/4	176.571	.	synth	1B 1dd 1ff#
+=86	=86	=86	=86	=86	=86
+2.i	B:min	178.626	newline	synth	2B 2dd 2ff#
+4id	B:min/b7	180.188	.	synth	4b 4dd 4ff#
+=87	=87	=87	=87	=87	=87
+1id	B:min/b7	180.709	.	synth	1b 1dd 1ff#
+=88	=88	=88	=88	=88	=88
+2.ig	B:min/6	182.792	.	synth	2B 2dd 2ff#
+4if	B:min/4	184.354	.	synth	4B 4dd 4ff#
+=89	=89	=89	=89	=89	=89
+1if	B:min/4	184.874	.	synth	1B 1dd 1ff#
+=90	=90	=90	=90	=90	=90
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+2I	B:maj	186.957	newline	voice	2B 2dd# 2ff#
+4-VII	A:maj	187.996	.	voice	4A 4cc# 4ee
+4IV	E:maj	188.516	.	voice	4E 4g# 4b
+=91	=91	=91	=91	=91	=91
+2I	B:maj	189.036	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	190.075	.	voice	4A 4cc# 4ee
+4IV	E:maj	190.595	.	voice	4E 4g# 4b
+=92	=92	=92	=92	=92	=92
+2I	B:maj	191.115	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	192.154	.	voice	4A 4cc# 4ee
+4IV	E:maj	192.674	.	voice	4E 4g# 4b
+=93	=93	=93	=93	=93	=93
+2I	B:maj	193.193	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	194.233	.	voice	4A 4cc# 4ee
+4IV	E:maj	194.753	.	voice	4E 4g# 4b
+=94	=94	=94	=94	=94	=94
+2I	B:maj	195.272	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	196.312	.	voice	4A 4cc# 4ee
+4IV	E:maj	196.831	.	voice	4E 4g# 4b
+=95	=95	=95	=95	=95	=95
+2I	B:maj	197.351	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	198.391	.	voice	4A 4cc# 4ee
+4IV	E:maj	198.91	.	voice	4E 4g# 4b
+=96	=96	=96	=96	=96	=96
+2I	B:maj	199.43	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	200.469	.	voice	4A 4cc# 4ee
+4IV	E:maj	200.989	.	voice	4E 4g# 4b
+=97	=97	=97	=97	=97	=97
+2I	B:maj	201.509	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	202.548	.	voice	4A 4cc# 4ee
+4IV	E:maj	203.068	.	voice	4E 4g# 4b
+=98	=98	=98	=98	=98	=98
+*>G_outro	*>G_outro	*>G_outro	*>G_outro	*>G_outro	*>G_outro
+2I	B:maj	203.588	newline	voice	2B 2dd# 2ff#
+4-VII	A:maj	204.624	.	voice	4A 4cc# 4ee
+4IV	E:maj	205.142	.	voice	4E 4g# 4b
+=99	=99	=99	=99	=99	=99
+2I	B:maj	205.66	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	206.697	.	voice	4A 4cc# 4ee
+4IV	E:maj	207.215	.	voice	4E 4g# 4b
+=100	=100	=100	=100	=100	=100
+2I	B:maj	207.733	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	208.769	.	voice	4A 4cc# 4ee
+4IV	E:maj	209.288	.	voice	4E 4g# 4b
+=101	=101	=101	=101	=101	=101
+2I	B:maj	209.806	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	210.842	.	voice	4A 4cc# 4ee
+4IV	E:maj	211.36	.	voice	4E 4g# 4b
+=102	=102	=102	=102	=102	=102
+2I	B:maj	211.879	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	212.915	.	voice	4A 4cc# 4ee
+4IV	E:maj	213.433	.	voice	4E 4g# 4b
+=103	=103	=103	=103	=103	=103
+2I	B:maj	213.951	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	214.988	.	voice	4A 4cc# 4ee
+4IV	E:maj	215.506	.	voice	4E 4g# 4b
+=104	=104	=104	=104	=104	=104
+2I	B:maj	216.024	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	217.06	.	voice	4A 4cc# 4ee
+4IV	E:maj	217.579	.	voice	4E 4g# 4b
+=105	=105	=105	=105	=105	=105
+2I	B:maj	218.097	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	219.133	.	voice	4A 4cc# 4ee
+4IV	E:maj	219.651	.	voice	4E 4g# 4b
+=106	=106	=106	=106	=106	=106
+2I	B:maj	220.17	newline	fadeout	2B 2dd# 2ff#
+4-VII	A:maj	221.209	.	fadeout	4A 4cc# 4ee
+4IV	E:maj	221.729	.	fadeout	4E 4g# 4b
+=107	=107	=107	=107	=107	=107
+2I	B:maj	222.249	.	fadeout	2B 2dd# 2ff#
+4-VII	A:maj	223.289	.	fadeout	4A 4cc# 4ee
+4IV	E:maj	223.808	.	fadeout	4E 4g# 4b
+=108	=108	=108	=108	=108	=108
+2I	B:maj	224.328	.	fadeout	2B 2dd# 2ff#
+4-VII	A:maj	225.368	.	fadeout	4A 4cc# 4ee
+4IV	E:maj	225.888	.	fadeout	4E 4g# 4b
+=109	=109	=109	=109	=109	=109
+2I	B:maj	226.408	.	fadeout	2B 2dd# 2ff#
+4-VII	A:maj	227.447	.	fadeout	4A 4cc# 4ee
+4IV	E:maj	227.967	.	fadeout	4E 4g# 4b
+=110	=110	=110	=110	=110	=110
+2I	B:maj	228.487	.	fadeout	2B 2dd# 2ff#
+4-VII	A:maj	229.527	.	fadeout	4A 4cc# 4ee
+4IV	E:maj	230.046	.	fadeout	4E 4g# 4b
+=111	=111	=111	=111	=111	=111
+2I	B:maj	230.566	.	fadeout	2B 2dd# 2ff#
+4-VII	A:maj	231.606	.	fadeout	4A 4cc# 4ee
+4IV	E:maj	232.126	.	fadeout	4E 4g# 4b
+=112	=112	=112	=112	=112	=112
+2I	B:maj	232.646	.	fadeout	2B 2dd# 2ff#
+4-VII	A:maj	233.685	.	fadeout	4A 4cc# 4ee
+4IV	E:maj	234.205	.	fadeout	4E 4g# 4b
+=113	=113	=113	=113	=113	=113
+2I	B:maj	234.725	.	fadeout	2B 2dd# 2ff#
+4-VII	A:maj	235.764	.	fadeout	4A 4cc# 4ee
+4IV	E:maj	236.284	.	fadeout	4E 4g# 4b
+=114	=114	=114	=114	=114	=114
+2I	B:maj	236.804	newline	voice	2B 2dd# 2ff#
+4-VII	A:maj	237.648	.	voice	4A 4cc# 4ee
+4IV	E:maj	238.07	.	voice	4E 4g# 4b
+=115	=115	=115	=115	=115	=115
+2I	B:maj	238.492	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	239.335	.	voice	4A 4cc# 4ee
+4IV	E:maj	239.757	.	voice	4E 4g# 4b
+=116	=116	=116	=116	=116	=116
+2I	B:maj	240.179	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	241.023	.	voice	4A 4cc# 4ee
+4IV	E:maj	241.445	.	voice	4E 4g# 4b
+=117	=117	=117	=117	=117	=117
+2I	B:maj	241.867	.	voice	2B 2dd# 2ff#
+4-VII	A:maj	242.71	.	voice	4A 4cc# 4ee
+4IV	E:maj	243.132	.	voice	4E 4g# 4b
+1r;	N	243.554	.	r	1r;
+1r;	N	246.883	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Ghostbusters
+!!!COC: Ray Parker Jr.
+!!!BillboardChartDate: 1984/08/18
+!!!BillboardPeak: 1
+!!!BillboardWeeksOnChart: 21
+!!!SampleTargetRank: 1
+!!!SampleActualRank: 1
+!!!SampleID#: 0621
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

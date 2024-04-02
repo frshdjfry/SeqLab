@@ -1,0 +1,292 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*C:	*C:	*	*	*	*C:
+1r;	N	0	.	r	1r;
+1r;	N	1.3	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	C:maj	7.092	newline	synthesizer	1C 1e 1g
+=2	=2	=2	=2	=2	=2
+1I	C:maj	9.242	.	synthesizer	1C 1e 1g
+=3	=3	=3	=3	=3	=3
+1I	C:maj	11.392	.	synthesizer	1C 1e 1g
+=4	=4	=4	=4	=4	=4
+1I	C:maj	13.542	.	synthesizer	1C 1e 1g
+=5	=5	=5	=5	=5	=5
+1I	C:maj	15.692	newline	synthesizer	1C 1e 1g
+=6	=6	=6	=6	=6	=6
+1I	C:maj	17.858	.	synthesizer	1C 1e 1g
+=7	=7	=7	=7	=7	=7
+1I	C:maj	20.024	.	synthesizer	1C 1e 1g
+=8	=8	=8	=8	=8	=8
+1I	C:maj	22.189	.	synthesizer	1C 1e 1g
+=9	=9	=9	=9	=9	=9
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	C:maj	24.355	newline	voice	1C 1e 1g
+=10	=10	=10	=10	=10	=10
+1I	C:maj	26.505	.	voice	1C 1e 1g
+=11	=11	=11	=11	=11	=11
+1I	C:maj	28.656	.	voice	1C 1e 1g
+=12	=12	=12	=12	=12	=12
+1I	C:maj	30.806	.	voice	1C 1e 1g
+=13	=13	=13	=13	=13	=13
+1I	C:maj	32.957	newline	voice	1C 1e 1g
+=14	=14	=14	=14	=14	=14
+1I	C:maj	35.106	.	voice	1C 1e 1g
+=15	=15	=15	=15	=15	=15
+1I	C:maj	37.254	.	voice	1C 1e 1g
+=16	=16	=16	=16	=16	=16
+1I	C:maj	39.403	.	voice	1C 1e 1g
+=17	=17	=17	=17	=17	=17
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+2V	G:maj	41.552	newline	voice	2G 2b 2dd
+2Vd	G:maj/b7	42.632	.	voice	2g 2b 2dd
+=18	=18	=18	=18	=18	=18
+1V	G:maj	43.713	.	voice	1G 1b 1dd
+=19	=19	=19	=19	=19	=19
+1V	G:maj	45.873	.	voice	1G 1b 1dd
+=20	=20	=20	=20	=20	=20
+1V	G:maj	48.034	.	voice	1G 1b 1dd
+=21	=21	=21	=21	=21	=21
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+2I	C:maj	50.194	newline	voice	2C 2e 2g
+2vi	A:min(11)	51.273	.	voice	2A 2cc 2ee
+=22	=22	=22	=22	=22	=22
+2I	C:maj	52.352	.	voice	2C 2e 2g
+2vi	A:min(11)	53.431	.	voice	2A 2cc 2ee
+=23	=23	=23	=23	=23	=23
+2I	C:maj	54.51	.	voice	2C 2e 2g
+2vi	A:min(11)	55.589	.	voice	2A 2cc 2ee
+=24	=24	=24	=24	=24	=24
+2I	C:maj	56.668	.	voice	2C 2e 2g
+2vi	A:min(11)	57.747	.	voice	2A 2cc 2ee
+=25	=25	=25	=25	=25	=25
+2I	C:maj	58.826	newline	voice	2C 2e 2g
+2vi	A:min(11)	59.908	.	voice	2A 2cc 2ee
+=26	=26	=26	=26	=26	=26
+2I	C:maj	60.989	.	voice	2C 2e 2g
+2vi	A:min(11)	62.07	.	voice	2A 2cc 2ee
+=27	=27	=27	=27	=27	=27
+2I	C:maj	63.152	.	voice	2C 2e 2g
+2vi	A:min(11)	64.233	.	voice	2A 2cc 2ee
+=28	=28	=28	=28	=28	=28
+2I	C:maj	65.315	.	voice	2C 2e 2g
+2vi	A:min(11)	66.396	.	voice	2A 2cc 2ee
+=29	=29	=29	=29	=29	=29
+1V	G:maj	67.477	newline	piano	1G 1b 1dd
+=30	=30	=30	=30	=30	=30
+1V	G:maj	69.655	.	piano	1G 1b 1dd
+=31	=31	=31	=31	=31	=31
+*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+1I	C:maj	71.833	newline	synthesizer	1C 1e 1g
+=32	=32	=32	=32	=32	=32
+1I	C:maj	73.981	.	synthesizer	1C 1e 1g
+=33	=33	=33	=33	=33	=33
+1I	C:maj	76.13	.	synthesizer	1C 1e 1g
+=34	=34	=34	=34	=34	=34
+1I	C:maj	78.278	.	synthesizer	1C 1e 1g
+=35	=35	=35	=35	=35	=35
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	C:maj	80.427	newline	voice	1C 1e 1g
+=36	=36	=36	=36	=36	=36
+1I	C:maj	82.585	.	voice	1C 1e 1g
+=37	=37	=37	=37	=37	=37
+1I	C:maj	84.743	.	voice	1C 1e 1g
+=38	=38	=38	=38	=38	=38
+1I	C:maj	86.901	.	voice	1C 1e 1g
+=39	=39	=39	=39	=39	=39
+1I	C:maj	89.059	newline	voice	1C 1e 1g
+=40	=40	=40	=40	=40	=40
+1I	C:maj	91.218	.	voice	1C 1e 1g
+=41	=41	=41	=41	=41	=41
+1I	C:maj	93.377	.	voice	1C 1e 1g
+=42	=42	=42	=42	=42	=42
+1I	C:maj	95.537	.	voice	1C 1e 1g
+=43	=43	=43	=43	=43	=43
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+2V	G:maj	97.696	newline	voice	2G 2b 2dd
+2Vd	G:maj/b7	98.768	.	voice	2g 2b 2dd
+=44	=44	=44	=44	=44	=44
+1V	G:maj	99.841	.	voice	1G 1b 1dd
+=45	=45	=45	=45	=45	=45
+1V	G:maj	101.986	.	voice	1G 1b 1dd
+=46	=46	=46	=46	=46	=46
+1V	G:maj	104.131	.	voice	1G 1b 1dd
+=47	=47	=47	=47	=47	=47
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+2I	C:maj	106.277	newline	voice	2C 2e 2g
+2vi	A:min(11)	107.356	.	voice	2A 2cc 2ee
+=48	=48	=48	=48	=48	=48
+2I	C:maj	108.435	.	voice	2C 2e 2g
+2vi	A:min(11)	109.514	.	voice	2A 2cc 2ee
+=49	=49	=49	=49	=49	=49
+2I	C:maj	110.593	.	voice	2C 2e 2g
+2vi	A:min(11)	111.672	.	voice	2A 2cc 2ee
+=50	=50	=50	=50	=50	=50
+2I	C:maj	112.751	.	voice	2C 2e 2g
+2vi	A:min(11)	113.83	.	voice	2A 2cc 2ee
+=51	=51	=51	=51	=51	=51
+2I	C:maj	114.909	newline	voice	2C 2e 2g
+2vi	A:min(11)	115.986	.	voice	2A 2cc 2ee
+=52	=52	=52	=52	=52	=52
+2I	C:maj	117.062	.	voice	2C 2e 2g
+2vi	A:min(11)	118.139	.	voice	2A 2cc 2ee
+=53	=53	=53	=53	=53	=53
+2I	C:maj	119.215	.	voice	2C 2e 2g
+2vi	A:min(11)	120.291	.	voice	2A 2cc 2ee
+=54	=54	=54	=54	=54	=54
+2I	C:maj	121.368	.	voice	2C 2e 2g
+2vi	A:min(11)	122.444	.	voice	2A 2cc 2ee
+=55	=55	=55	=55	=55	=55
+*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge
+2V	G:maj	123.521	newline	guitar	2G 2b 2dd
+2V	G:maj6	124.606	.	guitar	2G 2b 2dd
+=56	=56	=56	=56	=56	=56
+2V7	G:7	125.692	.	guitar	2G 2b 2dd 2ff
+2V	G:maj6	126.778	.	guitar	2G 2b 2dd
+=57	=57	=57	=57	=57	=57
+2V	G:maj	127.863	.	guitar	2G 2b 2dd
+2V	G:maj6	128.949	.	guitar	2G 2b 2dd
+=58	=58	=58	=58	=58	=58
+2V7	G:7	130.035	.	guitar	2G 2b 2dd 2ff
+2V	G:maj	131.12	.	guitar	2G 2b 2dd
+=59	=59	=59	=59	=59	=59
+2V	G:maj	132.206	newline	voice	2G 2b 2dd
+2V	G:maj6	133.286	.	voice	2G 2b 2dd
+=60	=60	=60	=60	=60	=60
+2V7	G:7	134.366	.	voice	2G 2b 2dd 2ff
+2V	G:maj6	135.447	.	voice	2G 2b 2dd
+=61	=61	=61	=61	=61	=61
+2V	G:maj	136.527	.	voice	2G 2b 2dd
+2V	G:maj6	137.607	.	voice	2G 2b 2dd
+=62	=62	=62	=62	=62	=62
+2V7	G:7	138.687	.	voice	2G 2b 2dd 2ff
+2V	G:maj	139.767	.	voice	2G 2b 2dd
+=63	=63	=63	=63	=63	=63
+2V	G:maj	140.848	newline	voice	2G 2b 2dd
+2V	G:maj6	141.922	.	voice	2G 2b 2dd
+=64	=64	=64	=64	=64	=64
+2V7	G:7	142.996	.	voice	2G 2b 2dd 2ff
+2V	G:maj6	144.071	.	voice	2G 2b 2dd
+=65	=65	=65	=65	=65	=65
+2V	G:maj	145.145	.	voice	2G 2b 2dd
+2V	G:maj6	146.219	.	voice	2G 2b 2dd
+=66	=66	=66	=66	=66	=66
+2V7	G:7	147.294	.	voice	2G 2b 2dd 2ff
+2V	G:maj	148.368	.	voice	2G 2b 2dd
+=67	=67	=67	=67	=67	=67
+2V	G:maj	149.443	newline	voice	2G 2b 2dd
+2V	G:maj6	150.522	.	voice	2G 2b 2dd
+=68	=68	=68	=68	=68	=68
+2V7	G:7	151.602	.	voice	2G 2b 2dd 2ff
+2V	G:maj6	152.681	.	voice	2G 2b 2dd
+=69	=69	=69	=69	=69	=69
+2V	G:maj	153.761	.	voice	2G 2b 2dd
+2V	G:maj6	154.84	.	voice	2G 2b 2dd
+=70	=70	=70	=70	=70	=70
+2V7	G:7	155.92	.	voice	2G 2b 2dd 2ff
+2V	G:maj	157	.	voice	2G 2b 2dd
+=71	=71	=71	=71	=71	=71
+2V	G:maj	158.079	newline	voice	2G 2b 2dd
+2V	G:maj6	159.157	.	voice	2G 2b 2dd
+=72	=72	=72	=72	=72	=72
+2V7	G:7	160.235	.	voice	2G 2b 2dd 2ff
+2V	G:maj6	161.312	.	voice	2G 2b 2dd
+=73	=73	=73	=73	=73	=73
+1IV	F:maj	162.39	.	voice	1F 1a 1cc
+=74	=74	=74	=74	=74	=74
+1IV	F:maj	164.546	.	voice	1F 1a 1cc
+=75	=75	=75	=75	=75	=75
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+2I	C:maj	166.701	newline	voice	2C 2e 2g
+2vi	A:min(11)	167.776	.	voice	2A 2cc 2ee
+=76	=76	=76	=76	=76	=76
+2I	C:maj	168.851	.	voice	2C 2e 2g
+2vi	A:min(11)	169.926	.	voice	2A 2cc 2ee
+=77	=77	=77	=77	=77	=77
+2I	C:maj	171.001	.	voice	2C 2e 2g
+2vi	A:min(11)	172.077	.	voice	2A 2cc 2ee
+=78	=78	=78	=78	=78	=78
+2I	C:maj	173.152	.	voice	2C 2e 2g
+2vi	A:min(11)	174.227	.	voice	2A 2cc 2ee
+=79	=79	=79	=79	=79	=79
+2I	C:maj	175.302	newline	voice	2C 2e 2g
+2vi	A:min(11)	176.37	.	voice	2A 2cc 2ee
+=80	=80	=80	=80	=80	=80
+2I	C:maj	177.437	.	voice	2C 2e 2g
+2vi	A:min(11)	178.505	.	voice	2A 2cc 2ee
+=81	=81	=81	=81	=81	=81
+2I	C:maj	179.573	.	voice	2C 2e 2g
+2vi	A:min(11)	180.641	.	voice	2A 2cc 2ee
+=82	=82	=82	=82	=82	=82
+2I	C:maj	181.708	.	voice	2C 2e 2g
+2vi	A:min(11)	182.776	.	voice	2A 2cc 2ee
+=83	=83	=83	=83	=83	=83
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+2I	C:maj	183.844	newline	voice	2C 2e 2g
+2vi	A:min(11)	184.921	.	voice	2A 2cc 2ee
+=84	=84	=84	=84	=84	=84
+2I	C:maj	185.999	.	voice	2C 2e 2g
+2vi	A:min(11)	187.076	.	voice	2A 2cc 2ee
+=85	=85	=85	=85	=85	=85
+2I	C:maj	188.154	.	voice	2C 2e 2g
+2vi	A:min(11)	189.231	.	voice	2A 2cc 2ee
+=86	=86	=86	=86	=86	=86
+2I	C:maj	190.308	.	voice	2C 2e 2g
+2vi	A:min(11)	191.386	.	voice	2A 2cc 2ee
+=87	=87	=87	=87	=87	=87
+2I	C:maj	192.463	newline	voice	2C 2e 2g
+2vi	A:min(11)	193.533	.	voice	2A 2cc 2ee
+=88	=88	=88	=88	=88	=88
+2I	C:maj	194.603	.	voice	2C 2e 2g
+2vi	A:min(11)	195.673	.	voice	2A 2cc 2ee
+=89	=89	=89	=89	=89	=89
+2I	C:maj	196.743	.	voice	2C 2e 2g
+2vi	A:min(11)	197.813	.	voice	2A 2cc 2ee
+=90	=90	=90	=90	=90	=90
+2I	C:maj	198.882	.	voice	2C 2e 2g
+2vi	A:min(11)	199.952	.	voice	2A 2cc 2ee
+=91	=91	=91	=91	=91	=91
+*>D_fadeout	*>D_fadeout	*>D_fadeout	*>D_fadeout	*>D_fadeout	*>D_fadeout
+2I	C:maj	201.022	newline	voice	2C 2e 2g
+2vi	A:min(11)	202.092	.	voice	2A 2cc 2ee
+=92	=92	=92	=92	=92	=92
+2I	C:maj	203.161	.	voice	2C 2e 2g
+2vi	A:min(11)	204.23	.	voice	2A 2cc 2ee
+=93	=93	=93	=93	=93	=93
+2I	C:maj	205.3	.	voice	2C 2e 2g
+2vi	A:min(11)	206.369	.	voice	2A 2cc 2ee
+=94	=94	=94	=94	=94	=94
+2I	C:maj	207.439	.	voice	2C 2e 2g
+2vi	A:min(11)	208.508	.	voice	2A 2cc 2ee
+=95	=95	=95	=95	=95	=95
+2I	C:maj	209.577	newline	voice	2C 2e 2g
+2vi	A:min(11)	210.194	.	voice	2A 2cc 2ee
+=96	=96	=96	=96	=96	=96
+2I	C:maj	210.81	.	voice	2C 2e 2g
+2vi	A:min(11)	211.426	.	voice	2A 2cc 2ee
+=97	=97	=97	=97	=97	=97
+2I	C:maj	212.042	.	voice	2C 2e 2g
+2vi	A:min(11)	212.658	.	voice	2A 2cc 2ee
+=98	=98	=98	=98	=98	=98
+2I	C:maj	213.274	.	voice	2C 2e 2g
+2vi	A:min(11)	213.89	.	voice	2A 2cc 2ee
+1r;	N	214.506	.	r	1r;
+1r;	N	218.096	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Hot In The City
+!!!COC: Billy Idol
+!!!BillboardChartDate: 1982/09/25
+!!!BillboardPeak: 23
+!!!BillboardWeeksOnChart: 27
+!!!SampleTargetRank: 23
+!!!SampleActualRank: 23
+!!!SampleID#: 0920
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

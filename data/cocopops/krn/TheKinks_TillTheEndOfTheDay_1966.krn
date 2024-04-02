@@ -1,0 +1,477 @@
+**harm	**harte	**silbe	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*d:	*d:	*	*	*	*	*	*	*d:
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+1r;	N	.	.	.	.	.	r	1r;
+1r;	N	.	.	.	.	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+2I	D:5	.	.	.	0.025	newline	guitar	1D 1f# 1a
+2-VII	C:5	.	.	.	.	.	guitar	2C 2e 2g
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+1V	A:5	.	.	.	.	.	guitar	1A 1cc# 1ee
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1V	A:5	.	.	.	.	.	voice	1A 1cc# 1ee
+.	.	Ba-	.	.	.	.	.	.
+.	.	-by,	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	feel	.	.	.	.	.	.
+.	.	good	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4-VII	C:5	_	.	.	5.08	newline	voice	4C 4e 4g
+.	.	.	.	.	.	.	.	.
+4i	D:5	.	.	.	.	.	voice	4D 4f 4a
+4-III	F:5	.	.	.	.	.	voice	2F- 2a- 2cc-
+4-VII	C:5	.	.	.	.	.	voice	4C 4e 4g
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+1i	D:5	.	.	.	.	.	voice	1D 1f 1a
+.	.	from	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	mo-	.	.	.	.	.	.
+.	.	-ment	.	.	.	.	.	.
+.	.	I	.	.	.	.	.	.
+.	.	rise	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+4-VII	C:5	_	.	.	.	.	voice	4C 4e 4g
+4i	D:5	.	.	.	.	.	voice	4D 4f 4a
+4-III	F:5	.	.	.	.	.	voice	2F- 2a- 2cc-
+4-VII	C:5	.	.	.	.	.	voice	4C 4e 4g
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1i	D:5	.	.	.	.	.	voice	1D 1f 1a
+.	.	_	.	.	.	.	.	.
+.	.	Feel	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	good	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	from	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+2-III	F:5	.	Mor-	.	11.800	newline	voice	2F- 2a- 2cc-
+2IV	G:5	.	-ning!	.	.	.	voice	2G 2b 2dd
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+2-VI	B-:5	.	_	.	.	.	voice	2B-- 2dd- 2ff-
+.	.	'till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+2V	A:5	end	_	.	.	.	voice	2A 2cc# 2ee
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+4-VII	C:5	_	.	.	15.225	newline	voice	4C 4e 4g
+4i	D:5	.	.	.	.	.	voice	4D 4f 4a
+4-III	F:5	.	.	.	.	.	voice	2F- 2a- 2cc-
+4-VII	C:5	.	.	.	.	.	voice	4C 4e 4g
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+1i	D:5	.	.	.	.	.	voice	1D 1f 1a
+.	.	'Till	'Till	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+.	.	end	end	.	.	.	.	.
+.	.	of	of	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	day	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+4-VII	C:5	_	_	.	.	.	voice	4C 4e 4g
+4i	D:5	.	.	.	.	.	voice	4D 4f 4a
+4-III	F:5	.	.	.	.	.	voice	2F- 2a- 2cc-
+4-VII	C:5	.	.	.	.	.	voice	4C 4e 4g
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+2i	D:5	.	.	.	.	.	voice	2D 2f 2a
+2-VII	C:5	Yeah	.	.	.	.	voice	2C 2e 2g
+.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2i	D:5	You	.	.	21.935	newline	voice	2D 2f 2a
+.	.	and	.	.	.	.	.	.
+.	.	me	.	A	.	.	.	.
+2-VII	C:5	_	.	.	.	.	voice	2C 2e 2g
+.	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+2-III	F:5	.	.	.	.	.	voice	2F- 2a- 2cc-
+2-VII	C:5	we	.	.	.	.	voice	2C 2e 2g
+.	.	live	.	.	.	.	.	.
+.	.	this	.	.	.	.	.	.
+.	.	life	.	B	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+2i	D:5	_	.	.	.	.	voice	2D 2f 2a
+.	.	uh	.	.	.	.	.	.
+2-VII	C:5	.	.	.	.	.	voice	2C 2e 2g
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+2-III	F:5	.	.	.	.	.	voice	2F- 2a- 2cc-
+2-VII	C:5	.	.	.	.	.	voice	2C 2e 2g
+.	.	.	.	.	.	.	.	.
+.	.	From	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+.	.	_	.	.	.	.	.	.
+1i	D:5	when	.	.	28.815	newline	voice	1D 1f 1a
+.	.	we	.	A	.	.	.	.
+.	.	get	.	.	.	.	.	.
+.	.	up	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1-VII	C:5	.	.	.	.	.	voice	1C 1e 1g
+.	.	'till	.	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+.	.	go	.	.	.	.	.	.
+.	.	sleep	.	A	.	.	.	.
+.	.	at	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	night	.	B	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1-III	F:5	_	Night	.	.	.	voice	1F- 1a- 1cc-
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+1V	A:5	_	_	.	.	.	voice	1A 1cc# 1ee
+.	.	_	_	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1i	D:5	You	.	.	35.63	newline	voice	1D 1f 1a
+.	.	and	.	.	.	.	.	.
+.	.	me,	.	.	.	.	.	.
+.	.	we're	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	free	.	A	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1-VII	C:5	_	.	.	.	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+1i	D:5	We	.	.	.	.	voice	1D 1f 1a
+.	.	do	.	.	.	.	.	.
+.	.	as	.	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+2-VII	C:5	please,	.	A	.	.	voice	2C 2e 2g
+.	.	_	.	.	.	.	.	.
+2-VI	B-:5	yeah,	.	.	.	.	voice	2B-- 2dd- 2ff-
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	from	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+2-III	F:5	.	Mor-	.	42.5	newline	voice	2F- 2a- 2cc-
+2IV	G:5	.	-ning!	.	.	.	voice	2G 2b 2dd
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+2-VI	B-:5	.	_	.	.	.	voice	2B-- 2dd- 2ff-
+.	.	'till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+2V	A:5	end	_	.	.	.	voice	2A 2cc# 2ee
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+4-VII	C:5	_	.	.	45.93	newline	guitar	4C 4e 4g
+4i	D:5	.	.	.	.	.	guitar	4D 4f 4a
+4-III	F:5	.	.	.	.	.	guitar	2F- 2a- 2cc-
+4-VII	C:5	.	.	.	.	.	guitar	4C 4e 4g
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+1i	D:5	.	.	.	.	.	guitar	1D 1f 1a
+.	.	'Till	'Till	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+.	.	end	end	.	.	.	.	.
+.	.	of	of	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	day	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+4-VII	C:5	_	_	.	.	.	guitar	4C 4e 4g
+4i	D:5	.	.	.	.	.	guitar	4D 4f 4a
+4-III	F:5	.	.	.	.	.	guitar	2F- 2a- 2cc-
+4-VII	C:5	.	.	.	.	.	guitar	4C 4e 4g
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+2i	D:5	.	.	.	.	.	guitar	2D 2f 2a
+2-VII	C:5	Yeah	.	.	.	.	guitar	2C 2e 2g
+.	.	_	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2i	D:5	I	.	.	52.72	newline	voice	2D 2f 2a
+.	.	get	.	.	.	.	.	.
+.	.	up	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-VII	C:5	.	.	.	.	.	voice	2C 2e 2g
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+2-III	F:5	.	.	.	.	.	voice	2F- 2a- 2cc-
+.	.	.	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+2-VII	C:5	I	.	.	.	.	voice	2C 2e 2g
+.	.	see	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	sun	.	C	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+2i	D:5	_	.	.	.	.	voice	2D 2f 2a
+.	.	up	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+2-VII	C:5	.	.	.	.	.	voice	2C 2e 2g
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+2-III	F:5	.	.	.	.	.	voice	2F- 2a- 2cc-
+2-VII	C:5	.	.	.	.	.	voice	2C 2e 2g
+.	.	.	.	.	.	.	.	.
+.	.	And	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+.	.	_	.	.	.	.	.	.
+1i	D:5	I	.	.	59.595	newline	voice	1D 1f 1a
+.	.	_	.	.	.	.	.	.
+.	.	feel	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	good,	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	yeah	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+1-VII	C:5	.	.	.	.	.	voice	1C 1e 1g
+.	.	cuz	.	.	.	.	.	.
+.	.	my	.	.	.	.	.	.
+.	.	life	.	.	.	.	.	.
+.	.	has	.	.	.	.	.	.
+.	.	be-	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	-gun	.	C	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1-III	F:5	_	Gun	C	.	.	voice	1F- 1a- 1cc-
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1V	A:5	_	_	.	.	.	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1i	D:5	You	Ah	.	66.445	newline	voice	1D 1f 1a
+.	.	and	.	.	.	.	.	.
+.	.	me,	.	.	.	.	.	.
+.	.	we're	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	free	.	A	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+1-VII	C:5	_	_	.	.	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1i	D:5	We	_	.	.	.	voice	1D 1f 1a
+.	.	do	.	.	.	.	.	.
+.	.	as	.	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+2-VII	C:5	please,	_	A	.	.	voice	2C 2e 2g
+.	.	y-	.	.	.	.	.	.
+2-VI	B-:5	-yeah,	_	.	.	.	voice	2B-- 2dd- 2ff-
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	from	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+2-III	F:5	.	Mor-	.	73.29	newline	voice	2F- 2a- 2cc-
+2IV	G:5	.	-ning!	.	.	.	voice	2G 2b 2dd
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+2-VI	B-:5	.	_	.	.	.	voice	2B-- 2dd- 2ff-
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+2V	A:5	end	_	.	.	.	voice	2A 2cc# 2ee
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+1i	D:5	_	.	.	76.685	newline	guitar	1D 1f 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+1-VII	C:5	.	.	.	.	.	guitar	1C 1e 1g
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	end	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+1i	D:5	_	.	.	.	.	guitar	1D 1f 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+1-VII	C:5	.	.	.	.	.	guitar	1C 1e 1g
+.	.	'Till	'Till	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+.	.	end	end	.	.	.	.	.
+.	.	of	of	.	.	.	.	.
+.	.	the	the	.	.	.	.	.
+.	.	_	_	.	.	.	.	.
+.	.	day	day	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+1i	D:5	_	_	.	83.525	newline	guitar	1D 1f 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+1-VII	C:5	.	.	.	.	.	guitar	1C 1e 1g
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	end	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day!	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+2i	D:5	_	.	.	86.875	newline	guitar	2D 2f 2a
+.	.	.	.	.	.	.	.	.
+.	.	(Grunts)	.	.	.	.	.	.
+2-VII	C:5	_	.	.	.	.	guitar	2C 2e 2g
+.	.	.	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+2-III	F:5	.	.	.	.	.	guitar	1F- 1a- 1cc-
+2-VII	C:5	.	.	.	.	.	guitar	2C 2e 2g
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+2i	D:5	.	.	.	.	.	guitar	1D 1f 1a
+2-VII	C:5	.	.	.	.	.	guitar	2C 2e 2g
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+2-III	F:5	.	.	.	.	.	guitar	1F- 1a- 1cc-
+2-VII	C:5	.	.	.	.	.	guitar	2C 2e 2g
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+1i	D:5	.	.	.	93.755	newline	guitar	1D 1f 1a
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+1-VII	C:5	.	.	.	.	.	guitar	1C 1e 1g
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+1-III	F:5	.	.	.	.	.	guitar	1F- 1a- 1cc-
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+1V	A:5	.	.	.	.	.	guitar	1A 1cc# 1ee
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1i	D:5	You	Ah	.	100.52	newline	voice	1D 1f 1a
+.	.	_	.	.	.	.	.	.
+.	.	and	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	me,	.	.	.	.	.	.
+.	.	we're	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	free	.	A	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+1-VII	C:5	_	_	.	.	.	voice	1C 1e 1g
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+1i	D:5	We	_	.	.	.	voice	1D 1f 1a
+.	.	do	.	.	.	.	.	.
+.	.	as	.	.	.	.	.	.
+.	.	we	.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+2-VII	C:5	please,	_	A	.	.	voice	2C 2e 2g
+.	.	y-	.	.	.	.	.	.
+2-VI	B-:5	-yeah,	_	.	.	.	voice	2B-- 2dd- 2ff-
+.	.	_	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	from	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+2-III	F:5	.	Mor-	.	107.365	newline	voice	2F- 2a- 2cc-
+2IV	G:5	.	-ning!	.	.	.	voice	2G 2b 2dd
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+2-VI	B-:5	.	_	.	.	.	voice	2B-- 2dd- 2ff-
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+2V	A:5	end	_	.	.	.	voice	2A 2cc# 2ee
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+*E_outro	*E_outro	*	*	*	*E_outro	*E_outro	*E_outro	*
+1i	D:5	_	.	.	110.81	newline	voice	1D 1f 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+1-VII	C:5	.	.	.	.	.	voice	1C 1e 1g
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	end	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+1i	D:5	_	Ah!	.	.	.	voice	1D 1f 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+1-VII	C:5	.	_	.	.	.	voice	1C 1e 1g
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	end	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+1i	D:5	_	_	.	117.555	newline	voice	1D 1f 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1-VII	C:5	.	_	.	.	.	voice	1C 1e 1g
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	end	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+1i	D:5	_	_	.	.	.	voice	1D 1f 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+1-VII	C:5	.	_	.	.	.	voice	1C 1e 1g
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	end	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+1i	D:5	_	_	.	124.1	newline	voice	1D 1f 1a
+.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+1-VII	C:5	.	_	.	.	.	voice	1C 1e 1g
+.	.	'Till	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	end	.	.	.	.	.	.
+.	.	of	.	.	.	.	.	.
+.	.	the	.	.	.	.	.	.
+.	.	_	.	.	.	.	.	.
+.	.	day	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+2i	D:5	_	_	.	.	.	guitar	1D 1f 1a
+2-VII	C:5	.	.	.	.	.	guitar	2C 2e 2g
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+2IV	G:maj	_	.	.	.	.	guitar	1G 1b 1dd
+2-VI	B-:maj	.	.	.	.	.	guitar	2B-- 2dd- 2ff-
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+1V	A:maj	.	.	.	131.48	newline	guitar	1A 1cc# 1ee
+1r;	N	.	.	.	.	.	r	1r;
+1r;	N	.	.	.	.	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1966/04/23
+!!!BillboardPeak: 50
+!!!BillboardWeeksOnChart: 8
+!!!COC: The Kinks
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Till The End Of The Day
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 61
+!!!SampleID#: 0904
+!!!SampleTargetRank: 60

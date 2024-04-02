@@ -1,0 +1,671 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*E-:	*E-:	*	*	*	*	*	*E-:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+2ii	F:5	.	.	0.627	newline	guitar	1F 1a- 1cc
+2-III	G-:5	.	.	1.472	.	guitar	2G- 2b- 2dd-
+=2	=2	=2	=2	=2	=2	=2	=2
+2iii	G:5	.	.	2.316	.	guitar	1G 1b- 1dd
+2IV	A-:5	.	.	3.161	.	guitar	2A- 2cc 2ee-
+=3	=3	=3	=3	=3	=3	=3	=3
+2#IV	A:5	.	.	4.005	.	guitar	1A 1cc# 1ee
+2V	B-:5	.	.	4.85	.	guitar	2B- 2dd 2ff
+=4	=4	=4	=4	=4	=4	=4	=4
+2#V	B:5	.	.	5.695	.	guitar	1B 1dd# 1ff#
+2vi	C:5	.	.	6.539	.	guitar	2C 2e- 2g
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+1i	E-:min	.	.	7.384	newline	guitar	1E- 1g- 1b-
+=6	=6	=6	=6	=6	=6	=6	=6
+1i	E-:min	.	.	9.056	.	guitar	1E- 1g- 1b-
+=7	=7	=7	=7	=7	=7	=7	=7
+1i	E-:min	.	.	10.727	.	guitar	1E- 1g- 1b-
+=8	=8	=8	=8	=8	=8	=8	=8
+1i	E-:min	.	.	12.399	.	guitar	1E- 1g- 1b-
+=9	=9	=9	=9	=9	=9	=9	=9
+1i	E-:min	.	.	14.071	newline	guitar	1E- 1g- 1b-
+=10	=10	=10	=10	=10	=10	=10	=10
+1i	E-:min	.	.	15.724	.	guitar	1E- 1g- 1b-
+=11	=11	=11	=11	=11	=11	=11	=11
+1i	E-:min	.	.	17.376	.	guitar	1E- 1g- 1b-
+=12	=12	=12	=12	=12	=12	=12	=12
+1i	E-:min	.	.	19.029	.	guitar	1E- 1g- 1b-
+=13	=13	=13	=13	=13	=13	=13	=13
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.ii	F:5	.	.	20.681	newline	voice	2.F 2.a- 2.cc
+.	.	La-	.	.	.	.	.
+.	.	-dy	.	.	.	.	.
+.	.	space	.	.	.	.	.
+4V	B-:5	you	.	21.923	.	voice	4B- 4dd 4ff
+=14	=14	=14	=14	=14	=14	=14	=14
+2.ii	F:5	like	.	22.338	.	voice	2.F 2.a- 2.cc
+.	.	the	.	.	.	.	.
+.	.	way	.	.	.	.	.
+.	.	_	.	.	.	.	.
+4I	E-:5	.	.	23.58	.	voice	4E- 4g 4b-
+=15	=15	=15	=15	=15	=15	=15	=15
+2.ii	F:5	.	.	23.994	.	voice	2..F 2..a- 2..cc
+.	.	I	.	.	.	.	.
+.	.	make	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	feel	.	.	.	.	.
+.	.	in-	.	.	.	.	.
+4V	B-:5	.	.	25.236	.	voice	8B- 8dd 8ff
+.	.	-side	A	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+4ii	F:5	_	.	25.65	.	voice	2F 2a- 2cc
+4-III	G-:5	.	.	26.064	.	voice	4G- 4b- 4dd-
+4iii	G:5	.	.	26.478	.	voice	4G 4b- 4dd
+4IV	A-:5	Take	.	26.893	.	voice	4A- 4cc 4ee-
+.	.	a	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1i	E-:min	rock-	.	27.307	newline	guitar	1E- 1g- 1b-
+.	.	-et	.	.	.	.	.
+.	.	ride	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1i	E-:min	.	.	28.967	.	guitar	1E- 1g- 1b-
+=19	=19	=19	=19	=19	=19	=19	=19
+1i	E-:min	.	.	30.627	.	guitar	1E- 1g- 1b-
+=20	=20	=20	=20	=20	=20	=20	=20
+1i	E-:min	.	.	32.287	.	guitar	1E- 1g- 1b-
+=21	=21	=21	=21	=21	=21	=21	=21
+2.ii	F:5	.	.	33.948	newline	voice	2.F 2.a- 2.cc
+.	.	From	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	start	.	.	.	.	.
+4V	B-:5	you	.	35.186	.	voice	4B- 4dd 4ff
+=22	=22	=22	=22	=22	=22	=22	=22
+2.ii	F:5	want-	.	35.598	.	voice	2.F 2.a- 2.cc
+.	.	-ed	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	fly	A	.	.	.	.
+.	.	.	.	.	.	.	.
+4I	E-:5	.	.	36.836	.	voice	4E- 4g 4b-
+=23	=23	=23	=23	=23	=23	=23	=23
+2.ii	F:5	.	.	37.249	.	voice	2.F 2.a- 2.cc
+.	.	I	.	.	.	.	.
+.	.	got	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:5	.	.	38.487	.	voice	4B- 4dd 4ff
+.	.	and	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+4ii	F:5	you	.	38.9	.	voice	4F 4a- 4cc
+.	.	want	.	.	.	.	.
+4-III	G-:5	the	.	39.312	.	voice	4.G- 4.b- 4.dd-
+.	.	ride	A	.	.	.	.
+4iii	G:5	.	.	39.725	.	voice	8G 8b- 8dd
+.	.	_	.	.	.	.	.
+4IV	A-:5	Take	.	40.138	.	voice	4A- 4cc 4ee-
+.	.	a	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1i	E-:min	rock-	.	40.551	newline	guitar	1E- 1g- 1b-
+.	.	-et	.	.	.	.	.
+.	.	ride	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1i	E-:min	.	.	42.209	.	guitar	1E- 1g- 1b-
+=27	=27	=27	=27	=27	=27	=27	=27
+1i	E-:min	.	.	43.867	.	guitar	1E- 1g- 1b-
+=28	=28	=28	=28	=28	=28	=28	=28
+1i	E-:min	.	.	45.525	.	guitar	1E- 1g- 1b-
+=29	=29	=29	=29	=29	=29	=29	=29
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1-VII	D-:maj	.	.	47.183	newline	guitar	1D- 1f 1a-
+=30	=30	=30	=30	=30	=30	=30	=30
+1i	E-:min	.	.	48.821	.	guitar	1E- 1g- 1b-
+=31	=31	=31	=31	=31	=31	=31	=31
+1ii	F:5	.	.	50.459	.	guitar	1F 1a- 1cc
+=32	=32	=32	=32	=32	=32	=32	=32
+1ii	F:5	.	.	52.097	.	guitar	1F 1a- 1cc
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Ba-	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.II	F:maj	_	.	53.735	newline	voice	2..F 2..a 2..cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	fast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	54.963	.	voice	8b- 8dd 8F
+.	.	ba-	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2.II	F:maj	_	.	55.372	.	voice	2.F 2.a 2.cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	blast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	56.6	.	voice	4b- 4dd 4F
+=35	=35	=35	=35	=35	=35	=35	=35
+4II	F:maj	.	.	57.01	.	voice	4F 4a 4cc
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	57.419	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	58.238	.	voice	4B- 4dd 4ff
+.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+4V	B-:maj	.	.	58.647	.	voice	4B- 4dd 4ff
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	59.056	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	59.875	.	voice	4B- 4dd 4ff
+.	.	Ba-	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2.II	F:maj	_	.	60.284	newline	voice	2..F 2..a 2..cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	fast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	61.511	.	voice	8b- 8dd 8F
+.	.	ba-	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+2.II	F:maj	_	.	61.921	.	voice	2.F 2.a 2.cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	blast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	63.148	.	voice	4b- 4dd 4F
+=39	=39	=39	=39	=39	=39	=39	=39
+4II	F:maj	.	.	63.557	.	voice	4F 4a 4cc
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	63.966	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	64.784	.	voice	4B- 4dd 4ff
+.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+4V	B-:maj	.	.	65.193	.	voice	4B- 4dd 4ff
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	65.602	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	66.42	.	voice	4B- 4dd 4ff
+=41	=41	=41	=41	=41	=41	=41	=41
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+1i	E-:min	.	.	66.829	newline	guitar	1E- 1g- 1b-
+=42	=42	=42	=42	=42	=42	=42	=42
+1i	E-:min	.	.	68.49	.	guitar	1E- 1g- 1b-
+=43	=43	=43	=43	=43	=43	=43	=43
+1i	E-:min	.	.	70.15	.	guitar	1E- 1g- 1b-
+=44	=44	=44	=44	=44	=44	=44	=44
+1i	E-:min	.	.	71.81	.	guitar	1E- 1g- 1b-
+=45	=45	=45	=45	=45	=45	=45	=45
+1i	E-:min	.	.	73.47	newline	guitar	1E- 1g- 1b-
+=46	=46	=46	=46	=46	=46	=46	=46
+1i	E-:min	.	.	75.12	.	guitar	1E- 1g- 1b-
+=47	=47	=47	=47	=47	=47	=47	=47
+1i	E-:min	.	.	76.77	.	guitar	1E- 1g- 1b-
+=48	=48	=48	=48	=48	=48	=48	=48
+1i	E-:min	.	.	78.42	.	guitar	1E- 1g- 1b-
+=49	=49	=49	=49	=49	=49	=49	=49
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+2.ii	F:5	.	.	80.07	newline	voice	2.F 2.a- 2.cc
+.	.	La-	.	.	.	.	.
+.	.	-dy	.	.	.	.	.
+.	.	space	.	.	.	.	.
+.	.	you	.	.	.	.	.
+4V	B-:5	bet-	.	81.311	.	voice	4B- 4dd 4ff
+.	.	-ter	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+2.ii	F:5	wake	.	81.725	.	voice	1F 1a- 1cc
+.	.	up	.	.	.	.	.
+.	.	fast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4I	E-:5	.	.	82.966	.	voice	4E- 4g 4b-
+=51	=51	=51	=51	=51	=51	=51	=51
+2.ii	F:5	Count-	.	83.379	.	voice	2.F 2.a- 2.cc
+.	.	-down	.	.	.	.	.
+.	.	is	.	.	.	.	.
+.	.	com-	.	.	.	.	.
+.	.	-in'	.	.	.	.	.
+4V	B-:5	on	.	84.621	.	voice	4B- 4dd 4ff
+=52	=52	=52	=52	=52	=52	=52	=52
+4ii	F:5	_	.	85.034	.	voice	4F 4a- 4cc
+4-III	G-:5	.	.	85.448	.	voice	2G- 2b- 2dd-
+4iii	G:5	.	.	85.862	.	voice	4G 4b- 4dd
+4IV	A-:5	Take	.	86.275	.	voice	4A- 4cc 4ee-
+.	.	a	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+1i	E-:min	rock-	.	86.689	newline	guitar	1E- 1g- 1b-
+.	.	-et	.	.	.	.	.
+.	.	ride	A	.	.	.	.
+.	.	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1i	E-:min	.	.	88.35	.	guitar	1E- 1g- 1b-
+=55	=55	=55	=55	=55	=55	=55	=55
+1i	E-:min	.	.	90.01	.	guitar	1E- 1g- 1b-
+=56	=56	=56	=56	=56	=56	=56	=56
+1i	E-:min	.	.	91.671	.	guitar	1E- 1g- 1b-
+=57	=57	=57	=57	=57	=57	=57	=57
+2.ii	F:5	.	.	93.331	newline	voice	2.F 2.a- 2.cc
+.	.	The	.	.	.	.	.
+.	.	gra-	.	.	.	.	.
+.	.	-vi-	.	.	.	.	.
+.	.	-ty	.	.	.	.	.
+.	.	that	.	.	.	.	.
+4V	B-:5	used	.	94.572	.	voice	4B- 4dd 4ff
+.	.	to	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+2.ii	F:5	hold	.	94.985	.	voice	2.F 2.a- 2.cc
+.	.	you	.	.	.	.	.
+.	.	down	.	.	.	.	.
+4I	E-:5	.	.	96.225	.	voice	4E- 4g 4b-
+=59	=59	=59	=59	=59	=59	=59	=59
+2.ii	F:5	just	.	96.639	.	voice	2..F 2..a- 2..cc
+.	.	don't	.	.	.	.	.
+.	.	ex-	.	.	.	.	.
+.	.	-ist	.	.	.	.	.
+.	.	no	.	.	.	.	.
+4V	B-:5	.	.	97.879	.	voice	8B- 8dd 8ff
+.	.	more	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+4ii	F:5	_	.	98.293	.	voice	4F 4a- 4cc
+.	.	.	.	.	.	.	.
+4-III	G-:5	.	.	98.706	.	voice	2G- 2b- 2dd-
+4iii	G:5	.	.	99.119	.	voice	4G 4b- 4dd
+4IV	A-:5	take	.	99.533	.	voice	4A- 4cc 4ee-
+.	.	a	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1i	E-:min	rock-	.	99.946	newline	guitar	1E- 1g- 1b-
+.	.	-et	.	.	.	.	.
+.	.	ride	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1i	E-:min	.	.	101.615	.	guitar	1E- 1g- 1b-
+=63	=63	=63	=63	=63	=63	=63	=63
+1i	E-:min	.	.	103.285	.	guitar	1E- 1g- 1b-
+=64	=64	=64	=64	=64	=64	=64	=64
+1i	E-:min	.	.	104.954	.	guitar	1E- 1g- 1b-
+=65	=65	=65	=65	=65	=65	=65	=65
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus	*>Label>Prechorus
+1-VII	D-:maj	.	.	106.623	newline	guitar	1D- 1f 1a-
+=66	=66	=66	=66	=66	=66	=66	=66
+1i	E-:min	.	.	108.273	.	guitar	1E- 1g- 1b-
+=67	=67	=67	=67	=67	=67	=67	=67
+1ii	F:5	.	.	109.924	.	guitar	1F 1a- 1cc
+=68	=68	=68	=68	=68	=68	=68	=68
+1ii	F:5	.	.	111.574	.	guitar	1F 1a- 1cc
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Ba-	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.II	F:maj	_	.	113.224	newline	voice	2..F 2..a 2..cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	fast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	114.466	.	voice	8b- 8dd 8F
+.	.	ba-	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+2.II	F:maj	_	.	114.88	.	voice	2.F 2.a 2.cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	blast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	116.122	.	voice	4b- 4dd 4F
+=71	=71	=71	=71	=71	=71	=71	=71
+4II	F:maj	.	.	116.536	.	voice	4F 4a 4cc
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	116.95	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	117.778	.	voice	4B- 4dd 4ff
+.	.	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+4V	B-:maj	.	.	118.192	.	voice	4B- 4dd 4ff
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	118.606	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	119.434	.	voice	4B- 4dd 4ff
+.	.	Ba-	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+2.II	F:maj	_	.	119.848	newline	voice	2..F 2..a 2..cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	fast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	121.076	.	voice	8b- 8dd 8F
+.	.	ba-	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+2.II	F:maj	_	.	121.485	.	voice	2.F 2.a 2.cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	blast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	122.712	.	voice	4b- 4dd 4F
+=75	=75	=75	=75	=75	=75	=75	=75
+4II	F:maj	.	.	123.121	.	voice	4F 4a 4cc
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	123.531	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	124.349	.	voice	4B- 4dd 4ff
+.	.	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+4V	B-:maj	.	.	124.758	.	voice	4B- 4dd 4ff
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	125.167	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	125.986	.	voice	4B- 4dd 4ff
+=77	=77	=77	=77	=77	=77	=77	=77
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
+2ii	F:1	.	.	126.395	newline	guitar	1F 1a- 1cc
+2-III	G-:1	.	.	127.22	.	guitar	2G- 2b- 2dd-
+=78	=78	=78	=78	=78	=78	=78	=78
+2iii	G:1	.	.	128.045	.	guitar	1G 1b- 1dd
+2IV	A-:1	.	.	128.87	.	guitar	2A- 2cc 2ee-
+=79	=79	=79	=79	=79	=79	=79	=79
+2#IV	A:1	.	.	129.695	.	guitar	1A 1cc# 1ee
+2V	B-:1	.	.	130.519	.	guitar	2B- 2dd 2ff
+=80	=80	=80	=80	=80	=80	=80	=80
+2#V	B:1	.	.	131.344	.	guitar	1B 1dd# 1ff#
+2vi	C:1	.	.	132.169	.	guitar	2C 2e- 2g
+=81	=81	=81	=81	=81	=81	=81	=81
+2II	F:maj	.	.	132.994	newline	guitar	1F 1a 1cc
+2-III	F#:maj	.	.	133.81	.	guitar	2G- 2b- 2dd-
+=82	=82	=82	=82	=82	=82	=82	=82
+2III	G:maj	.	.	134.626	.	guitar	1G 1b 1dd
+2IV	G#:maj	.	.	135.442	.	guitar	2A- 2cc 2ee-
+=83	=83	=83	=83	=83	=83	=83	=83
+2#IV	A:maj	.	.	136.258	.	guitar	1A 1cc# 1ee
+2V	A#:maj	.	.	137.074	.	guitar	2B- 2dd 2ff
+=84	=84	=84	=84	=84	=84	=84	=84
+2#V	B:maj	.	.	137.89	.	guitar	1B 1dd# 1ff#
+2VI	C:maj	.	.	138.706	.	guitar	2C 2e 2g
+=85	=85	=85	=85	=85	=85	=85	=85
+2II	F:maj	.	.	139.522	newline	guitar	1F 1a 1cc
+2-III	F#:maj	.	.	140.347	.	guitar	2G- 2b- 2dd-
+=86	=86	=86	=86	=86	=86	=86	=86
+2III	G:maj	.	.	141.172	.	guitar	1G 1b 1dd
+2IV	G#:maj	.	.	141.997	.	guitar	2A- 2cc 2ee-
+=87	=87	=87	=87	=87	=87	=87	=87
+2#IV	A:maj	.	.	142.822	.	guitar	1A 1cc# 1ee
+2V	A#:maj	.	.	143.646	.	guitar	2B- 2dd 2ff
+=88	=88	=88	=88	=88	=88	=88	=88
+2#V	B:maj	.	.	144.471	.	guitar	1B 1dd# 1ff#
+2VI	C:maj	.	.	145.296	.	guitar	2C 2e 2g
+=89	=89	=89	=89	=89	=89	=89	=89
+*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+2.II	F:maj	.	.	146.121	newline	guitar	1F 1a 1cc
+4V	B-:maj	.	.	147.391	.	guitar	4B- 4dd 4ff
+=90	=90	=90	=90	=90	=90	=90	=90
+2.II	F:maj	.	.	147.815	.	guitar	1F 1a 1cc
+4V	B-:maj	.	.	149.085	.	guitar	4B- 4dd 4ff
+=91	=91	=91	=91	=91	=91	=91	=91
+2.II	F:maj	.	.	149.508	.	guitar	1F 1a 1cc
+4V	B-:maj	.	.	150.779	.	guitar	4B- 4dd 4ff
+=92	=92	=92	=92	=92	=92	=92	=92
+2II	F:maj	.	.	151.202	.	guitar	1F 1a 1cc
+4-III	G-:5	.	.	152.049	.	guitar	4G- 4b- 4dd-
+4iii	G:5	.	.	152.473	.	guitar	4G 4b- 4dd
+=93	=93	=93	=93	=93	=93	=93	=93
+2.IV	A-:maj	.	.	152.896	newline	guitar	1A- 1cc 1ee-
+4-VII	D-:maj	.	.	154.148	.	guitar	4D- 4f 4a-
+=94	=94	=94	=94	=94	=94	=94	=94
+2.IV	A-:maj	.	.	154.565	.	guitar	1A- 1cc 1ee-
+4-VII	D-:maj	.	.	155.817	.	guitar	4D- 4f 4a-
+=95	=95	=95	=95	=95	=95	=95	=95
+2.IV	A-:maj	.	.	156.234	.	guitar	1A- 1cc 1ee-
+4-VII	D-:maj	.	.	157.486	.	guitar	4D- 4f 4a-
+=96	=96	=96	=96	=96	=96	=96	=96
+4IV	A-:5	.	.	157.903	.	guitar	1A- 1cc 1ee-
+4#IV	A:5	.	.	158.321	.	guitar	4A 4cc# 4ee
+4V	B-:5	.	.	158.738	.	guitar	4B- 4dd 4ff
+4#V	B:5	.	.	159.155	.	guitar	4B 4dd# 4ff#
+=97	=97	=97	=97	=97	=97	=97	=97
+2.VI	C:maj	.	.	159.572	newline	guitar	1C 1e 1g
+4II	F:maj	.	.	160.832	.	guitar	4F 4a 4cc
+=98	=98	=98	=98	=98	=98	=98	=98
+2.VI	C:maj	.	.	161.252	.	guitar	1C 1e 1g
+4II	F:maj	.	.	162.512	.	guitar	4F 4a 4cc
+=99	=99	=99	=99	=99	=99	=99	=99
+2.VI	C:maj	.	.	162.932	.	guitar	1C 1e 1g
+4II	F:maj	.	.	164.191	.	guitar	4F 4a 4cc
+=100	=100	=100	=100	=100	=100	=100	=100
+2VI	C:maj	.	.	164.611	.	guitar	1C 1e 1g
+4-VII	D-:5	.	.	165.451	.	guitar	4D- 4f 4a-
+4vii	D:5	.	.	165.871	.	guitar	4D 4f 4a
+=101	=101	=101	=101	=101	=101	=101	=101
+2.I	E-:maj	.	.	166.291	newline	guitar	1E- 1g 1b-
+4IV	A-:maj	.	.	167.545	.	guitar	4A- 4cc 4ee-
+=102	=102	=102	=102	=102	=102	=102	=102
+2.I	E-:maj	.	.	167.963	.	guitar	1E- 1g 1b-
+4IV	A-:maj	.	.	169.217	.	guitar	4A- 4cc 4ee-
+=103	=103	=103	=103	=103	=103	=103	=103
+2.I	E-:maj	.	.	169.635	.	guitar	1E- 1g 1b-
+4IV	A-:maj	.	.	170.889	.	guitar	4A- 4cc 4ee-
+=104	=104	=104	=104	=104	=104	=104	=104
+2.I	E-:maj	.	.	171.307	.	guitar	2..E- 2..g 2..b-
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+4IV	A-:maj	.	.	172.561	.	guitar	8A- 8cc 8ee-
+.	.	Ba-	.	.	.	.	.
+=105	=105	=105	=105	=105	=105	=105	=105
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.II	F:maj	_	.	172.979	newline	voice	2..F 2..a 2..cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	fast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	174.209	.	voice	8b- 8dd 8F
+.	.	ba-	.	.	.	.	.
+=106	=106	=106	=106	=106	=106	=106	=106
+2.II	F:maj	_	.	174.62	.	voice	2.F 2.a 2.cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	blast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	175.85	.	voice	4b- 4dd 4F
+=107	=107	=107	=107	=107	=107	=107	=107
+4II	F:maj	.	.	176.26	.	voice	4F 4a 4cc
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	176.671	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	177.491	.	voice	4B- 4dd 4ff
+=108	=108	=108	=108	=108	=108	=108	=108
+4V	B-:maj	.	.	177.901	.	voice	4B- 4dd 4ff
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	178.311	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	179.132	.	voice	4B- 4dd 4ff
+.	.	Ba-	.	.	.	.	.
+=109	=109	=109	=109	=109	=109	=109	=109
+2.II	F:maj	_	.	179.542	newline	voice	2..F 2..a 2..cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	it	.	.	.	.	.
+.	.	fast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	180.788	.	voice	8b- 8dd 8F
+.	.	ba-	.	.	.	.	.
+=110	=110	=110	=110	=110	=110	=110	=110
+2.II	F:maj	_	.	181.203	.	voice	2.F 2.a 2.cc
+.	.	-by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	blast	B	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	182.449	.	voice	4b- 4dd 4F
+=111	=111	=111	=111	=111	=111	=111	=111
+4II	F:maj	.	.	182.864	.	voice	4F 4a 4cc
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	183.28	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	184.11	.	voice	4B- 4dd 4ff
+=112	=112	=112	=112	=112	=112	=112	=112
+4V	B-:maj	.	.	184.526	.	voice	4B- 4dd 4ff
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	184.941	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	185.771	.	voice	4B- 4dd 4ff
+.	.	Ba-	.	.	.	.	.
+=113	=113	=113	=113	=113	=113	=113	=113
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2.II	F:maj	_	.	186.187	newline	voice	2..F 2..a 2..cc
+.	.	-by's	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	her	.	.	.	.	.
+.	.	knees	C	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	187.425	.	voice	8b- 8dd 8F
+.	.	ba	.	.	.	.	.
+=114	=114	=114	=114	=114	=114	=114	=114
+2.II	F:maj	_	.	187.838	.	voice	2.F 2.a 2.cc
+.	.	by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	please	C	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	189.076	.	voice	4b- 4dd 4F
+=115	=115	=115	=115	=115	=115	=115	=115
+4II	F:maj	.	.	189.489	.	voice	4F 4a 4cc
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	189.902	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	190.728	.	voice	4B- 4dd 4ff
+=116	=116	=116	=116	=116	=116	=116	=116
+4V	B-:maj	.	.	191.14	.	voice	4B- 4dd 4ff
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	191.553	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	192.379	.	voice	4B- 4dd 4ff
+.	.	Ba-	.	.	.	.	.
+=117	=117	=117	=117	=117	=117	=117	=117
+2.II	F:maj	_	.	192.792	newline	voice	2..F 2..a 2..cc
+.	.	-by's	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	her	.	.	.	.	.
+.	.	knees	C	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	194.036	.	voice	8b- 8dd 8F
+.	.	ba	.	.	.	.	.
+=118	=118	=118	=118	=118	=118	=118	=118
+2.II	F:maj	_	.	194.45	.	voice	2.F 2.a 2.cc
+.	.	by	.	.	.	.	.
+.	.	wants	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	please	C	.	.	.	.
+.	.	.	.	.	.	.	.
+4Vc	B-:maj/5	.	.	195.694	.	voice	4b- 4dd 4F
+=119	=119	=119	=119	=119	=119	=119	=119
+4II	F:maj	.	.	196.109	.	voice	4F 4a 4cc
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	196.523	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	197.353	.	voice	4B- 4dd 4ff
+=120	=120	=120	=120	=120	=120	=120	=120
+4V	B-:maj	.	.	197.767	.	voice	4B- 4dd 4ff
+.	.	she	.	.	.	.	.
+2I	E-:maj	wants	.	198.182	.	voice	2E- 2g 2b-
+.	.	a	.	.	.	.	.
+.	.	rock-	.	.	.	.	.
+.	.	-et	.	.	.	.	.
+4V	B-:maj	ride	.	199.011	.	voice	4B- 4dd 4ff
+=121	=121	=121	=121	=121	=121	=121	=121
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1i	E-:min	.	.	199.426	newline	guitar	1E- 1g- 1b-
+=122	=122	=122	=122	=122	=122	=122	=122
+1i	E-:min	.	.	201.12	.	guitar	1E- 1g- 1b-
+=123	=123	=123	=123	=123	=123	=123	=123
+1i	E-:min	.	.	202.813	.	guitar	1E- 1g- 1b-
+=124	=124	=124	=124	=124	=124	=124	=124
+1i	E-:min	.	.	204.506	.	guitar	1E- 1g- 1b-
+=125	=125	=125	=125	=125	=125	=125	=125
+1i	E-:min	.	.	206.2	newline	guitar	1E- 1g- 1b-
+=126	=126	=126	=126	=126	=126	=126	=126
+1i	E-:min	.	.	207.874	.	guitar	1E- 1g- 1b-
+=127	=127	=127	=127	=127	=127	=127	=127
+1i	E-:min	.	.	209.548	.	guitar	1E- 1g- 1b-
+=128	=128	=128	=128	=128	=128	=128	=128
+1IV	A-:5	.	.	211.222	.	guitar	1A- 1cc 1ee-
+=129	=129	=129	=129	=129	=129	=129	=129
+1IV	A-:5	.	.	212.897	newline	guitar	1A- 1cc 1ee-
+=130	=130	=130	=130	=130	=130	=130	=130
+1r;	N	.	.	219.622	.	guitar	1r;
+=131	=131	=131	=131	=131	=131	=131	=131
+1r;	N	.	.	225.507	.	drums	1r;
+=132	=132	=132	=132	=132	=132	=132	=132
+1IVm7;	A-:7	.	.	233.198	newline	guitar	1A-; 1cc; 1ee-; 1gg;
+=133	=133	=133	=133	=133	=133	=133	=133
+4IV	A-:5	.	.	236.599	.	guitar	1A- 1cc 1ee-
+2.r	N	.	.	240.001	.	.	2r
+1r;	N	.	.	245.528	.	r	1r;
+1r;	N	.	.	247.275	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1978/04/08
+!!!BillboardPeak: 39
+!!!BillboardWeeksOnChart: 10
+!!!COC: Kiss
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Rocket Ride
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 44
+!!!SampleID#: 0610
+!!!SampleTargetRank: 44
+!!!MBID: 7545d8ae-f09b-4260-9fd6-a0dd87e40303

@@ -1,0 +1,434 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*d:	*d:	*	*	*	*d:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1i	D:min	0.857	newline	r	1D 1f 1a
+=2	=2	=2	=2	=2	=2
+1i	D:min	1.857	.	r	1D 1f 1a
+=3	=3	=3	=3	=3	=3
+1i	D:min	2.857	.	r	1D 1f 1a
+=4	=4	=4	=4	=4	=4
+1i	D:min	3.856	.	r	1D 1f 1a
+=5	=5	=5	=5	=5	=5
+*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1i	D:min	4.856	newline	accordion	1D 1f 1a
+=6	=6	=6	=6	=6	=6
+1i	D:min	5.861	.	accordion	1D 1f 1a
+=7	=7	=7	=7	=7	=7
+1-VI	B-:maj	6.866	.	accordion	1B-- 1dd- 1ff-
+=8	=8	=8	=8	=8	=8
+1-VII	C:maj	7.871	.	accordion	1C 1e 1g
+=9	=9	=9	=9	=9	=9
+1-III	F:maj	8.875	.	accordion	1F- 1a- 1cc-
+=10	=10	=10	=10	=10	=10
+1-III	F:maj	9.88	.	accordion	1F- 1a- 1cc-
+=11	=11	=11	=11	=11	=11
+1i	D:min	10.885	newline	accordion	1D 1f 1a
+=12	=12	=12	=12	=12	=12
+1i	D:min	11.897	.	accordion	1D 1f 1a
+=13	=13	=13	=13	=13	=13
+1-VI	B-:maj	12.909	.	accordion	1B-- 1dd- 1ff-
+=14	=14	=14	=14	=14	=14
+1-VII	C:maj	13.921	.	accordion	1C 1e 1g
+=15	=15	=15	=15	=15	=15
+1-III	F:maj	14.933	.	accordion	1F- 1a- 1cc-
+=16	=16	=16	=16	=16	=16
+1-III	F:maj	15.945	.	accordion	1F- 1a- 1cc-
+=17	=17	=17	=17	=17	=17
+1iv	G:min	16.957	newline	accordion	1G 1b- 1dd
+=18	=18	=18	=18	=18	=18
+1iv	G:min	17.965	.	accordion	1G 1b- 1dd
+=19	=19	=19	=19	=19	=19
+1iv	G:min	18.974	.	accordion	1G 1b- 1dd
+=20	=20	=20	=20	=20	=20
+1iv	G:min	19.983	.	accordion	1G 1b- 1dd
+=21	=21	=21	=21	=21	=21
+1-VII	C:maj	20.991	newline	accordion	1C 1e 1g
+=22	=22	=22	=22	=22	=22
+1-VII	C:maj	22.008	.	accordion	1C 1e 1g
+=23	=23	=23	=23	=23	=23
+1i	D:min	23.025	.	accordion	1D 1f 1a
+=24	=24	=24	=24	=24	=24
+1i	D:min	24.042	.	accordion	1D 1f 1a
+=25	=25	=25	=25	=25	=25
+1iv	G:min	25.059	newline	accordion	1G 1b- 1dd
+=26	=26	=26	=26	=26	=26
+1iv	G:min	26.07	.	accordion	1G 1b- 1dd
+=27	=27	=27	=27	=27	=27
+1iv	G:min	27.081	.	accordion	1G 1b- 1dd
+=28	=28	=28	=28	=28	=28
+1iv	G:min	28.093	.	accordion	1G 1b- 1dd
+=29	=29	=29	=29	=29	=29
+1-VII	C:maj	29.104	newline	accordion	1C 1e 1g
+=30	=30	=30	=30	=30	=30
+1-VII	C:maj	30.106	.	accordion	1C 1e 1g
+=31	=31	=31	=31	=31	=31
+1i	D:min	31.108	.	accordion	1D 1f 1a
+=32	=32	=32	=32	=32	=32
+1i	D:min	32.111	.	accordion	1D 1f 1a
+=33	=33	=33	=33	=33	=33
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1i	D:min	33.113	newline	voice	1D 1f 1a
+=34	=34	=34	=34	=34	=34
+1i	D:min	34.119	.	voice	1D 1f 1a
+=35	=35	=35	=35	=35	=35
+1-VI	B-:maj	35.124	.	voice	1B-- 1dd- 1ff-
+=36	=36	=36	=36	=36	=36
+1-VII	C:maj	36.13	.	voice	1C 1e 1g
+=37	=37	=37	=37	=37	=37
+1-III	F:maj	37.136	.	voice	1F- 1a- 1cc-
+=38	=38	=38	=38	=38	=38
+1-III	F:maj	38.142	.	voice	1F- 1a- 1cc-
+=39	=39	=39	=39	=39	=39
+1i	D:min	39.148	newline	voice	1D 1f 1a
+=40	=40	=40	=40	=40	=40
+1i	D:min	40.163	.	voice	1D 1f 1a
+=41	=41	=41	=41	=41	=41
+1-VI	B-:maj	41.178	.	voice	1B-- 1dd- 1ff-
+=42	=42	=42	=42	=42	=42
+1-VII	C:maj	42.193	.	voice	1C 1e 1g
+=43	=43	=43	=43	=43	=43
+1-III	F:maj	43.208	.	voice	1F- 1a- 1cc-
+=44	=44	=44	=44	=44	=44
+1-III	F:maj	44.223	.	voice	1F- 1a- 1cc-
+=45	=45	=45	=45	=45	=45
+1iv	G:min	45.239	newline	voice	1G 1b- 1dd
+=46	=46	=46	=46	=46	=46
+1iv	G:min	46.256	.	voice	1G 1b- 1dd
+=47	=47	=47	=47	=47	=47
+1iv	G:min	47.273	.	voice	1G 1b- 1dd
+=48	=48	=48	=48	=48	=48
+1iv	G:min	48.29	.	voice	1G 1b- 1dd
+=49	=49	=49	=49	=49	=49
+1-VII	C:maj	49.307	newline	voice	1C 1e 1g
+=50	=50	=50	=50	=50	=50
+1-VII	C:maj	50.293	.	voice	1C 1e 1g
+=51	=51	=51	=51	=51	=51
+1i	D:min	51.278	.	voice	1D 1f 1a
+=52	=52	=52	=52	=52	=52
+1i	D:min	52.264	.	voice	1D 1f 1a
+=53	=53	=53	=53	=53	=53
+1iv	G:min	53.249	newline	voice	1G 1b- 1dd
+=54	=54	=54	=54	=54	=54
+1iv	G:min	54.267	.	voice	1G 1b- 1dd
+=55	=55	=55	=55	=55	=55
+1iv	G:min	55.285	.	voice	1G 1b- 1dd
+=56	=56	=56	=56	=56	=56
+1iv	G:min	56.302	.	voice	1G 1b- 1dd
+=57	=57	=57	=57	=57	=57
+1-VII	C:maj	57.32	newline	voice	1C 1e 1g
+=58	=58	=58	=58	=58	=58
+1-VII	C:maj	58.322	.	voice	1C 1e 1g
+=59	=59	=59	=59	=59	=59
+1i	D:min	59.323	.	voice	1D 1f 1a
+=60	=60	=60	=60	=60	=60
+1i	D:min	60.325	.	voice	1D 1f 1a
+=61	=61	=61	=61	=61	=61
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1i	D:min	61.327	newline	voice	1D 1f 1a
+=62	=62	=62	=62	=62	=62
+1i	D:min	62.34	.	voice	1D 1f 1a
+=63	=63	=63	=63	=63	=63
+1-VI	B-:maj	63.352	.	voice	1B-- 1dd- 1ff-
+=64	=64	=64	=64	=64	=64
+1-VII	C:maj	64.365	.	voice	1C 1e 1g
+=65	=65	=65	=65	=65	=65
+1-III	F:maj	65.378	.	voice	1F- 1a- 1cc-
+=66	=66	=66	=66	=66	=66
+1-III	F:maj	66.391	.	voice	1F- 1a- 1cc-
+=67	=67	=67	=67	=67	=67
+1i	D:min	67.403	newline	voice	1D 1f 1a
+=68	=68	=68	=68	=68	=68
+1i	D:min	68.419	.	voice	1D 1f 1a
+=69	=69	=69	=69	=69	=69
+1-VI	B-:maj	69.434	.	voice	1B-- 1dd- 1ff-
+=70	=70	=70	=70	=70	=70
+1-VII	C:maj	70.45	.	voice	1C 1e 1g
+=71	=71	=71	=71	=71	=71
+1-III	F:maj	71.465	.	voice	1F- 1a- 1cc-
+=72	=72	=72	=72	=72	=72
+1-III	F:maj	72.481	.	voice	1F- 1a- 1cc-
+=73	=73	=73	=73	=73	=73
+1iv	G:min	73.496	newline	voice	1G 1b- 1dd
+=74	=74	=74	=74	=74	=74
+1iv	G:min	74.508	.	voice	1G 1b- 1dd
+=75	=75	=75	=75	=75	=75
+1iv	G:min	75.52	.	voice	1G 1b- 1dd
+=76	=76	=76	=76	=76	=76
+1iv	G:min	76.532	.	voice	1G 1b- 1dd
+=77	=77	=77	=77	=77	=77
+1-VII	C:maj	77.544	newline	voice	1C 1e 1g
+=78	=78	=78	=78	=78	=78
+1-VII	C:maj	78.556	.	voice	1C 1e 1g
+=79	=79	=79	=79	=79	=79
+1i	D:min	79.567	.	voice	1D 1f 1a
+=80	=80	=80	=80	=80	=80
+1i	D:min	80.579	.	voice	1D 1f 1a
+=81	=81	=81	=81	=81	=81
+1iv	G:min	81.591	newline	voice	1G 1b- 1dd
+=82	=82	=82	=82	=82	=82
+1iv	G:min	82.61	.	voice	1G 1b- 1dd
+=83	=83	=83	=83	=83	=83
+1iv	G:min	83.629	.	voice	1G 1b- 1dd
+=84	=84	=84	=84	=84	=84
+1iv	G:min	84.648	.	voice	1G 1b- 1dd
+=85	=85	=85	=85	=85	=85
+1-VII	C:maj	85.667	newline	voice	1C 1e 1g
+=86	=86	=86	=86	=86	=86
+1-VII	C:maj	86.662	.	voice	1C 1e 1g
+=87	=87	=87	=87	=87	=87
+1i	D:min	87.658	.	voice	1D 1f 1a
+=88	=88	=88	=88	=88	=88
+1i	D:min	88.653	.	voice	1D 1f 1a
+=89	=89	=89	=89	=89	=89
+*>C_instrumental	*>C_instrumental	*>C_instrumental	*>C_instrumental	*>C_instrumental	*>C_instrumental
+1i	D:min	89.649	newline	accordion	1D 1f 1a
+=90	=90	=90	=90	=90	=90
+1i	D:min	90.664	.	accordion	1D 1f 1a
+=91	=91	=91	=91	=91	=91
+1-III	F:maj	91.679	.	accordion	1F- 1a- 1cc-
+=92	=92	=92	=92	=92	=92
+1-III	F:maj	92.694	.	accordion	1F- 1a- 1cc-
+=93	=93	=93	=93	=93	=93
+1i	D:min	93.71	newline	accordion	1D 1f 1a
+=94	=94	=94	=94	=94	=94
+1i	D:min	94.714	.	accordion	1D 1f 1a
+=95	=95	=95	=95	=95	=95
+1-III	F:maj	95.717	.	accordion	1F- 1a- 1cc-
+=96	=96	=96	=96	=96	=96
+1-III	F:maj	96.721	.	accordion	1F- 1a- 1cc-
+=97	=97	=97	=97	=97	=97
+1iv	G:min	97.725	newline	accordion	1G 1b- 1dd
+=98	=98	=98	=98	=98	=98
+1iv	G:min	98.738	.	accordion	1G 1b- 1dd
+=99	=99	=99	=99	=99	=99
+1iv	G:min	99.752	.	accordion	1G 1b- 1dd
+=100	=100	=100	=100	=100	=100
+1iv	G:min	100.765	.	accordion	1G 1b- 1dd
+=101	=101	=101	=101	=101	=101
+1-VII	C:maj	101.779	newline	accordion	1C 1e 1g
+=102	=102	=102	=102	=102	=102
+1-VII	C:maj	102.777	.	accordion	1C 1e 1g
+=103	=103	=103	=103	=103	=103
+1i	D:min	103.775	.	accordion	1D 1f 1a
+=104	=104	=104	=104	=104	=104
+1i	D:min	104.774	.	accordion	1D 1f 1a
+=105	=105	=105	=105	=105	=105
+1iv	G:min	105.772	newline	accordion	1G 1b- 1dd
+=106	=106	=106	=106	=106	=106
+1iv	G:min	106.776	.	accordion	1G 1b- 1dd
+=107	=107	=107	=107	=107	=107
+1iv	G:min	107.78	.	accordion	1G 1b- 1dd
+=108	=108	=108	=108	=108	=108
+1iv	G:min	108.784	.	accordion	1G 1b- 1dd
+=109	=109	=109	=109	=109	=109
+1-VII	C:maj	109.788	newline	accordion	1C 1e 1g
+=110	=110	=110	=110	=110	=110
+1-VII	C:maj	110.805	.	accordion	1C 1e 1g
+=111	=111	=111	=111	=111	=111
+1i	D:min	111.821	.	accordion	1D 1f 1a
+=112	=112	=112	=112	=112	=112
+1i	D:min	112.838	.	accordion	1D 1f 1a
+=113	=113	=113	=113	=113	=113
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1i	D:min	113.855	newline	voice	1D 1f 1a
+=114	=114	=114	=114	=114	=114
+1i	D:min	114.858	.	voice	1D 1f 1a
+=115	=115	=115	=115	=115	=115
+1-VI	B-:maj	115.861	.	voice	1B-- 1dd- 1ff-
+=116	=116	=116	=116	=116	=116
+1-VII	C:maj	116.864	.	voice	1C 1e 1g
+=117	=117	=117	=117	=117	=117
+1-III	F:maj	117.868	.	voice	1F- 1a- 1cc-
+=118	=118	=118	=118	=118	=118
+1-III	F:maj	118.871	.	voice	1F- 1a- 1cc-
+=119	=119	=119	=119	=119	=119
+1i	D:min	119.874	newline	voice	1D 1f 1a
+=120	=120	=120	=120	=120	=120
+1i	D:min	120.89	.	voice	1D 1f 1a
+=121	=121	=121	=121	=121	=121
+1-VI	B-:maj	121.906	.	voice	1B-- 1dd- 1ff-
+=122	=122	=122	=122	=122	=122
+1-VII	C:maj	122.922	.	voice	1C 1e 1g
+=123	=123	=123	=123	=123	=123
+1-III	F:maj	123.939	.	voice	1F- 1a- 1cc-
+=124	=124	=124	=124	=124	=124
+1-III	F:maj	124.955	.	voice	1F- 1a- 1cc-
+=125	=125	=125	=125	=125	=125
+1iv	G:min	125.971	newline	voice	1G 1b- 1dd
+=126	=126	=126	=126	=126	=126
+1iv	G:min	126.971	.	voice	1G 1b- 1dd
+=127	=127	=127	=127	=127	=127
+1iv	G:min	127.972	.	voice	1G 1b- 1dd
+=128	=128	=128	=128	=128	=128
+1iv	G:min	128.972	.	voice	1G 1b- 1dd
+=129	=129	=129	=129	=129	=129
+1-VII	C:maj	129.973	newline	voice	1C 1e 1g
+=130	=130	=130	=130	=130	=130
+1-VII	C:maj	130.98	.	voice	1C 1e 1g
+=131	=131	=131	=131	=131	=131
+1i	D:min	131.987	.	voice	1D 1f 1a
+=132	=132	=132	=132	=132	=132
+1i	D:min	132.994	.	voice	1D 1f 1a
+=133	=133	=133	=133	=133	=133
+1iv	G:min	134.001	newline	voice	1G 1b- 1dd
+=134	=134	=134	=134	=134	=134
+1iv	G:min	135.019	.	voice	1G 1b- 1dd
+=135	=135	=135	=135	=135	=135
+1iv	G:min	136.037	.	voice	1G 1b- 1dd
+=136	=136	=136	=136	=136	=136
+1iv	G:min	137.054	.	voice	1G 1b- 1dd
+=137	=137	=137	=137	=137	=137
+1-VII	C:maj	138.072	newline	voice	1C 1e 1g
+=138	=138	=138	=138	=138	=138
+1-VII	C:maj	139.077	.	voice	1C 1e 1g
+=139	=139	=139	=139	=139	=139
+1i	D:min	140.082	.	voice	1D 1f 1a
+=140	=140	=140	=140	=140	=140
+1i	D:min	141.086	.	voice	1D 1f 1a
+=141	=141	=141	=141	=141	=141
+*>C_instrumental	*>C_instrumental	*>C_instrumental	*>C_instrumental	*>C_instrumental	*>C_instrumental
+1i	D:min	142.091	newline	accordion	1D 1f 1a
+=142	=142	=142	=142	=142	=142
+1i	D:min	143.111	.	accordion	1D 1f 1a
+=143	=143	=143	=143	=143	=143
+1-III	F:maj	144.13	.	accordion	1F- 1a- 1cc-
+=144	=144	=144	=144	=144	=144
+1-III	F:maj	145.15	.	accordion	1F- 1a- 1cc-
+=145	=145	=145	=145	=145	=145
+1i	D:min	146.17	newline	accordion	1D 1f 1a
+=146	=146	=146	=146	=146	=146
+1i	D:min	147.185	.	accordion	1D 1f 1a
+=147	=147	=147	=147	=147	=147
+1-III	F:maj	148.201	.	accordion	1F- 1a- 1cc-
+=148	=148	=148	=148	=148	=148
+1-III	F:maj	149.216	.	accordion	1F- 1a- 1cc-
+=149	=149	=149	=149	=149	=149
+1iv	G:min	150.232	newline	accordion	1G 1b- 1dd
+=150	=150	=150	=150	=150	=150
+1iv	G:min	151.231	.	accordion	1G 1b- 1dd
+=151	=151	=151	=151	=151	=151
+1iv	G:min	152.231	.	accordion	1G 1b- 1dd
+=152	=152	=152	=152	=152	=152
+1iv	G:min	153.23	.	accordion	1G 1b- 1dd
+=153	=153	=153	=153	=153	=153
+1-VII	C:maj	154.23	newline	accordion	1C 1e 1g
+=154	=154	=154	=154	=154	=154
+1-VII	C:maj	155.243	.	accordion	1C 1e 1g
+=155	=155	=155	=155	=155	=155
+1i	D:min	156.257	.	accordion	1D 1f 1a
+=156	=156	=156	=156	=156	=156
+1i	D:min	157.271	.	accordion	1D 1f 1a
+=157	=157	=157	=157	=157	=157
+1iv	G:min	158.284	newline	accordion	1G 1b- 1dd
+=158	=158	=158	=158	=158	=158
+1iv	G:min	159.289	.	accordion	1G 1b- 1dd
+=159	=159	=159	=159	=159	=159
+1iv	G:min	160.294	.	accordion	1G 1b- 1dd
+=160	=160	=160	=160	=160	=160
+1iv	G:min	161.299	.	accordion	1G 1b- 1dd
+=161	=161	=161	=161	=161	=161
+1-VII	C:maj	162.303	newline	accordion	1C 1e 1g
+=162	=162	=162	=162	=162	=162
+1-VII	C:maj	163.316	.	accordion	1C 1e 1g
+=163	=163	=163	=163	=163	=163
+1i	D:min	164.328	.	accordion	1D 1f 1a
+=164	=164	=164	=164	=164	=164
+1i	D:min	165.34	.	accordion	1D 1f 1a
+=165	=165	=165	=165	=165	=165
+*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro
+1i	D:min	166.352	newline	accordion	1D 1f 1a
+=166	=166	=166	=166	=166	=166
+1i	D:min	167.361	.	accordion	1D 1f 1a
+=167	=167	=167	=167	=167	=167
+1-III	F:maj	168.37	.	accordion	1F- 1a- 1cc-
+=168	=168	=168	=168	=168	=168
+1-III	F:maj	169.379	.	accordion	1F- 1a- 1cc-
+=169	=169	=169	=169	=169	=169
+1i	D:min	170.388	newline	accordion	1D 1f 1a
+=170	=170	=170	=170	=170	=170
+1i	D:min	171.402	.	accordion	1D 1f 1a
+=171	=171	=171	=171	=171	=171
+1-III	F:maj	172.416	.	accordion	1F- 1a- 1cc-
+=172	=172	=172	=172	=172	=172
+1-III	F:maj	173.43	.	accordion	1F- 1a- 1cc-
+=173	=173	=173	=173	=173	=173
+1i	D:min	174.444	newline	accordion	1D 1f 1a
+=174	=174	=174	=174	=174	=174
+1i	D:min	175.459	.	accordion	1D 1f 1a
+=175	=175	=175	=175	=175	=175
+1-III	F:maj	176.474	.	accordion	1F- 1a- 1cc-
+=176	=176	=176	=176	=176	=176
+1-III	F:maj	177.489	.	accordion	1F- 1a- 1cc-
+=177	=177	=177	=177	=177	=177
+1i	D:min	178.504	newline	accordion	1D 1f 1a
+=178	=178	=178	=178	=178	=178
+1i	D:min	179.503	.	accordion	1D 1f 1a
+=179	=179	=179	=179	=179	=179
+1-III	F:maj	180.501	.	accordion	1F- 1a- 1cc-
+=180	=180	=180	=180	=180	=180
+1-III	F:maj	181.499	.	accordion	1F- 1a- 1cc-
+=181	=181	=181	=181	=181	=181
+1i	D:min	182.498	newline	accordion	1D 1f 1a
+=182	=182	=182	=182	=182	=182
+1i	D:min	183.506	.	accordion	1D 1f 1a
+=183	=183	=183	=183	=183	=183
+1-III	F:maj	184.515	.	accordion	1F- 1a- 1cc-
+=184	=184	=184	=184	=184	=184
+1-III	F:maj	185.524	.	accordion	1F- 1a- 1cc-
+=185	=185	=185	=185	=185	=185
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1i	D:min	186.533	newline	accordion	1D 1f 1a
+=186	=186	=186	=186	=186	=186
+1i	D:min	187.537	.	accordion	1D 1f 1a
+=187	=187	=187	=187	=187	=187
+1-III	F:maj	188.542	.	accordion	1F- 1a- 1cc-
+=188	=188	=188	=188	=188	=188
+1-III	F:maj	189.546	.	accordion	1F- 1a- 1cc-
+=189	=189	=189	=189	=189	=189
+1i	D:min	190.551	newline	accordion	1D 1f 1a
+=190	=190	=190	=190	=190	=190
+1i	D:min	191.567	.	accordion	1D 1f 1a
+=191	=191	=191	=191	=191	=191
+1-III	F:maj	192.582	.	accordion	1F- 1a- 1cc-
+=192	=192	=192	=192	=192	=192
+1-III	F:maj	193.598	.	accordion	1F- 1a- 1cc-
+=193	=193	=193	=193	=193	=193
+1i	D:min	194.614	newline	accordion	1D 1f 1a
+=194	=194	=194	=194	=194	=194
+1i	D:min	195.629	.	accordion	1D 1f 1a
+=195	=195	=195	=195	=195	=195
+1-III	F:maj	196.645	.	accordion	1F- 1a- 1cc-
+=196	=196	=196	=196	=196	=196
+1-III	F:maj	197.66	.	accordion	1F- 1a- 1cc-
+=197	=197	=197	=197	=197	=197
+1i	D:min	198.676	newline	accordion	1D 1f 1a
+=198	=198	=198	=198	=198	=198
+1i	D:min	199.674	.	accordion	1D 1f 1a
+=199	=199	=199	=199	=199	=199
+1-III	F:maj	200.672	.	accordion	1F- 1a- 1cc-
+=200	=200	=200	=200	=200	=200
+1-III	F:maj	201.67	.	accordion	1F- 1a- 1cc-
+=201	=201	=201	=201	=201	=201
+1i	D:min	202.669	newline	accordion	1D 1f 1a
+1r;	N	203.453	.	r	1r;
+1r;	N	204.199	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Lambada
+!!!COC: Kaoma
+!!!BillboardChartDate: 1990/04/28
+!!!BillboardPeak: 46
+!!!BillboardWeeksOnChart: 12
+!!!SampleTargetRank: 78
+!!!SampleActualRank: 77
+!!!SampleID#: 1270
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

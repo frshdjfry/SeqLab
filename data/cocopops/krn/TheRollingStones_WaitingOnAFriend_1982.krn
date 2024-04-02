@@ -1,0 +1,338 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*C:	*C:	*	*	*	*C:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1I	C:maj(9)	0.441	newline	r	1C 1e 1g
+=2	=2	=2	=2	=2	=2
+4iib	D:min/b3	2.512	.	r	4d 4F 4a
+2.IV	F:maj	3.03	.	r	2F 2a 2cc
+=3	=3	=3	=3	=3	=3
+1I	C:maj(9)	4.584	.	r	1C 1e 1g
+=4	=4	=4	=4	=4	=4
+4iib	D:min/b3	6.655	.	r	4d 4F 4a
+2.IV	F:maj	7.173	.	r	2F 2a 2cc
+=5	=5	=5	=5	=5	=5
+1I	C:maj(9)	8.726	newline	r	1C 1e 1g
+=6	=6	=6	=6	=6	=6
+4iib	D:min/b3	10.835	.	r	4d 4F 4a
+2.IV	F:maj	11.362	.	r	2F 2a 2cc
+=7	=7	=7	=7	=7	=7
+1I	C:maj(9)	12.944	.	r	1C 1e 1g
+=8	=8	=8	=8	=8	=8
+4iib	D:min/b3	15.053	.	r	4d 4F 4a
+2.IV	F:maj	15.58	.	r	2F 2a 2cc
+=9	=9	=9	=9	=9	=9
+1I	C:maj(9)	17.162	newline	r	1C 1e 1g
+=10	=10	=10	=10	=10	=10
+4iib	D:min/b3	19.229	.	r	4d 4F 4a
+2.IV	F:maj	19.746	.	r	2F 2a 2cc
+=11	=11	=11	=11	=11	=11
+1I	C:maj(9)	21.296	.	r	1C 1e 1g
+=12	=12	=12	=12	=12	=12
+4iib	D:min/b3	23.364	.	r	4d 4F 4a
+2.IV	F:maj	23.88	.	r	2F 2a 2cc
+=13	=13	=13	=13	=13	=13
+1I	C:maj(9)	25.431	newline	r	1C 1e 1g
+=14	=14	=14	=14	=14	=14
+4iib	D:min/b3	27.5	.	r	4d 4F 4a
+2.IV	F:maj	28.018	.	r	2F 2a 2cc
+=15	=15	=15	=15	=15	=15
+1I	C:maj(9)	29.57	.	r	1C 1e 1g
+=16	=16	=16	=16	=16	=16
+4iib	D:min/b3	31.639	.	r	4d 4F 4a
+2.IV	F:maj	32.157	.	r	2F 2a 2cc
+=17	=17	=17	=17	=17	=17
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1vi	A:min	33.709	newline	voice	1A 1cc 1ee
+=18	=18	=18	=18	=18	=18
+1IV	F:maj	35.777	.	voice	1F 1a 1cc
+=19	=19	=19	=19	=19	=19
+1V	G:maj	37.845	.	voice	1G 1b 1dd
+=20	=20	=20	=20	=20	=20
+1I	C:maj	39.913	.	voice	1C 1e 1g
+=21	=21	=21	=21	=21	=21
+1V7	G:7	41.981	newline	voice	1G 1b 1dd 1ff
+=22	=22	=22	=22	=22	=22
+1V7	G:7	44.032	.	voice	1G 1b 1dd 1ff
+=23	=23	=23	=23	=23	=23
+1I	C:maj	46.084	.	voice	1C 1e 1g
+=24	=24	=24	=24	=24	=24
+1I	C:maj	48.136	.	voice	1C 1e 1g
+=25	=25	=25	=25	=25	=25
+1V7	G:7	50.188	newline	voice	1G 1b 1dd 1ff
+=26	=26	=26	=26	=26	=26
+1V7	G:7	52.229	.	voice	1G 1b 1dd 1ff
+=27	=27	=27	=27	=27	=27
+1I	C:maj	54.27	.	voice	1C 1e 1g
+=28	=28	=28	=28	=28	=28
+1I	C:maj	56.31	.	voice	1C 1e 1g
+=29	=29	=29	=29	=29	=29
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1vi	A:min	58.351	newline	voice	1A 1cc 1ee
+=30	=30	=30	=30	=30	=30
+1IV	F:maj	60.403	.	voice	1F 1a 1cc
+=31	=31	=31	=31	=31	=31
+1V	G:maj	62.454	.	voice	1G 1b 1dd
+=32	=32	=32	=32	=32	=32
+1I	C:maj	64.506	.	voice	1C 1e 1g
+=33	=33	=33	=33	=33	=33
+1V7	G:7	66.558	newline	voice	1G 1b 1dd 1ff
+=34	=34	=34	=34	=34	=34
+1V7	G:7	68.598	.	voice	1G 1b 1dd 1ff
+=35	=35	=35	=35	=35	=35
+1I	C:maj	70.638	.	voice	1C 1e 1g
+=36	=36	=36	=36	=36	=36
+1I	C:maj	72.679	.	voice	1C 1e 1g
+=37	=37	=37	=37	=37	=37
+1V7	G:7	74.719	newline	voice	1G 1b 1dd 1ff
+=38	=38	=38	=38	=38	=38
+1V7	G:7	76.766	.	voice	1G 1b 1dd 1ff
+=39	=39	=39	=39	=39	=39
+1I	C:maj	78.814	.	voice	1C 1e 1g
+=40	=40	=40	=40	=40	=40
+1I	C:maj	80.861	.	voice	1C 1e 1g
+=41	=41	=41	=41	=41	=41
+*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
+1vi	A:min	82.909	newline	voice	1A 1cc 1ee
+=42	=42	=42	=42	=42	=42
+1IV	F:maj	84.948	.	voice	1F 1a 1cc
+=43	=43	=43	=43	=43	=43
+1V	G:maj	86.987	.	voice	1G 1b 1dd
+=44	=44	=44	=44	=44	=44
+1I	C:maj	89.027	.	voice	1C 1e 1g
+=45	=45	=45	=45	=45	=45
+1V7	G:7	91.066	newline	voice	1G 1b 1dd 1ff
+=46	=46	=46	=46	=46	=46
+1V7	G:7	93.102	.	voice	1G 1b 1dd 1ff
+=47	=47	=47	=47	=47	=47
+1I	C:maj	95.138	.	voice	1C 1e 1g
+=48	=48	=48	=48	=48	=48
+1I	C:maj	97.174	.	voice	1C 1e 1g
+=49	=49	=49	=49	=49	=49
+1V7	G:7	99.21	newline	voice	1G 1b 1dd 1ff
+=50	=50	=50	=50	=50	=50
+1V7	G:7	101.254	.	voice	1G 1b 1dd 1ff
+=51	=51	=51	=51	=51	=51
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1I	C:maj(9)	103.297	newline	voice	1C 1e 1g
+=52	=52	=52	=52	=52	=52
+4iib	D:min/b3	105.35	.	voice	4d 4F 4a
+2.IV	F:maj	105.863	.	voice	2F 2a 2cc
+=53	=53	=53	=53	=53	=53
+1I	C:maj(9)	107.403	.	voice	1C 1e 1g
+=54	=54	=54	=54	=54	=54
+4iib	D:min/b3	109.456	.	voice	4d 4F 4a
+2.IV	F:maj	109.97	.	voice	2F 2a 2cc
+=55	=55	=55	=55	=55	=55
+1I	C:maj(9)	111.51	newline	voice	1C 1e 1g
+=56	=56	=56	=56	=56	=56
+4iib	D:min/b3	113.58	.	voice	4d 4F 4a
+2.IV	F:maj	114.098	.	voice	2F 2a 2cc
+=57	=57	=57	=57	=57	=57
+*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo
+1I	C:maj(9)	115.651	newline	saxophone	1C 1e 1g
+=58	=58	=58	=58	=58	=58
+4iib	D:min/b3	117.686	.	saxophone	4d 4F 4a
+2.IV	F:maj	118.195	.	saxophone	2F 2a 2cc
+=59	=59	=59	=59	=59	=59
+1I	C:maj(9)	119.721	.	saxophone	1C 1e 1g
+=60	=60	=60	=60	=60	=60
+4iib	D:min/b3	121.756	.	saxophone	4d 4F 4a
+2.IV	F:maj	122.265	.	saxophone	2F 2a 2cc
+=61	=61	=61	=61	=61	=61
+1I	C:maj(9)	123.791	newline	saxophone	1C 1e 1g
+=62	=62	=62	=62	=62	=62
+4iib	D:min/b3	125.844	.	saxophone	4d 4F 4a
+2.IV	F:maj	126.358	.	saxophone	2F 2a 2cc
+=63	=63	=63	=63	=63	=63
+1I	C:maj(9)	127.897	.	saxophone	1C 1e 1g
+=64	=64	=64	=64	=64	=64
+4iib	D:min/b3	129.95	.	saxophone	4d 4F 4a
+2.IV	F:maj	130.464	.	saxophone	2F 2a 2cc
+=65	=65	=65	=65	=65	=65
+1I	C:maj(9)	132.003	newline	saxophone	1C 1e 1g
+=66	=66	=66	=66	=66	=66
+4iib	D:min/b3	134.037	.	saxophone	4d 4F 4a
+2.IV	F:maj	134.546	.	saxophone	2F 2a 2cc
+=67	=67	=67	=67	=67	=67
+1I	C:maj(9)	136.071	.	saxophone	1C 1e 1g
+=68	=68	=68	=68	=68	=68
+4iib	D:min/b3	138.105	.	saxophone	4d 4F 4a
+2.IV	F:maj	138.614	.	saxophone	2F 2a 2cc
+=69	=69	=69	=69	=69	=69
+1I	C:maj(9)	140.14	newline	saxophone	1C 1e 1g
+=70	=70	=70	=70	=70	=70
+4iib	D:min/b3	142.182	.	saxophone	4d 4F 4a
+2.IV	F:maj	142.693	.	saxophone	2F 2a 2cc
+=71	=71	=71	=71	=71	=71
+1I	C:maj(9)	144.225	.	saxophone	1C 1e 1g
+=72	=72	=72	=72	=72	=72
+4iib	D:min/b3	146.268	.	saxophone	4d 4F 4a
+2.IV	F:maj	146.779	.	saxophone	2F 2a 2cc
+=73	=73	=73	=73	=73	=73
+1I	C:maj(9)	148.311	newline	saxophone	1C 1e 1g
+=74	=74	=74	=74	=74	=74
+4iib	D:min/b3	150.337	.	saxophone	4d 4F 4a
+2.IV	F:maj	150.843	.	saxophone	2F 2a 2cc
+=75	=75	=75	=75	=75	=75
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1vi	A:min	152.362	newline	voice	1A 1cc 1ee
+=76	=76	=76	=76	=76	=76
+1IV	F:maj	154.411	.	voice	1F 1a 1cc
+=77	=77	=77	=77	=77	=77
+1V	G:maj	156.46	.	voice	1G 1b 1dd
+=78	=78	=78	=78	=78	=78
+1I	C:maj	158.51	.	voice	1C 1e 1g
+=79	=79	=79	=79	=79	=79
+1V7	G:7	160.559	newline	voice	1G 1b 1dd 1ff
+=80	=80	=80	=80	=80	=80
+1V7	G:7	162.61	.	voice	1G 1b 1dd 1ff
+=81	=81	=81	=81	=81	=81
+1I	C:maj	164.662	.	voice	1C 1e 1g
+=82	=82	=82	=82	=82	=82
+1I	C:maj	166.714	.	voice	1C 1e 1g
+=83	=83	=83	=83	=83	=83
+1V7	G:7	168.765	newline	voice	1G 1b 1dd 1ff
+=84	=84	=84	=84	=84	=84
+1V7	G:7	170.819	.	voice	1G 1b 1dd 1ff
+=85	=85	=85	=85	=85	=85
+1I	C:maj	172.873	.	voice	1C 1e 1g
+=86	=86	=86	=86	=86	=86
+1I	C:maj	174.928	.	voice	1C 1e 1g
+=87	=87	=87	=87	=87	=87
+*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
+1vi	A:min	176.982	newline	voice	1A 1cc 1ee
+=88	=88	=88	=88	=88	=88
+1IV	F:maj	179.028	.	voice	1F 1a 1cc
+=89	=89	=89	=89	=89	=89
+1V	G:maj	181.074	.	voice	1G 1b 1dd
+=90	=90	=90	=90	=90	=90
+1I	C:maj	183.12	.	voice	1C 1e 1g
+=91	=91	=91	=91	=91	=91
+1V7	G:7	185.167	newline	voice	1G 1b 1dd 1ff
+=92	=92	=92	=92	=92	=92
+1V7	G:7	187.217	.	voice	1G 1b 1dd 1ff
+=93	=93	=93	=93	=93	=93
+1I	C:maj	189.267	.	voice	1C 1e 1g
+=94	=94	=94	=94	=94	=94
+1I	C:maj	191.317	.	voice	1C 1e 1g
+=95	=95	=95	=95	=95	=95
+1V7	G:7	193.367	newline	voice	1G 1b 1dd 1ff
+=96	=96	=96	=96	=96	=96
+1V7	G:7	195.428	.	voice	1G 1b 1dd 1ff
+=97	=97	=97	=97	=97	=97
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+1I	C:maj(9)	197.489	newline	voice	1C 1e 1g
+=98	=98	=98	=98	=98	=98
+4iib	D:min/b3	199.522	.	voice	4d 4F 4a
+2.IV	F:maj	200.03	.	voice	2F 2a 2cc
+=99	=99	=99	=99	=99	=99
+1I	C:maj(9)	201.554	.	voice	1C 1e 1g
+=100	=100	=100	=100	=100	=100
+4iib	D:min/b3	203.587	.	voice	4d 4F 4a
+2.IV	F:maj	204.095	.	voice	2F 2a 2cc
+=101	=101	=101	=101	=101	=101
+*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo
+1I	C:maj(9)	205.619	newline	saxophone	1C 1e 1g
+=102	=102	=102	=102	=102	=102
+4iib	D:min/b3	207.661	.	saxophone	4d 4F 4a
+2.IV	F:maj	208.171	.	saxophone	2F 2a 2cc
+=103	=103	=103	=103	=103	=103
+1I	C:maj(9)	209.702	.	saxophone	1C 1e 1g
+=104	=104	=104	=104	=104	=104
+4iib	D:min/b3	211.743	.	saxophone	4d 4F 4a
+2.IV	F:maj	212.253	.	saxophone	2F 2a 2cc
+=105	=105	=105	=105	=105	=105
+1I	C:maj(9)	213.784	newline	saxophone	1C 1e 1g
+=106	=106	=106	=106	=106	=106
+4iib	D:min/b3	215.825	.	saxophone	4d 4F 4a
+2.IV	F:maj	216.335	.	saxophone	2F 2a 2cc
+=107	=107	=107	=107	=107	=107
+1I	C:maj(9)	217.865	.	saxophone	1C 1e 1g
+=108	=108	=108	=108	=108	=108
+4iib	D:min/b3	219.905	.	saxophone	4d 4F 4a
+2.IV	F:maj	220.415	.	saxophone	2F 2a 2cc
+=109	=109	=109	=109	=109	=109
+1I	C:maj(9)	221.945	newline	saxophone	1C 1e 1g
+=110	=110	=110	=110	=110	=110
+4iib	D:min/b3	223.964	.	saxophone	4d 4F 4a
+2.IV	F:maj	224.468	.	saxophone	2F 2a 2cc
+=111	=111	=111	=111	=111	=111
+1I	C:maj(9)	225.982	.	saxophone	1C 1e 1g
+=112	=112	=112	=112	=112	=112
+4iib	D:min/b3	228	.	saxophone	4d 4F 4a
+2.IV	F:maj	228.504	.	saxophone	2F 2a 2cc
+=113	=113	=113	=113	=113	=113
+1I	C:maj(9)	230.018	newline	saxophone	1C 1e 1g
+=114	=114	=114	=114	=114	=114
+4iib	D:min/b3	232.042	.	saxophone	4d 4F 4a
+2.IV	F:maj	232.548	.	saxophone	2F 2a 2cc
+=115	=115	=115	=115	=115	=115
+1I	C:maj(9)	234.066	.	saxophone	1C 1e 1g
+=116	=116	=116	=116	=116	=116
+4iib	D:min/b3	236.09	.	saxophone	4d 4F 4a
+2.IV	F:maj	236.596	.	saxophone	2F 2a 2cc
+=117	=117	=117	=117	=117	=117
+1I	C:maj(9)	238.114	newline	saxophone	1C 1e 1g
+=118	=118	=118	=118	=118	=118
+4iib	D:min/b3	240.136	.	saxophone	4d 4F 4a
+2.IV	F:maj	240.641	.	saxophone	2F 2a 2cc
+=119	=119	=119	=119	=119	=119
+1I	C:maj(9)	242.158	.	saxophone	1C 1e 1g
+=120	=120	=120	=120	=120	=120
+4iib	D:min/b3	244.18	.	saxophone	4d 4F 4a
+2.IV	F:maj	244.686	.	saxophone	2F 2a 2cc
+=121	=121	=121	=121	=121	=121
+1I	C:maj(9)	246.202	newline	saxophone	1C 1e 1g
+=122	=122	=122	=122	=122	=122
+4iib	D:min/b3	248.236	.	saxophone	4d 4F 4a
+2.IV	F:maj	248.745	.	saxophone	2F 2a 2cc
+=123	=123	=123	=123	=123	=123
+1I	C:maj(9)	250.27	.	saxophone	1C 1e 1g
+=124	=124	=124	=124	=124	=124
+4iib	D:min/b3	252.304	.	saxophone	4d 4F 4a
+2.IV	F:maj	252.812	.	saxophone	2F 2a 2cc
+=125	=125	=125	=125	=125	=125
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1I	C:maj(9)	254.338	newline	saxophone	1C 1e 1g
+=126	=126	=126	=126	=126	=126
+4iib	D:min/b3	256.366	.	saxophone	4d 4F 4a
+2.IV	F:maj	256.873	.	saxophone	2F 2a 2cc
+=127	=127	=127	=127	=127	=127
+1I	C:maj(9)	258.395	.	saxophone	1C 1e 1g
+=128	=128	=128	=128	=128	=128
+4iib	D:min/b3	260.423	.	saxophone	4d 4F 4a
+2.IV	F:maj	260.93	.	saxophone	2F 2a 2cc
+=129	=129	=129	=129	=129	=129
+1I	C:maj(9)	262.451	newline	saxophone	1C 1e 1g
+=130	=130	=130	=130	=130	=130
+4iib	D:min/b3	264.449	.	saxophone	4d 4F 4a
+2.IV	F:maj	264.948	.	saxophone	2F 2a 2cc
+=131	=131	=131	=131	=131	=131
+1I	C:maj(9)	266.447	.	saxophone	1C 1e 1g
+=132	=132	=132	=132	=132	=132
+4iib	D:min/b3	268.444	.	saxophone	4d 4F 4a
+2.IV	F:maj	268.944	.	saxophone	2F 2a 2cc
+=133	=133	=133	=133	=133	=133
+1I	C:maj(9)	270.442	.	saxophone	1C 1e 1g
+1r;	N	272.44	.	r	1r;
+1r;	N	274.077	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Waiting On A Friend
+!!!COC: The Rolling Stones
+!!!BillboardChartDate: 1982/01/09, 1982/02/27
+!!!BillboardPeak: 13, 13
+!!!BillboardWeeksOnChart: 15, 15
+!!!SampleTargetRank: 19, 34
+!!!SampleActualRank: 20, 35
+!!!SampleID#: 278, 332
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

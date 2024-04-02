@@ -1,0 +1,190 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*C:	*C:	*	*	*	*C:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+2I	C:maj	0.209	newline	piano	2C 2e 2g
+2ivc	F:min/5	2.026	.	piano	2f 2a- 2C
+=2	=2	=2	=2	=2	=2
+1I	C:maj	3.843	.	piano	1C 1e 1g
+=3	=3	=3	=3	=3	=3
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	C:maj	7.477	newline	voice	1C 1e 1g
+=4	=4	=4	=4	=4	=4
+1iii	E:min	10.988	.	voice	1E 1g 1b
+=5	=5	=5	=5	=5	=5
+1v	G:min6	14.499	.	voice	1G 1b- 1dd
+=6	=6	=6	=6	=6	=6
+2VI	A:maj	18.01	.	voice	2A 2cc# 2ee
+2VI7	A:7	19.766	.	voice	2A 2cc# 2ee 2gg
+=7	=7	=7	=7	=7	=7
+1ii	D:min	21.521	newline	voice	1D 1f 1a
+=8	=8	=8	=8	=8	=8
+1IVc	F:maj/5	25.014	.	voice	1f 1a 1C
+=9	=9	=9	=9	=9	=9
+2V7b	G:7/3	28.507	.	voice	2g 2B 2dd 2ff
+2V7	G:7	30.253	.	voice	2G 2b 2dd 2ff
+=10	=10	=10	=10	=10	=10
+1I	C:maj	31.999	.	voice	1C 1e 1g
+=11	=11	=11	=11	=11	=11
+1I	C:maj	35.492	newline	voice	1C 1e 1g
+=12	=12	=12	=12	=12	=12
+1Im7d	C:7/b7	39.003	.	voice	1c 1e 1g 1B
+=13	=13	=13	=13	=13	=13
+1IV	F:maj	42.513	.	voice	1F 1a 1cc
+=14	=14	=14	=14	=14	=14
+1iv	F:min	46.024	.	voice	1F 1a- 1cc
+=15	=15	=15	=15	=15	=15
+1Ic	C:maj/5	49.535	newline	voice	1c 1e 1G
+=16	=16	=16	=16	=16	=16
+1V7	G:7	53.073	.	voice	1G 1b 1dd 1ff
+=17	=17	=17	=17	=17	=17
+1IV	F:maj6	56.612	.	voice	1F 1a 1cc
+=18	=18	=18	=18	=18	=18
+1I	C:maj	60.151	.	voice	1C 1e 1g
+=19	=19	=19	=19	=19	=19
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	C:maj	63.689	newline	voice	1C 1e 1g
+=20	=20	=20	=20	=20	=20
+1iii	E:min	67.234	.	voice	1E 1g 1b
+=21	=21	=21	=21	=21	=21
+1v	G:min6	70.779	.	voice	1G 1b- 1dd
+=22	=22	=22	=22	=22	=22
+2VI	A:maj	74.324	.	voice	2A 2cc# 2ee
+2VI7	A:7	76.097	.	voice	2A 2cc# 2ee 2gg
+=23	=23	=23	=23	=23	=23
+1ii	D:min	77.869	newline	voice	1D 1f 1a
+=24	=24	=24	=24	=24	=24
+1IVc	F:maj/5	81.396	.	voice	1f 1a 1C
+=25	=25	=25	=25	=25	=25
+2Vb	G:maj/3	84.922	.	voice	2g 2B 2dd
+2V	G:maj	86.685	.	voice	2G 2b 2dd
+=26	=26	=26	=26	=26	=26
+1I	C:maj	88.448	.	voice	1C 1e 1g
+=27	=27	=27	=27	=27	=27
+1I	C:maj	91.974	newline	voice	1C 1e 1g
+=28	=28	=28	=28	=28	=28
+1Im7d	C:7/b7	95.495	.	voice	1c 1e 1g 1B
+=29	=29	=29	=29	=29	=29
+1IV	F:maj	99.016	.	voice	1F 1a 1cc
+=30	=30	=30	=30	=30	=30
+1iv	F:min	102.536	.	voice	1F 1a- 1cc
+=31	=31	=31	=31	=31	=31
+1Ic	C:maj/5	106.057	newline	voice	1c 1e 1G
+=32	=32	=32	=32	=32	=32
+1V7	G:7	109.563	.	voice	1G 1b 1dd 1ff
+=33	=33	=33	=33	=33	=33
+1IV	F:maj6	113.07	.	voice	1F 1a 1cc
+=34	=34	=34	=34	=34	=34
+1I	C:maj	116.577	.	voice	1C 1e 1g
+=35	=35	=35	=35	=35	=35
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1I	C:maj	120.083	newline	voice	1C 1e 1g
+=36	=36	=36	=36	=36	=36
+1Im7d	C:7/b7	123.561	.	voice	1c 1e 1g 1B
+=37	=37	=37	=37	=37	=37
+1IV	F:maj	127.04	.	voice	1F 1a 1cc
+=38	=38	=38	=38	=38	=38
+1IV	F:maj	130.518	.	voice	1F 1a 1cc
+=39	=39	=39	=39	=39	=39
+1ii	D:min	133.996	newline	voice	1D 1f 1a
+=40	=40	=40	=40	=40	=40
+1V7	G:7	137.482	.	voice	1G 1b 1dd 1ff
+=41	=41	=41	=41	=41	=41
+1iii	E:min	140.967	.	voice	1E 1g 1b
+=42	=42	=42	=42	=42	=42
+1vi	A:min	144.453	.	voice	1A 1cc 1ee
+=43	=43	=43	=43	=43	=43
+1ii	D:min	147.938	newline	voice	1D 1f 1a
+=44	=44	=44	=44	=44	=44
+1V7	G:7	151.422	.	voice	1G 1b 1dd 1ff
+=45	=45	=45	=45	=45	=45
+1IV	F:maj6	154.906	.	voice	1F 1a 1cc
+=46	=46	=46	=46	=46	=46
+1I	C:maj	158.39	.	voice	1C 1e 1g
+=47	=47	=47	=47	=47	=47
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	C:maj	161.874	newline	voice	1C 1e 1g
+=48	=48	=48	=48	=48	=48
+1iii	E:min	165.429	.	voice	1E 1g 1b
+=49	=49	=49	=49	=49	=49
+1v	G:min6	168.983	.	voice	1G 1b- 1dd
+=50	=50	=50	=50	=50	=50
+2VI	A:maj	172.537	.	voice	2A 2cc# 2ee
+2VI7	A:7	174.314	.	voice	2A 2cc# 2ee 2gg
+=51	=51	=51	=51	=51	=51
+1ii	D:min	176.091	newline	voice	1D 1f 1a
+=52	=52	=52	=52	=52	=52
+1IVc	F:maj/5	179.59	.	voice	1f 1a 1C
+=53	=53	=53	=53	=53	=53
+2Vb	G:maj/3	183.089	.	voice	2g 2B 2dd
+2V	G:maj	184.838	.	voice	2G 2b 2dd
+=54	=54	=54	=54	=54	=54
+1I	C:maj	186.587	.	voice	1C 1e 1g
+=55	=55	=55	=55	=55	=55
+1I	C:maj	190.086	newline	voice	1C 1e 1g
+=56	=56	=56	=56	=56	=56
+1Im7d	C:7/b7	193.609	.	voice	1c 1e 1g 1B
+=57	=57	=57	=57	=57	=57
+1IV	F:maj	197.131	.	voice	1F 1a 1cc
+=58	=58	=58	=58	=58	=58
+1iv	F:min	200.653	.	voice	1F 1a- 1cc
+=59	=59	=59	=59	=59	=59
+1Ic	C:maj/5	204.176	newline	voice	1c 1e 1G
+=60	=60	=60	=60	=60	=60
+1V7	G:7	207.606	.	voice	1G 1b 1dd 1ff
+=61	=61	=61	=61	=61	=61
+1IV	F:maj6	211.036	.	voice	1F 1a 1cc
+=62	=62	=62	=62	=62	=62
+1I	C:maj	214.466	.	voice	1C 1e 1g
+=63	=63	=63	=63	=63	=63
+*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+1I	C:maj	217.896	newline	voice	1C 1e 1g
+=64	=64	=64	=64	=64	=64
+1Im7d	C:7/b7	221.386	.	voice	1c 1e 1g 1B
+=65	=65	=65	=65	=65	=65
+1IV	F:maj	224.877	.	voice	1F 1a 1cc
+=66	=66	=66	=66	=66	=66
+1IV	F:maj	228.367	.	voice	1F 1a 1cc
+=67	=67	=67	=67	=67	=67
+1ii	D:min	231.857	newline	voice	1D 1f 1a
+=68	=68	=68	=68	=68	=68
+1V7	G:7	235.359	.	voice	1G 1b 1dd 1ff
+=69	=69	=69	=69	=69	=69
+1iii	E:min	238.86	.	voice	1E 1g 1b
+=70	=70	=70	=70	=70	=70
+1vi	A:min	242.361	.	voice	1A 1cc 1ee
+=71	=71	=71	=71	=71	=71
+1ii7	D:min7	245.862	newline	voice	1D 1f 1a 1cc
+=72	=72	=72	=72	=72	=72
+1V7	G:7	249.4	.	voice	1G 1b 1dd 1ff
+=73	=73	=73	=73	=73	=73
+1IV	F:maj6	252.937	.	voice	1F 1a 1cc
+=74	=74	=74	=74	=74	=74
+1I	C:maj	256.475	.	voice	1C 1e 1g
+=75	=75	=75	=75	=75	=75
+*>A2_coda	*>A2_coda	*>A2_coda	*>A2_coda	*>A2_coda	*>A2_coda
+2-VI	A-:maj6	260.013	newline	voice	2A- 2cc 2ee-
+2V	G:sus4(b7)	261.774	.	voice	2G 2b 2dd
+=76	=76	=76	=76	=76	=76
+1I	C:maj	263.536	.	voice	1C 1e 1g
+1r;	N	271.023	.	r	1r;
+1r;	N	273.946	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: My Way
+!!!COC: Elvis Presley
+!!!BillboardChartDate: 1978/01/21
+!!!BillboardPeak: 22
+!!!BillboardWeeksOnChart: 12
+!!!SampleTargetRank: 64
+!!!SampleActualRank: 65
+!!!SampleID#: 0793
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

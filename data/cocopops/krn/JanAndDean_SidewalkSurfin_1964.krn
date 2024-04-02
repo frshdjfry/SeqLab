@@ -1,0 +1,595 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*D:	*D:	*	*	*	*	*	*D:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+1r;	N	.	.	0.418	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1r	N	.	.	6.455	newline	voice	1r
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	board	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+1r	N	side-	.	8.306	.	voice	1r
+.	.	-walk	.	.	.	.	.
+.	.	sur-	.	.	.	.	.
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+1I	D:maj	_	.	10.158	.	voice	1D 1f# 1a
+=4	=4	=4	=4	=4	=4	=4	=4
+1I	D:maj	_	.	12.009	.	voice	1D 1f# 1a
+=5	=5	=5	=5	=5	=5	=5	=5
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	D:maj	.	.	13.86	newline	voice	1D 1f# 1a
+.	.	Don't	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-fraid	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	try	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1I	D:maj	new-	.	15.607	.	voice	1D 1f# 1a
+.	.	-est	.	.	.	.	.
+.	.	sport	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-round	A	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+1I	D:maj	_	.	17.354	.	voice	1D 1f# 1a
+=8	=8	=8	=8	=8	=8	=8	=8
+1I	D:maj	_	.	19.101	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*	*	*	*	*	*
+1V	A:maj	.	.	20.848	newline	voice	1A 1cc# 1ee
+.	.	It's	.	.	.	.	.
+.	.	catch-	.	.	.	.	.
+.	.	-ing	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	in	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1V	A:maj	e-	.	22.587	.	voice	1A 1cc# 1ee
+.	.	-ve-	.	.	.	.	.
+.	.	-ry	.	.	.	.	.
+.	.	ci-	.	.	.	.	.
+.	.	-ty	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+1I	D:maj	town	A	24.326	.	voice	1D 1f# 1a
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1I	D:maj	_	.	26.065	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1IV	G:maj	.	.	27.804	newline	voice	1G 1b 1dd
+.	.	You	.	.	.	.	.
+.	.	can	.	.	.	.	.
+.	.	do	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	tricks	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1IV	G:maj	sur-	.	29.55	.	voice	1G 1b 1dd
+.	.	-fers	.	.	.	.	.
+.	.	do	B	.	.	.	.
+.	.	Just	.	.	.	.	.
+.	.	try	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1I	D:maj	.	.	31.295	.	voice	1D 1f# 1a
+.	.	Qua-	.	.	.	.	.
+.	.	-si-	.	.	.	.	.
+.	.	-mo-	.	.	.	.	.
+.	.	-do	.	.	.	.	.
+.	.	or	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1I	D:maj	Cof-	.	33.041	.	voice	1D 1f# 1a
+.	.	-fin	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	too	B	.	.	.	.
+.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2V	A:maj	_	.	34.786	newline	voice	2A 2cc# 2ee
+*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	F:maj	board	.	35.677	.	voice	2F 2a 2cc
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2IV	G:maj	side-	.	36.567	.	voice	2G 2b 2dd
+.	.	-walk	.	.	.	.	.
+2V	A:maj	sur-	.	37.457	.	voice	2A 2cc# 2ee
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1I	D:maj	_	.	38.347	.	voice	1D 1f# 1a
+=20	=20	=20	=20	=20	=20	=20	=20
+1V	A:maj	_	.	40.128	.	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	D:maj	.	.	41.908	newline	voice	1D 1f# 1a
+.	.	You'll	.	.	.	.	.
+.	.	pro'-	.	.	.	.	.
+.	.	-bly	.	.	.	.	.
+.	.	wipe	.	.	.	.	.
+.	.	out	.	.	.	.	.
+.	.	when	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1I	D:maj	first	.	43.658	.	voice	1D 1f# 1a
+.	.	try	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	shoot	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	curve	C	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1I	D:maj	_	.	45.409	.	voice	1D 1f# 1a
+=24	=24	=24	=24	=24	=24	=24	=24
+1I	D:maj	_	.	47.159	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+*	*	*	*	*	*	*	*
+1V	A:maj	.	.	48.909	newline	voice	1A 1cc# 1ee
+.	.	Ta-	.	.	.	.	.
+.	.	-king	.	.	.	.	.
+.	.	gas	.	.	.	.	.
+.	.	in	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1V	A:maj	bush	.	50.659	.	voice	1A 1cc# 1ee
+.	.	.	.	.	.	.	.
+.	.	takes	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	lot	.	.	.	.	.
+.	.	of	.	.	.	.	.
+.	.	nerve	C	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1I	D:maj	_	.	52.408	.	voice	1D 1f# 1a
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1I	D:maj	_	.	54.157	.	voice	1D 1f# 1a
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Those	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1IV	G:maj	hop-	.	55.907	newline	voice	1G 1b 1dd
+.	.	-scotch	.	.	.	.	.
+.	.	pole-	.	.	.	.	.
+.	.	-dads	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	pe-	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1IV	G:maj	-des-	.	57.646	.	voice	1G 1b 1dd
+.	.	-tri-	.	.	.	.	.
+.	.	-ans	.	.	.	.	.
+.	.	too	A	.	.	.	.
+.	.	will	.	.	.	.	.
+.	.	bug	.	.	.	.	.
+.	.	you	A	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1I	D:maj	.	.	59.385	.	voice	1D 1f# 1a
+.	.	Shout	.	.	.	.	.
+.	.	"Co-	.	.	.	.	.
+.	.	8B	-wa-	.	.	.	.	.
+.	.	8A	-bun-	.	.	.	.	.
+.	.	8A	-ga"	.	.	.	.	.
+.	.	now	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1I	D:maj	skate	.	61.124	.	voice	1D 1f# 1a
+.	.	right	.	.	.	.	.
+.	.	on	.	.	.	.	.
+.	.	through	A	.	.	.	.
+.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2V	A:maj	_	.	62.862	newline	voice	2A 2cc# 2ee
+*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	F:maj	board	.	63.759	.	voice	2F 2a 2cc
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2IV	G:maj	side-	.	64.655	.	voice	2G 2b 2dd
+.	.	-walk	.	.	.	.	.
+2V	A:maj	sur-	.	65.551	.	voice	2A 2cc# 2ee
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1I	D:maj	_	.	66.448	.	voice	1D 1f# 1a
+=36	=36	=36	=36	=36	=36	=36	=36
+*	*	*	*	*	*	*	*E-:
+1-IIm7	E-:7	_	.	68.24	.	voice	1E- 1g 1b- 1dd
+.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
+*E-:	*E-:	*	*	*E-:	*E-:	*E-:	*E-:
+1I	E-:maj	.	.	70.033	newline	saxophone	1E- 1g 1b-
+=38	=38	=38	=38	=38	=38	=38	=38
+1I	E-:maj	.	.	71.785	.	saxophone	1E- 1g 1b-
+=39	=39	=39	=39	=39	=39	=39	=39
+1I	E-:maj	.	.	73.538	.	saxophone	1E- 1g 1b-
+=40	=40	=40	=40	=40	=40	=40	=40
+1I	E-:maj	.	.	75.29	.	saxophone	1E- 1g 1b-
+=41	=41	=41	=41	=41	=41	=41	=41
+1V	B-:maj	.	.	77.043	newline	horn	1B- 1dd 1ff
+=42	=42	=42	=42	=42	=42	=42	=42
+1V	B-:maj	.	.	78.787	.	horn	1B- 1dd 1ff
+=43	=43	=43	=43	=43	=43	=43	=43
+1I	E-:maj	.	.	80.531	.	horn	1E- 1g 1b-
+=44	=44	=44	=44	=44	=44	=44	=44
+1I	E-:maj	.	.	82.275	.	horn	1E- 1g 1b-
+=45	=45	=45	=45	=45	=45	=45	=45
+*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1IV	A-:maj	.	.	84.019	newline	voice	1A- 1cc 1ee-
+.	.	You	.	.	.	.	.
+.	.	can	.	.	.	.	.
+.	.	do	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	tricks	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1IV	A-:maj	sur-	.	85.78	.	voice	1A- 1cc 1ee-
+.	.	-fers	.	.	.	.	.
+.	.	do	A	.	.	.	.
+.	.	Just	.	.	.	.	.
+.	.	try	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1I	E-:maj	.	.	87.54	.	voice	1E- 1g 1b-
+.	.	Qua-	.	.	.	.	.
+.	.	-si-	.	.	.	.	.
+.	.	-mo-	.	.	.	.	.
+.	.	-do	.	.	.	.	.
+.	.	or	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1I	E-:maj	Cof-	.	89.301	.	voice	1E- 1g 1b-
+.	.	-fin	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	too	A	.	.	.	.
+.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2V	B-:maj	_	.	91.062	newline	voice	2B- 2dd 2ff
+*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	G-:maj	board	.	91.949	.	voice	2G- 2b- 2dd-
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+2IV	A-:maj	side-	.	92.837	.	voice	2A- 2cc 2ee-
+.	.	-walk	.	.	.	.	.
+2V	B-:maj	sur-	.	93.725	.	voice	2B- 2dd 2ff
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1I	E-:maj	_	.	94.612	.	voice	1E- 1g 1b-
+=52	=52	=52	=52	=52	=52	=52	=52
+1I	E-:maj	_	.	96.388	.	voice	1E- 1g 1b-
+.	.	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1I	E-:maj	.	.	98.163	newline	voice	1E- 1g 1b-
+.	.	So	.	.	.	.	.
+.	.	get	.	.	.	.	.
+.	.	your	.	.	.	.	.
+.	.	girl	.	.	.	.	.
+.	.	and	.	.	.	.	.
+.	.	take	.	.	.	.	.
+.	.	her	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1I	E-:maj	tan-	.	99.915	.	voice	1E- 1g 1b-
+.	.	-dem	.	.	.	.	.
+.	.	down	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	street	D	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+1I	E-:maj	_	.	101.667	.	voice	1E- 1g 1b-
+=56	=56	=56	=56	=56	=56	=56	=56
+1I	E-:maj	_	.	103.419	.	voice	1E- 1g 1b-
+.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+*	*	*	*	*	*	*	*
+1V	B-:maj	.	.	105.171	newline	voice	1B- 1dd 1ff
+.	.	Then	.	.	.	.	.
+.	.	she'll	.	.	.	.	.
+.	.	know	.	.	.	.	.
+.	.	you're	.	.	.	.	.
+.	.	an	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1V	B-:maj	as-	.	106.924	.	voice	1B- 1dd 1ff
+.	.	-phalt	.	.	.	.	.
+.	.	a-	.	.	.	.	.
+.	.	-th-	.	.	.	.	.
+.	.	-lete	D	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1I	E-:maj	_	.	108.676	.	voice	1E- 1g 1b-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1Im7	E-:7	_	.	110.429	.	voice	1E- 1g 1b- 1dd
+.	.	.	.	.	.	.	.
+.	.	A	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1IV	A-:maj	down-	.	112.182	newline	voice	1A- 1cc 1ee-
+.	.	-hill	.	.	.	.	.
+.	.	grade,	.	.	.	.	.
+.	.	man,	.	.	.	.	.
+.	.	will	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1IV	A-:maj	give	.	113.923	.	voice	1A- 1cc 1ee-
+.	.	you	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	kick	E	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	But	.	.	.	.	.
+.	.	if	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1I	E-:maj	side-	.	115.665	.	voice	1E- 1g 1b-
+.	.	-walk's	.	.	.	.	.
+.	.	cracked,	.	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	you	.	.	.	.	.
+.	.	bet-	.	.	.	.	.
+.	.	-ter	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1I	E-:maj	pull	.	117.406	.	voice	1E- 1g 1b-
+.	.	out	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	quick	E	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+2V	B-:maj	_	.	119.148	newline	voice	2B- 2dd 2ff
+.	.	.	.	.	.	.	.
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	G-:maj	board	.	120.037	.	voice	2G- 2b- 2dd-
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+2IV	A-:maj	side-	.	120.926	.	voice	2A- 2cc 2ee-
+.	.	-walk	.	.	.	.	.
+2V	B-:maj	sur-	.	121.816	.	voice	2B- 2dd 2ff
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+1I	E-:maj	Skate-	.	122.705	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+1I	E-:maj	skate-	.	124.484	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me?	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+2V	B-:maj	.	.	126.263	newline	voice	2B- 2dd 2ff
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	G-:maj	board	.	127.136	.	voice	2G- 2b- 2dd-
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+2IV	A-:maj	side-	.	128.009	.	voice	2A- 2cc 2ee-
+.	.	-walk	.	.	.	.	.
+2V	B-:maj	sur-	.	128.883	.	voice	2B- 2dd 2ff
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1I	E-:maj	Skate-	.	129.756	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+1I	E-:maj	skate-	.	131.503	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me?	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+2V	B-:maj	.	.	133.249	newline	voice	2B- 2dd 2ff
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	G-:maj	board	.	134.122	.	voice	2G- 2b- 2dd-
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+2IV	A-:maj	side-	.	134.994	.	voice	2A- 2cc 2ee-
+.	.	-walk	.	.	.	.	.
+2V	B-:maj	sur-	.	135.867	.	voice	2B- 2dd 2ff
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1I	E-:maj	Skate-	.	136.739	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1I	E-:maj	skate-	.	138.484	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me?	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77
+2V	B-:maj	.	.	140.229	newline	voice	2B- 2dd 2ff
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	G-:maj	board	.	141.102	.	voice	2G- 2b- 2dd-
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78
+2IV	A-:maj	side-	.	141.975	.	voice	2A- 2cc 2ee-
+.	.	-walk	.	.	.	.	.
+2V	B-:maj	sur-	.	142.848	.	voice	2B- 2dd 2ff
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79
+1I	E-:maj	Skate-	.	143.72	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80
+1I	E-:maj	skate-	.	145.466	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me?	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+2V	B-:maj	.	.	147.211	newline	voice	2B- 2dd 2ff
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	G-:maj	board	.	148.084	.	voice	2G- 2b- 2dd-
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82
+2IV	A-:maj	side-	.	148.957	.	voice	2A- 2cc 2ee-
+.	.	-walk	.	.	.	.	.
+2V	B-:maj	sur-	.	149.83	.	voice	2B- 2dd 2ff
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83
+1I	E-:maj	Skate-	.	150.704	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1I	E-:maj	skate-	.	152.45	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me?	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85
+2V	B-:maj	.	.	154.196	newline	voice	2B- 2dd 2ff
+.	.	Grab	.	.	.	.	.
+.	.	your	.	.	.	.	.
+2-III	G-:maj	board	.	154.958	.	voice	2G- 2b- 2dd-
+.	.	and	.	.	.	.	.
+.	.	go	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+2IV	A-:maj	side-	.	155.72	.	voice	2A- 2cc 2ee-
+.	.	-walk	.	.	.	.	.
+2V	B-:maj	sur-	.	156.481	.	voice	2B- 2dd 2ff
+.	.	-fin'	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87
+1I	E-:maj	Skate-	.	157.243	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	Why	.	.	.	.	.
+.	.	don't	.	.	.	.	.
+.	.	you	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1I	E-:maj	skate-	.	158.767	.	voice	1E- 1g 1b-
+.	.	-board	.	.	.	.	.
+.	.	with	.	.	.	.	.
+.	.	me?	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+1r;	N	.	.	160.291	.	r	1r;
+1r;	N	.	.	162.38	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1964/12/12
+!!!BillboardPeak: 25
+!!!BillboardWeeksOnChart: 8
+!!!COC: Jan & Dean
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: Sidewalk Surfin'
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 25
+!!!SampleID#: 1272
+!!!SampleTargetRank: 25
+!!!MBID: 08024fcc-3316-4555-8986-7dd0ad86486f

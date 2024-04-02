@@ -1,0 +1,194 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*C:	*C:	*	*	*	*C:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro
+1I	C:maj	0.738	newline	guitar	1C 1e 1g
+=2	=2	=2	=2	=2	=2
+1I	C:maj	2.854	.	guitar	1C 1e 1g
+=3	=3	=3	=3	=3	=3
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1Im7	C:7(#9)	4.97	newline	voice	1C 1e 1g 1b
+=4	=4	=4	=4	=4	=4
+1Im7	C:7(#9)	7.037	.	voice	1C 1e 1g 1b
+=5	=5	=5	=5	=5	=5
+1Im7	C:7(#9)	9.104	.	voice	1C 1e 1g 1b
+=6	=6	=6	=6	=6	=6
+1Im7	C:7(#9)	11.171	.	voice	1C 1e 1g 1b
+=7	=7	=7	=7	=7	=7
+1Im7	C:7(#9)	13.239	newline	voice	1C 1e 1g 1b
+=8	=8	=8	=8	=8	=8
+1Im7	C:7(#9)	15.314	.	voice	1C 1e 1g 1b
+=9	=9	=9	=9	=9	=9
+1Im7	C:7(#9)	17.389	.	voice	1C 1e 1g 1b
+=10	=10	=10	=10	=10	=10
+1Im7	C:7(#9)	19.464	.	voice	1C 1e 1g 1b
+=11	=11	=11	=11	=11	=11
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	C:7(#9)	21.538	newline	voice	1C 1e 1g 1b
+=12	=12	=12	=12	=12	=12
+1Im7	C:7(#9)	23.616	.	voice	1C 1e 1g 1b
+=13	=13	=13	=13	=13	=13
+1Im7	C:7(#9)	25.694	.	voice	1C 1e 1g 1b
+=14	=14	=14	=14	=14	=14
+1Im7	C:7(#9)	27.772	.	voice	1C 1e 1g 1b
+=15	=15	=15	=15	=15	=15
+1Im7	C:7(#9)	29.85	newline	voice	1C 1e 1g 1b
+=16	=16	=16	=16	=16	=16
+1Im7	C:7(#9)	31.922	.	voice	1C 1e 1g 1b
+=17	=17	=17	=17	=17	=17
+1Im7	C:7(#9)	33.993	.	voice	1C 1e 1g 1b
+=18	=18	=18	=18	=18	=18
+1Im7	C:7(#9)	36.065	.	voice	1C 1e 1g 1b
+=19	=19	=19	=19	=19	=19
+1Im7	C:7(#9)	38.136	newline	voice	1C 1e 1g 1b
+=20	=20	=20	=20	=20	=20
+1Im7	C:7(#9)	40.183	.	voice	1C 1e 1g 1b
+=21	=21	=21	=21	=21	=21
+1Im7	C:7(#9)	42.231	.	voice	1C 1e 1g 1b
+=22	=22	=22	=22	=22	=22
+1Im7	C:7(#9)	44.278	.	voice	1C 1e 1g 1b
+=23	=23	=23	=23	=23	=23
+1Im7	C:7(#9)	46.325	newline	voice	1C 1e 1g 1b
+=24	=24	=24	=24	=24	=24
+1Im7	C:7(#9)	48.369	.	voice	1C 1e 1g 1b
+=25	=25	=25	=25	=25	=25
+1Im7	C:7(#9)	50.413	.	voice	1C 1e 1g 1b
+=26	=26	=26	=26	=26	=26
+1Im7	C:7(#9)	52.456	.	voice	1C 1e 1g 1b
+=27	=27	=27	=27	=27	=27
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1Im7	C:7(#9)	54.5	newline	voice	1C 1e 1g 1b
+=28	=28	=28	=28	=28	=28
+1Im7	C:7(#9)	56.546	.	voice	1C 1e 1g 1b
+=29	=29	=29	=29	=29	=29
+1Im7	C:7(#9)	58.591	.	voice	1C 1e 1g 1b
+=30	=30	=30	=30	=30	=30
+1Im7	C:7(#9)	60.637	.	voice	1C 1e 1g 1b
+=31	=31	=31	=31	=31	=31
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	C:7(#9)	62.682	newline	voice	1C 1e 1g 1b
+=32	=32	=32	=32	=32	=32
+1Im7	C:7(#9)	64.737	.	voice	1C 1e 1g 1b
+=33	=33	=33	=33	=33	=33
+1Im7	C:7(#9)	66.791	.	voice	1C 1e 1g 1b
+=34	=34	=34	=34	=34	=34
+1Im7	C:7(#9)	68.846	.	voice	1C 1e 1g 1b
+=35	=35	=35	=35	=35	=35
+1Im7	C:7(#9)	70.9	newline	voice	1C 1e 1g 1b
+=36	=36	=36	=36	=36	=36
+1Im7	C:7(#9)	72.959	.	voice	1C 1e 1g 1b
+=37	=37	=37	=37	=37	=37
+1Im7	C:7(#9)	75.018	.	voice	1C 1e 1g 1b
+=38	=38	=38	=38	=38	=38
+1Im7	C:7(#9)	77.077	.	voice	1C 1e 1g 1b
+=39	=39	=39	=39	=39	=39
+*>A_bridge	*>A_bridge	*>A_bridge	*>A_bridge	*>A_bridge	*>A_bridge
+1I	C:maj	79.135	newline	voice	1C 1e 1g
+=40	=40	=40	=40	=40	=40
+1I	C:maj	81.193	.	voice	1C 1e 1g
+=41	=41	=41	=41	=41	=41
+1I	C:maj	83.251	.	voice	1C 1e 1g
+=42	=42	=42	=42	=42	=42
+1I	C:maj	85.309	.	voice	1C 1e 1g
+=43	=43	=43	=43	=43	=43
+1I	C:maj	87.367	newline	voice	1C 1e 1g
+=44	=44	=44	=44	=44	=44
+1I	C:maj	89.414	.	voice	1C 1e 1g
+=45	=45	=45	=45	=45	=45
+1I	C:maj	91.462	.	voice	1C 1e 1g
+=46	=46	=46	=46	=46	=46
+1I	C:maj	93.509	.	voice	1C 1e 1g
+=47	=47	=47	=47	=47	=47
+*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4
+1.I	C:maj	95.557	.	voice	1C 1e 1g
+=48	=48	=48	=48	=48	=48
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+1Im7	C:7(#9)	98.628	newline	voice	1C 1e 1g 1b
+=49	=49	=49	=49	=49	=49
+1Im7	C:7(#9)	100.675	.	voice	1C 1e 1g 1b
+=50	=50	=50	=50	=50	=50
+1Im7	C:7(#9)	102.721	.	voice	1C 1e 1g 1b
+=51	=51	=51	=51	=51	=51
+1Im7	C:7(#9)	104.768	.	voice	1C 1e 1g 1b
+=52	=52	=52	=52	=52	=52
+1Im7	C:7(#9)	106.814	newline	voice	1C 1e 1g 1b
+=53	=53	=53	=53	=53	=53
+1Im7	C:7(#9)	108.844	.	voice	1C 1e 1g 1b
+=54	=54	=54	=54	=54	=54
+1Im7	C:7(#9)	110.874	.	voice	1C 1e 1g 1b
+=55	=55	=55	=55	=55	=55
+1Im7	C:7(#9)	112.904	.	voice	1C 1e 1g 1b
+=56	=56	=56	=56	=56	=56
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1Im7	C:7(#9)	114.934	newline	voice	1C 1e 1g 1b
+=57	=57	=57	=57	=57	=57
+1Im7	C:7(#9)	116.971	.	voice	1C 1e 1g 1b
+=58	=58	=58	=58	=58	=58
+1Im7	C:7(#9)	119.008	.	voice	1C 1e 1g 1b
+=59	=59	=59	=59	=59	=59
+1Im7	C:7(#9)	121.045	.	voice	1C 1e 1g 1b
+=60	=60	=60	=60	=60	=60
+1Im7	C:7(#9)	123.082	newline	voice	1C 1e 1g 1b
+=61	=61	=61	=61	=61	=61
+1Im7	C:7(#9)	125.121	.	voice	1C 1e 1g 1b
+=62	=62	=62	=62	=62	=62
+1Im7	C:7(#9)	127.16	.	voice	1C 1e 1g 1b
+=63	=63	=63	=63	=63	=63
+1Im7	C:7(#9)	129.199	.	voice	1C 1e 1g 1b
+=64	=64	=64	=64	=64	=64
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1Im7	C:7(#9)	131.237	newline	voice	1C 1e 1g 1b
+=65	=65	=65	=65	=65	=65
+1Im7	C:7(#9)	133.281	.	voice	1C 1e 1g 1b
+=66	=66	=66	=66	=66	=66
+1Im7	C:7(#9)	135.325	.	voice	1C 1e 1g 1b
+=67	=67	=67	=67	=67	=67
+1Im7	C:7(#9)	137.369	.	voice	1C 1e 1g 1b
+=68	=68	=68	=68	=68	=68
+1Im7	C:7(#9)	139.413	newline	voice	1C 1e 1g 1b
+=69	=69	=69	=69	=69	=69
+1Im7	C:7(#9)	141.439	.	voice	1C 1e 1g 1b
+=70	=70	=70	=70	=70	=70
+1Im7	C:7(#9)	143.464	.	voice	1C 1e 1g 1b
+=71	=71	=71	=71	=71	=71
+1Im7	C:7(#9)	145.49	.	voice	1C 1e 1g 1b
+=72	=72	=72	=72	=72	=72
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1Im7	C:7(#9)	147.515	newline	voice	1C 1e 1g 1b
+=73	=73	=73	=73	=73	=73
+1Im7	C:7(#9)	149.551	.	voice	1C 1e 1g 1b
+=74	=74	=74	=74	=74	=74
+1Im7	C:7(#9)	151.586	.	voice	1C 1e 1g 1b
+=75	=75	=75	=75	=75	=75
+1Im7	C:7(#9)	153.622	.	voice	1C 1e 1g 1b
+=76	=76	=76	=76	=76	=76
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1Im7	C:7(#9)	155.658	newline	voice	1C 1e 1g 1b
+=77	=77	=77	=77	=77	=77
+1Im7	C:7(#9)	157.622	.	voice	1C 1e 1g 1b
+=78	=78	=78	=78	=78	=78
+1Im7	C:7(#9)	159.586	.	voice	1C 1e 1g 1b
+=79	=79	=79	=79	=79	=79
+1Im7	C:7(#9)	161.551	.	voice	1C 1e 1g 1b
+1r;	N	163.515	.	r	1r;
+1r;	N	168.411	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Chain Of Fools
+!!!COC: Aretha Franklin
+!!!BillboardChartDate: 1967/12/23
+!!!BillboardPeak: 2
+!!!BillboardWeeksOnChart: 12
+!!!SampleTargetRank: 16
+!!!SampleActualRank: 17
+!!!SampleID#: 0418
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

@@ -1,0 +1,163 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*B:	*B:	*	*	*	*B:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+1V7	F#:7	0.94	newline	voice	1F# 1a# 1cc# 1ee
+=2	=2	=2	=2	=2	=2
+1IVm7	E:7	3.398	.	voice	1E 1g# 1b 1dd#
+=3	=3	=3	=3	=3	=3
+1I	B:maj	5.856	newline	voice	1B 1dd# 1ff#
+=4	=4	=4	=4	=4	=4
+1I	B:maj	8.378	.	voice	1B 1dd# 1ff#
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	B:maj	10.901	newline	voice	1B 1dd# 1ff#
+=6	=6	=6	=6	=6	=6
+1IV	E:maj	13.283	.	voice	1E 1g# 1b
+=7	=7	=7	=7	=7	=7
+1I	B:maj	15.665	newline	voice	1B 1dd# 1ff#
+=8	=8	=8	=8	=8	=8
+1V7	F#:7	18.057	.	voice	1F# 1a# 1cc# 1ee
+=9	=9	=9	=9	=9	=9
+1I	B:maj	20.449	newline	voice	1B 1dd# 1ff#
+=10	=10	=10	=10	=10	=10
+1IV	E:maj	22.858	.	voice	1E 1g# 1b
+=11	=11	=11	=11	=11	=11
+1V7	F#:7	25.266	newline	voice	1F# 1a# 1cc# 1ee
+=12	=12	=12	=12	=12	=12
+2IV	E:maj	27.649	.	voice	2E 2g# 2b
+2I	B:maj	28.84	.	voice	2B 2dd# 2ff#
+=13	=13	=13	=13	=13	=13
+*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+1V7	F#:7	30.032	newline	voice	1F# 1a# 1cc# 1ee
+=14	=14	=14	=14	=14	=14
+1IVm7	E:7	32.486	.	voice	1E 1g# 1b 1dd#
+=15	=15	=15	=15	=15	=15
+1I	B:maj	34.94	newline	voice	1B 1dd# 1ff#
+=16	=16	=16	=16	=16	=16
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+1IV	E:maj	37.36	->newline	voice	1E 1g# 1b
+=17	=17	=17	=17	=17	=17
+1I	B:maj	39.765	.	voice	1B 1dd# 1ff#
+=18	=18	=18	=18	=18	=18
+1V7	F#:7	42.17	newline	voice	1F# 1a# 1cc# 1ee
+=19	=19	=19	=19	=19	=19
+2IV	E:maj	44.531	.	voice	2E 2g# 2b
+2I	B:maj	45.712	.	voice	2B 2dd# 2ff#
+=20	=20	=20	=20	=20	=20
+1IV	E:maj	46.892	newline	voice	1E 1g# 1b
+=21	=21	=21	=21	=21	=21
+1I	B:maj	49.323	.	voice	1B 1dd# 1ff#
+=22	=22	=22	=22	=22	=22
+1V7	F#:7	51.753	newline	voice	1F# 1a# 1cc# 1ee
+=23	=23	=23	=23	=23	=23
+2IV	E:maj	54.125	.	voice	2E 2g# 2b
+2I	B:maj	55.31	.	voice	2B 2dd# 2ff#
+=24	=24	=24	=24	=24	=24
+*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+1V7	F#:7	56.496	newline	voice	1F# 1a# 1cc# 1ee
+=25	=25	=25	=25	=25	=25
+1IVm7	E:7	58.947	.	voice	1E 1g# 1b 1dd#
+=26	=26	=26	=26	=26	=26
+1I	B:maj	61.398	newline	voice	1B 1dd# 1ff#
+=27	=27	=27	=27	=27	=27
+*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo	*>A_solo
+1V7	F#:7	63.826	->newline	banjo	1F# 1a# 1cc# 1ee
+=28	=28	=28	=28	=28	=28
+1IVm7	E:7	66.254	.	banjo	1E 1g# 1b 1dd#
+=29	=29	=29	=29	=29	=29
+1I	B:maj	68.682	newline	banjo	1B 1dd# 1ff#
+=30	=30	=30	=30	=30	=30
+1I	B:maj	71.202	.	banjo	1B 1dd# 1ff#
+=31	=31	=31	=31	=31	=31
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	B:maj	73.721	newline	voice	1B 1dd# 1ff#
+=32	=32	=32	=32	=32	=32
+1IV	E:maj	76.12	.	voice	1E 1g# 1b
+=33	=33	=33	=33	=33	=33
+1I	B:maj	78.519	newline	voice	1B 1dd# 1ff#
+=34	=34	=34	=34	=34	=34
+1V7	F#:7	80.992	.	voice	1F# 1a# 1cc# 1ee
+=35	=35	=35	=35	=35	=35
+1I	B:maj	83.464	newline	voice	1B 1dd# 1ff#
+=36	=36	=36	=36	=36	=36
+1IV	E:maj	85.919	.	voice	1E 1g# 1b
+=37	=37	=37	=37	=37	=37
+1V7	F#:7	88.375	newline	voice	1F# 1a# 1cc# 1ee
+=38	=38	=38	=38	=38	=38
+2IV	E:maj	90.791	.	voice	2E 2g# 2b
+2I	B:maj	92	.	voice	2B 2dd# 2ff#
+=39	=39	=39	=39	=39	=39
+*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+1V7	F#:7	93.208	newline	voice	1F# 1a# 1cc# 1ee
+=40	=40	=40	=40	=40	=40
+1IVm7	E:7	95.626	.	voice	1E 1g# 1b 1dd#
+=41	=41	=41	=41	=41	=41
+1I	B:maj	98.044	newline	voice	1B 1dd# 1ff#
+=42	=42	=42	=42	=42	=42
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+1IV	E:maj	100.572	->newline	voice	1E 1g# 1b
+=43	=43	=43	=43	=43	=43
+1I	B:maj	102.993	.	voice	1B 1dd# 1ff#
+=44	=44	=44	=44	=44	=44
+1V7	F#:7	105.413	newline	voice	1F# 1a# 1cc# 1ee
+=45	=45	=45	=45	=45	=45
+2IV	E:maj	107.797	.	voice	2E 2g# 2b
+2I	B:maj	108.989	.	voice	2B 2dd# 2ff#
+=46	=46	=46	=46	=46	=46
+1IV	E:maj	110.181	newline	voice	1E 1g# 1b
+=47	=47	=47	=47	=47	=47
+1I	B:maj	112.584	.	voice	1B 1dd# 1ff#
+=48	=48	=48	=48	=48	=48
+1V7	F#:7	114.988	newline	voice	1F# 1a# 1cc# 1ee
+=49	=49	=49	=49	=49	=49
+2IV	E:maj	117.383	.	voice	2E 2g# 2b
+2I	B:maj	118.58	.	voice	2B 2dd# 2ff#
+=50	=50	=50	=50	=50	=50
+*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+1V7	F#:7	119.778	newline	voice	1F# 1a# 1cc# 1ee
+=51	=51	=51	=51	=51	=51
+1IVm7	E:7	122.228	.	voice	1E 1g# 1b 1dd#
+=52	=52	=52	=52	=52	=52
+1I	B:maj	124.678	newline	voice	1B 1dd# 1ff#
+=53	=53	=53	=53	=53	=53
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+1IV	E:maj	127.139	->newline	voice	1E 1g# 1b
+=54	=54	=54	=54	=54	=54
+1I	B:maj	129.505	.	voice	1B 1dd# 1ff#
+=55	=55	=55	=55	=55	=55
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1V7	F#:7	131.871	newline	voice	1F# 1a# 1cc# 1ee
+=56	=56	=56	=56	=56	=56
+2IV	E:maj	134.278	.	voice	2E 2g# 2b
+2I	B:maj	135.482	.	voice	2B 2dd# 2ff#
+=57	=57	=57	=57	=57	=57
+1IV	E:maj	136.686	->newline	voice	1E 1g# 1b
+=58	=58	=58	=58	=58	=58
+1I	B:maj	138.256	.	voice	1B 1dd# 1ff#
+=59	=59	=59	=59	=59	=59
+1V7	F#:7	139.826	.	voice	1F# 1a# 1cc# 1ee
+=60	=60	=60	=60	=60	=60
+2IV	E:maj	141.395	.	voice	2E 2g# 2b
+2I	B:maj	142.18	.	voice	2B 2dd# 2ff#
+1r;	N	142.965	.	r	1r;
+1r;	N	146.991	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Superman
+!!!COC: Donna Fargo
+!!!BillboardChartDate: 1973/02/24, 1973/02/24
+!!!BillboardPeak: 41, 41
+!!!BillboardWeeksOnChart: 9, 9
+!!!SampleTargetRank: 73, 71
+!!!SampleActualRank: 73, 73
+!!!SampleID#: 358, 874
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

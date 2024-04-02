@@ -1,0 +1,177 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*E:	*E:	*	*	*	*E:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro
+1Im7	E:7	1.623	newline	guitar	1E 1g# 1b 1dd#
+=2	=2	=2	=2	=2	=2
+1Im7	E:7	3.848	.	guitar	1E 1g# 1b 1dd#
+=3	=3	=3	=3	=3	=3
+1Im7	E:7	6.074	.	guitar	1E 1g# 1b 1dd#
+=4	=4	=4	=4	=4	=4
+1Im7	E:7	8.299	.	guitar	1E 1g# 1b 1dd#
+=5	=5	=5	=5	=5	=5
+1Im7	E:7	10.525	newline	guitar	1E 1g# 1b 1dd#
+=6	=6	=6	=6	=6	=6
+1Im7	E:7	12.765	.	guitar	1E 1g# 1b 1dd#
+=7	=7	=7	=7	=7	=7
+1Im7	E:7	15.006	.	guitar	1E 1g# 1b 1dd#
+=8	=8	=8	=8	=8	=8
+1Im7	E:7	17.246	.	guitar	1E 1g# 1b 1dd#
+=9	=9	=9	=9	=9	=9
+1Im7	E:7	19.487	newline	guitar	1E 1g# 1b 1dd#
+=10	=10	=10	=10	=10	=10
+1Im7	E:7	21.694	.	guitar	1E 1g# 1b 1dd#
+=11	=11	=11	=11	=11	=11
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+1Im7	E:7	23.9	newline	voice	1E 1g# 1b 1dd#
+=12	=12	=12	=12	=12	=12
+1Im7	E:7	26.114	.	voice	1E 1g# 1b 1dd#
+=13	=13	=13	=13	=13	=13
+1Im7	E:7	28.328	.	voice	1E 1g# 1b 1dd#
+=14	=14	=14	=14	=14	=14
+1Im7	E:7	30.541	.	voice	1E 1g# 1b 1dd#
+=15	=15	=15	=15	=15	=15
+1Im7	E:7	32.755	newline	voice	1E 1g# 1b 1dd#
+=16	=16	=16	=16	=16	=16
+1Im7	E:7	34.956	.	voice	1E 1g# 1b 1dd#
+=17	=17	=17	=17	=17	=17
+1Im7	E:7	37.156	.	voice	1E 1g# 1b 1dd#
+=18	=18	=18	=18	=18	=18
+1Im7	E:7	39.356	.	voice	1E 1g# 1b 1dd#
+=19	=19	=19	=19	=19	=19
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1-III	G:maj	41.557	newline	saxophone	1G 1b 1dd
+=20	=20	=20	=20	=20	=20
+1-II	F:maj	43.735	.	saxophone	1F 1a 1cc
+=21	=21	=21	=21	=21	=21
+1V	B:maj	45.914	.	saxophone	1B 1dd# 1ff#
+=22	=22	=22	=22	=22	=22
+1I	E:maj	48.093	.	saxophone	1E 1g# 1b
+=23	=23	=23	=23	=23	=23
+1Im7	E:7	50.271	newline	guitar	1E 1g# 1b 1dd#
+=24	=24	=24	=24	=24	=24
+1Im7	E:7	52.461	.	guitar	1E 1g# 1b 1dd#
+=25	=25	=25	=25	=25	=25
+*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+1Im7	E:7	54.65	newline	voice	1E 1g# 1b 1dd#
+=26	=26	=26	=26	=26	=26
+1Im7	E:7	56.853	.	voice	1E 1g# 1b 1dd#
+=27	=27	=27	=27	=27	=27
+1Im7	E:7	59.056	.	voice	1E 1g# 1b 1dd#
+=28	=28	=28	=28	=28	=28
+1Im7	E:7	61.259	.	voice	1E 1g# 1b 1dd#
+=29	=29	=29	=29	=29	=29
+1Im7	E:7	63.462	newline	voice	1E 1g# 1b 1dd#
+=30	=30	=30	=30	=30	=30
+1Im7	E:7	65.664	.	voice	1E 1g# 1b 1dd#
+=31	=31	=31	=31	=31	=31
+1Im7	E:7	67.866	.	voice	1E 1g# 1b 1dd#
+=32	=32	=32	=32	=32	=32
+1Im7	E:7	70.067	.	voice	1E 1g# 1b 1dd#
+=33	=33	=33	=33	=33	=33
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1-III	G:maj	72.269	newline	saxophone	1G 1b 1dd
+=34	=34	=34	=34	=34	=34
+1-II	F:maj	74.391	.	saxophone	1F 1a 1cc
+=35	=35	=35	=35	=35	=35
+1V	B:maj	76.513	.	saxophone	1B 1dd# 1ff#
+=36	=36	=36	=36	=36	=36
+1I	E:maj	78.635	.	saxophone	1E 1g# 1b
+=37	=37	=37	=37	=37	=37
+*>A2_solo	*>A2_solo	*>A2_solo	*>A2_solo	*>A2_solo	*>A2_solo
+1Im7	E:7	80.757	newline	saxophone	1E 1g# 1b 1dd#
+=38	=38	=38	=38	=38	=38
+1Im7	E:7	82.951	.	saxophone	1E 1g# 1b 1dd#
+=39	=39	=39	=39	=39	=39
+1Im7	E:7	85.144	.	saxophone	1E 1g# 1b 1dd#
+=40	=40	=40	=40	=40	=40
+1Im7	E:7	87.338	.	saxophone	1E 1g# 1b 1dd#
+=41	=41	=41	=41	=41	=41
+*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro
+1Im7	E:7	89.531	newline	voice	1E 1g# 1b 1dd#
+=42	=42	=42	=42	=42	=42
+1Im7	E:7	91.71	.	voice	1E 1g# 1b 1dd#
+=43	=43	=43	=43	=43	=43
+1Im7	E:7	93.889	.	voice	1E 1g# 1b 1dd#
+=44	=44	=44	=44	=44	=44
+1Im7	E:7	96.067	.	voice	1E 1g# 1b 1dd#
+=45	=45	=45	=45	=45	=45
+1Im7	E:7	98.246	newline	voice	1E 1g# 1b 1dd#
+=46	=46	=46	=46	=46	=46
+1Im7	E:7	100.414	.	voice	1E 1g# 1b 1dd#
+=47	=47	=47	=47	=47	=47
+1Im7	E:7	102.582	.	voice	1E 1g# 1b 1dd#
+=48	=48	=48	=48	=48	=48
+1Im7	E:7	104.751	.	voice	1E 1g# 1b 1dd#
+=49	=49	=49	=49	=49	=49
+1Im7	E:7	106.919	newline	voice	1E 1g# 1b 1dd#
+=50	=50	=50	=50	=50	=50
+1Im7	E:7	109.079	.	voice	1E 1g# 1b 1dd#
+=51	=51	=51	=51	=51	=51
+1Im7	E:7	111.24	.	voice	1E 1g# 1b 1dd#
+=52	=52	=52	=52	=52	=52
+1Im7	E:7	113.4	.	voice	1E 1g# 1b 1dd#
+=53	=53	=53	=53	=53	=53
+1Im7	E:7	115.561	newline	voice	1E 1g# 1b 1dd#
+=54	=54	=54	=54	=54	=54
+1Im7	E:7	117.734	.	voice	1E 1g# 1b 1dd#
+=55	=55	=55	=55	=55	=55
+1Im7	E:7	119.908	.	voice	1E 1g# 1b 1dd#
+=56	=56	=56	=56	=56	=56
+1Im7	E:7	122.082	.	voice	1E 1g# 1b 1dd#
+=57	=57	=57	=57	=57	=57
+1Im7	E:7	124.255	newline	voice	1E 1g# 1b 1dd#
+=58	=58	=58	=58	=58	=58
+1Im7	E:7	126.407	.	voice	1E 1g# 1b 1dd#
+=59	=59	=59	=59	=59	=59
+1Im7	E:7	128.558	.	voice	1E 1g# 1b 1dd#
+=60	=60	=60	=60	=60	=60
+1Im7	E:7	130.709	.	voice	1E 1g# 1b 1dd#
+=61	=61	=61	=61	=61	=61
+1r	N	132.861	newline	drums	1r
+=62	=62	=62	=62	=62	=62
+*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+1Im7	E:7	134.982	newline	guitar	1E 1g# 1b 1dd#
+=63	=63	=63	=63	=63	=63
+1Im7	E:7	137.137	.	guitar	1E 1g# 1b 1dd#
+=64	=64	=64	=64	=64	=64
+1Im7	E:7	139.293	.	guitar	1E 1g# 1b 1dd#
+=65	=65	=65	=65	=65	=65
+1Im7	E:7	141.448	.	guitar	1E 1g# 1b 1dd#
+=66	=66	=66	=66	=66	=66
+1Im7	E:7	143.604	newline	guitar	1E 1g# 1b 1dd#
+=67	=67	=67	=67	=67	=67
+1Im7	E:7	145.749	.	guitar	1E 1g# 1b 1dd#
+=68	=68	=68	=68	=68	=68
+1Im7	E:7	147.894	.	guitar	1E 1g# 1b 1dd#
+=69	=69	=69	=69	=69	=69
+1Im7	E:7	150.039	.	guitar	1E 1g# 1b 1dd#
+=70	=70	=70	=70	=70	=70
+1Im7	E:7	152.184	newline	guitar	1E 1g# 1b 1dd#
+=71	=71	=71	=71	=71	=71
+1Im7	E:7	152.811	.	guitar	1E 1g# 1b 1dd#
+=72	=72	=72	=72	=72	=72
+1Im7	E:7	153.438	.	guitar	1E 1g# 1b 1dd#
+=73	=73	=73	=73	=73	=73
+1Im7	E:7	154.064	.	guitar	1E 1g# 1b 1dd#
+1r;	N	154.691	.	r	1r;
+1r;	N	160.209	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: Soul Dance Number Three
+!!!COC: Wilson Pickett
+!!!BillboardChartDate: 1967/07/01
+!!!BillboardPeak: 55
+!!!BillboardWeeksOnChart: 5
+!!!SampleTargetRank: 60
+!!!SampleActualRank: 60
+!!!SampleID#: 1021
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.

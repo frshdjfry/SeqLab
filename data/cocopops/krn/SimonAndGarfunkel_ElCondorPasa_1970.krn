@@ -1,0 +1,406 @@
+**harm	**harte	**silbe	**rhyme	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+*e:	*e:	*	*	*e:	*e:	*e:	*e:
+*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*
+1r;	N	.	.	0	.	r	1r;
+=1	=1	=1	=1	=1	=1	=1	=1
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1ib	E:min/b3	.	.	0.279	newline	guitar	1e 1G 1b
+=2	=2	=2	=2	=2	=2	=2	=2
+1ib	E:min/b3	.	.	23.018	.	guitar	1e 1G 1b
+=3	=3	=3	=3	=3	=3	=3	=3
+1ib	E:min/b3	.	.	23.28	.	guitar	1e 1G 1b
+=4	=4	=4	=4	=4	=4	=4	=4
+1ib	E:min/b3	.	.	25.371	.	guitar	1e 1G 1b
+=5	=5	=5	=5	=5	=5	=5	=5
+1ib	E:min/b3	.	.	27.462	.	guitar	1e 1G 1b
+=6	=6	=6	=6	=6	=6	=6	=6
+1ib	E:min/b3	.	.	29.553	.	guitar	1e 1G 1b
+=7	=7	=7	=7	=7	=7	=7	=7
+1ivb	A:min/b3	.	.	31.644	.	guitar	1a 1C 1ee
+=8	=8	=8	=8	=8	=8	=8	=8
+1ic	E:min/5	.	.	33.735	.	guitar	1e 1g 1B
+.	.	.	.	.	.	.	.
+.	.	I'd	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1ic	E:min/5	ra-	.	40.008	.	r	1e 1g 1B
+.	.	-ther	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1ic	E:min/5	spar-	.	42.098	.	r	1e 1g 1B
+.	.	-row	.	.	.	.	.
+.	.	than	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+1-III	G:maj	snail.	A	44.188	newline	r	1G- 1b- 1dd-
+=12	=12	=12	=12	=12	=12	=12	=12
+1-III	G:maj	.	.	45.868	.	r	1G- 1b- 1dd-
+.	.	Yes,	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+.	.	_	.	.	.	.	.
+1-III	G:maj	would	B	47.549	newline	r	1G- 1b- 1dd-
+.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1-III	G:maj	.	.	49.167	.	r	1G- 1b- 1dd-
+.	.	if	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1-III	G:maj	could...	B	50.786	.	r	1G- 1b- 1dd-
+.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1-III	G:maj	.	.	52.405	.	r	1G- 1b- 1dd-
+.	.	I	.	.	.	.	.
+.	.	sure-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	would	B	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1i	E:min	_	.	54.024	newline	r	1E 1g 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1i	E:min	.	.	55.66	.	r	1E 1g 1b
+.	.	Mmm	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1i	E:min	_	.	57.296	.	r	1E 1g 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1i	E:min	.	.	58.932	.	r	1E 1g 1b
+.	.	.	.	.	.	.	.
+.	.	I'd	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1i	E:min	ra-	.	60.568	newline	r	1E 1g 1b
+.	.	-ther	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	ham-	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1i	E:min	_	.	62.187	.	r	1E 1g 1b
+.	.	-mer	.	.	.	.	.
+.	.	than	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	nail	A	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1-III	G:maj	_	.	63.806	newline	r	1G- 1b- 1dd-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1-III	G:maj	.	.	65.367	.	r	1G- 1b- 1dd-
+.	.	Yes,	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+.	.	_	.	.	.	.	.
+1-III	G:maj	would	B	66.928	newline	r	1G- 1b- 1dd-
+.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1-III	G:maj	.	.	68.555	.	r	1G- 1b- 1dd-
+.	.	if	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	on-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	could,	B	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1-III	G:maj	_	.	70.182	.	r	1G- 1b- 1dd-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1-III	G:maj	_	.	71.809	.	r	1G- 1b- 1dd-
+.	.	I	.	.	.	.	.
+.	.	sure-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	would	B	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1i	E:min	_	.	73.436	newline	r	1E 1g 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1i	E:min	.	.	75.07	.	r	1E 1g 1b
+.	.	Mmm	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1i	E:min	_	.	76.703	.	r	1E 1g 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1i	E:min	.	.	78.337	.	r	1E 1g 1b
+.	.	.	.	.	.	.	.
+.	.	A-	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1-VI	C:maj6	-way,	.	79.97	newline	r	1C- 1e- 1g-
+.	.	I'd	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1-VI	C:maj6	ra-	.	81.586	.	r	1C- 1e- 1g-
+.	.	-ther	.	.	.	.	.
+.	.	sail	A	.	.	.	.
+.	.	a-	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1-VI	C:maj6	-way,	.	83.201	.	r	1C- 1e- 1g-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1-VI	C:maj6	_	.	84.817	.	r	1C- 1e- 1g-
+.	.	.	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	like	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1-III	G:maj	swan	C	86.433	newline	r	1G- 1b- 1dd-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1-III	G:maj	_	.	88.05	.	r	1G- 1b- 1dd-
+.	.	that's	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	here	.	.	.	.	.
+.	.	and	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1-III	G:maj	gone	C	89.668	.	r	1G- 1b- 1dd-
+=40	=40	=40	=40	=40	=40	=40	=40
+1-III	G:maj	_	.	91.286	.	r	1G- 1b- 1dd-
+.	.	.	.	.	.	.	.
+.	.	A	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+1-VI	C:maj6	man	.	92.904	newline	r	1C- 1e- 1g-
+.	.	gets	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1-VI	C:maj6	tied	.	94.483	.	r	1C- 1e- 1g-
+.	.	up	.	.	.	.	.
+.	.	to	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1-VI	C:maj6	ground,	D	96.061	.	r	1C- 1e- 1g-
+=44	=44	=44	=44	=44	=44	=44	=44
+1-VI	C:maj6	.	.	97.64	.	r	1C- 1e- 1g-
+.	.	he	.	.	.	.	.
+.	.	gives	.	.	.	.	.
+.	.	the	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1-III	G:maj	world	.	99.219	newline	r	1G- 1b- 1dd-
+=46	=46	=46	=46	=46	=46	=46	=46
+1-III	G:maj	_	.	100.881	.	r	1G- 1b- 1dd-
+.	.	its	.	.	.	.	.
+.	.	sad-	.	.	.	.	.
+.	.	-dest	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1-III	G:maj	sound,	D	102.543	.	r	1G- 1b- 1dd-
+=48	=48	=48	=48	=48	=48	=48	=48
+1-III	G:maj	.	.	104.205	.	r	1G- 1b- 1dd-
+.	.	_	.	.	.	.	.
+.	.	it's	.	.	.	.	.
+.	.	sad-	.	.	.	.	.
+.	.	-dest	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1i	E:min	sound	D	105.867	newline	r	1E 1g 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1i	E:min	.	.	107.508	.	r	1E 1g 1b
+.	.	_	.	.	.	.	.
+.	.	hmm	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+.	.	_	.	.	.	.	.
+1i	E:min	_	.	109.149	.	r	1E 1g 1b
+=52	=52	=52	=52	=52	=52	=52	=52
+1i	E:min	.	.	110.79	.	r	1E 1g 1b
+=53	=53	=53	=53	=53	=53	=53	=53
+1i	E:min	.	.	112.431	newline	r	1E 1g 1b
+=54	=54	=54	=54	=54	=54	=54	=54
+1i	E:min	.	.	114.052	.	r	1E 1g 1b
+.	.	.	.	.	.	.	.
+.	.	I'd	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1i	E:min	ra-	.	115.673	newline	r	1E 1g 1b
+.	.	-ther	.	.	.	.	.
+.	.	be	.	.	.	.	.
+.	.	a	.	.	.	.	.
+.	.	fo-	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+1i	E:min	_	.	117.289	.	r	1E 1g 1b
+.	.	-rest	.	.	.	.	.
+.	.	than	.	.	.	.	.
+.	.	a	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+1-III	G:maj	street.	E	118.905	newline	r	1G- 1b- 1dd-
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1-III	G:maj	.	.	120.552	.	r	1G- 1b- 1dd-
+.	.	Yes,	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+.	.	_	.	.	.	.	.
+1-III	G:maj	would	B	122.2	newline	r	1G- 1b- 1dd-
+.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1-III	G:maj	.	.	123.842	.	r	1G- 1b- 1dd-
+.	.	if	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	could,	B	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+1-III	G:maj	_	.	125.484	.	r	1G- 1b- 1dd-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+1-III	G:maj	_	.	127.126	.	r	1G- 1b- 1dd-
+.	.	I	.	.	.	.	.
+.	.	sure-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	would	B	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1i	E:min	_	.	128.769	newline	r	1E 1g 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1i	E:min	.	.	130.373	.	r	1E 1g 1b
+.	.	.	.	.	.	.	.
+.	.	I'd	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1i	E:min	ra-	.	131.977	newline	r	1E 1g 1b
+.	.	-ther	.	.	.	.	.
+.	.	feel	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	the	.	.	.	.	.
+.	.	earth	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+1i	E:min	_	.	133.564	.	r	1E 1g 1b
+.	.	be	.	.	.	.	.
+.	.	neath	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	my	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+1-III	G:maj	feet.	E	135.15	newline	r	1G- 1b- 1dd-
+.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+1-III	G:maj	.	.	136.805	.	r	1G- 1b- 1dd-
+.	.	Yes,	.	.	.	.	.
+.	.	I	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+.	.	_	.	.	.	.	.
+1-III	G:maj	would	B	138.459	newline	r	1G- 1b- 1dd-
+.	.	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+1-III	G:maj	.	.	140.113	.	r	1G- 1b- 1dd-
+.	.	if	.	.	.	.	.
+.	.	I	.	.	.	.	.
+.	.	on-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	could,	B	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1-III	G:maj	_	.	141.766	.	r	1G- 1b- 1dd-
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72
+1-III	G:maj	_	.	143.42	.	r	1G- 1b- 1dd-
+.	.	I	.	.	.	.	.
+.	.	sure-	.	.	.	.	.
+.	.	-ly	.	.	.	.	.
+.	.	would	B	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73
+1i	E:min	_	.	145.073	newline	voice	1E 1g 1b
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+.	.	_	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74
+1i	E:min	.	.	146.69	.	voice	1E 1g 1b
+=75	=75	=75	=75	=75	=75	=75	=75
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+1-VI	C:maj6	.	.	148.307	newline	flute	1C- 1e- 1g-
+=76	=76	=76	=76	=76	=76	=76	=76
+1-VI	C:maj6	.	.	149.931	.	flute	1C- 1e- 1g-
+=77	=77	=77	=77	=77	=77	=77	=77
+1-VI	C:maj6	.	.	151.555	.	flute	1C- 1e- 1g-
+=78	=78	=78	=78	=78	=78	=78	=78
+1-VI	C:maj6	.	.	153.178	.	flute	1C- 1e- 1g-
+=79	=79	=79	=79	=79	=79	=79	=79
+1-III	G:maj	.	.	154.802	newline	flute	1G- 1b- 1dd-
+=80	=80	=80	=80	=80	=80	=80	=80
+1-III	G:maj	.	.	156.443	.	flute	1G- 1b- 1dd-
+=81	=81	=81	=81	=81	=81	=81	=81
+1-III	G:maj	.	.	158.083	.	flute	1G- 1b- 1dd-
+=82	=82	=82	=82	=82	=82	=82	=82
+1-III	G:maj	.	.	159.724	.	flute	1G- 1b- 1dd-
+=83	=83	=83	=83	=83	=83	=83	=83
+1-VI	C:maj6	.	.	161.365	newline	flute	1C- 1e- 1g-
+=84	=84	=84	=84	=84	=84	=84	=84
+1-VI	C:maj6	.	.	162.958	.	flute	1C- 1e- 1g-
+=85	=85	=85	=85	=85	=85	=85	=85
+1-VI	C:maj6	.	.	164.55	.	flute	1C- 1e- 1g-
+=86	=86	=86	=86	=86	=86	=86	=86
+1-VI	C:maj6	.	.	166.143	.	flute	1C- 1e- 1g-
+=87	=87	=87	=87	=87	=87	=87	=87
+1-III	G:maj	.	.	167.736	newline	flute	1G- 1b- 1dd-
+=88	=88	=88	=88	=88	=88	=88	=88
+1-III	G:maj	.	.	169.382	.	flute	1G- 1b- 1dd-
+=89	=89	=89	=89	=89	=89	=89	=89
+1-III	G:maj	.	.	171.029	.	flute	1G- 1b- 1dd-
+=90	=90	=90	=90	=90	=90	=90	=90
+1-III	G:maj	.	.	172.675	.	flute	1G- 1b- 1dd-
+=91	=91	=91	=91	=91	=91	=91	=91
+1i	E:min	.	.	174.322	newline	flute	1E 1g 1b
+=92	=92	=92	=92	=92	=92	=92	=92
+1i	E:min	.	.	175.999	.	flute	1E 1g 1b
+=93	=93	=93	=93	=93	=93	=93	=93
+1i	E:min	.	.	177.676	.	flute	1E 1g 1b
+=94	=94	=94	=94	=94	=94	=94	=94
+1i	E:min	.	.	179.354	.	flute	1E 1g 1b
+=95	=95	=95	=95	=95	=95	=95	=95
+1i	E:min	.	.	181.031	newline	flute	1E 1g 1b
+=96	=96	=96	=96	=96	=96	=96	=96
+1i	E:min	.	.	182.729	.	flute	1E 1g 1b
+1r;	N	.	.	185.063	.	r	1r;
+1r;	N	.	.	188.526	.	r	1r;
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!BillboardChartDate: 1970/09/26
+!!!BillboardPeak: 18
+!!!BillboardWeeksOnChart: 11
+!!!COC: Simon & Garfunkel
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
+!!!OTL: El Condor Pasa
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDT: 2017/01/12/
+!!!SampleActualRank: 38
+!!!SampleID#: 1261
+!!!SampleTargetRank: 38
+!!!MBID: 5ebd1194-210d-4bbe-9e3e-2c33484dba95

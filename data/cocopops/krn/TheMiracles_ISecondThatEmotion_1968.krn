@@ -1,0 +1,181 @@
+**harm	**harte	**timestamp	**phrase	**leadinstrument	**kern
+*M4/4	*M4/4	*	*	*	*
+*D:	*D:	*	*	*	*D:
+1r;	N	0	.	r	1r;
+=1	=1	=1	=1	=1	=1
+*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro
+2V	A:maj	0.302	newline	trombone	2A 2cc# 2ee
+2IV	G:maj	1.583	.	trombone	2G 2b 2dd
+=2	=2	=2	=2	=2	=2
+1IV	G:maj	2.864	.	trombone	1G 1b 1dd
+=3	=3	=3	=3	=3	=3
+1I	D:maj	5.426	.	trombone	1D 1f# 1a
+=4	=4	=4	=4	=4	=4
+1I	D:maj	7.989	.	trombone	1D 1f# 1a
+=5	=5	=5	=5	=5	=5
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:maj	10.551	newline	voice	1D 1f# 1a
+=6	=6	=6	=6	=6	=6
+1I	D:maj	13.087	.	voice	1D 1f# 1a
+=7	=7	=7	=7	=7	=7
+1I	D:maj	15.624	.	voice	1D 1f# 1a
+=8	=8	=8	=8	=8	=8
+1I	D:maj	18.16	.	voice	1D 1f# 1a
+=9	=9	=9	=9	=9	=9
+1I	D:maj	20.697	newline	voice	1D 1f# 1a
+=10	=10	=10	=10	=10	=10
+1I	D:maj	23.205	.	voice	1D 1f# 1a
+=11	=11	=11	=11	=11	=11
+2IV	G:maj	25.714	.	voice	2G 2b 2dd
+2V	A:maj	26.968	.	voice	2A 2cc# 2ee
+=12	=12	=12	=12	=12	=12
+1I	D:maj	28.222	.	voice	1D 1f# 1a
+=13	=13	=13	=13	=13	=13
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+1IV	G:maj	30.73	newline	voice	1G 1b 1dd
+=14	=14	=14	=14	=14	=14
+1I	D:maj	33.231	.	voice	1D 1f# 1a
+=15	=15	=15	=15	=15	=15
+1IV	G:maj	35.732	.	voice	1G 1b 1dd
+=16	=16	=16	=16	=16	=16
+1I	D:maj	38.233	.	voice	1D 1f# 1a
+=17	=17	=17	=17	=17	=17
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1I	D:maj	40.734	newline	voice	1D 1f# 1a
+=18	=18	=18	=18	=18	=18
+2V	A:maj	43.26	.	voice	2A 2cc# 2ee
+2IV	G:maj	44.523	.	voice	2G 2b 2dd
+=19	=19	=19	=19	=19	=19
+1IV	G:maj	45.787	.	voice	1G 1b 1dd
+=20	=20	=20	=20	=20	=20
+1I	D:maj	48.313	.	voice	1D 1f# 1a
+=21	=21	=21	=21	=21	=21
+1I	D:maj	50.839	newline	voice	1D 1f# 1a
+=22	=22	=22	=22	=22	=22
+2V	A:maj	53.33	.	voice	2A 2cc# 2ee
+2IV	G:maj	54.575	.	voice	2G 2b 2dd
+=23	=23	=23	=23	=23	=23
+1IV	G:maj	55.82	.	voice	1G 1b 1dd
+=24	=24	=24	=24	=24	=24
+1I	D:maj	58.31	.	voice	1D 1f# 1a
+=25	=25	=25	=25	=25	=25
+*>A2_trans	*>A2_trans	*>A2_trans	*>A2_trans	*>A2_trans	*>A2_trans
+2V	A:maj	60.8	newline	trombone	2A 2cc# 2ee
+2IV	G:maj	62.057	.	trombone	2G 2b 2dd
+=26	=26	=26	=26	=26	=26
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1I	D:maj	63.315	newline	voice	1D 1f# 1a
+=27	=27	=27	=27	=27	=27
+1I	D:maj	65.82	.	voice	1D 1f# 1a
+=28	=28	=28	=28	=28	=28
+1I	D:maj	68.325	.	voice	1D 1f# 1a
+=29	=29	=29	=29	=29	=29
+1I	D:maj	70.83	.	voice	1D 1f# 1a
+=30	=30	=30	=30	=30	=30
+1I	D:maj	73.335	newline	voice	1D 1f# 1a
+=31	=31	=31	=31	=31	=31
+1I	D:maj	75.834	.	voice	1D 1f# 1a
+=32	=32	=32	=32	=32	=32
+2IV	G:maj	78.334	.	voice	2G 2b 2dd
+2V	A:maj	79.583	.	voice	2A 2cc# 2ee
+=33	=33	=33	=33	=33	=33
+1I	D:maj	80.833	.	voice	1D 1f# 1a
+=34	=34	=34	=34	=34	=34
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+1IV	G:maj	83.332	newline	voice	1G 1b 1dd
+=35	=35	=35	=35	=35	=35
+1I	D:maj	85.842	.	voice	1D 1f# 1a
+=36	=36	=36	=36	=36	=36
+1IV	G:maj	88.352	.	voice	1G 1b 1dd
+=37	=37	=37	=37	=37	=37
+1I	D:maj	90.862	.	voice	1D 1f# 1a
+=38	=38	=38	=38	=38	=38
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1I	D:maj	93.372	newline	voice	1D 1f# 1a
+=39	=39	=39	=39	=39	=39
+2V	A:maj	95.884	.	voice	2A 2cc# 2ee
+2IV	G:maj	97.14	.	voice	2G 2b 2dd
+=40	=40	=40	=40	=40	=40
+1IV	G:maj	98.396	.	voice	1G 1b 1dd
+=41	=41	=41	=41	=41	=41
+1I	D:maj	100.909	.	voice	1D 1f# 1a
+=42	=42	=42	=42	=42	=42
+1I	D:maj	103.421	newline	voice	1D 1f# 1a
+=43	=43	=43	=43	=43	=43
+2V	A:maj	105.923	.	voice	2A 2cc# 2ee
+2IV	G:maj	107.174	.	voice	2G 2b 2dd
+=44	=44	=44	=44	=44	=44
+1IV	G:maj	108.424	.	voice	1G 1b 1dd
+=45	=45	=45	=45	=45	=45
+1I	D:maj	110.926	.	voice	1D 1f# 1a
+=46	=46	=46	=46	=46	=46
+*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+2V	A:maj	113.428	newline	trombone	2A 2cc# 2ee
+2IV	G:maj	114.679	.	trombone	2G 2b 2dd
+=47	=47	=47	=47	=47	=47
+1I	D:maj	115.93	.	trombone	1D 1f# 1a
+=48	=48	=48	=48	=48	=48
+2V	A:maj	118.433	.	trombone	2A 2cc# 2ee
+2IV	G:maj	119.684	.	trombone	2G 2b 2dd
+=49	=49	=49	=49	=49	=49
+1IV	G:maj	120.935	.	trombone	1G 1b 1dd
+=50	=50	=50	=50	=50	=50
+1I	D:maj	123.437	.	trombone	1D 1f# 1a
+=51	=51	=51	=51	=51	=51
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+1IV	G:maj	125.94	newline	voice	1G 1b 1dd
+=52	=52	=52	=52	=52	=52
+1I	D:maj	128.422	.	voice	1D 1f# 1a
+=53	=53	=53	=53	=53	=53
+1IV	G:maj	130.904	.	voice	1G 1b 1dd
+=54	=54	=54	=54	=54	=54
+1I	D:maj	133.387	.	voice	1D 1f# 1a
+=55	=55	=55	=55	=55	=55
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1I	D:maj	135.869	newline	voice	1D 1f# 1a
+=56	=56	=56	=56	=56	=56
+2V	A:maj	138.362	.	voice	2A 2cc# 2ee
+2IV	G:maj	139.609	.	voice	2G 2b 2dd
+=57	=57	=57	=57	=57	=57
+1IV	G:maj	140.855	.	voice	1G 1b 1dd
+=58	=58	=58	=58	=58	=58
+1I	D:maj	143.348	.	voice	1D 1f# 1a
+=59	=59	=59	=59	=59	=59
+1I	D:maj	145.841	newline	voice	1D 1f# 1a
+=60	=60	=60	=60	=60	=60
+2V	A:maj	148.317	.	voice	2A 2cc# 2ee
+2IV	G:maj	149.555	.	voice	2G 2b 2dd
+=61	=61	=61	=61	=61	=61
+1IV	G:maj	150.793	.	voice	1G 1b 1dd
+=62	=62	=62	=62	=62	=62
+1I	D:maj	153.268	.	voice	1D 1f# 1a
+=63	=63	=63	=63	=63	=63
+*>A_fadeout	*>A_fadeout	*>A_fadeout	*>A_fadeout	*>A_fadeout	*>A_fadeout
+2V	A:maj	155.744	newline	trombone	2A 2cc# 2ee
+2IV	G:maj	156.971	.	trombone	2G 2b 2dd
+=64	=64	=64	=64	=64	=64
+1I	D:maj	158.198	.	trombone	1D 1f# 1a
+=65	=65	=65	=65	=65	=65
+2V	A:maj	160.651	.	trombone	2A 2cc# 2ee
+2IV	G:maj	161.878	.	trombone	2G 2b 2dd
+=66	=66	=66	=66	=66	=66
+1I	D:maj	163.105	.	trombone	1D 1f# 1a
+1r;	N	165.558	.	r	1r;
+1r;	N	168.49	.	r	1r;
+*-	*-	*-	*-	*-	*-
+!!!OTL: I Second That Emotion
+!!!COC: The Miracles
+!!!BillboardChartDate: 1968/01/20
+!!!BillboardPeak: 4
+!!!BillboardWeeksOnChart: 15
+!!!SampleTargetRank: 7
+!!!SampleActualRank: 8
+!!!SampleID#: 0946
+!!!RDF**harmony: **recip + pitch class of root + harmonic quality
+!!!RDF**harte: Chris Harte's syntax, used by MIREX
+!!!RDF**phrase: newline = linebreak in original McGill transcription
+!!!RDF**timestamp: McGill audio timestamp in seconds
+!!!RDF**leadinstrument: original McGill primary instrumentation annotation
+!!!RDT: 2017/01/12/
+!!!ENC: Nathaniel Condit-Schultz
+!!!EST: Awating manual error checking and editing.
