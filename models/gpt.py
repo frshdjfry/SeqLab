@@ -1,11 +1,14 @@
-# gpt.py
+import os
 from torch import optim
-from transformers import Trainer, TrainingArguments, GPT2Tokenizer
-from transformers import GPT2Config, GPT2LMHeadModel
 import torch
 from torch.utils.data import Dataset
+from transformers import Trainer, TrainingArguments, GPT2Tokenizer, GPT2Config, GPT2LMHeadModel
+
 from models.model_interface import BaseModel
 
+# Check for GPU availability and set the device accordingly
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+os.environ["DISABLE_MLFLOW_INTEGRATION"] = "True"
 
 class GPTChordDataset(Dataset):
     def __init__(self, encoded_seqs, vocab_size, seq_length=50):
@@ -13,8 +16,8 @@ class GPTChordDataset(Dataset):
         self.targets = []
         for seq in encoded_seqs:
             if len(seq) > seq_length:
-                continue  # Skip sequences that are longer than our desired sequence length for simplicity
-            padded_seq = seq + [0] * (seq_length - len(seq))  # Pad sequences to ensure consistent length
+                continue  # Skip sequences that are longer than our desired sequence length
+            padded_seq = seq + [0] * (seq_length - len(seq))  # Pad sequences for consistent length
             self.inputs.append(padded_seq[:-1])
             self.targets.append(padded_seq[1:])
         self.inputs = torch.tensor(self.inputs, dtype=torch.long)
@@ -28,7 +31,6 @@ class GPTChordDataset(Dataset):
 
 class GPTModel(BaseModel):
     def __init__(self, vocab_size, lr=0.001, num_layers=12, nhead=12, dim_feedforward=3072):
-        super(GPTModel, self).__init__()
         self.config = GPT2Config(
             vocab_size=vocab_size,
             n_layer=num_layers,
@@ -36,13 +38,10 @@ class GPTModel(BaseModel):
             n_inner=dim_feedforward,
             pad_token_id=0
         )
-        self.model = GPT2LMHeadModel(self.config)
+        self.model = GPT2LMHeadModel(self.config).to(device)
         self.lr = lr
         self.optimizer = optim.Adam(self.model.parameters(), lr=self.lr)
         self.tokenizer = GPT2Tokenizer.from_pretrained('gpt2', pad_token='<PAD>')
-        if torch.backends.mps.is_built():
-            self.device = torch.device("mps")  # for mac use
-
 
     def train_model(self, encoded_seqs, epochs=3, batch_size=16):
         dataset = GPTChordDataset(encoded_seqs, self.config.vocab_size)
@@ -62,14 +61,14 @@ class GPTModel(BaseModel):
         trainer.save_model("./gpt_chords")
 
     def predict(self, input_sequence, num_predictions=1):
-        input_ids = torch.tensor([input_sequence], dtype=torch.long).to(self.device)
+        input_ids = torch.tensor([input_sequence], dtype=torch.long).to(device)
         with torch.no_grad():
             outputs = self.model.generate(input_ids, max_length=len(input_sequence) + num_predictions,
-                                          num_return_sequences=1).to(self.device)
+                                          num_return_sequences=1)
         return [self.tokenizer.decode(output_id) for output_id in outputs[0][-num_predictions:]]
 
     def predict_with_probabilities(self, input_sequence):
-        input_ids = torch.tensor([input_sequence], dtype=torch.long).to(self.device)
+        input_ids = torch.tensor([input_sequence], dtype=torch.long).to(device)
         with torch.no_grad():
             outputs = self.model(input_ids)
             logits = outputs.logits
