@@ -1,33 +1,54 @@
+import json
 import mlflow
 import optuna
 from optuna.integration.mlflow import MLflowCallback
-from data.data_preprocessing import preprocess_data
+from data.data_preprocessing import preprocess_data, split_data
+from utils.evaluators import train_and_save_word2vec
+from utils.objectives import objective_markov, objective_lstm, objective_transformer, objective_gpt
+
+# Import your model classes
 from models.markov import MarkovModel
 from models.lstm import LSTMModel
 from models.gpt import GPTModel
-from data.data_preprocessing import split_data
-from utils.evaluators import train_and_save_word2vec
-from utils.objectives import objective_markov, objective_lstm, objective_transformer, objective_gpt
 from models.transformer import TransformerModel
 
+# Load configuration from JSON file
+with open('config.json') as config_file:
+    config = json.load(config_file)
 
-def objective(trial, model_class, train_data, test_data, vocab_size, dataset_name):
+
+# Function to get model class by name
+def get_model_class(name):
+    if name == "MarkovModel":
+        return MarkovModel
+    elif name == "LSTMModel":
+        return LSTMModel
+    elif name == "GPTModel":
+        return GPTModel
+    elif name == "TransformerModel":
+        return TransformerModel
+    else:
+        raise ValueError(f"Unknown model name: {name}")
+
+
+def objective(trial, model_config, train_data, test_data, vocab_size, dataset_name):
+    model_class = get_model_class(model_config['name'])
+    epochs = model_config['epochs']
+
     if model_class == LSTMModel:
-        return objective_lstm(trial, train_data, test_data, vocab_size, dataset_name)
+        return objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epochs=epochs)
     elif model_class == GPTModel:
-        return objective_gpt(trial, train_data, test_data, vocab_size, dataset_name)
-        pass
+        return objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs=epochs)
     elif model_class == TransformerModel:
-        return objective_transformer(trial, train_data, test_data, vocab_size, dataset_name)
-        pass
+        return objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs=epochs)
     elif model_class == MarkovModel:
         return objective_markov(trial, train_data, test_data, dataset_name)
-        pass
     else:
-        raise
+        raise ValueError("Invalid model class")
 
 
-def run_experiment(model_class, dataset_name, train_data, test_data, vocab):
+def run_experiment(model_config, dataset_name, train_data, test_data, vocab):
+    model_class = get_model_class(model_config['name'])
     study_name = f"{model_class.__name__} optimization"
 
     mlflow_callback = MLflowCallback(tracking_uri=mlflow.get_tracking_uri(), metric_name="perplexity", mlflow_kwargs={
@@ -36,8 +57,9 @@ def run_experiment(model_class, dataset_name, train_data, test_data, vocab):
 
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
         study = optuna.create_study(direction='minimize', study_name=study_name)
-        study.optimize(lambda trial: objective(trial, model_class, train_data, test_data, len(vocab)+1, dataset_name), n_trials=20,
-                       callbacks=[mlflow_callback])
+        study.optimize(
+            lambda trial: objective(trial, model_config, train_data, test_data, len(vocab) + 1, dataset_name),
+            n_trials=20, callbacks=[mlflow_callback])
 
         best_trial = study.best_trial
         mlflow.log_metric("best_perplexity", best_trial.value)
@@ -45,15 +67,7 @@ def run_experiment(model_class, dataset_name, train_data, test_data, vocab):
 
 
 def main():
-    datasets = ["data/mcgill.txt", "data/cocopops.txt"]
-    models = [
-        MarkovModel,
-        LSTMModel,
-        GPTModel,
-        TransformerModel
-    ]
-
-    for dataset_name in datasets:
+    for dataset_name in config['datasets']:
         experiment_name = f"Experiments on {dataset_name}"
         mlflow.set_experiment(experiment_name)
 
@@ -64,8 +78,8 @@ def main():
 
         with mlflow.start_run(run_name=f"Experiments on {dataset_name}"):
             mlflow.set_tag("dataset", dataset_name)
-            for model in models:
-                run_experiment(model, dataset_name, train_data, test_data, vocab)
+            for model_config in config['models']:
+                run_experiment(model_config, dataset_name, train_data, test_data, vocab)
 
 
 if __name__ == "__main__":

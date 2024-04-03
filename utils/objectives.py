@@ -24,7 +24,7 @@ def objective_markov(trial, train_data, test_data, dataset_name):
     return perplexity
 
 
-def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name):
+def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epochs):
     # Hyperparameters to tune
     lr = trial.suggest_loguniform('lr', 1e-5, 1e-1)
     num_layers = trial.suggest_int('num_layers', 1, 3)
@@ -33,8 +33,7 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name):
     # Initialize the LSTM model with the suggested hyperparameters
     model = LSTMModel(vocab_size=vocab_size, hidden_dim=hidden_dim, num_layers=num_layers, lr=lr)
 
-    # Train the model (ensure your LSTM training function is adapted to handle the training data properly)
-    model.train_model(encoded_seqs=train_data, epochs=3)  # You might need to adjust the 'epochs' and other training parameters
+    model.train_model(encoded_seqs=train_data, epochs=epochs)
 
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
@@ -47,7 +46,7 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name):
     return perplexity
 
 
-def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name):
+def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs):
     # Hyperparameters to be tuned
     lr = trial.suggest_loguniform('lr', 1e-5, 1e-1)
     nhead = trial.suggest_categorical('nhead', [4, 8, 16])
@@ -58,9 +57,7 @@ def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name
     model = TransformerModel(vocab_size=vocab_size, nhead=nhead, num_layers=num_layers, dim_feedforward=dim_feedforward,
                              lr=lr)
 
-    # Train the model (ensure your Transformer training function is adapted to handle the training data properly)
-    model.train_model(train_data, epochs=3)  # Adjust 'epochs' and other training parameters as necessary
-
+    model.train_model(train_data, epochs=epochs)
 
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
@@ -73,7 +70,7 @@ def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name
     return perplexity
 
 
-def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name):
+def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs):
     # Hyperparameters to be tuned
     lr = trial.suggest_loguniform('lr', 1e-5, 1e-3)
     nhead = trial.suggest_categorical('nhead', [8, 12, 16])
@@ -84,9 +81,7 @@ def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name):
     # Initialize the GPT model with the suggested hyperparameters
     model = GPTModel(vocab_size=vocab_size, lr=lr, num_layers=num_layers, nhead=nhead, dim_feedforward=dim_feedforward)
 
-    # Train the model (ensure your GPT training function is adapted to handle the training data and batch size properly)
-    model.train_model(train_data, epochs=3,
-                      batch_size=batch_size)  # Adjust 'epochs' and other training parameters as necessary
+    model.train_model(train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)

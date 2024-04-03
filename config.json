@@ -1,0 +1,24 @@
+{
+  "datasets": [
+    "data/mcgill.txt",
+    "data/cocopops.txt"
+  ],
+  "models": [
+    {
+      "name": "MarkovModel",
+      "epochs": 0
+    },
+    {
+      "name": "LSTMModel",
+      "epochs": 40
+    },
+    {
+      "name": "GPTModel",
+      "epochs": 10
+    },
+    {
+      "name": "TransformerModel",
+      "epochs": 40
+    }
+  ]
+}
