@@ -104,7 +104,7 @@ def evaluate_model(model, test_data, word2vec_model, vocab_inv):
             readable_sequence = []
             for j in printing:
                 readable_sequence.append(vocab_inv[j])
-            print(f"{i + 1:02d}. \n Sequence: {readable_sequence} \n Predicted: {vocab_inv[pred]} \n Actual: {vocab_inv[actual]}")
+            print(f"{i + 1:02d}. \n Sequence: {readable_sequence} \n Predicted: {vocab_inv.get(pred, 'UNK')} \n Actual: {vocab_inv[actual]}")
 
 
     # Calculate final metrics

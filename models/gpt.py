@@ -1,8 +1,9 @@
+import datetime
 import os
 from torch import optim
 import torch
 from torch.utils.data import Dataset
-from transformers import Trainer, TrainingArguments, GPT2Tokenizer, GPT2Config, GPT2LMHeadModel, TrainerCallback
+from transformers import Trainer, TrainingArguments, GPT2Config, GPT2LMHeadModel, TrainerCallback
 
 from models.model_interface import BaseModel
 
@@ -46,24 +47,21 @@ class GPTModel(BaseModel):
         self.model = GPT2LMHeadModel(self.config).to(device)
         self.lr = lr
         self.optimizer = optim.Adam(self.model.parameters(), lr=self.lr)
-        self.tokenizer = GPT2Tokenizer.from_pretrained('gpt2', pad_token='<PAD>')
         self.model.internal_final_epoch_loss = 0
         self.final_epoch_loss = 0
 
     def train_model(self, encoded_seqs, epochs=3, batch_size=16):
         dataset = GPTChordDataset(encoded_seqs, self.config.vocab_size)
+        now = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        output_dir = f"./gpt_chords/gpt_chords_{now}"
+
         training_args = TrainingArguments(
-            output_dir="./gpt_chords",
+            output_dir=output_dir,
             num_train_epochs=epochs,
             per_device_train_batch_size=batch_size,
             logging_dir='./logs',
             logging_steps=10,
         )
-
-        class CaptureFinalLossCallback(TrainerCallback):
-            def on_train_end(self, args, state, control, **kwargs):
-                kwargs['model'].internal_final_epoch_loss = state.log_history[-2]['loss']
-
 
         trainer = Trainer(
             model=self.model,
@@ -75,16 +73,23 @@ class GPTModel(BaseModel):
         self.final_epoch_loss = self.model.internal_final_epoch_loss
 
     def predict(self, input_sequence, num_predictions=1):
-        input_ids = torch.tensor([input_sequence], dtype=torch.long).to(device)
+        input_ids = torch.tensor([input_sequence], dtype=torch.long, device=device)
         with torch.no_grad():
             outputs = self.model.generate(input_ids, max_length=len(input_sequence) + num_predictions,
-                                          num_return_sequences=1)
-        return [self.tokenizer.decode(output_id) for output_id in outputs[0][-num_predictions:]]
+                                          num_return_sequences=1, pad_token_id=self.config.pad_token_id)
+        # Decoding is simplified as we're not using natural language tokens
+        return outputs.tolist()[0][-num_predictions:]
 
     def predict_with_probabilities(self, input_sequence):
-        input_ids = torch.tensor([input_sequence], dtype=torch.long).to(device)
+        input_ids = torch.tensor([input_sequence], dtype=torch.long, device=device)
         with torch.no_grad():
             outputs = self.model(input_ids)
             logits = outputs.logits
+            logits[:, :, self.config.pad_token_id] = -float('Inf')  # Mask padding token
             probabilities = torch.softmax(logits[:, -1, :], dim=-1)
             return probabilities.squeeze().tolist()
+
+
+class CaptureFinalLossCallback(TrainerCallback):
+    def on_train_end(self, args, state, control, **kwargs):
+        kwargs['model'].internal_final_epoch_loss = state.log_history[-2]['loss']
