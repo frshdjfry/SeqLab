@@ -1,5 +1,3 @@
-import mlflow
-
 from models.gpt import GPTModel
 from models.lstm import LSTMModel
 from models.markov import MarkovModel
@@ -16,12 +14,7 @@ def objective_markov(trial, train_data, test_data, dataset_name):
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
 
-    # Log additional metrics with MLflow
-    mlflow.log_metric("Accuracy", accuracy)
-    mlflow.log_metric("Word2Vec Similarity", w2v_similarity)
-    mlflow.log_metric("Perplexity", perplexity)
-
-    return perplexity
+    return accuracy, perplexity, w2v_similarity
 
 
 def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epochs):
@@ -38,12 +31,7 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epoch
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
 
-    # Log additional metrics with MLflow
-    mlflow.log_metric("Accuracy", accuracy)
-    mlflow.log_metric("Word2Vec Similarity", w2v_similarity)
-    mlflow.log_metric("Perplexity", perplexity)
-
-    return perplexity
+    return accuracy, perplexity, w2v_similarity
 
 
 def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs):
@@ -62,12 +50,7 @@ def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
 
-    # Log additional metrics with MLflow
-    mlflow.log_metric("Accuracy", accuracy)
-    mlflow.log_metric("Word2Vec Similarity", w2v_similarity)
-    mlflow.log_metric("Perplexity", perplexity)
-
-    return perplexity
+    return accuracy, perplexity, w2v_similarity
 
 
 def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs):
@@ -86,9 +69,4 @@ def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
 
-    # Log additional metrics with MLflow
-    mlflow.log_metric("Accuracy", accuracy)
-    mlflow.log_metric("Word2Vec Similarity", w2v_similarity)
-    mlflow.log_metric("Perplexity", perplexity)
-
-    return perplexity
+    return accuracy, perplexity, w2v_similarity

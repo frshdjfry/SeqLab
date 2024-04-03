@@ -51,19 +51,24 @@ def run_experiment(model_config, dataset_name, train_data, test_data, vocab):
     model_class = get_model_class(model_config['name'])
     study_name = f"{model_class.__name__} optimization"
 
-    mlflow_callback = MLflowCallback(tracking_uri=mlflow.get_tracking_uri(), metric_name="perplexity", mlflow_kwargs={
-        "nested": True
-    })
+    mlflow_callback = MLflowCallback(
+        tracking_uri=mlflow.get_tracking_uri(),
+        metric_name=["accuracy", "perplexity", "w2v_similarity"],
+        mlflow_kwargs={
+            "nested": True
+        })
 
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
-        study = optuna.create_study(direction='minimize', study_name=study_name)
+        study = optuna.create_study(directions=['maximize','minimize', 'maximize'], study_name=study_name)
         study.optimize(
             lambda trial: objective(trial, model_config, train_data, test_data, len(vocab) + 1, dataset_name),
             n_trials=20, callbacks=[mlflow_callback])
 
-        best_trial = study.best_trial
-        mlflow.log_metric("best_perplexity", best_trial.value)
-        print(f"Best trial for {model_class.__name__}: Perplexity: {best_trial.value}")
+        best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
+        mlflow.log_metric("best_accuracy", best_accuracy_trial.values[0])
+        mlflow.log_metric("best_perplexity", best_accuracy_trial.values[1])
+        mlflow.log_metric("best_w2v", best_accuracy_trial.values[2])
+        print(f"Best trial for {model_class.__name__}: Metrics: {best_accuracy_trial.values}")
 
 
 def main():
