@@ -43,41 +43,13 @@ def evaluate_perplexity(model, test_data):
     perplexity = math.exp(average_neg_log_likelihood)
     return perplexity
 
-#
-# def evaluate_model(model, test_data, word2vec_model):
-#     correct_predictions = 0
-#     total_predictions = 0
-#     total_similarity = 0
-#
-#     for sequence in test_data:
-#         current_sequence = sequence[:-1]
-#         actual_next = sequence[-1]
-#         predicted_next = model.predict(current_sequence)
-#
-#         # Update accuracy calculations
-#         if predicted_next == actual_next:
-#             correct_predictions += 1
-#         total_predictions += 1
-#
-#         # Calculate Word2Vec similarity for each prediction
-#         similarity = word2vec_similarity(word2vec_model, actual_next, predicted_next)
-#         total_similarity += similarity
-#
-#     # Calculate average similarity
-#     avg_similarity = total_similarity / total_predictions if total_predictions > 0 else 0
-#     accuracy = correct_predictions / total_predictions if total_predictions > 0 else 0
-#
-#     # Assume calculate_perplexity is defined elsewhere
-#     perplexity = evaluate_perplexity(model, test_data)
-#
-#     return accuracy, avg_similarity, perplexity
-#
 
 def evaluate_model(model, test_data, word2vec_model):
     correct_predictions = 0
     total_predictions = 0
     total_similarity = 0
     total_log_likelihood = 0
+    final_epoch_loss = 0
 
     for sequence in test_data:
         current_sequence = sequence[:-1]
@@ -100,7 +72,7 @@ def evaluate_model(model, test_data, word2vec_model):
                 predicted_next = probabilities.index(max(probabilities))  # Assuming this returns the index with max probability
                 if actual_next < len(probabilities):
                     probability = probabilities[actual_next]
-
+                    final_epoch_loss = model.final_epoch_loss
         # Update metrics
         if predicted_next == actual_next:
             correct_predictions += 1
@@ -124,7 +96,7 @@ def evaluate_model(model, test_data, word2vec_model):
     average_neg_log_likelihood = -total_log_likelihood / total_predictions if total_predictions > 0 else 0
     perplexity = math.exp(average_neg_log_likelihood) if total_predictions > 0 else float('inf')
 
-    return accuracy, avg_similarity, perplexity
+    return accuracy, avg_similarity, perplexity, final_epoch_loss
 
 def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
     # Ensure the directory for models exists

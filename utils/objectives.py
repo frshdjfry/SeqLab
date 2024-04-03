@@ -12,9 +12,9 @@ def objective_markov(trial, train_data, test_data, dataset_name):
     model.train_model(train_data)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data, word2vec_model)
 
-    return accuracy, perplexity, w2v_similarity
+    return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
 
 def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epochs):
@@ -29,9 +29,9 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epoch
     model.train_model(encoded_seqs=train_data, epochs=epochs)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data, word2vec_model)
 
-    return accuracy, perplexity, w2v_similarity
+    return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
 
 def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs):
@@ -48,9 +48,9 @@ def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name
     model.train_model(train_data, epochs=epochs)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data, word2vec_model)
 
-    return accuracy, perplexity, w2v_similarity
+    return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
 
 def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs):
@@ -67,6 +67,6 @@ def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs
     model.train_model(train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity = evaluate_model(model, test_data, word2vec_model)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data, word2vec_model)
 
-    return accuracy, perplexity, w2v_similarity
+    return accuracy, perplexity, w2v_similarity, final_epoch_loss

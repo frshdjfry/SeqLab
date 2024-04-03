@@ -56,13 +56,13 @@ def run_experiment(model_config, dataset_name, train_data, test_data, vocab):
 
     mlflow_callback = MLflowCallback(
         tracking_uri=mlflow.get_tracking_uri(),
-        metric_name=["accuracy", "perplexity", "w2v_similarity"],
+        metric_name=["accuracy", "perplexity", "w2v_similarity", "final_epoch_loss"],
         mlflow_kwargs={
             "nested": True
         })
 
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
-        study = optuna.create_study(directions=['maximize','minimize', 'maximize'], study_name=study_name)
+        study = optuna.create_study(directions=['maximize','minimize', 'maximize', 'minimize'], study_name=study_name)
         study.optimize(
             lambda trial: objective(trial, model_config, train_data, test_data, len(vocab) + 1, dataset_name),
             n_trials=20, callbacks=[mlflow_callback])

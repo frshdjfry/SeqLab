@@ -21,6 +21,8 @@ class LSTMModel(BaseModel, nn.Module):
         self.criterion = nn.CrossEntropyLoss().to(self.device)
         self.optimizer = None
 
+        self.final_epoch_loss = None
+
     def forward(self, x):
         x = self.embedding(x.to(self.device))
         lstm_out, _ = self.lstm(x)
@@ -45,6 +47,9 @@ class LSTMModel(BaseModel, nn.Module):
                 self.optimizer.step()
                 total_loss += loss.item()
             print(f'Epoch {epoch+1}/{epochs}, Loss: {total_loss/len(train_loader)}')
+
+            if epoch == epochs - 1:
+                self.final_epoch_loss = total_loss / len(train_loader)
 
     def predict(self, sequence):
         self.eval_mode()  # Set the model to evaluation mode
