@@ -13,6 +13,10 @@
       "epochs": 40
     },
     {
+      "name": "LSTMModelWithAttention",
+      "epochs": 40
+    },
+    {
       "name": "GPTModel",
       "epochs": 10
     },

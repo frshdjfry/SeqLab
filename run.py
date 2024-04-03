@@ -3,6 +3,7 @@ import mlflow
 import optuna
 from optuna.integration.mlflow import MLflowCallback
 from data.data_preprocessing import preprocess_data, split_data
+from models.lstm_attention import LSTMModelWithAttention
 from utils.evaluators import train_and_save_word2vec
 from utils.objectives import objective_markov, objective_lstm, objective_transformer, objective_gpt
 
@@ -23,6 +24,8 @@ def get_model_class(name):
         return MarkovModel
     elif name == "LSTMModel":
         return LSTMModel
+    elif name == "LSTMModelWithAttention":
+        return LSTMModelWithAttention
     elif name == "GPTModel":
         return GPTModel
     elif name == "TransformerModel":
@@ -35,7 +38,7 @@ def objective(trial, model_config, train_data, test_data, vocab_size, dataset_na
     model_class = get_model_class(model_config['name'])
     epochs = model_config['epochs']
 
-    if model_class == LSTMModel:
+    if model_class in [LSTMModel, LSTMModelWithAttention]:
         return objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epochs=epochs)
     elif model_class == GPTModel:
         return objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs=epochs)
