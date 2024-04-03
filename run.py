@@ -34,23 +34,23 @@ def get_model_class(name):
         raise ValueError(f"Unknown model name: {name}")
 
 
-def objective(trial, model_config, train_data, test_data, vocab_size, dataset_name):
+def objective(trial, model_config, train_data, test_data, vocab_size, dataset_name, vocab_inv):
     model_class = get_model_class(model_config['name'])
     epochs = model_config['epochs']
 
     if model_class in [LSTMModel, LSTMModelWithAttention]:
-        return objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epochs=epochs)
+        return objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv)
     elif model_class == GPTModel:
-        return objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs=epochs)
+        return objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv)
     elif model_class == TransformerModel:
-        return objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs=epochs)
+        return objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv)
     elif model_class == MarkovModel:
-        return objective_markov(trial, train_data, test_data, dataset_name)
+        return objective_markov(trial, train_data, test_data, dataset_name, vocab_inv)
     else:
         raise ValueError("Invalid model class")
 
 
-def run_experiment(model_config, dataset_name, train_data, test_data, vocab):
+def run_experiment(model_config, dataset_name, train_data, test_data, vocab, vocab_inv):
     model_class = get_model_class(model_config['name'])
     study_name = f"{model_class.__name__} optimization"
 
@@ -62,9 +62,10 @@ def run_experiment(model_config, dataset_name, train_data, test_data, vocab):
         })
 
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
-        study = optuna.create_study(directions=['maximize','minimize', 'maximize', 'minimize'], study_name=study_name)
+        study = optuna.create_study(directions=['maximize', 'minimize', 'maximize', 'minimize'], study_name=study_name)
         study.optimize(
-            lambda trial: objective(trial, model_config, train_data, test_data, len(vocab) + 1, dataset_name),
+            lambda trial: objective(trial, model_config, train_data, test_data, len(vocab) + 1, dataset_name,
+                                    vocab_inv),
             n_trials=20, callbacks=[mlflow_callback])
 
         best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
@@ -87,7 +88,7 @@ def main():
         with mlflow.start_run(run_name=f"Experiments on {dataset_name}"):
             mlflow.set_tag("dataset", dataset_name)
             for model_config in config['models']:
-                run_experiment(model_config, dataset_name, train_data, test_data, vocab)
+                run_experiment(model_config, dataset_name, train_data, test_data, vocab, vocab_inv)
 
 
 if __name__ == "__main__":

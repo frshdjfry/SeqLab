@@ -44,12 +44,15 @@ def evaluate_perplexity(model, test_data):
     return perplexity
 
 
-def evaluate_model(model, test_data, word2vec_model):
+def evaluate_model(model, test_data, word2vec_model, vocab_inv):
     correct_predictions = 0
     total_predictions = 0
     total_similarity = 0
     total_log_likelihood = 0
     final_epoch_loss = 0
+    predicted_values = []
+    actual_values = []
+    printing_sequences = []
 
     for sequence in test_data:
         current_sequence = sequence[:-1]
@@ -89,6 +92,20 @@ def evaluate_model(model, test_data, word2vec_model):
         if predicted_next is not None:
             similarity = word2vec_similarity(word2vec_model, str(actual_next), str(predicted_next))
             total_similarity += similarity
+
+        if len(predicted_values) < 20:
+            printing_sequences.append(current_sequence)
+            predicted_values.append(predicted_next)
+            actual_values.append(actual_next)
+
+    if predicted_values and actual_values:
+        print("First 20 Predictions vs Actual Values:")
+        for i, (pred, actual, printing) in enumerate(zip(predicted_values, actual_values, printing_sequences)):
+            readable_sequence = []
+            for j in printing:
+                readable_sequence.append(vocab_inv[j])
+            print(f"{i + 1:02d}. \n Sequence: {readable_sequence} \n Predicted: {vocab_inv[pred]} \n Actual: {vocab_inv[actual]}")
+
 
     # Calculate final metrics
     avg_similarity = total_similarity / total_predictions if total_predictions > 0 else 0
