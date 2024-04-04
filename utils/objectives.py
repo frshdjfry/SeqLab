@@ -1,6 +1,7 @@
 from models.gpt import GPTModel
 from models.lstm import LSTMModel
 from models.markov import MarkovModel
+from models.multi_lstm_model import MultiLSTMModel
 from utils.evaluators import evaluate_model, load_word2vec_model
 from models.transformer import TransformerModel
 
@@ -19,9 +20,9 @@ def objective_markov(trial, train_data, test_data, dataset_name, vocab_inv):
 
 def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv):
     # Hyperparameters to tune
-    lr = trial.suggest_loguniform('lr', 1e-5, 1e-1)
-    num_layers = trial.suggest_int('num_layers', 1, 3)
-    hidden_dim = trial.suggest_categorical('hidden_dim', [128, 256, 512])
+    lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
+    num_layers = trial.suggest_int('num_layers', 1, 2)
+    hidden_dim = trial.suggest_categorical('hidden_dim', [256, 512, 1024])
 
     # Initialize the LSTM model with the suggested hyperparameters
     model = LSTMModel(vocab_size=vocab_size, hidden_dim=hidden_dim, num_layers=num_layers, lr=lr)
@@ -36,9 +37,9 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epoch
 
 def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv):
     # Hyperparameters to be tuned
-    lr = trial.suggest_loguniform('lr', 1e-5, 1e-1)
-    nhead = trial.suggest_categorical('nhead', [4, 8, 16])
-    num_layers = trial.suggest_int('num_layers', 1, 4)
+    lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
+    nhead = trial.suggest_categorical('nhead', [8, 12, 16])
+    num_layers = trial.suggest_int('num_layers', 1, 2)
     dim_feedforward = trial.suggest_categorical('dim_feedforward', [256, 512, 1024])
 
     # Initialize the Transformer model with the suggested hyperparameters
@@ -56,8 +57,8 @@ def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name
 def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv):
     # Hyperparameters to be tuned
     lr = trial.suggest_float('lr', 1e-3, 1e-2, log=True)
-    nhead = trial.suggest_categorical('nhead', [4, 8, 16])
-    num_layers = trial.suggest_int('num_layers', 1, 4)
+    nhead = trial.suggest_categorical('nhead', [2, 4, 8])
+    num_layers = trial.suggest_int('num_layers', 1, 2)
     dim_feedforward = trial.suggest_categorical('dim_feedforward', [256, 512, 1024])
     batch_size = 64
 
