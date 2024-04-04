@@ -6,6 +6,7 @@ from gensim.models import Word2Vec
 from models.markov import MarkovModel
 from scipy.spatial.distance import cosine
 
+
 def word2vec_similarity(model, word1, word2):
     word1 = int(word1)
     word2 = int(word2)
@@ -72,7 +73,7 @@ def evaluate_model(model, test_data, word2vec_model, vocab_inv):
         else:
             probabilities = model.predict_with_probabilities(current_sequence)
             if probabilities:
-                predicted_next = probabilities.index(max(probabilities))  # Assuming this returns the index with max probability
+                predicted_next = probabilities.index(max(probabilities))
                 if actual_next < len(probabilities):
                     probability = probabilities[actual_next]
                     final_epoch_loss = model.final_epoch_loss
@@ -104,7 +105,8 @@ def evaluate_model(model, test_data, word2vec_model, vocab_inv):
             readable_sequence = []
             for j in printing:
                 readable_sequence.append(vocab_inv[j])
-            print(f"{i + 1:02d}. \n Sequence: {readable_sequence} \n Predicted: {vocab_inv.get(pred, 'UNK')} \n Actual: {vocab_inv[actual]}")
+            print(
+                f"{i + 1:02d}. \n Sequence: {readable_sequence} \n Predicted: {vocab_inv.get(pred, 'UNK')} \n Actual: {vocab_inv[actual]}")
 
 
     # Calculate final metrics
@@ -114,6 +116,7 @@ def evaluate_model(model, test_data, word2vec_model, vocab_inv):
     perplexity = math.exp(average_neg_log_likelihood) if total_predictions > 0 else float('inf')
 
     return accuracy, avg_similarity, perplexity, final_epoch_loss
+
 
 def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
     # Ensure the directory for models exists
@@ -130,6 +133,7 @@ def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
 
     print(f"Word2Vec model saved for '{dataset_name}' at '{model_path}'")
     return model
+
 
 def load_word2vec_model(dataset_name, models_dir="./"):
     model_path = os.path.join(models_dir, f"word2vec_{dataset_name}.model")

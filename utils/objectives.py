@@ -37,7 +37,7 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epoch
 def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv):
     # Hyperparameters to be tuned
     lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
-    nhead = trial.suggest_categorical('nhead', [8, 12, 16])
+    nhead = trial.suggest_categorical('nhead', [8, 16, 32])
     num_layers = trial.suggest_int('num_layers', 1, 2)
     dim_feedforward = trial.suggest_categorical('dim_feedforward', [256, 512, 1024])
 
