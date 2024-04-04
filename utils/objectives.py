@@ -1,7 +1,6 @@
 from models.gpt import GPTModel
 from models.lstm import LSTMModel
 from models.markov import MarkovModel
-from models.multi_lstm_model import MultiLSTMModel
 from utils.evaluators import evaluate_model, load_word2vec_model
 from models.transformer import TransformerModel
 
