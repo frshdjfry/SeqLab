@@ -1,28 +1,47 @@
 {
-  "datasets": [
-    "data/mcgill.txt",
-    "data/cocopops.txt"
-  ],
-  "models": [
-    {
-      "name": "MarkovModel",
-      "epochs": 0
-    },
-    {
-      "name": "LSTMModel",
-      "epochs": 40
-    },
-    {
-      "name": "LSTMModelWithAttention",
-      "epochs": 40
-    },
-    {
-      "name": "GPTModel",
-      "epochs": 10
-    },
-    {
-      "name": "TransformerModel",
-      "epochs": 40
-    }
-  ]
+  "one_to_one": {
+    "datasets": [
+      "data/cocopops.csv",
+      "data/mcgill.txt"
+    ],
+    "target_feature": "**harte",
+    "models": [
+      {
+        "name": "MarkovModel",
+        "epochs": 0
+      },
+      {
+        "name": "LSTMModel",
+        "epochs": 40
+      },
+      {
+        "name": "LSTMModelWithAttention",
+        "epochs": 40
+      },
+      {
+        "name": "GPTModel",
+        "epochs": 40
+      },
+      {
+        "name": "TransformerModel",
+        "epochs": 40
+      }
+    ]
+  },
+  "many_to_one": {
+    "source_features": [
+      "**harte",
+      "**kern"
+    ],
+    "target_feature": "**harte",
+    "datasets": [
+      "data/cocopops.csv"
+    ],
+    "models": [
+      {
+        "name": "MultiLSTMModel",
+        "epochs": 40
+      }
+    ]
+  }
 }

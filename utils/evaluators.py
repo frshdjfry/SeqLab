@@ -45,7 +45,7 @@ def evaluate_perplexity(model, test_data):
     return perplexity
 
 
-def evaluate_model(model, test_data, word2vec_model, vocab_inv):
+def evaluate_one_to_one_model(model, test_data, word2vec_model, vocab_inv):
     correct_predictions = 0
     total_predictions = 0
     total_similarity = 0
@@ -108,6 +108,85 @@ def evaluate_model(model, test_data, word2vec_model, vocab_inv):
             print(
                 f"{i + 1:02d}. \n Sequence: {readable_sequence} \n Predicted: {vocab_inv.get(pred, 'UNK')} \n Actual: {vocab_inv[actual]}")
 
+    # Calculate final metrics
+    avg_similarity = total_similarity / total_predictions if total_predictions > 0 else 0
+    accuracy = correct_predictions / total_predictions if total_predictions > 0 else 0
+    average_neg_log_likelihood = -total_log_likelihood / total_predictions if total_predictions > 0 else 0
+    perplexity = math.exp(average_neg_log_likelihood) if total_predictions > 0 else float('inf')
+
+    return accuracy, avg_similarity, perplexity, final_epoch_loss
+
+
+def evaluate_many_to_one_model(model, test_data_dict, word2vec_model, vocab_invs, target_feature):
+    correct_predictions = 0
+    total_predictions = 0
+    total_similarity = 0
+    total_log_likelihood = 0
+    final_epoch_loss = 0
+    predicted_values = []
+    actual_values = []
+    printing_sequences = []
+
+    test_length = 0
+    for k, v in test_data_dict.items():
+        # print(len(v))
+        test_length = len(v)
+
+    for i in range(test_length):
+        # print(i)
+        current_sequence = []
+        actual_next = None
+        for k, v in test_data_dict.items():
+            # print(k, v[i])
+            current_sequence.append(v[i][:-1])
+            if k == target_feature:
+                actual_next = v[i][-1]
+                target_feature_index = list(test_data_dict.keys()).index(k)
+
+        if len(current_sequence[0]) < 1:
+            continue
+        # Compute prediction once for all metrics
+        predicted_next, probability = None, 0
+
+        probabilities = model.predict_with_probabilities(current_sequence)
+        if probabilities:
+            predicted_next = probabilities.index(max(probabilities))
+            if actual_next < len(probabilities):
+                probability = probabilities[actual_next]
+                final_epoch_loss = model.final_epoch_loss
+
+        # Update metrics
+        if predicted_next == actual_next:
+            correct_predictions += 1
+        total_predictions += 1
+
+        if probability > 0:
+            total_log_likelihood += math.log(probability)
+
+        # Ensure predicted_next is not a list for w2v similarity
+        if predicted_next is not None and isinstance(predicted_next, list):
+            predicted_next = predicted_next[0]
+
+        # Calculate Word2Vec similarity, ensuring valid inputs
+        if predicted_next is not None:
+            similarity = word2vec_similarity(word2vec_model, str(actual_next), str(predicted_next))
+            total_similarity += similarity
+
+        if len(predicted_values) < 20:
+            printing_sequences.append(current_sequence[target_feature_index])
+            predicted_values.append(predicted_next)
+            actual_values.append(actual_next)
+
+    if predicted_values and actual_values:
+        print("First 20 Predictions vs Actual Values:")
+        for i, (pred, actual, printing) in enumerate(zip(predicted_values, actual_values, printing_sequences)):
+            readable_sequence = []
+            for j in printing:
+                readable_sequence.append(vocab_invs[target_feature][j])
+            print(
+                f"{i + 1:02d}. \n Sequence: {readable_sequence} \n "
+                f"Predicted: {vocab_invs[target_feature].get(pred, 'UNK')} \n "
+                f"Actual: {vocab_invs[target_feature][actual]}")
 
     # Calculate final metrics
     avg_similarity = total_similarity / total_predictions if total_predictions > 0 else 0
