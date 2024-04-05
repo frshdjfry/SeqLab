@@ -101,13 +101,13 @@ def run_many_to_one_experiment(model_config, dataset_name, train_data, test_data
 
     mlflow_callback = MLflowCallback(
         tracking_uri=mlflow.get_tracking_uri(),
-        metric_name=["accuracy", "perplexity", "w2v_similarity", "final_epoch_loss"],
+        metric_name=["accuracy"],
         mlflow_kwargs={
             "nested": True
         })
 
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
-        study = optuna.create_study(directions=['maximize', 'minimize', 'maximize', 'minimize'], study_name=study_name)
+        study = optuna.create_study(directions=['maximize'], study_name=study_name)
         study.optimize(
             lambda trial: objective_many_to_one(
                 trial, model_config, train_data, test_data, vocabs, target_feature, dataset_name
