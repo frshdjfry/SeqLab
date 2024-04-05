@@ -23,11 +23,11 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epoch
     lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
     num_layers = trial.suggest_int('num_layers', 1, 2)
     hidden_dim = trial.suggest_categorical('hidden_dim', [256, 512, 1024])
-
+    batch_size = trial.suggest_categorical('batch_size', [16, 32, 64])
     # Initialize the LSTM model with the suggested hyperparameters
     model = LSTMModel(vocab_size=vocab_size, hidden_dim=hidden_dim, num_layers=num_layers, lr=lr)
 
-    model.train_model(encoded_seqs=train_data, epochs=epochs)
+    model.train_model(encoded_seqs=train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model, vocab_inv)
@@ -37,16 +37,17 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epoch
 
 def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv):
     # Hyperparameters to be tuned
-    lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
+    lr = trial.suggest_loguniform('lr', 1e-4, 1e-2)
     nhead = trial.suggest_categorical('nhead', [8, 16, 32])
     num_layers = trial.suggest_int('num_layers', 1, 2)
     dim_feedforward = trial.suggest_categorical('dim_feedforward', [256, 512, 1024])
+    batch_size = trial.suggest_categorical('batch_size', [16, 32, 64])
 
     # Initialize the Transformer model with the suggested hyperparameters
     model = TransformerModel(vocab_size=vocab_size, nhead=nhead, num_layers=num_layers, dim_feedforward=dim_feedforward,
                              lr=lr)
 
-    model.train_model(train_data, epochs=epochs)
+    model.train_model(train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
     accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model, vocab_inv)
@@ -56,11 +57,11 @@ def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name
 
 def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs, vocab_inv):
     # Hyperparameters to be tuned
-    lr = trial.suggest_float('lr', 1e-3, 1e-2, log=True)
+    lr = trial.suggest_float('lr', 1e-4, 1e-2, log=True)
     nhead = trial.suggest_categorical('nhead', [2, 4, 8])
     num_layers = trial.suggest_int('num_layers', 1, 2)
     dim_feedforward = trial.suggest_categorical('dim_feedforward', [256, 512, 1024])
-    batch_size = 64
+    batch_size = trial.suggest_categorical('batch_size', [16, 32, 64])
 
     # Initialize the GPT model with the suggested hyperparameters
     model = GPTModel(vocab_size=vocab_size, lr=lr, num_layers=num_layers, nhead=nhead, dim_feedforward=dim_feedforward)
@@ -80,13 +81,14 @@ def objective_multi_lstm(trial, train_data, test_data, feature_vocabs, target_fe
     num_layers = trial.suggest_int('num_layers', 1, 3)
     embedding_dim = trial.suggest_categorical('embedding_dim', [64, 128, 256])
     hidden_dim = trial.suggest_categorical('hidden_dim', [128, 256, 512])
+    batch_size = trial.suggest_categorical('batch_size', [16, 32, 64])
 
     # Initialize the LSTM model with the suggested hyperparameters
     model = MultiLSTMModel(feature_vocabs=feature_vocabs, target_feature=target_feature,
                            embedding_dim=embedding_dim, hidden_dim=hidden_dim, num_layers=num_layers, lr=lr)
 
     # Train the model on the training data
-    model.train_model(train_data, epochs=epochs)
+    model.train_model(train_data, epochs=epochs, batch_size=batch_size)
 
     # Evaluate the model on the test data
     word2vec_model = load_word2vec_model(dataset_name)

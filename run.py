@@ -112,7 +112,7 @@ def run_many_to_one_experiment(model_config, dataset_name, train_data, test_data
             lambda trial: objective_many_to_one(
                 trial, model_config, train_data, test_data, vocabs, target_feature, dataset_name
             ),
-            n_trials=3, callbacks=[mlflow_callback])
+            n_trials=20, callbacks=[mlflow_callback])
 
         best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
         mlflow.log_metric("best_accuracy", best_accuracy_trial.values[0])
