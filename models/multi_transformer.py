@@ -30,6 +30,15 @@ class MultiTransformerModel(nn.Module):
         ).to(self.device)
 
         self.transformer_encoder = nn.TransformerEncoder(transformer_layer, num_layers=num_layers).to(self.device)
+        self.transformer = nn.Transformer(
+            d_model=embedding_dim * len(feature_vocabs),  # Assuming all features are projected to the same dimension
+            nhead=nhead,
+            num_encoder_layers=num_layers,
+            num_decoder_layers=num_layers,
+            dim_feedforward=dim_feedforward,
+            batch_first=True
+        ).to(self.device)
+
         self.num_classes = len(feature_vocabs[self.target_feature]) + 1
 
         # Output fully connected layer, adjust according to your output requirements
@@ -91,8 +100,11 @@ class MultiTransformerModel(nn.Module):
             embedded = embedding(inputs[:, i])
             embedded_features.append(embedded)
         concatenated_embeddings = torch.cat(embedded_features, dim=-1)
+        tgt_dummy = torch.zeros_like(concatenated_embeddings)
+        transformed = self.transformer(concatenated_embeddings, tgt_dummy)
+
         # Transformer Encoder processing
-        transformed = self.transformer_encoder(concatenated_embeddings)
+        # transformed = self.transformer_encoder(concatenated_embeddings)
         last_timestep_output = transformed[:, -1, :]
         # Output layer
         output = self.fc(last_timestep_output)
