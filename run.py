@@ -5,8 +5,8 @@ from optuna.integration.mlflow import MLflowCallback
 from data.data_preprocessing import preprocess_data, split_data
 from data.many_to_many_data_preprocessing import preprocess_man_to_many_data, split_multi_feature_data
 from models.lstm_attention import LSTMModelWithAttention
-from models.multi_lstm_model import MultiLSTMModel
-from models.multi_transformer_model import MultiTransformerModel
+from models.multi_lstm import MultiLSTMModel
+from models.multi_transformer import MultiTransformerModel
 from utils.evaluators import train_and_save_word2vec
 from utils.objectives import objective_markov, objective_lstm, objective_transformer, objective_gpt, \
     objective_multi_lstm, objective_multi_transformer
