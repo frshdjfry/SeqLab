@@ -143,7 +143,7 @@ def evaluate_many_to_one_model(model, test_data_dict, word2vec_model, vocab_invs
                 actual_next = v[i][-1]
                 target_feature_index = list(test_data_dict.keys()).index(k)
 
-        if len(current_sequence[0]) < 1:
+        if len(current_sequence[0]) < 2:
             continue
         # Compute prediction once for all metrics
         predicted_next, probability = None, 0

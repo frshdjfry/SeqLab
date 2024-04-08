@@ -5,11 +5,12 @@ from optuna.integration.mlflow import MLflowCallback
 from data.data_preprocessing import preprocess_data, split_data
 from data.many_to_many_data_preprocessing import preprocess_man_to_many_data, split_multi_feature_data
 from models.lstm_attention import LSTMModelWithAttention
+from models.multi_gpt import MultiGPTModel
 from models.multi_lstm import MultiLSTMModel
 from models.multi_transformer import MultiTransformerModel
 from utils.evaluators import train_and_save_word2vec
 from utils.objectives import objective_markov, objective_lstm, objective_transformer, objective_gpt, \
-    objective_multi_lstm, objective_multi_transformer
+    objective_multi_lstm, objective_multi_transformer, objective_multi_gpt
 
 # Import your model classes
 from models.markov import MarkovModel
@@ -38,6 +39,8 @@ def get_model_class(name):
         return MultiLSTMModel
     elif name == "MultiTransformerModel":
         return MultiTransformerModel
+    elif name == "MultiGPTModel":
+        return MultiGPTModel
     else:
         raise ValueError(f"Unknown model name: {name}")
 
@@ -69,6 +72,11 @@ def objective_many_to_one(trial, model_config, train_data, test_data, feature_vo
         )
     elif model_class == MultiTransformerModel:
         return objective_multi_transformer(
+            trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
+            epochs
+        )
+    elif model_class == MultiGPTModel:
+        return objective_multi_gpt(
             trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
             epochs
         )
