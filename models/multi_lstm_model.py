@@ -62,7 +62,7 @@ class MultiLSTMModel(BaseModel, nn.Module):
             total_loss = 0
             for inputs, targets in train_loader:
                 self.optimizer.zero_grad()
-                outputs = self.forward(inputs)
+                outputs = self.forward(inputs.to(self.device))
                 loss = self.criterion(outputs, targets.to(self.device))
                 loss.backward()
                 self.optimizer.step()
