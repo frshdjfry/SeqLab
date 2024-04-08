@@ -2,6 +2,7 @@ from models.gpt import GPTModel
 from models.lstm import LSTMModel
 from models.markov import MarkovModel
 from models.multi_lstm_model import MultiLSTMModel
+from models.multi_transformer_model import MultiTransformerModel
 from utils.evaluators import evaluate_one_to_one_model, load_word2vec_model, evaluate_many_to_one_model
 from models.transformer import TransformerModel
 
@@ -13,7 +14,8 @@ def objective_markov(trial, train_data, test_data, dataset_name, vocab_inv):
     model.train_model(train_data)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model, vocab_inv)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model,
+                                                                                       vocab_inv)
 
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
@@ -30,7 +32,8 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epoch
     model.train_model(encoded_seqs=train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model, vocab_inv)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model,
+                                                                                       vocab_inv)
 
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
@@ -50,7 +53,8 @@ def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name
     model.train_model(train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model, vocab_inv)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model,
+                                                                                       vocab_inv)
 
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
@@ -69,7 +73,8 @@ def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs
     model.train_model(train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model, vocab_inv)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model,
+                                                                                       vocab_inv)
 
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
@@ -96,8 +101,46 @@ def objective_multi_lstm(trial, train_data, test_data, feature_vocabs, target_fe
     for feature, vocab in feature_vocabs.items():
         vocab_inv = {i + 1: value for value, i in vocab.items()}
         vocab_invs[feature] = vocab_inv
-    # Note: You'll need to adapt or implement the evaluate_model function to work with the new data format and model outputs
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_many_to_one_model(model, test_data, word2vec_model, vocab_invs, target_feature)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_many_to_one_model(model, test_data,
+                                                                                        word2vec_model, vocab_invs,
+                                                                                        target_feature)
+
+    # Return the metrics of interest
+    return accuracy, perplexity, w2v_similarity, final_epoch_loss
+
+
+def objective_multi_transformer(trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
+                                epochs):
+    # Hyperparameters to be tuned
+    lr = trial.suggest_loguniform('lr', 1e-4, 1e-2)
+    nhead = trial.suggest_categorical('nhead', [8, 16, 32])
+    embedding_dim = trial.suggest_categorical('embedding_dim', [64, 128, 256])
+    num_layers = trial.suggest_int('num_layers', 1, 2, 3)
+    dim_feedforward = trial.suggest_categorical('dim_feedforward', [256, 512, 1024])
+    batch_size = trial.suggest_categorical('batch_size', [16, 32, 64])
+
+    # Initialize the LSTM model with the suggested hyperparameters
+    model = MultiTransformerModel(
+        feature_vocabs=feature_vocabs,
+        target_feature=target_feature,
+        nhead=nhead,
+        embedding_dim=embedding_dim,
+        num_layers=num_layers,
+        dim_feedforward=dim_feedforward,
+        lr=lr,
+    )
+    # Train the model on the training data
+    model.train_model(train_data, epochs=epochs, batch_size=batch_size)
+
+    # Evaluate the model on the test data
+    word2vec_model = load_word2vec_model(dataset_name)
+    vocab_invs = {}
+    for feature, vocab in feature_vocabs.items():
+        vocab_inv = {i + 1: value for value, i in vocab.items()}
+        vocab_invs[feature] = vocab_inv
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_many_to_one_model(model, test_data,
+                                                                                        word2vec_model, vocab_invs,
+                                                                                        target_feature)
 
     # Return the metrics of interest
     return accuracy, perplexity, w2v_similarity, final_epoch_loss

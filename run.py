@@ -6,9 +6,10 @@ from data.data_preprocessing import preprocess_data, split_data
 from data.many_to_many_data_preprocessing import preprocess_man_to_many_data, split_multi_feature_data
 from models.lstm_attention import LSTMModelWithAttention
 from models.multi_lstm_model import MultiLSTMModel
+from models.multi_transformer_model import MultiTransformerModel
 from utils.evaluators import train_and_save_word2vec
 from utils.objectives import objective_markov, objective_lstm, objective_transformer, objective_gpt, \
-    objective_multi_lstm
+    objective_multi_lstm, objective_multi_transformer
 
 # Import your model classes
 from models.markov import MarkovModel
@@ -35,6 +36,8 @@ def get_model_class(name):
         return TransformerModel
     elif name == "MultiLSTMModel":
         return MultiLSTMModel
+    elif name == "MultiTransformerModel":
+        return MultiTransformerModel
     else:
         raise ValueError(f"Unknown model name: {name}")
 
@@ -61,6 +64,11 @@ def objective_many_to_one(trial, model_config, train_data, test_data, feature_vo
 
     if model_class == MultiLSTMModel:
         return objective_multi_lstm(
+            trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
+            epochs
+        )
+    elif model_class == MultiTransformerModel:
+        return objective_multi_transformer(
             trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
             epochs
         )
@@ -101,13 +109,13 @@ def run_many_to_one_experiment(model_config, dataset_name, train_data, test_data
 
     mlflow_callback = MLflowCallback(
         tracking_uri=mlflow.get_tracking_uri(),
-        metric_name=["accuracy"],
+        metric_name=["accuracy", "perplexity", "w2v_similarity", "final_epoch_loss"],
         mlflow_kwargs={
             "nested": True
         })
 
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
-        study = optuna.create_study(directions=['maximize'], study_name=study_name)
+        study = optuna.create_study(directions=['maximize', 'minimize', 'maximize', 'minimize'], study_name=study_name)
         study.optimize(
             lambda trial: objective_many_to_one(
                 trial, model_config, train_data, test_data, vocabs, target_feature, dataset_name
