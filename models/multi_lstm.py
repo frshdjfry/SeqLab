@@ -19,8 +19,6 @@ class MultiLSTMModel(BaseModel, nn.Module):
             nn.Embedding(feature_dim, embedding_dim).to(self.device) for feature_dim in
             feature_dims
         ])
-        for i in range(len(feature_vocabs)):
-            nn.LSTM(embedding_dim, hidden_dim, num_layers, batch_first=True).to(self.device)
 
         self.lstms = nn.ModuleList([
             nn.LSTM(embedding_dim, hidden_dim, num_layers, batch_first=True).to(self.device) for _ in

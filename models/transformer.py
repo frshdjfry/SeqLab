@@ -13,16 +13,16 @@ class ChordPredictor(nn.Module):
         self.embedding = nn.Embedding(vocab_size, embed_size).to(self.device)
         transformer_layer = nn.TransformerEncoderLayer(
             d_model=embed_size, nhead=nhead, dim_feedforward=dim_feedforward, batch_first=True).to(self.device)
-        # self.transformer = nn.TransformerEncoder(transformer_layer, num_layers=num_layers).to(self.device)
+        self.transformer = nn.TransformerEncoder(transformer_layer, num_layers=num_layers).to(self.device)
         #
-        self.transformer = nn.Transformer(
-            d_model=embed_size,  # Assuming all features are projected to the same dimension
-            nhead=nhead,
-            num_encoder_layers=num_layers,
-            num_decoder_layers=num_layers,
-            dim_feedforward=dim_feedforward,
-            batch_first=True
-        ).to(self.device)
+        # self.transformer = nn.Transformer(
+        #     d_model=embed_size,  # Assuming all features are projected to the same dimension
+        #     nhead=nhead,
+        #     num_encoder_layers=num_layers,
+        #     num_decoder_layers=num_layers,
+        #     dim_feedforward=dim_feedforward,
+        #     batch_first=True
+        # ).to(self.device)
 
 
         self.fc = nn.Linear(embed_size, vocab_size).to(self.device)
@@ -30,10 +30,10 @@ class ChordPredictor(nn.Module):
     def forward(self, src):
         src = src.to(self.device)  # Move input to the device
         embedded = self.embedding(src)
-        # transformed = self.transformer(embedded)
+        transformed = self.transformer(embedded)
 
-        tgt_dummy = torch.zeros_like(embedded)
-        transformed = self.transformer(embedded, tgt_dummy)
+        # tgt_dummy = torch.zeros_like(embedded)
+        # transformed = self.transformer(embedded, tgt_dummy)
 
         output = self.fc(transformed)
         return output

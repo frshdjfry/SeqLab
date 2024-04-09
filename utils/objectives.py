@@ -84,11 +84,11 @@ def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs
 def objective_multi_lstm(trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
                          epochs):
     # Hyperparameters to tune
-    lr = trial.suggest_loguniform('lr', 1e-5, 1e-1)
+    lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
     num_layers = trial.suggest_int('num_layers', 1, 3)
-    embedding_dim = trial.suggest_categorical('embedding_dim', [64, 128, 256])
-    hidden_dim = trial.suggest_categorical('hidden_dim', [128, 256, 512])
-    batch_size = trial.suggest_categorical('batch_size', [16, 32, 64])
+    embedding_dim = trial.suggest_categorical('embedding_dim', [256, 512])
+    hidden_dim = trial.suggest_categorical('hidden_dim', [256, 512,])
+    batch_size = trial.suggest_categorical('batch_size', [32, 64])
 
     # Initialize the LSTM model with the suggested hyperparameters
     model = MultiLSTMModel(feature_vocabs=feature_vocabs, target_feature=target_feature,
@@ -114,11 +114,11 @@ def objective_multi_lstm(trial, train_data, test_data, feature_vocabs, target_fe
 def objective_multi_lstm_attention(trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
                          epochs):
     # Hyperparameters to tune
-    lr = trial.suggest_loguniform('lr', 1e-5, 1e-1)
+    lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
     num_layers = trial.suggest_int('num_layers', 1, 3)
-    embedding_dim = trial.suggest_categorical('embedding_dim', [64, 128, 256])
+    embedding_dim = trial.suggest_categorical('embedding_dim', [256, 512])
     hidden_dim = trial.suggest_categorical('hidden_dim', [128, 256, 512])
-    batch_size = trial.suggest_categorical('batch_size', [16, 32, 64])
+    batch_size = trial.suggest_categorical('batch_size', [32, 64])
 
     # Initialize the LSTM model with the suggested hyperparameters
     model = MultiLSTMAttentionModel(feature_vocabs=feature_vocabs, target_feature=target_feature,
