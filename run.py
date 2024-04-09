@@ -7,10 +7,11 @@ from data.many_to_many_data_preprocessing import preprocess_man_to_many_data, sp
 from models.lstm_attention import LSTMModelWithAttention
 from models.multi_gpt import MultiGPTModel
 from models.multi_lstm import MultiLSTMModel
+from models.multi_lstm_attention import MultiLSTMAttentionModel
 from models.multi_transformer import MultiTransformerModel
 from utils.evaluators import train_and_save_word2vec
 from utils.objectives import objective_markov, objective_lstm, objective_transformer, objective_gpt, \
-    objective_multi_lstm, objective_multi_transformer, objective_multi_gpt
+    objective_multi_lstm, objective_multi_transformer, objective_multi_gpt, objective_multi_lstm_attention
 
 # Import your model classes
 from models.markov import MarkovModel
@@ -37,6 +38,8 @@ def get_model_class(name):
         return TransformerModel
     elif name == "MultiLSTMModel":
         return MultiLSTMModel
+    elif name == "MultiLSTMAttentionModel":
+        return MultiLSTMAttentionModel
     elif name == "MultiTransformerModel":
         return MultiTransformerModel
     elif name == "MultiGPTModel":
@@ -67,6 +70,11 @@ def objective_many_to_one(trial, model_config, train_data, test_data, feature_vo
 
     if model_class == MultiLSTMModel:
         return objective_multi_lstm(
+            trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
+            epochs
+        )
+    elif model_class == MultiLSTMAttentionModel:
+        return objective_multi_lstm_attention(
             trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
             epochs
         )
