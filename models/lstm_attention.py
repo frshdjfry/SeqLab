@@ -45,7 +45,7 @@ class LSTMModelWithAttention(nn.Module):
         out = self.fc(context_vector)
         return out
 
-    def train_model(self, encoded_seqs, validation_encoded_seqs, epochs=10, batch_size=64, patience=10, **kwargs):
+    def train_model(self, encoded_seqs, validation_encoded_seqs, epochs=10, batch_size=64, patience=20, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
 
         train_dataset = self.prepare_dataset(encoded_seqs)

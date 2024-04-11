@@ -40,7 +40,7 @@ class MultiGPTModel(nn.Module):
 
         return logits
 
-    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=10, **kwargs):
+    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=20, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
         self.max_lengths = {feature: max(len(seq) for seq in sequences) for feature, sequences in
                             encoded_seqs_dict.items()}
@@ -88,20 +88,17 @@ class MultiGPTModel(nn.Module):
                 self.final_epoch_loss = best_val_loss
 
     def evaluate(self, data_loader):
-        try:
-            self.eval()
-            total_loss = 0
-            with torch.no_grad():
-                for inputs, targets in data_loader:
-                    inputs, targets = inputs.to(self.device), targets.to(self.device)
-                    print(inputs.shape)
-                    outputs = self.forward(inputs)
-                    loss = self.criterion(outputs, targets)
-                    total_loss += loss.item()
+        self.eval()
+        total_loss = 0
+        with torch.no_grad():
+            for inputs, targets in data_loader:
+                inputs, targets = inputs.to(self.device), targets.to(self.device)
+                outputs = self.forward(inputs)
+                loss = self.criterion(outputs, targets)
+                total_loss += loss.item()
 
-            return total_loss / len(data_loader)
-        except:
-            return 0
+        return total_loss / len(data_loader)
+
 
     def prepare_dataset(self, encoded_seqs_dict):
         feature_tensors = []

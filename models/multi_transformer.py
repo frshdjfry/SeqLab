@@ -32,7 +32,7 @@ class MultiTransformerModel(nn.Module):
         self.fc = nn.Linear(embedding_dim * len(vocab), self.num_classes).to(self.device)
         self.final_epoch_loss = 0
 
-    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=10, **kwargs):
+    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=20, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
 
         dataset = self.prepare_dataset(encoded_seqs_dict)

@@ -44,7 +44,7 @@ class MultiLSTMModel(BaseModel, nn.Module):
         final_output = self.fc(concatenated)
         return final_output
 
-    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=10, **kwargs):
+    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=20, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
 
         dataset = self.prepare_dataset(encoded_seqs_dict)
@@ -89,6 +89,7 @@ class MultiLSTMModel(BaseModel, nn.Module):
         total_loss = 0
         with torch.no_grad():
             for inputs, targets in data_loader:
+                inputs, targets = inputs.to(self.model.device), targets.to(self.model.device)
                 outputs = self.forward(inputs)
                 loss = self.criterion(outputs, targets)
                 total_loss += loss.item()

@@ -32,7 +32,7 @@ class GPTModel(BaseModel):
         self.final_epoch_loss = 0
         self.criterion = nn.CrossEntropyLoss().to(self.device)
 
-    def train_model(self, encoded_seqs, validation_encoded_seqs, epochs=10, batch_size=64, patience=10, **kwargs):
+    def train_model(self, encoded_seqs, validation_encoded_seqs, epochs=10, batch_size=64, patience=20, **kwargs):
         dataset = self.prepare_dataset(encoded_seqs)
         validation_dataset = self.prepare_dataset(validation_encoded_seqs)
         train_loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
