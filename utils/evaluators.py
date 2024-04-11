@@ -1,16 +1,15 @@
-import os
-
 import math
-from gensim.models import Word2Vec
 
 from models.markov import MarkovModel
 from scipy.spatial.distance import cosine
 
 
 def evaluate_model(model, test_data, word2vec_model, vocab, target_feature=None):
-    predictions, actuals, probabilities, sequences, final_epoch_loss = collect_predictions(model,
-                                                                                           test_data,
-                                                                                           target_feature)
+    predictions, actuals, probabilities, sequences, final_epoch_loss = collect_predictions(
+        model,
+        test_data,
+        target_feature
+    )
     avg_similarity = calculate_total_similarity(predictions, actuals, word2vec_model) / len(predictions)
     accuracy = calculate_accuracy(predictions, actuals)
     total_log_likelihood = calculate_total_log_likelihood(probabilities)
@@ -50,15 +49,11 @@ def collect_predictions(model, test_data, target_feature):
 
 
 def word2vec_similarity(model, word1, word2):
-    # print(word1)
-    # print(word2)
-    # word1 = int(word1)
-    # word2 = int(word2)
     if word1 in model.wv.index_to_key and word2 in model.wv.index_to_key:
-        similarity = 1 - cosine(model.wv[word1], model.wv[word2])  # Cosine similarity is 1 - cosine distance
+        similarity = 1 - cosine(model.wv[word1], model.wv[word2])
         return similarity if similarity > 0.0 else 0.0
     else:
-        return 0.0  # Return 0 similarity if any word is not in the vocabulary
+        return 0.0
 
 
 def calculate_total_similarity(predictions, actuals, word2vec_model):
@@ -78,7 +73,7 @@ def calculate_perplexity(avg_log_likelihood):
 
 
 def print_predictions(predicted_values, actual_values, sequences, vocab, target_feature):
-    vocab_inv = vocab if not target_feature else vocab[target_feature]
+    vocab_inv = vocab[target_feature] if isinstance(vocab[list(vocab.keys())[0]], dict) else vocab
     print("First 20 Predictions vs Actual Values:")
     for i, (pred, actual, seq) in enumerate(zip(predicted_values, actual_values, sequences[:20])):
         if isinstance(seq[0], list):
@@ -88,29 +83,3 @@ def print_predictions(predicted_values, actual_values, sequences, vocab, target_
             f"{i + 1:02d}. Sequence: {readable_sequence}, \nPredicted: {vocab_inv.get(pred, 'UNK')}, "
             f"\nActual: {vocab_inv[actual]}")
 
-
-def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
-    # Ensure the directory for models exists
-    os.makedirs(models_dir, exist_ok=True)
-
-    # Define the path for the model based on the dataset name
-    model_path = os.path.join(models_dir, f"word2vec_{dataset_name}.model")
-
-    # Train the Word2Vec model
-    model = Word2Vec(sentences=sentences, vector_size=100, window=5, min_count=1, workers=4)
-
-    # Save the model
-    model.save(model_path)
-
-    print(f"Word2Vec model saved for '{dataset_name}' at '{model_path}'")
-    return model
-
-
-def load_word2vec_model(dataset_name, models_dir="./"):
-    model_path = os.path.join(models_dir, f"word2vec_{dataset_name}.model")
-    if os.path.exists(model_path):
-        model = Word2Vec.load(model_path)
-        print(f"Loaded Word2Vec model from '{model_path}'")
-        return model
-    else:
-        raise FileNotFoundError(f"No pre-trained Word2Vec model found at '{model_path}'. Please train one first.")

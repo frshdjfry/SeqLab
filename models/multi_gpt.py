@@ -7,15 +7,14 @@ from transformers import GPT2LMHeadModel, GPT2Config
 
 
 class MultiGPTModel(nn.Module):
-    def __init__(self, feature_vocabs, target_feature, nhead, embedding_dim, num_layers, dim_feedforward,
-                 gpt2_model_name='gpt2', lr=0.001):
+    def __init__(self, vocab, target_feature, nhead, num_layers, dim_feedforward, lr=0.001, **kwargs):
         super(MultiGPTModel, self).__init__()
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.lr = lr
         self.target_feature = target_feature
         self.criterion = nn.CrossEntropyLoss().to(self.device)
 
-        feature_dims = self.extract_dims(feature_vocabs)
+        feature_dims = self.extract_dims(vocab)
         self.config = GPT2Config(
             vocab_size=sum(feature_dims),
             n_layer=num_layers,
@@ -25,32 +24,29 @@ class MultiGPTModel(nn.Module):
         )
         self.gpt2 = GPT2LMHeadModel(self.config).to(self.device)
 
-        self.num_classes = len(feature_vocabs[self.target_feature]) + 1  # Define this based on your dataset
+        self.num_classes = len(vocab[self.target_feature]) + 1
         self.fc = nn.Linear(self.gpt2.config.n_embd, self.num_classes).to(self.device)
         self.final_epoch_loss = 0.0
         self.feature_projection = None
         self.max_lengths = {}
 
     def forward(self, inputs):
-        # Project the input features
-        projected_features = self.feature_projection(inputs.float())
 
-        # Process through GPT-2
+        projected_features = self.feature_projection(inputs.float())
 
         gpt2_outputs = self.gpt2(inputs_embeds=projected_features, output_hidden_states=True)
         last_hidden_states = gpt2_outputs.hidden_states[-1]
 
-        # We use the last hidden state for the classification task
         logits = self.fc(last_hidden_states[:, -1, :])
 
         return logits
 
-    def train_model(self, encoded_seqs_dict, epochs=10, batch_size=64):
+    def train_model(self, encoded_seqs_dict, epochs=10, batch_size=64, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
         self.max_lengths = {feature: max(len(seq) for seq in sequences) for feature, sequences in
                             encoded_seqs_dict.items()}
         self.feature_projection = nn.Linear(self.max_lengths[self.target_feature] - 1, self.gpt2.config.n_embd).to(
-            self.device)  # -1 for predicting last one
+            self.device)
 
         dataset = self.prepare_dataset(encoded_seqs_dict)
         train_loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
@@ -106,7 +102,7 @@ class MultiGPTModel(nn.Module):
             return probabilities.squeeze().tolist()
 
     def prepare_features(self, features):
-        # Assume 'features' is a list of lists, where each inner list is a feature vector
+
         prepared_features = [torch.tensor(feature, dtype=torch.long).to(self.device) for feature in features]
 
         padded_feature_tensors = [pad_sequence([feat], batch_first=True, padding_value=0).to(self.device) for feat in
@@ -128,7 +124,7 @@ class MultiGPTModel(nn.Module):
         feature_dims = []
 
         for feature, vocab in vocabs.items():
-            vocab_size = len(vocab)  # Get the size of the vocabulary
-            feature_dims.append(vocab_size + 1)  # Add 1 to account for the 0 padding index
+            vocab_size = len(vocab)
+            feature_dims.append(vocab_size + 1)
 
         return feature_dims

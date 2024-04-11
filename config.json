@@ -1,31 +1,62 @@
 {
   "one_to_one": {
     "datasets": [
-      "data/cocopops.csv",
-      "data/mcgill.txt"
+      "data/cocopops.csv"
     ],
     "target_feature": "**harte",
     "models": [
       {
         "name": "MarkovModel",
-        "epochs": 0
+        "epochs": 1,
+        "optimization_config": {
+          "alpha": {"type": "float", "min": 1e-5, "max": 1.0}
+        }
       },
       {
         "name": "LSTMModel",
-        "epochs": 40
+        "epochs": 100,
+        "optimization_config": {
+          "lr": {"type": "loguniform", "min": 1e-3, "max": 1e-2},
+          "num_layers": {"type": "int", "min": 1, "max": 2},
+          "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
+          "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
+          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+        }
       },
       {
         "name": "LSTMModelWithAttention",
-        "epochs": 40
-      },
-      {
-        "name": "GPTModel",
-        "epochs": 40
+        "epochs": 100,
+        "optimization_config": {
+          "lr": {"type": "loguniform", "min": 1e-3, "max": 1e-2},
+          "num_layers": {"type": "int", "min": 1, "max": 2},
+          "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
+          "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
+          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+        }
       },
       {
         "name": "TransformerModel",
-        "epochs": 40
+        "epochs": 100,
+        "optimization_config": {
+          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
+          "nhead": {"type": "categorical", "values": [2, 4, 8]},
+          "num_layers": {"type": "int", "min": 1, "max": 2},
+          "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
+          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+        }
+      },
+      {
+        "name": "GPTModel",
+        "epochs": 100,
+        "optimization_config": {
+          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
+          "nhead": {"type": "categorical", "values": [2, 4, 8]},
+          "num_layers": {"type": "int", "min": 1, "max": 2},
+          "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
+          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+        }
       }
+
     ]
   },
   "many_to_one": {
@@ -40,7 +71,49 @@
     "models": [
       {
         "name": "MultiLSTMModel",
-        "epochs": 40
+        "epochs": 100,
+        "optimization_config": {
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
+          "num_layers": {"type": "int", "min": 1, "max": 2},
+          "embedding_dim": {"type": "categorical", "values": [256, 512]},
+          "hidden_dim": {"type": "categorical", "values": [256, 512]},
+          "batch_size": {"type": "categorical", "values": [32, 64]}
+        }
+      },
+      {
+        "name": "MultiLSTMAttentionModel",
+        "epochs": 100,
+        "optimization_config": {
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
+          "num_layers": {"type": "int", "min": 1, "max": 2},
+          "embedding_dim": {"type": "categorical", "values": [256, 512]},
+          "hidden_dim": {"type": "categorical", "values": [256, 512]},
+          "batch_size": {"type": "categorical", "values": [32, 64]}
+        }
+      },
+      {
+        "name": "MultiTransformerModel",
+        "epochs": 100,
+        "optimization_config": {
+          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
+          "nhead": {"type": "categorical", "values": [8, 16, 32]},
+          "embedding_dim": {"type": "categorical", "values": [64, 128, 256]},
+          "num_layers": {"type": "int", "min": 1, "max": 3},
+          "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
+          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+        }
+      },
+      {
+        "name": "MultiGPTModel",
+        "epochs": 100,
+        "optimization_config": {
+          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
+          "nhead": {"type": "categorical", "values": [8, 16, 32]},
+          "embedding_dim": {"type": "categorical", "values": [64, 128, 256]},
+          "num_layers": {"type": "int", "min": 1, "max": 3},
+          "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
+          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+        }
       }
     ]
   }

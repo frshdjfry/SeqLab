@@ -5,14 +5,12 @@ from models.model_interface import BaseModel
 
 
 class MarkovModel(BaseModel):
-    def __init__(self, alpha=0.01):
+    def __init__(self, alpha, **kwargs):
         self.transition_matrix = defaultdict(lambda: defaultdict(int))
-        self.vocab = None
-        self.vocab_inv = None
-        self.alpha = alpha  # Smoothing parameter
+        self.alpha = alpha
         self.final_epoch_loss = 0
 
-    def train_model(self, encoded_seqs):
+    def train_model(self, encoded_seqs, **kwargs):
         for seq in encoded_seqs:
             for i in range(len(seq) - 1):
                 current_chord = seq[i]
@@ -22,7 +20,8 @@ class MarkovModel(BaseModel):
         for current_chord, next_chords in self.transition_matrix.items():
             total_transitions = sum(next_chords.values()) + len(next_chords) * self.alpha
             for next_chord in next_chords:
-                self.transition_matrix[current_chord][next_chord] = (self.transition_matrix[current_chord][next_chord] + self.alpha) / total_transitions
+                self.transition_matrix[current_chord][next_chord] = (self.transition_matrix[current_chord][
+                                                                         next_chord] + self.alpha) / total_transitions
 
     def predict(self, sequence):
         current_chord = sequence[-1]
@@ -35,21 +34,3 @@ class MarkovModel(BaseModel):
 
     def get_transition_probability(self, current_chord, next_chord):
         return self.transition_matrix[current_chord].get(next_chord, 0)
-
-    def set_vocab(self, vocab, vocab_inv):
-        self.vocab = vocab
-        self.vocab_inv = vocab_inv
-
-    def predict_chord(self, current_chord_name):
-        if self.vocab is None or self.vocab_inv is None:
-            raise ValueError("Vocabulary not set. Please call set_vocab before predicting.")
-
-        current_chord_id = self.vocab.get(current_chord_name)
-        if current_chord_id is None:
-            raise ValueError(f"Chord '{current_chord_name}' not found in vocabulary.")
-
-        next_chord_id = self.predict(current_chord_id)
-        if next_chord_id is not None:
-            return self.vocab_inv[next_chord_id]
-        return None
-

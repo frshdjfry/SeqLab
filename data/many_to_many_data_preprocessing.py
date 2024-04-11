@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
-def preprocess_man_to_many_data(filename, required_features):
+def preprocess_many_to_many_data(filename, required_features):
     # Read the CSV into a DataFrame
     df = pd.read_csv(filename)
 
