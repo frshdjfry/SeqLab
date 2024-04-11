@@ -1,9 +1,10 @@
 import datetime
 import os
-from torch import optim
+from torch import optim, nn
 import torch
-from torch.utils.data import Dataset
-from transformers import Trainer, TrainingArguments, GPT2Config, GPT2LMHeadModel, TrainerCallback
+from torch.nn.utils.rnn import pad_sequence
+from torch.utils.data import Dataset, TensorDataset, DataLoader
+from transformers import Trainer, TrainingArguments, GPT2Config, GPT2LMHeadModel, TrainerCallback, EarlyStoppingCallback
 
 from models.model_interface import BaseModel
 
@@ -16,6 +17,7 @@ if torch.backends.mps.is_built():
 class GPTModel(BaseModel):
     def __init__(self, vocab, lr=0.001, num_layers=12, nhead=12, dim_feedforward=3072, **kwargs):
         vocab_size = len(vocab) + 1
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.config = GPT2Config(
             vocab_size=vocab_size,
             n_layer=num_layers,
@@ -28,28 +30,70 @@ class GPTModel(BaseModel):
         self.optimizer = optim.Adam(self.model.parameters(), lr=self.lr)
         self.model.internal_final_epoch_loss = 0
         self.final_epoch_loss = 0
+        self.criterion = nn.CrossEntropyLoss().to(self.device)
 
-    def train_model(self, encoded_seqs, epochs=3, batch_size=16, **kwargs):
-        dataset = GPTChordDataset(encoded_seqs, self.config.vocab_size)
-        now = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-        output_dir = f"./gpt_chords/gpt_chords_{now}"
+    def train_model(self, encoded_seqs, validation_encoded_seqs, epochs=10, batch_size=64, patience=10, **kwargs):
+        dataset = self.prepare_dataset(encoded_seqs)
+        validation_dataset = self.prepare_dataset(validation_encoded_seqs)
+        train_loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
+        validation_loader = DataLoader(validation_dataset, batch_size=batch_size, shuffle=False)
 
-        training_args = TrainingArguments(
-            output_dir=output_dir,
-            num_train_epochs=epochs,
-            per_device_train_batch_size=batch_size,
-            logging_dir='./logs',
-            logging_steps=10,
-        )
+        best_val_loss = float('inf')
+        patience_counter = 0
 
-        trainer = Trainer(
-            model=self.model,
-            args=training_args,
-            train_dataset=dataset,
-            callbacks=[CaptureFinalLossCallback()]
-        )
-        trainer.train()
-        self.final_epoch_loss = self.model.internal_final_epoch_loss
+        for epoch in range(epochs):
+            self.model.train()
+            total_train_loss = 0
+
+            for inputs, targets in train_loader:
+                inputs, targets = inputs.to(self.model.device), targets.to(self.model.device)
+                self.optimizer.zero_grad()
+                outputs = self.model(inputs).logits
+                outputs =outputs[:, -1, :]
+                loss = self.criterion(outputs, targets)
+                loss.backward()
+                self.optimizer.step()
+
+                total_train_loss += loss.item()
+
+            avg_train_loss = total_train_loss / len(train_loader)
+            avg_val_loss = self.evaluate(validation_loader)
+            print(f'Epoch {epoch + 1}/{epochs}, Training Loss: {avg_train_loss}, Validation Loss: {avg_val_loss}')
+
+            if avg_val_loss < best_val_loss:
+                best_val_loss = avg_val_loss
+                patience_counter = 0  # Reset patience
+                # torch.save(self.model.state_dict(), 'best_model.pth')
+            else:
+                patience_counter += 1
+                if patience_counter >= patience:
+                    print(f"Early stopping triggered at epoch {epoch + 1}")
+                    self.final_epoch_loss = best_val_loss
+                    break
+
+            if epoch == epochs - 1:
+                self.final_epoch_loss = avg_train_loss
+
+    def evaluate(self, data_loader):
+        self.model.eval()
+        total_loss = 0
+        with torch.no_grad():
+            for inputs, targets in data_loader:
+                outputs = self.model(inputs)
+                loss = self.criterion(outputs.logits[:, -1, :], targets)
+                total_loss += loss.item()
+
+        return total_loss / len(data_loader)
+
+    def prepare_dataset(self, encoded_seqs):
+        inputs, targets = [], []
+        for seq in encoded_seqs:
+            inputs.append(torch.tensor(seq[:-1], dtype=torch.long).to(self.model.device))
+            targets.append(seq[-1])
+
+        inputs_padded = pad_sequence(inputs, batch_first=True, padding_value=0)
+        targets = torch.tensor(targets, dtype=torch.long).to(self.model.device)
+        return TensorDataset(inputs_padded, targets)
 
     def predict(self, input_sequence, num_predictions=1):
         input_ids = torch.tensor([input_sequence], dtype=torch.long, device=device)

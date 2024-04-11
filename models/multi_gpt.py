@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 from torch import optim
-from torch.nn.utils.rnn import pad_sequence
 from torch.utils.data import DataLoader, TensorDataset
 from transformers import GPT2LMHeadModel, GPT2Config
 
@@ -41,7 +40,7 @@ class MultiGPTModel(nn.Module):
 
         return logits
 
-    def train_model(self, encoded_seqs_dict, epochs=10, batch_size=64, **kwargs):
+    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=10, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
         self.max_lengths = {feature: max(len(seq) for seq in sequences) for feature, sequences in
                             encoded_seqs_dict.items()}
@@ -49,7 +48,12 @@ class MultiGPTModel(nn.Module):
             self.device)
 
         dataset = self.prepare_dataset(encoded_seqs_dict)
+        validation_dataset = self.prepare_dataset(validation_encoded_seqs)
         train_loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
+        validation_loader = DataLoader(validation_dataset, batch_size=batch_size, shuffle=True)
+
+        best_val_loss = float('inf')
+        patience_counter = 0
 
         for epoch in range(epochs):
             self.train()
@@ -65,18 +69,49 @@ class MultiGPTModel(nn.Module):
 
                 total_loss += loss.item()
 
-            print(f'Epoch {epoch + 1}/{epochs}, Loss: {total_loss / len(train_loader)}')
+            avg_train_loss = total_loss / len(train_loader)
+            avg_val_loss = self.evaluate(validation_loader)
+            print(f'Epoch {epoch + 1}/{epochs}, Training Loss: {avg_train_loss}, Validation Loss: {avg_val_loss}')
+
+            if avg_val_loss < best_val_loss:
+                best_val_loss = avg_val_loss
+                patience_counter = 0  # Reset patience
+                # torch.save(self.model.state_dict(), 'best_model.pth')
+            else:
+                patience_counter += 1
+                if patience_counter >= patience:
+                    print(f"Early stopping triggered at epoch {epoch + 1}")
+                    self.final_epoch_loss = best_val_loss
+                    break
 
             if epoch == epochs - 1:
-                self.final_epoch_loss = total_loss / len(train_loader)
+                self.final_epoch_loss = best_val_loss
+
+    def evaluate(self, data_loader):
+        try:
+            self.eval()
+            total_loss = 0
+            with torch.no_grad():
+                for inputs, targets in data_loader:
+                    inputs, targets = inputs.to(self.device), targets.to(self.device)
+                    print(inputs.shape)
+                    outputs = self.forward(inputs)
+                    loss = self.criterion(outputs, targets)
+                    total_loss += loss.item()
+
+            return total_loss / len(data_loader)
+        except:
+            return 0
 
     def prepare_dataset(self, encoded_seqs_dict):
         feature_tensors = []
         target_values = []
 
         for feature, sequences in encoded_seqs_dict.items():
+            max_length = self.max_lengths[feature] - 1
             feature_tensor = [torch.tensor(sequence[:-1], dtype=torch.long) for sequence in sequences]
-            padded_feature_tensor = pad_sequence(feature_tensor, batch_first=True)
+            padded_feature_tensor = self.pad_sequence(feature_tensor, batch_first=True, padding_value=0,
+                                                      max_length=max_length)
             feature_tensors.append(padded_feature_tensor)
             if feature == self.target_feature:
                 target_values = [sequence[-1] for sequence in sequences]
@@ -84,6 +119,17 @@ class MultiGPTModel(nn.Module):
         input_tensor = torch.stack(feature_tensors, dim=1)
         target_tensor = torch.tensor(target_values, dtype=torch.long)
         return TensorDataset(input_tensor, target_tensor)
+
+    def pad_sequence(self, sequences, batch_first, padding_value, max_length):
+        padded_sequences = []
+        for seq in sequences:
+            padded_seq = seq if len(seq) >= max_length else torch.cat(
+                [seq, torch.full((max_length - len(seq),), padding_value, dtype=seq.dtype)])
+            padded_sequences.append(padded_seq)
+        if batch_first:
+            return torch.stack(padded_sequences, dim=0)
+        else:
+            return torch.stack(padded_sequences, dim=1)
 
     def predict(self, features):
         self.eval()
@@ -102,29 +148,21 @@ class MultiGPTModel(nn.Module):
             return probabilities.squeeze().tolist()
 
     def prepare_features(self, features):
-
         prepared_features = [torch.tensor(feature, dtype=torch.long).to(self.device) for feature in features]
-
-        padded_feature_tensors = [pad_sequence([feat], batch_first=True, padding_value=0).to(self.device) for feat in
-                                  prepared_features]
         max_length = self.max_lengths[self.target_feature] - 1
-
-        padded_and_reshaped_tensors = [
-            feat_tensor if feat_tensor.shape[1] == max_length else torch.nn.functional.pad(feat_tensor,
-                                                                                           (0, max_length -
-                                                                                            feat_tensor.shape[1]),
-                                                                                           "constant", 0) for
-            feat_tensor in
-            padded_feature_tensors]
-        input_tensor = torch.stack(padded_and_reshaped_tensors, dim=1)
-
+        padded_feature_tensors = [
+            self.pad_sequence(
+                [feat],
+                batch_first=True,
+                padding_value=0,
+                max_length=max_length
+            ).to(self.device) for feat in prepared_features]
+        input_tensor = torch.stack(padded_feature_tensors, dim=1)
         return input_tensor
 
     def extract_dims(self, vocabs):
         feature_dims = []
-
         for feature, vocab in vocabs.items():
             vocab_size = len(vocab)
             feature_dims.append(vocab_size + 1)
-
         return feature_dims

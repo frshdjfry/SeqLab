@@ -45,15 +45,22 @@ class LSTMModelWithAttention(nn.Module):
         out = self.fc(context_vector)
         return out
 
-    def train_model(self, encoded_seqs, epochs=10, batch_size=64, **kwargs):
+    def train_model(self, encoded_seqs, validation_encoded_seqs, epochs=10, batch_size=64, patience=10, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
 
-        dataset = self.prepare_dataset(encoded_seqs)
-        train_loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
+        train_dataset = self.prepare_dataset(encoded_seqs)
+        validation_dataset = self.prepare_dataset(validation_encoded_seqs)
+
+        train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
+        validation_loader = DataLoader(validation_dataset, batch_size=batch_size, shuffle=False)
+
+        best_val_loss = float('inf')
+        patience_counter = 0
 
         for epoch in range(epochs):
             self.train_mode()
-            total_loss = 0
+            total_train_loss = 0
+
             for inputs, targets in train_loader:
                 inputs, targets = inputs.to(self.device), targets.to(self.device)
                 self.optimizer.zero_grad()
@@ -61,11 +68,37 @@ class LSTMModelWithAttention(nn.Module):
                 loss = self.criterion(outputs, targets)
                 loss.backward()
                 self.optimizer.step()
-                total_loss += loss.item()
-            print(f'Epoch {epoch + 1}/{epochs}, Loss: {total_loss / len(train_loader)}')
+                total_train_loss += loss.item()
+
+            avg_train_loss = total_train_loss / len(train_loader)
+            avg_val_loss = self.evaluate(validation_loader)
+
+            print(f'Epoch {epoch + 1}/{epochs}, Training Loss: {avg_train_loss}, Validation Loss: {avg_val_loss}')
+
+            if avg_val_loss < best_val_loss:
+                best_val_loss = avg_val_loss
+                patience_counter = 0  # Reset patience
+                # torch.save(self.state_dict(), 'best_model.pth')
+            else:
+                patience_counter += 1
+                if patience_counter >= patience:
+                    print(f"Early stopping triggered at epoch {epoch + 1}")
+                    self.final_epoch_loss = best_val_loss
+                    break
 
             if epoch == epochs - 1:
-                self.final_epoch_loss = total_loss / len(train_loader)
+                self.final_epoch_loss = best_val_loss
+
+    def evaluate(self, data_loader):
+        self.eval_mode()
+        total_loss = 0
+        with torch.no_grad():
+            for inputs, targets in data_loader:
+                outputs = self.forward(inputs)
+                loss = self.criterion(outputs, targets)
+                total_loss += loss.item()
+
+        return total_loss / len(data_loader)
 
     def predict(self, sequence):
         self.eval_mode()

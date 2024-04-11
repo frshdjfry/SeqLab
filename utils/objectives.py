@@ -17,8 +17,7 @@ def get_objective_function(trial, model_class, train_data, test_data, word2vec_m
                            target_feature=None):
     params = suggest_hyperparameters(trial, model_config['optimization_config'])
     model = model_class(vocab=vocab, target_feature=target_feature, **params)
-    model.train_model(train_data, epochs=model_config['epochs'], **params)
-    print(vocab)
+    model.train_model(train_data, test_data, epochs=model_config['epochs'], **params)
     accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(
         model=model,
         test_data=test_data,
