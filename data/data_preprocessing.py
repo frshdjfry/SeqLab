@@ -4,7 +4,7 @@ import os
 from gensim.models import Word2Vec
 from sklearn.model_selection import train_test_split
 
-from data import preprocess_many_to_many_data, split_multi_feature_data
+from data.many_to_many_data_preprocessing import preprocess_many_to_many_data, split_multi_feature_data
 
 
 def preprocess_data(filename):
