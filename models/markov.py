@@ -10,7 +10,7 @@ class MarkovModel(BaseModel):
         self.alpha = alpha
         self.final_epoch_loss = 0
 
-    def train_model(self, encoded_seqs, **kwargs):
+    def train_model(self, encoded_seqs, validation_encoded_seqs, **kwargs):
         for seq in encoded_seqs:
             for i in range(len(seq) - 1):
                 current_chord = seq[i]
