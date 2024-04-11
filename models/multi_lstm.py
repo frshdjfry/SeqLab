@@ -89,7 +89,7 @@ class MultiLSTMModel(BaseModel, nn.Module):
         total_loss = 0
         with torch.no_grad():
             for inputs, targets in data_loader:
-                inputs, targets = inputs.to(self.model.device), targets.to(self.model.device)
+                inputs, targets = inputs.to(self.device), targets.to(self.device)
                 outputs = self.forward(inputs)
                 loss = self.criterion(outputs, targets)
                 total_loss += loss.item()

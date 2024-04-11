@@ -30,7 +30,7 @@ class LSTMModel(BaseModel, nn.Module):
         out = self.fc(lstm_out[:, -1])
         return out
 
-    def train_model(self, encoded_seqs, validation_encoded_seqs, epochs=10, batch_size=64, patience=20, **kwargs):
+    def train_model(self, encoded_seqs, validation_encoded_seqs, epochs=10, batch_size=64, patience=50, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
 
         # Prepare datasets
