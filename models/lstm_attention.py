@@ -10,7 +10,8 @@ class Attention(nn.Module):
     def __init__(self, hidden_dim):
         super(Attention, self).__init__()
         self.hidden_dim = hidden_dim
-        self.attn = nn.Linear(self.hidden_dim, 1)
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.attn = nn.Linear(self.hidden_dim, 1).to(self.device)
 
     def forward(self, lstm_output):
         attention_scores = torch.softmax(self.attn(lstm_output).squeeze(2), dim=1)
