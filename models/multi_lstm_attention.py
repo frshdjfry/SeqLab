@@ -56,8 +56,8 @@ class MultiLSTMAttentionModel(nn.Module):
 
         best_val_loss = float('inf')
         patience_counter = 0
-
         for epoch in range(epochs):
+            self.train_mode()
             total_loss = 0
             for inputs, targets in train_loader:
                 inputs, targets = inputs.to(self.device), targets.to(self.device)
