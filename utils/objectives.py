@@ -5,7 +5,7 @@ from models.multi_gpt import MultiGPTModel
 from models.multi_lstm import MultiLSTMModel
 from models.multi_lstm_attention import MultiLSTMAttentionModel
 from models.multi_transformer import MultiTransformerModel
-from utils.evaluators import evaluate_one_to_one_model, load_word2vec_model, evaluate_many_to_one_model
+from utils.evaluators import load_word2vec_model, evaluate_model
 from models.transformer import TransformerModel
 
 
@@ -16,8 +16,8 @@ def objective_markov(trial, train_data, test_data, dataset_name, vocab_inv):
     model.train_model(train_data)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model,
-                                                                                       vocab_inv)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data, word2vec_model,
+                                                                            vocab_inv)
 
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
@@ -34,8 +34,8 @@ def objective_lstm(trial, train_data, test_data, vocab_size, dataset_name, epoch
     model.train_model(encoded_seqs=train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model,
-                                                                                       vocab_inv)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data, word2vec_model,
+                                                                            vocab_inv)
 
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
@@ -55,8 +55,8 @@ def objective_transformer(trial, train_data, test_data, vocab_size, dataset_name
     model.train_model(train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model,
-                                                                                       vocab_inv)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data, word2vec_model,
+                                                                            vocab_inv)
 
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
@@ -75,8 +75,8 @@ def objective_gpt(trial, train_data, test_data, vocab_size, dataset_name, epochs
     model.train_model(train_data, epochs=epochs, batch_size=batch_size)
 
     word2vec_model = load_word2vec_model(dataset_name)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_one_to_one_model(model, test_data, word2vec_model,
-                                                                                       vocab_inv)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data, word2vec_model,
+                                                                            vocab_inv)
 
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
@@ -85,9 +85,9 @@ def objective_multi_lstm(trial, train_data, test_data, feature_vocabs, target_fe
                          epochs):
     # Hyperparameters to tune
     lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
-    num_layers = trial.suggest_int('num_layers', 1, 3)
+    num_layers = trial.suggest_int('num_layers', 1, 2)
     embedding_dim = trial.suggest_categorical('embedding_dim', [256, 512])
-    hidden_dim = trial.suggest_categorical('hidden_dim', [256, 512,])
+    hidden_dim = trial.suggest_categorical('hidden_dim', [256, 512, ])
     batch_size = trial.suggest_categorical('batch_size', [32, 64])
 
     # Initialize the LSTM model with the suggested hyperparameters
@@ -103,26 +103,26 @@ def objective_multi_lstm(trial, train_data, test_data, feature_vocabs, target_fe
     for feature, vocab in feature_vocabs.items():
         vocab_inv = {i + 1: value for value, i in vocab.items()}
         vocab_invs[feature] = vocab_inv
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_many_to_one_model(model, test_data,
-                                                                                        word2vec_model, vocab_invs,
-                                                                                        target_feature)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data,
+                                                                            word2vec_model, vocab_invs,
+                                                                            target_feature)
 
     # Return the metrics of interest
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
 
 def objective_multi_lstm_attention(trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
-                         epochs):
+                                   epochs):
     # Hyperparameters to tune
     lr = trial.suggest_loguniform('lr', 1e-3, 1e-2)
-    num_layers = trial.suggest_int('num_layers', 1, 3)
+    num_layers = trial.suggest_int('num_layers', 1, 2)
     embedding_dim = trial.suggest_categorical('embedding_dim', [256, 512])
     hidden_dim = trial.suggest_categorical('hidden_dim', [128, 256, 512])
     batch_size = trial.suggest_categorical('batch_size', [32, 64])
 
     # Initialize the LSTM model with the suggested hyperparameters
     model = MultiLSTMAttentionModel(feature_vocabs=feature_vocabs, target_feature=target_feature,
-                           embedding_dim=embedding_dim, hidden_dim=hidden_dim, num_layers=num_layers, lr=lr)
+                                    embedding_dim=embedding_dim, hidden_dim=hidden_dim, num_layers=num_layers, lr=lr)
 
     # Train the model on the training data
     model.train_model(train_data, epochs=epochs, batch_size=batch_size)
@@ -133,9 +133,9 @@ def objective_multi_lstm_attention(trial, train_data, test_data, feature_vocabs,
     for feature, vocab in feature_vocabs.items():
         vocab_inv = {i + 1: value for value, i in vocab.items()}
         vocab_invs[feature] = vocab_inv
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_many_to_one_model(model, test_data,
-                                                                                        word2vec_model, vocab_invs,
-                                                                                        target_feature)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data,
+                                                                            word2vec_model, vocab_invs,
+                                                                            target_feature)
 
     # Return the metrics of interest
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
@@ -170,15 +170,16 @@ def objective_multi_transformer(trial, train_data, test_data, feature_vocabs, ta
     for feature, vocab in feature_vocabs.items():
         vocab_inv = {i + 1: value for value, i in vocab.items()}
         vocab_invs[feature] = vocab_inv
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_many_to_one_model(model, test_data,
-                                                                                        word2vec_model, vocab_invs,
-                                                                                        target_feature)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data,
+                                                                            word2vec_model, vocab_invs,
+                                                                            target_feature)
 
     # Return the metrics of interest
     return accuracy, perplexity, w2v_similarity, final_epoch_loss
 
+
 def objective_multi_gpt(trial, train_data, test_data, feature_vocabs, target_feature, dataset_name,
-                                epochs):
+                        epochs):
     # Hyperparameters to be tuned
     lr = trial.suggest_loguniform('lr', 1e-4, 1e-2)
     nhead = trial.suggest_categorical('nhead', [8, 16, 32])
@@ -206,9 +207,9 @@ def objective_multi_gpt(trial, train_data, test_data, feature_vocabs, target_fea
     for feature, vocab in feature_vocabs.items():
         vocab_inv = {i + 1: value for value, i in vocab.items()}
         vocab_invs[feature] = vocab_inv
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_many_to_one_model(model, test_data,
-                                                                                        word2vec_model, vocab_invs,
-                                                                                        target_feature)
+    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(model, test_data,
+                                                                            word2vec_model, vocab_invs,
+                                                                            target_feature)
 
     # Return the metrics of interest
     return accuracy, perplexity, w2v_similarity, final_epoch_loss

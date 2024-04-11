@@ -10,6 +10,7 @@ class MarkovModel(BaseModel):
         self.vocab = None
         self.vocab_inv = None
         self.alpha = alpha  # Smoothing parameter
+        self.final_epoch_loss = 0
 
     def train_model(self, encoded_seqs):
         for seq in encoded_seqs:
@@ -26,7 +27,7 @@ class MarkovModel(BaseModel):
     def predict(self, sequence):
         current_chord = sequence[-1]
         if current_chord not in self.transition_matrix:
-            return None
+            return 0
 
         next_chords = self.transition_matrix[current_chord]
         next_chord = random.choices(list(next_chords.keys()), weights=next_chords.values())[0]
