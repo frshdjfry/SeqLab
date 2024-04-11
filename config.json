@@ -16,7 +16,7 @@
         "name": "LSTMModel",
         "epochs": 100,
         "optimization_config": {
-          "lr": {"type": "loguniform", "min": 1e-3, "max": 1e-2},
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
           "num_layers": {"type": "int", "min": 1, "max": 2},
           "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
           "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
@@ -27,7 +27,7 @@
         "name": "LSTMModelWithAttention",
         "epochs": 100,
         "optimization_config": {
-          "lr": {"type": "loguniform", "min": 1e-3, "max": 1e-2},
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
           "num_layers": {"type": "int", "min": 1, "max": 2},
           "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
           "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
