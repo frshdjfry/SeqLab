@@ -138,9 +138,9 @@ class MultiGPTModel(nn.Module):
                 [seq, torch.full((max_length - len(seq),), padding_value, dtype=seq.dtype).to(self.device)])
             padded_sequences.append(padded_seq)
         if batch_first:
-            return torch.stack(padded_sequences, dim=0)
+            return torch.stack(padded_sequences, dim=0).to(self.device)
         else:
-            return torch.stack(padded_sequences, dim=1)
+            return torch.stack(padded_sequences, dim=1).to(self.device)
 
     def predict(self, features):
         self.eval()
