@@ -96,9 +96,9 @@ def process_and_run_experiments(architecture_name, architecture_config):
         with mlflow.start_run(run_name=f"{architecture_name} Experiments on {dataset_name}"):
             # Data preprocessing based on dataset format
             if dataset_name.endswith('.txt'):
-                train_data, test_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(dataset_name)
+                train_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(dataset_name)
             elif dataset_name.endswith('.csv'):
-                train_data, test_data, word2vec_model, vocab, avg_seq_len = preprocess_csv_dataset(dataset_name,
+                train_data, word2vec_model, vocab, avg_seq_len = preprocess_csv_dataset(dataset_name,
                                                                                                    architecture_config,
                                                                                                    architecture_name)
             else:
@@ -106,7 +106,6 @@ def process_and_run_experiments(architecture_name, architecture_config):
 
             dataset_info = {
                 'train_data': train_data,
-                'test_data': test_data,
                 'word2vec_model': word2vec_model,
                 'vocab': vocab,
                 'avg_seq_len': avg_seq_len

@@ -39,7 +39,6 @@ def get_avg_seq_len_multi(encoded_seqs):
             sumof += len(i)
             count += 1
         break
-    print(f'======= ##### {sumof / count}')
     return sumof / count
 
 
@@ -47,16 +46,14 @@ def get_avg_seq_len_single(encoded_seqs):
     sumof = 0.
     for seq in encoded_seqs:
         sumof += len(seq)
-    print(f'======= ##### {sumof / len(encoded_seqs)}')
     return sumof / len(encoded_seqs)
 
 
 def preprocess_txt_dataset(dataset_name):
     encoded_seqs, vocab, vocab_inv = preprocess_data(dataset_name)
-    train_data, test_data = split_data(encoded_seqs)
     word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     avg_seq_len = get_avg_seq_len_single(encoded_seqs)
-    return train_data, test_data, word2vec_model, vocab, avg_seq_len
+    return encoded_seqs, word2vec_model, vocab, avg_seq_len
 
 
 def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name):
@@ -68,18 +65,16 @@ def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name)
         )
         vocab = vocabs[architecture_config['target_feature']]
         encoded_seqs = encoded_seqs[architecture_config['target_feature']]
-        train_data, test_data = split_data(encoded_seqs)
         avg_seq_len = get_avg_seq_len_single(encoded_seqs)
         word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     else:
         # Process as multi-feature dataset
         encoded_seqs, vocab, vocabs_inv = preprocess_many_to_many_data(dataset_name,
                                                                        architecture_config['source_features'])
-        train_data, test_data = split_multi_feature_data(encoded_seqs)
         avg_seq_len = get_avg_seq_len_multi(encoded_seqs)
         word2vec_model = train_and_save_word2vec(encoded_seqs[architecture_config['target_feature']], dataset_name)
 
-    return train_data, test_data, word2vec_model, vocab, avg_seq_len
+    return encoded_seqs, word2vec_model, vocab, avg_seq_len
 
 
 def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
