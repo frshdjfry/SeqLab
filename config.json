@@ -16,11 +16,11 @@
         "name": "LSTMModel",
         "epochs": 100,
         "optimization_config": {
-          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
+          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
           "num_layers": {"type": "int", "min": 1, "max": 2},
           "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
           "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
-          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+          "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
       {
@@ -31,7 +31,7 @@
           "num_layers": {"type": "int", "min": 1, "max": 2},
           "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
           "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
-          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+          "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
       {
@@ -42,7 +42,8 @@
           "nhead": {"type": "categorical", "values": [2, 4, 8]},
           "num_layers": {"type": "int", "min": 1, "max": 2},
           "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
-          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+          "embed_size": {"type": "categorical", "values": [256, 512, 1024]},
+          "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
       {
@@ -53,7 +54,7 @@
           "nhead": {"type": "categorical", "values": [2, 4, 8]},
           "num_layers": {"type": "int", "min": 1, "max": 2},
           "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
-          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+          "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       }
 
@@ -73,10 +74,10 @@
         "name": "MultiLSTMModel",
         "epochs": 100,
         "optimization_config": {
-          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
-          "num_layers": {"type": "int", "min": 1, "max": 2},
-          "embedding_dim": {"type": "categorical", "values": [256, 512]},
-          "hidden_dim": {"type": "categorical", "values": [256, 512]},
+          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
+          "num_layers": {"type": "int", "min": 1, "max": 3},
+          "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
+          "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
@@ -96,11 +97,11 @@
         "epochs": 100,
         "optimization_config": {
           "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
-          "nhead": {"type": "categorical", "values": [8, 16, 32]},
-          "embedding_dim": {"type": "categorical", "values": [64, 128, 256]},
+          "nhead": {"type": "categorical", "values": [2, 4, 8]},
+          "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
           "num_layers": {"type": "int", "min": 1, "max": 3},
           "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
-          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+          "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
       {
@@ -108,11 +109,11 @@
         "epochs": 100,
         "optimization_config": {
           "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
-          "nhead": {"type": "categorical", "values": [8, 16, 32]},
+          "nhead": {"type": "categorical", "values": [2, 4, 8]},
           "embedding_dim": {"type": "categorical", "values": [64, 128, 256]},
           "num_layers": {"type": "int", "min": 1, "max": 3},
           "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
-          "batch_size": {"type": "categorical", "values": [16, 32, 64]}
+          "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       }
     ]
