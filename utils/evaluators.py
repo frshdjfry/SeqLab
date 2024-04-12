@@ -33,7 +33,8 @@ def collect_predictions(model, test_data, target_feature):
             actual_next = test_data[target_feature][i][-1]
         else:
             current_sequence, actual_next = test_data[i][:-1], test_data[i][-1]
-
+        if len(current_sequence) <= 1:
+            continue
         if isinstance(model, MarkovModel):
             current_chord = current_sequence[-1]
             predicted_next = model.predict(current_sequence)
