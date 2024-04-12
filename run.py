@@ -2,6 +2,7 @@ import json
 import mlflow
 import optuna
 from optuna.integration.mlflow import MLflowCallback
+from sklearn.model_selection import KFold
 
 from data import preprocess_txt_dataset, preprocess_csv_dataset
 from models import MODEL_REGISTRY
@@ -21,33 +22,73 @@ def get_model_class(model_name):
 def run_experiment(model_config, dataset_info, target_feature=None):
     model_class = get_model_class(model_config['name'])
     study_name = f"{model_class.__name__} optimization"
+    n_splits = 7  # Define the number of folds for k-fold cross-validation
+    kf = KFold(n_splits=n_splits, shuffle=True, random_state=42)
+    # Determine the length of data for splitting
+    if isinstance(dataset_info['train_data'], dict):
+        sample_data = next(iter(dataset_info['train_data'].values()))
+    else:
+        sample_data = dataset_info['train_data']
+    data_length = len(sample_data)
 
-    mlflow_callback = MLflowCallback(
-        tracking_uri=mlflow.get_tracking_uri(),
-        metric_name=["accuracy", "perplexity", "w2v_similarity"],
-        mlflow_kwargs={"nested": True})
-
+    # Start a parent MLflow run for the entire experiment
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
-        study = optuna.create_study(directions=['maximize', 'minimize', 'maximize'], study_name=study_name)
-        study.optimize(
-            lambda trial: get_objective_function(
-                trial=trial,
-                model_class=model_class,
-                train_data=dataset_info['train_data'],
-                test_data=dataset_info['test_data'],
-                word2vec_model=dataset_info['word2vec_model'],
-                vocab=dataset_info['vocab'],
-                model_config=model_config,
-                target_feature=target_feature
-            ),
-            n_trials=20, callbacks=[mlflow_callback])
+        mlflow.log_param("n_folds", n_splits)
+        mlflow.log_param("model_name", model_class.__name__)
 
-        best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
-        mlflow.log_metric("best_accuracy", best_accuracy_trial.values[0])
-        mlflow.log_metric("best_perplexity", best_accuracy_trial.values[1])
-        mlflow.log_metric("best_w2v", best_accuracy_trial.values[2])
-        print(f"Best trial for {model_class.__name__}: Metrics: {best_accuracy_trial.values}")
+        accuracies, perplexities, w2v_similarities = [], [], []
 
+        # Iterate over each fold
+        for fold, (train_idx, test_idx) in enumerate(kf.split(range(data_length))):  # Operate on data length directly
+            if isinstance(dataset_info['train_data'], dict):
+                train_data = {feature: [sequences[i] for i in train_idx] for feature, sequences in dataset_info['train_data'].items()}
+                test_data = {feature: [sequences[i] for i in test_idx] for feature, sequences in dataset_info['train_data'].items()}
+            else:
+                train_data = [dataset_info['train_data'][i] for i in train_idx]
+                test_data = [dataset_info['train_data'][i] for i in test_idx]
+
+            # Start a nested run for the current fold
+            with mlflow.start_run(run_name=f"Fold {fold + 1}", nested=True):
+                study = optuna.create_study(directions=['maximize', 'minimize', 'maximize'], study_name=study_name)
+                mlflow_callback = MLflowCallback(tracking_uri=mlflow.get_tracking_uri(),
+                                                 metric_name=["accuracy", "perplexity", "w2v_similarity"],
+                                                 mlflow_kwargs={"nested": True})
+
+                study.optimize(
+                    lambda trial: get_objective_function(
+                        trial=trial,
+                        model_class=model_class,
+                        train_data=train_data,
+                        test_data=test_data,
+                        word2vec_model=dataset_info['word2vec_model'],
+                        vocab=dataset_info['vocab'],
+                        model_config=model_config,
+                        target_feature=target_feature
+                    ),
+                    n_trials=20, callbacks=[mlflow_callback])
+
+                best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
+                mlflow.log_metric("best_accuracy", best_accuracy_trial.values[0])
+                mlflow.log_metric("best_perplexity", best_accuracy_trial.values[1])
+                mlflow.log_metric("best_w2v", best_accuracy_trial.values[2])
+
+                accuracies.append(best_accuracy_trial.values[0])
+                perplexities.append(best_accuracy_trial.values[1])
+                w2v_similarities.append(best_accuracy_trial.values[2])
+
+                print(f"Best trial for {model_class.__name__}: Metrics: {best_accuracy_trial.values}")
+        # Calculate and log the average metrics across all folds
+        avg_accuracy = sum(accuracies) / n_splits
+        avg_perplexity = sum(perplexities) / n_splits
+        avg_w2v_similarity = sum(w2v_similarities) / n_splits
+
+        mlflow.log_metrics({
+            "average_accuracy": avg_accuracy,
+            "average_perplexity": avg_perplexity,
+            "average_w2v_similarity": avg_w2v_similarity
+        })
+
+        print(f"Average Metrics - Accuracy: {avg_accuracy}, Perplexity: {avg_perplexity}, W2V Similarity: {avg_w2v_similarity}")
 
 def process_and_run_experiments(architecture_name, architecture_config):
     for dataset_name in architecture_config['datasets']:

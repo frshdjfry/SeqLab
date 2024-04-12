@@ -31,13 +31,6 @@ def split_data(encoded_seqs, test_size=0.1):
     return train_data, test_data
 
 
-def train_word2vec(dataset, dataset_name):
-    model = Word2Vec(sentences=dataset, vector_size=100, window=5, min_count=1, workers=4)
-    model_filename = f"word2vec_model_{dataset_name}.model"
-    model.save(os.path.join("", model_filename))  # Saving in a 'models' directory
-    return model
-
-
 def get_avg_seq_len_multi(encoded_seqs):
     sumof = 0.
     count = 0.
@@ -96,13 +89,3 @@ def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
     model.save(model_path)
     print(f"Word2Vec model saved for '{dataset_name}' at '{model_path}'")
     return model
-
-
-def load_word2vec_model(dataset_name, models_dir="./"):
-    model_path = os.path.join(models_dir, f"word2vec_{dataset_name}.model")
-    if os.path.exists(model_path):
-        model = Word2Vec.load(model_path)
-        print(f"Loaded Word2Vec model from '{model_path}'")
-        return model
-    else:
-        raise FileNotFoundError(f"No pre-trained Word2Vec model found at '{model_path}'. Please train one first.")
