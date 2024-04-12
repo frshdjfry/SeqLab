@@ -1,11 +1,14 @@
 import math
+import torch
 
+from models import MODEL_REGISTRY
 from models.markov import MarkovModel
 from scipy.spatial.distance import cosine
 
 
-def evaluate_model(model, test_data, word2vec_model, vocab, target_feature=None):
-    predictions, actuals, probabilities, sequences, final_epoch_loss = collect_predictions(
+def evaluate_model(model_path, test_data, word2vec_model, vocab, target_feature=None):
+    model = load_model(model_path)
+    predictions, actuals, probabilities, sequences = collect_predictions(
         model,
         test_data,
         target_feature
@@ -17,11 +20,11 @@ def evaluate_model(model, test_data, word2vec_model, vocab, target_feature=None)
     perplexity = calculate_perplexity(avg_log_likelihood)
     print_predictions(predictions, actuals, sequences, vocab, target_feature)
 
-    return accuracy, avg_similarity, perplexity, final_epoch_loss
+    return accuracy, avg_similarity, perplexity
 
 
 def collect_predictions(model, test_data, target_feature):
-    predictions, actuals, probabilities_list, sequences, final_epoch_loss = [], [], [], [], 0
+    predictions, actuals, probabilities_list, sequences = [], [], [], []
     is_many_to_one = isinstance(test_data, dict)
     test_len = len(test_data) if not is_many_to_one else len(next(iter(test_data.values())))
     for i in range(test_len):
@@ -39,13 +42,12 @@ def collect_predictions(model, test_data, target_feature):
             probabilities = model.predict_with_probabilities(current_sequence)
             predicted_next = probabilities.index(max(probabilities))
             probability = probabilities[actual_next]
-        final_epoch_loss = model.final_epoch_loss
         predictions.append(predicted_next)
         actuals.append(actual_next)
         probabilities_list.append(probability)
         sequences.append(current_sequence)
 
-    return predictions, actuals, probabilities_list, sequences, final_epoch_loss
+    return predictions, actuals, probabilities_list, sequences
 
 
 def word2vec_similarity(model, word1, word2):
@@ -83,3 +85,10 @@ def print_predictions(predicted_values, actual_values, sequences, vocab, target_
             f"{i + 1:02d}. Sequence: {readable_sequence}, \nPredicted: {vocab_inv.get(pred, 'UNK')}, "
             f"\nActual: {vocab_inv[actual]}")
 
+
+def load_model(model_path):
+    checkpoint = torch.load(model_path)
+    model_class = MODEL_REGISTRY[checkpoint['config']['class_name']]
+    model = model_class(vocab=checkpoint['vocab'], **checkpoint['config'])
+    model.load_state_dict(checkpoint['model_state_dict'])
+    return model

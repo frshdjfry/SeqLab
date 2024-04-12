@@ -1,5 +1,7 @@
-import datetime
+
 import os
+from datetime import datetime
+
 from torch import optim, nn
 import torch
 from torch.nn.utils.rnn import pad_sequence
@@ -17,15 +19,23 @@ if torch.backends.mps.is_built():
 class GPTModel(BaseModel):
     def __init__(self, vocab, lr=0.001, num_layers=12, nhead=12, dim_feedforward=3072, **kwargs):
         vocab_size = len(vocab) + 1
+        self.vocab = vocab
+        self.config = {
+            'class_name': self.__class__.__name__,
+            'nhead': nhead,
+            'num_layers': num_layers,
+            'dim_feedforward': dim_feedforward,
+            'lr': lr
+        }
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        self.config = GPT2Config(
+        self.gpt_config = GPT2Config(
             vocab_size=vocab_size,
             n_layer=num_layers,
             n_head=nhead,
             n_inner=dim_feedforward,
             pad_token_id=0
         )
-        self.model = GPT2LMHeadModel(self.config).to(device)
+        self.model = GPT2LMHeadModel(self.gpt_config).to(device)
         self.lr = lr
         self.optimizer = optim.Adam(self.model.parameters(), lr=self.lr)
         self.model.internal_final_epoch_loss = 0
@@ -40,6 +50,7 @@ class GPTModel(BaseModel):
 
         best_val_loss = float('inf')
         patience_counter = 0
+        best_model_path = None
 
         for epoch in range(epochs):
             self.model.train()
@@ -62,8 +73,12 @@ class GPTModel(BaseModel):
 
             if avg_val_loss < best_val_loss:
                 best_val_loss = avg_val_loss
-                patience_counter = 0  # Reset patience
-                # torch.save(self.model.state_dict(), 'best_model.pth')
+                patience_counter = 0
+                if best_model_path is not None:
+                    os.remove(best_model_path)  # Delete the previous best model file
+                timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+                best_model_path = f"./saved_models/{self.__class__.__name__}_{timestamp}.pth"
+                self.save_model(model_path=best_model_path)
             else:
                 patience_counter += 1
                 if patience_counter >= patience:
@@ -73,6 +88,8 @@ class GPTModel(BaseModel):
 
             if epoch == epochs - 1:
                 self.final_epoch_loss = avg_train_loss
+        return best_model_path
+
 
     def evaluate(self, data_loader):
         self.model.eval()
@@ -99,7 +116,7 @@ class GPTModel(BaseModel):
         input_ids = torch.tensor([input_sequence], dtype=torch.long, device=device)
         with torch.no_grad():
             outputs = self.model.generate(input_ids, max_length=len(input_sequence) + num_predictions,
-                                          num_return_sequences=1, pad_token_id=self.config.pad_token_id)
+                                          num_return_sequences=1, pad_token_id=self.gpt_config.pad_token_id)
 
         return outputs.tolist()[0][-num_predictions:]
 
@@ -108,9 +125,19 @@ class GPTModel(BaseModel):
         with torch.no_grad():
             outputs = self.model(input_ids)
             logits = outputs.logits
-            logits[:, :, self.config.pad_token_id] = -float('Inf')
+            logits[:, :, self.gpt_config.pad_token_id] = -float('Inf')
             probabilities = torch.softmax(logits[:, -1, :], dim=-1)
             return probabilities.squeeze().tolist()
+
+    def save_model(self, model_path):
+        torch.save({
+            'model_state_dict': self.model.state_dict(),
+            'vocab': self.vocab,
+            'config': self.config
+        }, model_path)
+
+    def load_state_dict(self, state_dict):
+        return self.model.load_state_dict(state_dict)
 
 
 class CaptureFinalLossCallback(TrainerCallback):

@@ -1,3 +1,5 @@
+import mlflow
+
 from utils.evaluators import evaluate_model
 
 
@@ -16,16 +18,29 @@ def suggest_hyperparameters(trial, optimization_config):
 def get_objective_function(trial, model_class, train_data, test_data, word2vec_model, vocab, model_config,
                            target_feature=None):
     params = suggest_hyperparameters(trial, model_config['optimization_config'])
-    model = model_class(vocab=vocab, target_feature=target_feature, **params)
-    model.train_model(train_data, test_data, epochs=model_config['epochs'], **params)
-    accuracy, w2v_similarity, perplexity, final_epoch_loss = evaluate_model(
-        model=model,
+    model = model_class(
+        vocab=vocab,
+        target_feature=target_feature,
+        max_length=get_max_length(train_data, target_feature),
+        **params
+    )
+    saved_model_path = model.train_model(
+        train_data,
+        test_data,
+        epochs=model_config['epochs'],
+        **params
+    )
+    mlflow.set_tag("model_path", saved_model_path)
+    mlflow.set_tag("final_epoch_loss", model.final_epoch_loss)
+
+    accuracy, w2v_similarity, perplexity = evaluate_model(
+        model_path=saved_model_path,
         test_data=test_data,
         word2vec_model=word2vec_model,
         vocab=get_vocab_inv(vocab),
         target_feature=target_feature
     )
-    return accuracy, perplexity, w2v_similarity, final_epoch_loss
+    return accuracy, perplexity, w2v_similarity
 
 
 def get_vocab_inv(vocab):
@@ -48,3 +63,12 @@ def get_inverse_vocab(vocab):
     for word, word_id in vocab.items():
         vocab_inv[word_id] = word
     return vocab_inv
+
+
+def get_max_length(train_data, target_feature):
+    if isinstance(train_data, dict):
+        max_lengths = {feature: max(len(seq) for seq in sequences) for feature, sequences in
+                       train_data.items()}
+        return max_lengths[target_feature] - 1
+    else:
+        return max(len(seq) for seq in train_data) - 1

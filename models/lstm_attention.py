@@ -1,3 +1,6 @@
+import os
+from datetime import datetime
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -25,6 +28,14 @@ class LSTMModelWithAttention(nn.Module):
     def __init__(self, vocab, embedding_dim=128, hidden_dim=256, num_layers=2, lr=0.001, **kwargs):
         super(LSTMModelWithAttention, self).__init__()
         vocab_size = len(vocab) + 1
+        self.vocab = vocab
+        self.config = {
+            'class_name': self.__class__.__name__,
+            'embedding_dim': embedding_dim,
+            'hidden_dim': hidden_dim,
+            'num_layers': num_layers,
+            'lr': lr
+        }
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.embedding = nn.Embedding(vocab_size, embedding_dim).to(self.device)
         self.lstm = nn.LSTM(embedding_dim, hidden_dim, num_layers, batch_first=True).to(self.device)
@@ -56,6 +67,7 @@ class LSTMModelWithAttention(nn.Module):
 
         best_val_loss = float('inf')
         patience_counter = 0
+        best_model_path = None
 
         for epoch in range(epochs):
             self.train_mode()
@@ -77,8 +89,12 @@ class LSTMModelWithAttention(nn.Module):
 
             if avg_val_loss < best_val_loss:
                 best_val_loss = avg_val_loss
-                patience_counter = 0  # Reset patience
-                # torch.save(self.state_dict(), 'best_model.pth')
+                patience_counter = 0
+                if best_model_path is not None:
+                    os.remove(best_model_path)  # Delete the previous best model file
+                timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+                best_model_path = f"./saved_models/{self.__class__.__name__}_{timestamp}.pth"
+                self.save_model(model_path=best_model_path)
             else:
                 patience_counter += 1
                 if patience_counter >= patience:
@@ -88,6 +104,8 @@ class LSTMModelWithAttention(nn.Module):
 
             if epoch == epochs - 1:
                 self.final_epoch_loss = best_val_loss
+
+        return best_model_path
 
     def evaluate(self, data_loader):
         self.eval_mode()
@@ -131,3 +149,10 @@ class LSTMModelWithAttention(nn.Module):
 
     def eval_mode(self):
         self.eval()
+
+    def save_model(self, model_path):
+        torch.save({
+            'model_state_dict': self.state_dict(),
+            'vocab': self.vocab,
+            'config': self.config
+        }, model_path)

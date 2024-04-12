@@ -1,3 +1,6 @@
+import os
+from datetime import datetime
+
 import torch
 import torch.nn as nn
 from torch import optim
@@ -9,6 +12,17 @@ class MultiTransformerModel(nn.Module):
     def __init__(self, vocab, target_feature, embedding_dim, nhead=8, num_layers=3, dim_feedforward=512,
                  lr=0.001, **kwargs):
         super(MultiTransformerModel, self).__init__()
+        self.vocab = vocab
+        self.config = {
+            'class_name': self.__class__.__name__,
+            'target_feature': target_feature,
+            'embedding_dim': embedding_dim,
+            'nhead': nhead,
+            'dim_feedforward': dim_feedforward,
+            'num_layers': num_layers,
+            'lr': lr
+        }
+
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.lr = lr
         self.target_feature = target_feature
@@ -42,6 +56,7 @@ class MultiTransformerModel(nn.Module):
 
         best_val_loss = float('inf')
         patience_counter = 0
+        best_model_path = None
 
         for epoch in range(epochs):
             self.train()
@@ -60,8 +75,12 @@ class MultiTransformerModel(nn.Module):
 
             if avg_val_loss < best_val_loss:
                 best_val_loss = avg_val_loss
-                patience_counter = 0  # Reset patience
-                # torch.save(self.model.state_dict(), 'best_model.pth')
+                patience_counter = 0
+                if best_model_path is not None:
+                    os.remove(best_model_path)  # Delete the previous best model file
+                timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+                best_model_path = f"./saved_models/{self.__class__.__name__}_{timestamp}.pth"
+                self.save_model(model_path=best_model_path)
             else:
                 patience_counter += 1
                 if patience_counter >= patience:
@@ -71,6 +90,9 @@ class MultiTransformerModel(nn.Module):
 
             if epoch == epochs - 1:
                 self.final_epoch_loss = best_val_loss
+
+        return best_model_path
+
 
     def evaluate(self, data_loader):
         self.eval()
@@ -138,3 +160,10 @@ class MultiTransformerModel(nn.Module):
             vocab_size = len(vocab)
             feature_dims.append(vocab_size + 1)
         return feature_dims
+
+    def save_model(self, model_path):
+        torch.save({
+            'model_state_dict': self.state_dict(),
+            'vocab': self.vocab,
+            'config': self.config
+        }, model_path)

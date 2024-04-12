@@ -24,11 +24,11 @@ def run_experiment(model_config, dataset_info, target_feature=None):
 
     mlflow_callback = MLflowCallback(
         tracking_uri=mlflow.get_tracking_uri(),
-        metric_name=["accuracy", "perplexity", "w2v_similarity", "final_epoch_loss"],
+        metric_name=["accuracy", "perplexity", "w2v_similarity"],
         mlflow_kwargs={"nested": True})
 
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
-        study = optuna.create_study(directions=['maximize', 'minimize', 'maximize', 'minimize'], study_name=study_name)
+        study = optuna.create_study(directions=['maximize', 'minimize', 'maximize'], study_name=study_name)
         study.optimize(
             lambda trial: get_objective_function(
                 trial=trial,

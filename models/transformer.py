@@ -1,3 +1,6 @@
+import os
+from datetime import datetime
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -9,6 +12,15 @@ from models.model_interface import BaseModel
 class TransformerModel(BaseModel):
     def __init__(self, vocab, embed_size=128, nhead=8, num_layers=3, dim_feedforward=512, lr=0.001, **kwargs):
         vocab_size = len(vocab) + 1
+        self.vocab = vocab
+        self.config = {
+            'class_name': self.__class__.__name__,
+            'embed_size': embed_size,
+            'nhead': nhead,
+            'num_layers': num_layers,
+            'dim_feedforward': dim_feedforward,
+            'lr': lr
+        }
         self.model = ChordPredictor(
             vocab_size, embed_size=embed_size, nhead=nhead, num_layers=num_layers, dim_feedforward=dim_feedforward)
         self.criterion = nn.CrossEntropyLoss().to(self.model.device)
@@ -25,6 +37,7 @@ class TransformerModel(BaseModel):
 
         best_val_loss = float('inf')
         patience_counter = 0
+        best_model_path = None
 
         for epoch in range(epochs):
             self.model.train()
@@ -45,8 +58,12 @@ class TransformerModel(BaseModel):
 
             if avg_val_loss < best_val_loss:
                 best_val_loss = avg_val_loss
-                patience_counter = 0  # Reset patience
-                # torch.save(self.model.state_dict(), 'best_model.pth')
+                patience_counter = 0
+                if best_model_path is not None:
+                    os.remove(best_model_path)  # Delete the previous best model file
+                timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+                best_model_path = f"./saved_models/{self.__class__.__name__}_{timestamp}.pth"
+                self.save_model(model_path=best_model_path)
             else:
                 patience_counter += 1
                 if patience_counter >= patience:
@@ -56,6 +73,7 @@ class TransformerModel(BaseModel):
 
             if epoch == epochs - 1:
                 self.final_epoch_loss = avg_train_loss
+        return best_model_path
 
     def evaluate(self, data_loader):
         self.model.eval()
@@ -93,6 +111,16 @@ class TransformerModel(BaseModel):
         inputs_padded = pad_sequence(inputs, batch_first=True, padding_value=0)
         targets = torch.tensor(targets, dtype=torch.long).to(self.model.device)
         return TensorDataset(inputs_padded, targets)
+
+    def save_model(self, model_path):
+        torch.save({
+            'model_state_dict': self.model.state_dict(),
+            'vocab': self.vocab,
+            'config': self.config
+        }, model_path)
+
+    def load_state_dict(self, state_dict):
+        return self.model.load_state_dict(state_dict)
 
 
 class ChordPredictor(nn.Module):
