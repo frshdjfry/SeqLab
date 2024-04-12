@@ -34,6 +34,8 @@ class MarkovModel(BaseModel):
             return 0
 
         next_chords = self.transition_matrix[current_chord]
+        if len(next_chords.keys()) == 0:
+            return 0
         next_chord = random.choices(list(next_chords.keys()), weights=next_chords.values())[0]
         return next_chord
 
@@ -41,7 +43,7 @@ class MarkovModel(BaseModel):
         return self.transition_matrix[current_chord].get(next_chord, 0)
 
     def save_model(self):
-        timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+        timestamp = datetime.now().strftime("%Y%m%d%H%M%S%f")
         model_path = f"./saved_models/{self.__class__.__name__}_{timestamp}.pth"
         torch.save({
             'model_state_dict': dict(self.transition_matrix),
@@ -55,5 +57,4 @@ class MarkovModel(BaseModel):
         return model_path
 
     def load_state_dict(self, state_dict):
-        self.transition_matrix = state_dict
         self.transition_matrix = defaultdict(lambda: defaultdict(int), state_dict)
