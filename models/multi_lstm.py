@@ -57,7 +57,7 @@ class MultiLSTMModel(BaseModel, nn.Module):
         final_output = self.fc(concatenated)
         return final_output
 
-    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=20, **kwargs):
+    def train_model(self, encoded_seqs_dict, validation_encoded_seqs, epochs=10, batch_size=64, patience=50, **kwargs):
         self.optimizer = optim.Adam(self.parameters(), lr=self.lr)
 
         dataset = self.prepare_dataset(encoded_seqs_dict)

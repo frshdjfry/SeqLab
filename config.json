@@ -14,12 +14,12 @@
       },
       {
         "name": "LSTMModel",
-        "epochs": 100,
+        "epochs": 200,
         "optimization_config": {
-          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
           "num_layers": {"type": "int", "min": 1, "max": 2},
-          "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
-          "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
+          "hidden_dim": {"type": "categorical", "values": [512, 1024]},
+          "embedding_dim": {"type": "categorical", "values": [128, 256, 512]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
@@ -28,9 +28,9 @@
         "epochs": 100,
         "optimization_config": {
           "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
-          "num_layers": {"type": "int", "min": 1, "max": 2},
-          "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
-          "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
+          "num_layers": {"type": "int", "min": 1, "max": 1},
+          "hidden_dim": {"type": "categorical", "values": [128, 256, 512]},
+          "embedding_dim": {"type": "categorical", "values": [128, 512, 1024]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
@@ -38,11 +38,11 @@
         "name": "TransformerModel",
         "epochs": 100,
         "optimization_config": {
-          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
-          "nhead": {"type": "categorical", "values": [2, 4, 8]},
-          "num_layers": {"type": "int", "min": 1, "max": 2},
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
+          "nhead": {"type": "categorical", "values": [8, 16, 32]},
+          "num_layers": {"type": "int", "min": 1, "max": 1},
           "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
-          "embed_size": {"type": "categorical", "values": [256, 512, 1024]},
+          "embed_size": {"type": "categorical", "values": [128, 256]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
@@ -50,10 +50,10 @@
         "name": "GPTModel",
         "epochs": 100,
         "optimization_config": {
-          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
-          "nhead": {"type": "categorical", "values": [2, 4, 8]},
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
+          "nhead": {"type": "categorical", "values": [2, 4]},
           "num_layers": {"type": "int", "min": 1, "max": 2},
-          "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
+          "dim_feedforward": {"type": "categorical", "values": [128, 256, 512]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       }
@@ -74,8 +74,8 @@
         "name": "MultiLSTMModel",
         "epochs": 100,
         "optimization_config": {
-          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
-          "num_layers": {"type": "int", "min": 1, "max": 3},
+          "lr": {"type": "float", "min": 1e-4, "max": 1e-1},
+          "num_layers": {"type": "int", "min": 1, "max": 1},
           "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
           "hidden_dim": {"type": "categorical", "values": [256, 512, 1024]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
@@ -88,30 +88,30 @@
           "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
           "num_layers": {"type": "int", "min": 1, "max": 2},
           "embedding_dim": {"type": "categorical", "values": [256, 512]},
-          "hidden_dim": {"type": "categorical", "values": [256, 512]},
+          "hidden_dim": {"type": "categorical", "values": [128, 256, 512]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
       {
         "name": "MultiTransformerModel",
-        "epochs": 100,
+        "epochs": 200,
         "optimization_config": {
-          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
-          "nhead": {"type": "categorical", "values": [2, 4, 8]},
-          "embedding_dim": {"type": "categorical", "values": [256, 512, 1024]},
-          "num_layers": {"type": "int", "min": 1, "max": 3},
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
+          "nhead": {"type": "categorical", "values": [16, 32, 64]},
+          "embedding_dim": {"type": "categorical", "values": [64, 256, 1024]},
+          "num_layers": {"type": "int", "min": 1, "max": 1},
           "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
         }
       },
       {
         "name": "MultiGPTModel",
-        "epochs": 100,
+        "epochs": 200,
         "optimization_config": {
-          "lr": {"type": "float", "min": 1e-4, "max": 1e-2},
-          "nhead": {"type": "categorical", "values": [2, 4, 8]},
+          "lr": {"type": "float", "min": 1e-3, "max": 1e-2},
+          "nhead": {"type": "categorical", "values": [16, 32, 64]},
           "embedding_dim": {"type": "categorical", "values": [64, 128, 256]},
-          "num_layers": {"type": "int", "min": 1, "max": 3},
+          "num_layers": {"type": "int", "min": 1, "max": 1},
           "dim_feedforward": {"type": "categorical", "values": [256, 512, 1024]},
           "batch_size": {"type": "categorical", "values": [32, 64]}
         }
