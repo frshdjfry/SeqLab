@@ -134,7 +134,7 @@ class MultiGPTModel(nn.Module):
     def pad_sequence(self, sequences, batch_first, padding_value, max_length):
         padded_sequences = []
         for seq in sequences:
-            padded_seq = seq.to(self.device) if len(seq) >= max_length else torch.cat(
+            padded_seq = seq.to(self.device)[:max_length] if len(seq) >= max_length else torch.cat(
                 [seq.to(self.device), torch.full((max_length - len(seq),), padding_value, dtype=seq.dtype).to(self.device)])
             padded_sequences.append(padded_seq)
         if batch_first:
