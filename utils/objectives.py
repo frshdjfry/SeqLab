@@ -30,8 +30,8 @@ def get_objective_function(trial, model_class, train_data, test_data, word2vec_m
         epochs=model_config['epochs'],
         **params
     )
-    mlflow.set_tag("model_path", saved_model_path)
-    mlflow.set_tag("final_epoch_loss", model.final_epoch_loss)
+    trial.set_user_attr("model_path", saved_model_path)
+    trial.set_user_attr("final_epoch_loss", model.final_epoch_loss)
 
     accuracy, w2v_similarity, perplexity = evaluate_model(
         model_path=saved_model_path,
