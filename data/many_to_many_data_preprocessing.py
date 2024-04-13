@@ -22,8 +22,13 @@ def preprocess_many_to_many_data(filename, required_features):
             # Extract and append the required features for this row to the current sequence
             for feature in required_features:
                 if feature in row:
-                    current_sequences[feature].append(row[feature])
-
+                    # current_sequences[feature].append(row[feature])
+                    if feature == '**kern':
+                        cln_val = row[feature].split()[0]
+                        cln_val = cln_val.strip(']').strip('[').strip('.').strip(';')
+                        current_sequences[feature].append(cln_val)
+                    else:
+                        current_sequences[feature].append(row[feature])
     # Append the last sequences if not empty
     for feature in required_features:
         if current_sequences[feature]:
