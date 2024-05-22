@@ -96,8 +96,8 @@ def run_experiment(model_config, dataset_info, target_feature=None, n_trials=20,
 
 
 def process_and_run_experiments(experiment_config):
-    n_trials = experiment_config.get('n_trials', 20)
-    n_splits = experiment_config.get('n_splits', 7)
+    n_trials = experiment_config.get('number_of_trials', 20)
+    n_splits = experiment_config.get('kfold_splits', 7)
 
     for dataset_name in experiment_config['datasets']:
         feature_dimensions = experiment_config['feature_dimensions']

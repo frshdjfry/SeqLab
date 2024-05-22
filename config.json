@@ -2,6 +2,8 @@
   "experiments": [
     {
       "feature_dimensions": "one_to_one",
+      "number_of_trials": 20,
+      "kfold_splits": 7,
       "datasets": [
         "data/cocopops.csv"
       ],
@@ -63,6 +65,8 @@
     },
     {
       "feature_dimensions": "many_to_one",
+      "number_of_trials": 20,
+      "kfold_splits": 7,
       "source_features": [
         "**harte",
         "**kern"
