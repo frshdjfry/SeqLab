@@ -19,10 +19,9 @@ def get_model_class(model_name):
     return MODEL_REGISTRY[model_name]
 
 
-def run_experiment(model_config, dataset_info, target_feature=None):
+def run_experiment(model_config, dataset_info, target_feature=None, n_trials=20, n_splits=7):
     model_class = get_model_class(model_config['name'])
     study_name = f"{model_class.__name__} optimization"
-    n_splits = 7  # Define the number of folds for k-fold cross-validation
     kf = KFold(n_splits=n_splits, shuffle=True, random_state=42)
     # Determine the length of data for splitting
     if isinstance(dataset_info['train_data'], dict):
@@ -34,6 +33,8 @@ def run_experiment(model_config, dataset_info, target_feature=None):
     # Start a parent MLflow run for the entire experiment
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
         mlflow.log_param("n_folds", n_splits)
+        mlflow.log_param("n_trials", n_trials)
+        mlflow.log_param("n_folds", n_splits)
         mlflow.log_param("model_name", model_class.__name__)
 
         accuracies, perplexities, w2v_similarities = [], [], []
@@ -41,8 +42,10 @@ def run_experiment(model_config, dataset_info, target_feature=None):
         # Iterate over each fold
         for fold, (train_idx, test_idx) in enumerate(kf.split(range(data_length))):  # Operate on data length directly
             if isinstance(dataset_info['train_data'], dict):
-                train_data = {feature: [sequences[i] for i in train_idx] for feature, sequences in dataset_info['train_data'].items()}
-                test_data = {feature: [sequences[i] for i in test_idx] for feature, sequences in dataset_info['train_data'].items()}
+                train_data = {feature: [sequences[i] for i in train_idx] for feature, sequences in
+                              dataset_info['train_data'].items()}
+                test_data = {feature: [sequences[i] for i in test_idx] for feature, sequences in
+                             dataset_info['train_data'].items()}
             else:
                 train_data = [dataset_info['train_data'][i] for i in train_idx]
                 test_data = [dataset_info['train_data'][i] for i in test_idx]
@@ -65,7 +68,7 @@ def run_experiment(model_config, dataset_info, target_feature=None):
                         model_config=model_config,
                         target_feature=target_feature
                     ),
-                    n_trials=20, callbacks=[mlflow_callback])
+                    n_trials=n_trials, callbacks=[mlflow_callback])
 
                 best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
                 mlflow.log_metric("best_accuracy", best_accuracy_trial.values[0])
@@ -88,19 +91,25 @@ def run_experiment(model_config, dataset_info, target_feature=None):
             "average_w2v_similarity": avg_w2v_similarity
         })
 
-        print(f"Average Metrics - Accuracy: {avg_accuracy}, Perplexity: {avg_perplexity}, W2V Similarity: {avg_w2v_similarity}")
+        print(
+            f"Average Metrics - Accuracy: {avg_accuracy}, Perplexity: {avg_perplexity}, W2V Similarity: {avg_w2v_similarity}")
 
-def process_and_run_experiments(architecture_name, architecture_config):
-    for dataset_name in architecture_config['datasets']:
-        mlflow.set_experiment(f"{architecture_name} Experiments on {dataset_name}")
-        with mlflow.start_run(run_name=f"{architecture_name} Experiments on {dataset_name}"):
+
+def process_and_run_experiments(experiment_config):
+    n_trials = experiment_config.get('n_trials', 20)
+    n_splits = experiment_config.get('n_splits', 7)
+
+    for dataset_name in experiment_config['datasets']:
+        feature_dimensions = experiment_config['feature_dimensions']
+        mlflow.set_experiment(f"{feature_dimensions} Experiments on {dataset_name}")
+        with mlflow.start_run(run_name=f"{feature_dimensions} Experiments on {dataset_name}"):
             # Data preprocessing based on dataset format
             if dataset_name.endswith('.txt'):
                 train_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(dataset_name)
             elif dataset_name.endswith('.csv'):
                 train_data, word2vec_model, vocab, avg_seq_len = preprocess_csv_dataset(dataset_name,
-                                                                                                   architecture_config,
-                                                                                                   architecture_name)
+                                                                                        experiment_config,
+                                                                                        feature_dimensions)
             else:
                 raise ValueError('Unknown data type')
 
@@ -111,14 +120,14 @@ def process_and_run_experiments(architecture_name, architecture_config):
                 'avg_seq_len': avg_seq_len
             }
 
-            for model_config in architecture_config['models']:
-                target_feature = architecture_config.get('target_feature')
-                run_experiment(model_config, dataset_info, target_feature)
+            for model_config in experiment_config['models']:
+                target_feature = experiment_config.get('target_feature')
+                run_experiment(model_config, dataset_info, target_feature, n_trials, n_splits)
 
 
 def main():
-    for architecture_name, architecture_config in config.items():
-        process_and_run_experiments(architecture_name, architecture_config)
+    for experiment_config in config['experiments']:
+        process_and_run_experiments(experiment_config)
 
 
 if __name__ == "__main__":
