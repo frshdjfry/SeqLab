@@ -12,6 +12,10 @@ class MarkovModel(BaseModel):
         self.transition_matrix = defaultdict(lambda: defaultdict(int))
         self.alpha = alpha
         self.vocab = vocab
+        self.config = {
+            'class_name': self.__class__.__name__,
+            'alpha': self.alpha
+        }
         self.final_epoch_loss = 0
 
     def train_model(self, encoded_seqs, validation_encoded_seqs, **kwargs):
@@ -48,10 +52,7 @@ class MarkovModel(BaseModel):
         torch.save({
             'model_state_dict': dict(self.transition_matrix),
             'vocab': self.vocab,
-            'config': {
-                'alpha': self.alpha,
-                'class_name': self.__class__.__name__
-            },
+            'config': self.config,
 
         }, model_path)
         return model_path
