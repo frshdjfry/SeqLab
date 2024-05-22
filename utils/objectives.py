@@ -6,12 +6,15 @@ from utils.evaluators import evaluate_model
 def suggest_hyperparameters(trial, optimization_config):
     params = {}
     for param, details in optimization_config.items():
-        if details['type'] == 'int':
-            params[param] = trial.suggest_int(param, details['min'], details['max'])
-        elif details['type'] == 'categorical':
+        if 'values' in details:
             params[param] = trial.suggest_categorical(param, details['values'])
-        elif details['type'] == 'float':
-            params[param] = trial.suggest_float(param, details['min'], details['max'])
+        elif 'min' in details and 'max' in details:
+            if isinstance(details['min'], int):
+                params[param] = trial.suggest_int(param, details['min'], details['max'])
+            elif isinstance(details['min'], float):
+                params[param] = trial.suggest_float(param, details['min'], details['max'])
+        else:
+            raise ValueError('Wrong hyperparameters in optimization_config.')
     return params
 
 
