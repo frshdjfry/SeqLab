@@ -7,9 +7,11 @@ from models.multi_lstm import MultiLSTMModel
 from models.multi_lstm_attention import MultiLSTMAttentionModel
 from models.multi_transformer import MultiTransformerModel
 from models.transformer import TransformerModel
+from models.variable_order_markov import VariableOrderMarkovModel
 
 MODEL_REGISTRY = {
     "MarkovModel": MarkovModel,
+    "VariableOrderMarkovModel": VariableOrderMarkovModel,
     "LSTMModel": LSTMModel,
     "LSTMModelWithAttention": LSTMModelWithAttention,
     "TransformerModel": TransformerModel,

@@ -32,16 +32,16 @@ class MarkovModel(BaseModel):
                                                                          next_chord] + self.alpha) / total_transitions
         return self.save_model()
 
-    def predict(self, sequence):
+    def predict_with_probability(self, sequence):
         current_chord = sequence[-1]
         if current_chord not in self.transition_matrix:
-            return 0
+            return 0, 0
 
         next_chords = self.transition_matrix[current_chord]
         if len(next_chords.keys()) == 0:
-            return 0
+            return 0, 0
         next_chord = random.choices(list(next_chords.keys()), weights=next_chords.values())[0]
-        return next_chord
+        return next_chord, self.get_transition_probability(sequence[-1], next_chord)
 
     def get_transition_probability(self, current_chord, next_chord):
         return self.transition_matrix[current_chord].get(next_chord, 0)

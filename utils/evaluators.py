@@ -1,7 +1,7 @@
 import math
 import torch
 
-from models import MODEL_REGISTRY
+from models import MODEL_REGISTRY, VariableOrderMarkovModel
 from models.markov import MarkovModel
 from scipy.spatial.distance import cosine
 
@@ -35,10 +35,8 @@ def collect_predictions(model, test_data, target_feature):
             current_sequence, actual_next = test_data[i][:-1], test_data[i][-1]
         if len(current_sequence) <= 1:
             continue
-        if isinstance(model, MarkovModel):
-            current_chord = current_sequence[-1]
-            predicted_next = model.predict(current_sequence)
-            probability = model.get_transition_probability(current_chord, actual_next)
+        if isinstance(model, MarkovModel) or isinstance(model, VariableOrderMarkovModel):
+            predicted_next, probability = model.predict_with_probability(current_sequence)
         else:
             probabilities = model.predict_with_probabilities(current_sequence)
             predicted_next = probabilities.index(max(probabilities))
