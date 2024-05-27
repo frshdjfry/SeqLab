@@ -49,11 +49,33 @@ def get_avg_seq_len_single(encoded_seqs):
     return sumof / len(encoded_seqs)
 
 
+def remove_duplicates_list(data):
+    unique_data = list(set(tuple(seq) for seq in data))
+    unique_data = [list(seq) for seq in unique_data]
+    return unique_data
+
+
+def remove_duplicates_from_dict(data):
+    # Combine corresponding elements across all keys into tuples
+    combined = list(zip(*[data[key] for key in data]))
+
+    # Remove duplicates
+    unique_combined = list(set(tuple(map(tuple, item)) for item in combined))
+
+    # Separate back into dictionary format
+    unique_data = {key: [] for key in data}
+    for item in unique_combined:
+        for idx, key in enumerate(data):
+            unique_data[key].append(list(item[idx]))
+
+    return unique_data
+
 def preprocess_txt_dataset(dataset_name):
     encoded_seqs, vocab, vocab_inv = preprocess_data(dataset_name)
     word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     avg_seq_len = get_avg_seq_len_single(encoded_seqs)
-    return encoded_seqs, word2vec_model, vocab, avg_seq_len
+    unique_encoded_seqs = remove_duplicates_list(encoded_seqs)
+    return unique_encoded_seqs, word2vec_model, vocab, avg_seq_len
 
 
 def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name):
@@ -78,7 +100,8 @@ def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name)
         avg_seq_len = get_avg_seq_len_multi(encoded_seqs)
         word2vec_model = train_and_save_word2vec(encoded_seqs[architecture_config['target_feature']], dataset_name)
 
-    return encoded_seqs, word2vec_model, vocab, avg_seq_len
+    unique_encoded_seqs = remove_duplicates_from_dict(encoded_seqs)
+    return unique_encoded_seqs, word2vec_model, vocab, avg_seq_len
 
 
 def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
