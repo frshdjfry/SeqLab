@@ -70,12 +70,54 @@ def remove_duplicates_from_dict(data):
 
     return unique_data
 
+
+def extract_subsequences(sequence, min_length=2):
+    subsequences = []
+    n = len(sequence)
+    for length in range(min_length, n + 1):
+        for start in range(n - length + 1):
+            subsequences.append(sequence[start:start + length])
+    return subsequences
+
+
+def combine_features(data):
+    combined_data = list(zip(*[data[key] for key in data]))
+    combined_data = [list(zip(*item)) for item in combined_data]
+    return combined_data
+
+
+def extract_subsequences_from_dict(data):
+    combined_data = combine_features(data)
+
+    all_subsequences = []
+    for seq in combined_data:
+        all_subsequences.extend(extract_subsequences(seq))
+
+    # Convert back to the original dictionary format
+    augmented_data = {key: [] for key in data}
+    for subseq in all_subsequences:
+        for key, items in zip(data.keys(), zip(*subseq)):
+            augmented_data[key].append(list(items))
+
+    return augmented_data
+
+
+def extract_subsequences_from_list(data):
+    # Extract sub-sequences from all sequences
+    all_subsequences = []
+    for seq in data:
+        all_subsequences.extend(extract_subsequences(seq))
+    return all_subsequences
+
+
 def preprocess_txt_dataset(dataset_name):
     encoded_seqs, vocab, vocab_inv = preprocess_data(dataset_name)
     word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     avg_seq_len = get_avg_seq_len_single(encoded_seqs)
     unique_encoded_seqs = remove_duplicates_list(encoded_seqs)
-    return unique_encoded_seqs, word2vec_model, vocab, avg_seq_len
+    augmented_data = extract_subsequences_from_list(unique_encoded_seqs)
+    unique_augmented_data = remove_duplicates_list(augmented_data)
+    return unique_augmented_data, word2vec_model, vocab, avg_seq_len
 
 
 def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name):
@@ -101,7 +143,9 @@ def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name)
         word2vec_model = train_and_save_word2vec(encoded_seqs[architecture_config['target_feature']], dataset_name)
 
     unique_encoded_seqs = remove_duplicates_from_dict(encoded_seqs)
-    return unique_encoded_seqs, word2vec_model, vocab, avg_seq_len
+    augmented_data = extract_subsequences_from_dict(unique_encoded_seqs)
+    unique_augmented_data = remove_duplicates_from_dict(augmented_data)
+    return unique_augmented_data, word2vec_model, vocab, avg_seq_len
 
 
 def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
