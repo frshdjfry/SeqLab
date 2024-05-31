@@ -25,7 +25,7 @@ A:min E:min F:maj G:maj A:min C:maj G:maj
 
 SeqLab enables the development of models that learn from such sequences and predict the subsequent chord in the progression. This capability is essential for applications in areas such as music generation and sequence prediction in natural language processing.
 
-![SeqLab Overview](doc/images/SeqLab_overview.jpg)
+![SeqLab Overview](docs/images/SeqLab_overview.jpg)
 
 ### Key Features
 
@@ -112,7 +112,7 @@ mlflow ui --port=4000
 
 Then, navigate to 127.0.0.1:4000 in your web browser to access the MLflow tracking UI.
 
-![MLflow Experiment Tracking](doc/images/mlflow_video.gif)
+![MLflow Experiment Tracking](docs/images/mlflow_video.gif)
 *Figure: Visualizing experiment tracking with MLflow in SeqLab. Each experiment set is named after its dimensionality and contains multiple models. Each model is evaluated using different folds of data, with multiple trials per fold to optimize hyperparameters. The MLflow UI stores metrics, evaluation results, and important experiment tags for each run, allowing detailed analysis and comparison of model performance.*
 
 
