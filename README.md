@@ -116,6 +116,13 @@ Then, navigate to 127.0.0.1:4000 in your web browser to access the MLflow tracki
 *Figure: Visualizing experiment tracking with MLflow in SeqLab. Each experiment set is named after its dimensionality and contains multiple models. Each model is evaluated using different folds of data, with multiple trials per fold to optimize hyperparameters. The MLflow UI stores metrics, evaluation results, and important experiment tags for each run, allowing detailed analysis and comparison of model performance.*
 
 
-### Full Documentation
-For comprehensive details and advanced usage, please refer to the full documentation available [here](doc/).
 
+### Full Documentation
+
+For detailed information on using SeqLab, please refer to the following sections in the documentation:
+
+- [Data](docs/data.md)
+- [Models](docs/models.md)
+- [Evaluation](docs/evaluation.md)
+- [Optimization](docs/optimization.md)
+- [Monitoring](docs/monitoring.md)
