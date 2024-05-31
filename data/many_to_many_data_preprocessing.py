@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
-def preprocess_many_to_many_data(filename, required_features):
+def preprocess_many_to_many_data(filename, required_features, target_feature):
     # Read the CSV into a DataFrame
     df = pd.read_csv(filename)
 
@@ -12,7 +12,7 @@ def preprocess_many_to_many_data(filename, required_features):
 
     # Iterate over each row in the DataFrame
     for _, row in df.iterrows():
-        if str(row['**harte']).startswith('*>'):
+        if str(row[target_feature]).startswith('*>'):
             # If current sequences are not empty, append them to their respective lists
             if any(len(current_sequences[feature]) > 1 for feature in required_features):
                 for feature in required_features:
@@ -23,7 +23,7 @@ def preprocess_many_to_many_data(filename, required_features):
             for feature in required_features:
                 if feature in row:
                     # current_sequences[feature].append(row[feature])
-                    if feature == '**kern':
+                    if feature == '**kern': # special case ()
                         cln_val = row[feature].split()[0]
                         cln_val = cln_val.strip(']').strip('[').strip('.').strip(';')
                         current_sequences[feature].append(cln_val)
