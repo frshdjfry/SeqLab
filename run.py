@@ -122,7 +122,9 @@ def process_and_run_experiments(experiment_config):
         with mlflow.start_run(run_name=f"{feature_dimensions} Experiments on {dataset_name}"):
             # Data preprocessing based on dataset format
             if dataset_name.endswith('.txt'):
-                full_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(dataset_name)
+                full_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(
+                    dataset_name, experiment_config.get('augment_by_key', False)
+                )
             elif dataset_name.endswith('.csv'):
                 full_data, word2vec_model, vocab, avg_seq_len = preprocess_csv_dataset(dataset_name,
                                                                                        experiment_config,
