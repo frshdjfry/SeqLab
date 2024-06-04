@@ -4,15 +4,21 @@ import os
 from gensim.models import Word2Vec
 from sklearn.model_selection import train_test_split
 
+from data.augmentation import get_chord_seq_in_different_keys
 from data.many_to_many_data_preprocessing import preprocess_many_to_many_data, split_multi_feature_data
 
 
-def preprocess_data(filename):
+def preprocess_data(filename, augment_by_keys=False):
     chord_sequences = []
     with open(filename, 'r') as file:
         for line in file:  # Streamline file reading
             chord_sequences.append(line.strip().split())
 
+    if augment_by_keys:
+        augmented_sequences = []
+        for chord_sequence in chord_sequences:
+            augmented_sequences.extend(get_chord_seq_in_different_keys(chord_sequence))
+        chord_sequences.extend(augmented_sequences)
     # Stabilize chord order and optimize vocab construction
     unique_chords = sorted(set(chord for seq in chord_sequences for chord in seq))
     vocab = {}
@@ -110,8 +116,8 @@ def extract_subsequences_from_list(data):
     return all_subsequences
 
 
-def preprocess_txt_dataset(dataset_name):
-    encoded_seqs, vocab, vocab_inv = preprocess_data(dataset_name)
+def preprocess_txt_dataset(dataset_name, augment_by_key=False):
+    encoded_seqs, vocab, vocab_inv = preprocess_data(dataset_name, augment_by_key)
     word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     avg_seq_len = get_avg_seq_len_single(encoded_seqs)
     unique_encoded_seqs = remove_duplicates_list(encoded_seqs)
