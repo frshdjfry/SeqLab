@@ -125,7 +125,7 @@ def process_and_run_experiments(experiment_config):
             # Data preprocessing based on dataset format
             if dataset_name.endswith('.txt'):
                 full_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(
-                    dataset_name, experiment_config.get('augment_by_key', False)
+                    dataset_name, experiment_config
                 )
                 mlflow.log_param("train_data_len", len(full_data))
                 mlflow.log_param("vocab_len", len(vocab.keys()))
