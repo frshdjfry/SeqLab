@@ -50,9 +50,6 @@ def run_experiment(model_config, dataset_info, target_feature=None, n_trials=20,
 
     # Start a parent MLflow run for the entire experiment
     with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
-        mlflow.log_param("n_folds", n_splits)
-        mlflow.log_param("n_trials", n_trials)
-        mlflow.log_param("n_folds", n_splits)
         mlflow.log_param("model_name", model_class.__name__)
 
         accuracies, perplexities, w2v_similarities = [], [], []
@@ -120,11 +117,20 @@ def process_and_run_experiments(experiment_config):
         feature_dimensions = experiment_config['feature_dimensions']
         mlflow.set_experiment(f"{feature_dimensions} Experiments on {dataset_name}")
         with mlflow.start_run(run_name=f"{feature_dimensions} Experiments on {dataset_name}"):
+            mlflow.log_param("n_folds", n_splits)
+            mlflow.log_param("n_trials", n_trials)
+            mlflow.log_param("augment_by_subsequences", experiment_config.get('augment_by_subsequences', False))
+            mlflow.log_param("augment_by_key", experiment_config.get('augment_by_key', False))
+            mlflow.log_param("normalize_chords", experiment_config.get('normalize_chords', False))
             # Data preprocessing based on dataset format
             if dataset_name.endswith('.txt'):
                 full_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(
                     dataset_name, experiment_config.get('augment_by_key', False)
                 )
+                mlflow.log_param("train_data_len", len(full_data))
+                mlflow.log_param("vocab_len", len(vocab.keys()))
+                mlflow.log_param("avg_seq_len", avg_seq_len)
+
             elif dataset_name.endswith('.csv'):
                 full_data, word2vec_model, vocab, avg_seq_len = preprocess_csv_dataset(dataset_name,
                                                                                        experiment_config,

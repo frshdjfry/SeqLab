@@ -5,20 +5,28 @@ from gensim.models import Word2Vec
 from sklearn.model_selection import train_test_split
 
 from data.augmentation import get_chord_seq_in_different_keys
+from data.chord_normalizer import normalize_chord_sequence
 from data.many_to_many_data_preprocessing import preprocess_many_to_many_data, split_multi_feature_data
 
 
-def preprocess_data(filename, augment_by_keys=False):
+def preprocess_data(filename, architecture_config):
     chord_sequences = []
     with open(filename, 'r') as file:
         for line in file:  # Streamline file reading
             chord_sequences.append(line.strip().split())
 
-    if augment_by_keys:
+    if architecture_config.get('augment_by_key', False):
         augmented_sequences = []
         for chord_sequence in chord_sequences:
             augmented_sequences.extend(get_chord_seq_in_different_keys(chord_sequence))
         chord_sequences.extend(augmented_sequences)
+
+    if architecture_config.get('normalize_chords', False):
+        normalized_sequences = []
+        for chord_sequence in chord_sequences:
+            normalized_sequences.append(normalize_chord_sequence(chord_sequence))
+        chord_sequences = normalized_sequences
+
     # Stabilize chord order and optimize vocab construction
     unique_chords = sorted(set(chord for seq in chord_sequences for chord in seq))
     vocab = {}
@@ -116,14 +124,15 @@ def extract_subsequences_from_list(data):
     return all_subsequences
 
 
-def preprocess_txt_dataset(dataset_name, augment_by_key=False):
-    encoded_seqs, vocab, vocab_inv = preprocess_data(dataset_name, augment_by_key)
+def preprocess_txt_dataset(dataset_name, architecture_config):
+    encoded_seqs, vocab, vocab_inv = preprocess_data(dataset_name, architecture_config)
     word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     avg_seq_len = get_avg_seq_len_single(encoded_seqs)
     unique_encoded_seqs = remove_duplicates_list(encoded_seqs)
-    augmented_data = extract_subsequences_from_list(unique_encoded_seqs)
-    unique_augmented_data = remove_duplicates_list(augmented_data)
-    return unique_augmented_data, word2vec_model, vocab, avg_seq_len
+    if architecture_config.get('augment_by_subsequences', False):
+        augmented_data = extract_subsequences_from_list(unique_encoded_seqs)
+        unique_encoded_seqs = remove_duplicates_list(augmented_data)
+    return unique_encoded_seqs, word2vec_model, vocab, avg_seq_len
 
 
 def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name):
@@ -149,9 +158,10 @@ def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name)
         word2vec_model = train_and_save_word2vec(encoded_seqs[architecture_config['target_feature']], dataset_name)
 
     unique_encoded_seqs = remove_duplicates_from_dict(encoded_seqs)
-    augmented_data = extract_subsequences_from_dict(unique_encoded_seqs)
-    unique_augmented_data = remove_duplicates_from_dict(augmented_data)
-    return unique_augmented_data, word2vec_model, vocab, avg_seq_len
+    if architecture_config.get('augment_by_subsequences', False):
+        augmented_data = extract_subsequences_from_dict(unique_encoded_seqs)
+        unique_encoded_seqs = remove_duplicates_from_dict(augmented_data)
+    return unique_encoded_seqs, word2vec_model, vocab, avg_seq_len
 
 
 def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
