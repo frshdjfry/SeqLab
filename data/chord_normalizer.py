@@ -21,9 +21,17 @@ def normalize_inversions(chord):
     return chord.split('/')[0]
 
 
+def remove_last_char_if_number(input_string):
+    if 'min' in input_string or 'maj' in input_string:
+        while input_string and input_string[-1].isdigit():
+            input_string = input_string[:-1]
+    return input_string
+
+
 def normalize_chord(chord):
     chord = simplify_chord_extensions(chord)
     chord = normalize_inversions(chord)
+    chord = remove_last_char_if_number(chord)
     return chord
 
 
@@ -32,12 +40,3 @@ def normalize_chord_sequence(sequence):
     for chord in sequence:
         normalized_chord_sequence.append(normalize_chord(chord))
     return normalized_chord_sequence
-
-if __name__ == '__main__':
-    print('hi')
-    # sequence = ["E:maj", "A:maj", "C#:min", "D:maj", "A:maj"]
-    a = 'Bb:min7 Eb:min7 Ab:min7 Ab:min7/11 Bb:min7 Eb:min7 Ab:min7 Ab:min7/11'
-    sequence = a.split()
-    normalized = normalize_chord_sequence(sequence)
-    print(normalized)
-
