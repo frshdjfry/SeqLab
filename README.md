@@ -82,11 +82,11 @@ Seqlab accepts data in two formats:
     A           1           x
     B           2           y
     C           3           z
-    >*
+    >*          >*          >*
     D           4           u
     E           5           v
     F           6           w
-    >*
+    >*          >*          >*
     ```
 ### Configuration
 
