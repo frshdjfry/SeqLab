@@ -24,8 +24,8 @@ $\ P_{ij} = \frac{N_{ij} + \alpha}{\sum_{k} (N_{ik} + \alpha)} \$
 
 2. **Transition Matrix Construction**: During training, the model constructs a transition matrix by counting the occurrences of each transition between states in the training sequences.
 
-3. **Smoothing**: The model applies the smoothing parameter $\( \alpha \)$ to ensure that every possible transition has a nonzero probability, enhancing the model's robustness to unseen transitions.
-
+3. **Smoothing**: The model applies the smoothing parameter \( \alpha \) to ensure that every possible transition has a nonzero probability. This is done by adding \( \alpha \) to each transition count.
+   - After smoothing, the transition probabilities are recalculated by dividing the adjusted transition counts by the total adjusted transitions for each context. This produces valid probabilities, ensuring the model remains robust.
 4. **Normalization**: The transition counts are normalized to produce valid probabilities, ensuring that the sum of probabilities from any given state to all possible next states equals 1.
 
 #### Prediction
@@ -33,7 +33,7 @@ $\ P_{ij} = \frac{N_{ij} + \alpha}{\sum_{k} (N_{ik} + \alpha)} \$
 For a given sequence, the model predicts the next state by:
 1. Identifying the current state (the last state in the sequence).
 2. Using the transition matrix to determine the probabilities of transitioning to each possible next state.
-3. Selecting the next state based on these probabilities, often using techniques like random sampling weighted by the transition probabilities.
+3. Selecting the next state based on these probabilities, using random sampling weighted by the transition probabilities. This means that the next state is chosen randomly, but transitions with higher probabilities are more likely to be selected. This approach ensures that the model can account for the inherent uncertainty and variability in sequential data.
 
 #### Model Persistence
 
