@@ -8,7 +8,7 @@ This section provides detailed documentation for the machine learning models ava
 
 - [MarkovModel](models/markov.md)
 - [VariableOrderMarkovModel](models/variable_order_markov.md)
-- [LSTMModel](models/lstm_model.md)
+- [LSTMModel](models/lstm.md)
 - [LSTMModelWithAttention](models/lstm_attention.md)
 - [TransformerModel](models/transformer.md)
 - [GPTModel](models/gpt.md)
