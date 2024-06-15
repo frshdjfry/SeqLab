@@ -6,16 +6,16 @@ This section provides detailed documentation for the machine learning models ava
 
 ## List of Models
 
-- [MarkovModel](models/markov.md)
-- [VariableOrderMarkovModel](models/variable_order_markov.md)
-- [LSTMModel](models/lstm.md)
-- [LSTMModelWithAttention](models/lstm_attention.md)
-- [TransformerModel](models/transformer.md)
-- [GPTModel](models/gpt.md)
-- [MultiLSTMModel](models/multi_lstm.md)
-- [MultiLSTMAttentionModel](models/multi_lstm_attention.md)
-- [MultiTransformerModel](models/multi_transformer.md)
-- [MultiGPTModel](models/multi_gpt.md)
+- [Markov Model](models/markov.md)
+- [Variable-Order Markov Model](models/variable_order_markov.md)
+- [LSTM Model](models/lstm.md)
+- [LSTM Model With Attention](models/lstm_attention.md)
+- [Transformer Model](models/transformer.md)
+- [GPT Model](models/gpt.md)
+- [Multi LSTM Model](models/multi_lstm.md)
+- [Multi LSTM AttentionModel](models/multi_lstm_attention.md)
+- [Multi Transformer Model](models/multi_transformer.md)
+- [Multi GPT Model](models/multi_gpt.md)
 
 ## Model Saving and Inference
 

@@ -6,13 +6,13 @@ The Variable Order Markov Model extends the first-order Markov Model by consider
 
 #### Theory
 
-The transition probabilities for moving from context \( C \) (a sequence of states) to state \( j \) after state \( i \) are calculated as:
+The transition probabilities for moving from context $\( C \)$ (a sequence of states) to state $\( j \)$ after state $\( i \)$ are calculated as:
 
-\[ P_{ij|C} = \frac{N_{ij|C} + \alpha}{\sum_{k} (N_{ik|C} + \alpha)} \]
+$\ P_{ij|C} = \frac{N_{ij|C} + \alpha}{\sum_{k} (N_{ik|C} + \alpha)} \$
 
 where:
-- \( N_{ij|C} \) represents the frequency of observing state \( j \) after context \( C \) and state \( i \).
-- \( \alpha \) is a smoothing parameter to handle unseen transitions.
+- $\( N_{ij|C} \)$ represents the frequency of observing state $\( j \)$ after context $\( C \)$ and state $\( i \)$.
+- $\( \alpha \)$ is a smoothing parameter to handle unseen transitions.
 
 #### Data Encoding and Training
 
@@ -20,10 +20,10 @@ where:
 
 2. **Transition Matrix Construction**: During training, the model constructs a transition matrix by counting the occurrences of each transition between states in various contexts up to the specified maximum context length.
 
-3. **Smoothing**: The model applies the smoothing parameter \( \alpha \) to ensure that every possible transition has a nonzero probability. This is done by adding \( \alpha \) to each transition count.
+3. **Smoothing**: The model applies the smoothing parameter $\( \alpha \)$ to ensure that every possible transition has a nonzero probability. This is done by adding $\( \alpha \)$ to each transition count.
    - After smoothing, the transition probabilities are recalculated by dividing the adjusted transition counts by the total adjusted transitions for each context. This produces valid probabilities, ensuring the model remains robust.
 
-4. **Normalization**: The total count of transitions from a given context is increased by \( \alpha \) times the number of possible transitions. This ensures that the sum of probabilities from any given context to all possible next states equals 1.
+4. **Normalization**: The total count of transitions from a given context is increased by $\( \alpha \)$ times the number of possible transitions. This ensures that the sum of probabilities from any given context to all possible next states equals 1.
 
 #### Prediction
 
