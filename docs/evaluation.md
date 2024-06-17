@@ -22,4 +22,6 @@ $\ S(s_1, s_2) = \max\left(1 - \cos(\vec{s_1}, \vec{s_2}), 0\right) \$
 
 where $\(\vec{s_1}\)$ and $\(\vec{s_2}\)$ are the embeddings of states $\(s_1\)$ and $\(s_2\)$, respectively, and $\(\cos\)$ denotes the cosine distance between the two vectors. This metric is essential for cases where the exact prediction may not be critical, but the semantic or contextual closeness of the prediction to the ground truth holds significance.
 
-This evaluation approach ensures a comprehensive assessment of model performance, capturing both exact matches and semantically close predictions.
+### k-Fold Cross-Validation
+
+For model evaluation, SeqLab adopts a k-fold cross-validation approach on the unseen test data, ensuring a robust assessment of each model's accuracy. This method partitions the test data into $\(k\)$ subsets, where each subset serves once as the test set while the remaining $\(k-1\)$ subsets form the training set. The model's accuracy is then averaged over $\(k\)$ runs, providing a comprehensive measure of its generalization capability. The `kfold_splits` configuration specifies the number of folds \(k\) used in cross-validation.
