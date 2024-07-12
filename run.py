@@ -24,10 +24,10 @@ def run_experiment(model_config, dataset_info, target_feature=None, n_trials=20,
     study_name = f"{model_class.__name__} optimization"
     kf = KFold(n_splits=n_splits, shuffle=True, random_state=42)
     # Determine the length of data for splitting
-    if isinstance(dataset_info['train_data'], dict):
-        sample_data = next(iter(dataset_info['train_data'].values()))
+    if isinstance(dataset_info['full_data'], dict):
+        sample_data = next(iter(dataset_info['full_data'].values()))
     else:
-        sample_data = dataset_info['train_data']
+        sample_data = dataset_info['full_data']
     data_length = len(sample_data)
 
     # Start a parent MLflow run for the entire experiment
@@ -41,14 +41,14 @@ def run_experiment(model_config, dataset_info, target_feature=None, n_trials=20,
 
         # Iterate over each fold
         for fold, (train_idx, test_idx) in enumerate(kf.split(range(data_length))):  # Operate on data length directly
-            if isinstance(dataset_info['train_data'], dict):
+            if isinstance(dataset_info['full_data'], dict):
                 train_data = {feature: [sequences[i] for i in train_idx] for feature, sequences in
-                              dataset_info['train_data'].items()}
+                              dataset_info['full_data'].items()}
                 test_data = {feature: [sequences[i] for i in test_idx] for feature, sequences in
-                             dataset_info['train_data'].items()}
+                             dataset_info['full_data'].items()}
             else:
-                train_data = [dataset_info['train_data'][i] for i in train_idx]
-                test_data = [dataset_info['train_data'][i] for i in test_idx]
+                train_data = [dataset_info['full_data'][i] for i in train_idx]
+                test_data = [dataset_info['full_data'][i] for i in test_idx]
 
             # Start a nested run for the current fold
             with mlflow.start_run(run_name=f"Fold {fold + 1}", nested=True):
@@ -105,16 +105,16 @@ def process_and_run_experiments(experiment_config):
         with mlflow.start_run(run_name=f"{feature_dimensions} Experiments on {dataset_name}"):
             # Data preprocessing based on dataset format
             if dataset_name.endswith('.txt'):
-                train_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(dataset_name)
+                full_data, word2vec_model, vocab, avg_seq_len = preprocess_txt_dataset(dataset_name)
             elif dataset_name.endswith('.csv'):
-                train_data, word2vec_model, vocab, avg_seq_len = preprocess_csv_dataset(dataset_name,
-                                                                                        experiment_config,
-                                                                                        feature_dimensions)
+                full_data, word2vec_model, vocab, avg_seq_len = preprocess_csv_dataset(dataset_name,
+                                                                                       experiment_config,
+                                                                                       feature_dimensions)
             else:
                 raise ValueError('Unknown data type')
 
             dataset_info = {
-                'train_data': train_data,
+                'full_data': full_data,
                 'word2vec_model': word2vec_model,
                 'vocab': vocab,
                 'avg_seq_len': avg_seq_len
