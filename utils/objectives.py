@@ -5,7 +5,7 @@ from utils.evaluators import evaluate_model
 
 def suggest_hyperparameters(trial, optimization_config):
     params = {}
-    for param, details in optimization_config.items():
+    for param, details in optimization_config.config.items():
         if 'values' in details:
             params[param] = trial.suggest_categorical(param, details['values'])
         elif 'min' in details and 'max' in details:
@@ -20,7 +20,7 @@ def suggest_hyperparameters(trial, optimization_config):
 
 def get_objective_function(trial, model_class, train_data, test_data, word2vec_model, vocab, model_config,
                            target_feature=None):
-    params = suggest_hyperparameters(trial, model_config['optimization_config'])
+    params = suggest_hyperparameters(trial, model_config.optimization_config)
     model = model_class(
         vocab=vocab,
         target_feature=target_feature,
@@ -30,7 +30,7 @@ def get_objective_function(trial, model_class, train_data, test_data, word2vec_m
     saved_model_path = model.train_model(
         train_data,
         test_data,
-        epochs=model_config['epochs'],
+        epochs=model_config.epochs,
         **params
     )
     trial.set_user_attr("model_path", saved_model_path)

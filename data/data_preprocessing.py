@@ -61,22 +61,22 @@ def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name)
         # Process as single feature dataset
         encoded_seqs, vocabs, vocabs_inv = preprocess_many_to_many_data(
             dataset_name,
-            [architecture_config['target_feature']],
-            architecture_config['target_feature']
+            [architecture_config.target_feature],
+            architecture_config.target_feature
         )
-        vocab = vocabs[architecture_config['target_feature']]
-        encoded_seqs = encoded_seqs[architecture_config['target_feature']]
+        vocab = vocabs[architecture_config.target_feature]
+        encoded_seqs = encoded_seqs[architecture_config.target_feature]
         avg_seq_len = get_avg_seq_len_single(encoded_seqs)
         word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     else:
         # Process as multi-feature dataset
         encoded_seqs, vocab, vocabs_inv = preprocess_many_to_many_data(
             dataset_name,
-            architecture_config['source_features'],
-            architecture_config['target_feature']
+            architecture_config.source_features,
+            architecture_config.target_feature
         )
         avg_seq_len = get_avg_seq_len_multi(encoded_seqs)
-        word2vec_model = train_and_save_word2vec(encoded_seqs[architecture_config['target_feature']], dataset_name)
+        word2vec_model = train_and_save_word2vec(encoded_seqs[architecture_config.target_feature], dataset_name)
 
     return encoded_seqs, word2vec_model, vocab, avg_seq_len
 
