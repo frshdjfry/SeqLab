@@ -15,13 +15,13 @@ def preprocess_data(filename, architecture_config):
         for line in file:  # Streamline file reading
             chord_sequences.append(line.strip().split())
 
-    if architecture_config.get('augment_by_key', False):
+    if architecture_config.augment_by_key:
         augmented_sequences = []
         for chord_sequence in chord_sequences:
             augmented_sequences.extend(get_chord_seq_in_different_keys(chord_sequence))
         chord_sequences.extend(augmented_sequences)
 
-    if architecture_config.get('normalize_chords', False):
+    if architecture_config.normalize_chords:
         normalized_sequences = []
         for chord_sequence in chord_sequences:
             normalized_sequences.append(normalize_chord_sequence(chord_sequence))
@@ -129,7 +129,7 @@ def preprocess_txt_dataset(dataset_name, architecture_config):
     word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     avg_seq_len = get_avg_seq_len_single(encoded_seqs)
     unique_encoded_seqs = remove_duplicates_list(encoded_seqs)
-    if architecture_config.get('augment_by_subsequences', False):
+    if architecture_config.augment_by_subsequences:
         augmented_data = extract_subsequences_from_list(unique_encoded_seqs)
         unique_encoded_seqs = remove_duplicates_list(augmented_data)
     return unique_encoded_seqs, word2vec_model, vocab, avg_seq_len
@@ -140,25 +140,26 @@ def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name)
         # Process as single feature dataset
         encoded_seqs, vocabs, vocabs_inv = preprocess_many_to_many_data(
             dataset_name,
-            [architecture_config['target_feature']],
-            architecture_config['target_feature']
+            [architecture_config.target_feature],
+            architecture_config.target_feature
         )
-        vocab = vocabs[architecture_config['target_feature']]
-        encoded_seqs = encoded_seqs[architecture_config['target_feature']]
+        vocab = vocabs[architecture_config.target_feature]
+        encoded_seqs = encoded_seqs[architecture_config.target_feature]
         avg_seq_len = get_avg_seq_len_single(encoded_seqs)
         word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
+        unique_encoded_seqs = remove_duplicates_list(encoded_seqs)
     else:
         # Process as multi-feature dataset
         encoded_seqs, vocab, vocabs_inv = preprocess_many_to_many_data(
             dataset_name,
-            architecture_config['source_features'],
-            architecture_config['target_feature']
+            architecture_config.source_features,
+            architecture_config.target_feature
         )
         avg_seq_len = get_avg_seq_len_multi(encoded_seqs)
-        word2vec_model = train_and_save_word2vec(encoded_seqs[architecture_config['target_feature']], dataset_name)
+        word2vec_model = train_and_save_word2vec(encoded_seqs[architecture_config.target_feature], dataset_name)
+        unique_encoded_seqs = remove_duplicates_from_dict(encoded_seqs)
 
-    unique_encoded_seqs = remove_duplicates_from_dict(encoded_seqs)
-    if architecture_config.get('augment_by_subsequences', False):
+    if architecture_config.augment_by_subsequences:
         augmented_data = extract_subsequences_from_dict(unique_encoded_seqs)
         unique_encoded_seqs = remove_duplicates_from_dict(augmented_data)
     return unique_encoded_seqs, word2vec_model, vocab, avg_seq_len
