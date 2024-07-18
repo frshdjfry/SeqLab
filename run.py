@@ -5,6 +5,8 @@ from optuna.integration.mlflow import MLflowCallback
 from sklearn.model_selection import KFold
 
 from data import preprocess_txt_dataset, preprocess_csv_dataset
+from data.stats import get_html_dataset_stats
+from data.multi_feature_stats import get_html_multi_feature_dataset_stats
 from models import MODEL_REGISTRY
 from utils.objectives import get_objective_function
 
@@ -17,6 +19,22 @@ def get_model_class(model_name):
     if model_name not in MODEL_REGISTRY:
         raise ValueError(f"Model {model_name} not recognized.")
     return MODEL_REGISTRY[model_name]
+
+
+def log_artifacts(dataset_info, train_data, test_data):
+    if isinstance(dataset_info['full_data'], dict):
+        dataset_stat_path = get_html_multi_feature_dataset_stats(
+            train_data, test_data, dataset_info['vocab']
+        )
+    else:
+        dataset_stat_path = get_html_dataset_stats(train_data, test_data, dataset_info['vocab'])
+    mlflow.log_artifact(dataset_stat_path, 'dataset_stats')
+
+
+def log_metrics(best_accuracy_trial):
+    mlflow.log_metric("best_accuracy", best_accuracy_trial.values[0])
+    mlflow.log_metric("best_perplexity", best_accuracy_trial.values[1])
+    mlflow.log_metric("best_w2v", best_accuracy_trial.values[2])
 
 
 def run_experiment(model_config, dataset_info, target_feature=None, n_trials=20, n_splits=7):
@@ -71,9 +89,8 @@ def run_experiment(model_config, dataset_info, target_feature=None, n_trials=20,
                     n_trials=n_trials, callbacks=[mlflow_callback])
 
                 best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
-                mlflow.log_metric("best_accuracy", best_accuracy_trial.values[0])
-                mlflow.log_metric("best_perplexity", best_accuracy_trial.values[1])
-                mlflow.log_metric("best_w2v", best_accuracy_trial.values[2])
+                log_metrics(best_accuracy_trial)
+                log_artifacts(dataset_info, train_data, test_data)
 
                 accuracies.append(best_accuracy_trial.values[0])
                 perplexities.append(best_accuracy_trial.values[1])
