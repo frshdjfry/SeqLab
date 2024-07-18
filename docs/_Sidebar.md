@@ -1,4 +1,4 @@
-* [[Home
+* [[Home]]
   - [Introduction](Home#introduction)
   - [Key Features](Home#key-features)
   - [Getting Started](Home#getting-started)
