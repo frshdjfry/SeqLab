@@ -6,21 +6,19 @@ from sklearn.model_selection import train_test_split
 
 from data.augmentation import get_chord_seq_in_different_keys
 from data.chord_normalizer import normalize_chord_sequence
-from data.many_to_many_data_preprocessing import preprocess_many_to_many_data, split_multi_feature_data
+from data.many_to_many_data_preprocessing import preprocess_many_to_many_data, split_multi_feature_data, \
+    get_merged_m2m_train_test_datasets
 
 
-def preprocess_data(filename, architecture_config):
+def extract_sequences(filename):
     chord_sequences = []
     with open(filename, 'r') as file:
         for line in file:  # Streamline file reading
             chord_sequences.append(line.strip().split())
+    return chord_sequences
 
-    if architecture_config.augment_by_key:
-        augmented_sequences = []
-        for chord_sequence in chord_sequences:
-            augmented_sequences.extend(get_chord_seq_in_different_keys(chord_sequence))
-        chord_sequences.extend(augmented_sequences)
 
+def preprocess_data(chord_sequences, architecture_config):
     if architecture_config.normalize_chords:
         normalized_sequences = []
         for chord_sequence in chord_sequences:
@@ -125,7 +123,8 @@ def extract_subsequences_from_list(data):
 
 
 def preprocess_txt_dataset(dataset_name, architecture_config):
-    encoded_seqs, vocab, vocab_inv = preprocess_data(dataset_name, architecture_config)
+    sequences = extract_sequences(dataset_name)
+    encoded_seqs, vocab, vocab_inv = preprocess_data(sequences, architecture_config)
     word2vec_model = train_and_save_word2vec(encoded_seqs, dataset_name)
     avg_seq_len = get_avg_seq_len_single(encoded_seqs)
     unique_encoded_seqs = remove_duplicates_list(encoded_seqs)
@@ -167,8 +166,41 @@ def preprocess_csv_dataset(dataset_name, architecture_config, architecture_name)
 
 def train_and_save_word2vec(sentences, dataset_name, models_dir="./"):
     os.makedirs(models_dir, exist_ok=True)
-    model_path = os.path.join(models_dir, f"word2vec_{dataset_name}.model")
+    model_path = os.path.join(models_dir, f"word2vec_{dataset_name.replace('/', '_')}.model")
     model = Word2Vec(sentences=sentences, vector_size=100, window=5, min_count=1, workers=4)
     model.save(model_path)
     print(f"Word2Vec model saved for '{dataset_name}' at '{model_path}'")
     return model
+
+
+def preprocess_separate_train_test_csv_dataset(train_dataset_name, test_dataset_name, architecture_config):
+    encoded_seqs, vocabs, vocabs_inv, test_start_index = get_merged_m2m_train_test_datasets(
+        train_dataset_name,
+        test_dataset_name,
+        architecture_config.source_features,
+        architecture_config.target_feature,
+        architecture_config
+    )
+    word2vec_model = train_and_save_word2vec(
+        encoded_seqs[architecture_config.target_feature],
+        train_dataset_name + test_dataset_name
+    )
+
+    # unique_encoded_seqs = remove_duplicates_from_dict(encoded_seqs)
+
+    return encoded_seqs, word2vec_model, vocabs, test_start_index
+
+
+def preprocess_separate_train_test_txt_dataset(train_dataset_name, test_dataset_name, architecture_config):
+    train_sequences = extract_sequences(train_dataset_name)
+    test_sequences = extract_sequences(test_dataset_name)
+    full_sequences = train_sequences + test_sequences
+    test_start_index = len(train_sequences)
+    encoded_seqs, vocab, vocab_inv = preprocess_data(full_sequences, architecture_config)
+    word2vec_model = train_and_save_word2vec(encoded_seqs, train_dataset_name + test_dataset_name)
+    # unique_encoded_seqs = remove_duplicates_list(encoded_seqs)
+    # if architecture_config.augment_by_subsequences:
+    #     augmented_data = extract_subsequences_from_list(unique_encoded_seqs)
+    #     unique_encoded_seqs = remove_duplicates_list(augmented_data)
+    return encoded_seqs, word2vec_model, vocab, test_start_index
+

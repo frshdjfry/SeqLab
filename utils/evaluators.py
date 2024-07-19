@@ -33,7 +33,9 @@ def collect_predictions(model, test_data, target_feature):
             actual_next = test_data[target_feature][i][-1]
         else:
             current_sequence, actual_next = test_data[i][:-1], test_data[i][-1]
-        if len(current_sequence) <= 1:
+        if is_many_to_one and len(current_sequence[0]) <= 1:
+            continue
+        elif len(current_sequence) <= 1:
             continue
         if isinstance(model, MarkovModel) or isinstance(model, VariableOrderMarkovModel):
             predicted_next, probability = model.predict_with_probability(current_sequence)

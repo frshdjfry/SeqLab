@@ -3,7 +3,8 @@ import optuna
 from optuna.integration.mlflow import MLflowCallback
 from sklearn.model_selection import KFold
 
-from data import preprocess_txt_dataset, preprocess_csv_dataset
+from data import preprocess_txt_dataset, preprocess_csv_dataset, preprocess_separate_train_test_txt_dataset, \
+    preprocess_separate_train_test_csv_dataset
 from data.stats import get_html_dataset_stats
 from data.multi_feature_stats import get_html_multi_feature_dataset_stats
 from models import MODEL_REGISTRY
@@ -35,7 +36,7 @@ class ExperimentConfig:
     def __init__(self, feature_dimensions: str, number_of_trials: int, kfold_splits: int, datasets: List[str],
                  models: List[ModelConfig], target_feature: Optional[str] = None,
                  source_features: Optional[List[str]] = None, augment_by_subsequences: bool = False,
-                 normalize_chords: bool = False, augment_by_key: bool = False):
+                 normalize_chords: bool = False, augment_by_key: bool = False, test_dataset: str = None):
         self.feature_dimensions = feature_dimensions
         self.number_of_trials = number_of_trials
         self.kfold_splits = kfold_splits
@@ -46,6 +47,7 @@ class ExperimentConfig:
         self.augment_by_subsequences = augment_by_subsequences
         self.normalize_chords = normalize_chords
         self.augment_by_key = augment_by_key
+        self.test_dataset = test_dataset
 
     @classmethod
     def from_dict(cls, experiment_dict: Dict[str, Any]) -> 'ExperimentConfig':
@@ -68,11 +70,11 @@ class Config:
 
 
 class DatasetInfo:
-    def __init__(self, full_data: Any, word2vec_model: Any, vocab: Dict[str, Any], avg_seq_len: float):
+    def __init__(self, full_data: Any, word2vec_model: Any, vocab: Dict[str, Any], test_start_index: int = None):
         self.full_data = full_data
         self.word2vec_model = word2vec_model
         self.vocab = vocab
-        self.avg_seq_len = avg_seq_len
+        self.test_start_index = test_start_index
 
 
 class ExperimentRunner:
@@ -100,8 +102,8 @@ class ExperimentRunner:
         mlflow.log_metric("best_perplexity", best_accuracy_trial.values[1])
         mlflow.log_metric("best_w2v", best_accuracy_trial.values[2])
 
-    def run_experiment(self, model_config: ModelConfig, dataset_info: DatasetInfo,
-                       target_feature: Optional[str] = None):
+    def run_kfold_experiment(self, model_config: ModelConfig, dataset_info: DatasetInfo,
+                             target_feature: Optional[str] = None):
         model_class = self.get_model_class(model_config.name)
         study_name = f"{model_class.__name__} optimization"
         kf = KFold(n_splits=self.n_splits, shuffle=True, random_state=42)
@@ -109,6 +111,8 @@ class ExperimentRunner:
         sample_data = next(iter(dataset_info.full_data.values())) if isinstance(dataset_info.full_data,
                                                                                 dict) else dataset_info.full_data
         data_length = len(sample_data)
+        word2vec_model = dataset_info.word2vec_model
+        vocab = dataset_info.vocab
 
         with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
             mlflow.log_params({
@@ -122,25 +126,10 @@ class ExperimentRunner:
                 train_data, test_data = self.split_data(dataset_info.full_data, train_idx, test_idx)
 
                 with mlflow.start_run(run_name=f"Fold {fold + 1}", nested=True):
-                    study = optuna.create_study(directions=['maximize', 'minimize', 'maximize'], study_name=study_name)
-                    mlflow_callback = MLflowCallback(tracking_uri=mlflow.get_tracking_uri(),
-                                                     metric_name=["accuracy", "perplexity", "w2v_similarity"],
-                                                     mlflow_kwargs={"nested": True})
-
-                    study.optimize(
-                        lambda trial: get_objective_function(
-                            trial=trial,
-                            model_class=model_class,
-                            train_data=train_data,
-                            test_data=test_data,
-                            word2vec_model=dataset_info.word2vec_model,
-                            vocab=dataset_info.vocab,
-                            model_config=model_config,
-                            target_feature=target_feature
-                        ),
-                        n_trials=self.n_trials, callbacks=[mlflow_callback])
-
-                    best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
+                    best_accuracy_trial = self.run_optuna_trials(
+                        model_class, train_data, test_data, word2vec_model, vocab, model_config, target_feature,
+                        study_name
+                    )
                     best_accuracy_trials.append(best_accuracy_trial)
                     self.log_metrics(best_accuracy_trial)
                     self.log_artifacts(dataset_info, train_data, test_data)
@@ -151,6 +140,65 @@ class ExperimentRunner:
                     )
 
             self.log_average_metrics(best_accuracy_trials)
+
+    def run_single_experiment(
+            self, model_config: ModelConfig,
+            dataset_info: DatasetInfo,
+            target_feature: Optional[str] = None
+    ):
+        model_class = self.get_model_class(model_config.name)
+        study_name = f"HyperParameter Optimization"
+
+        vocab = dataset_info.vocab
+        word2vec_model = dataset_info.word2vec_model
+        if isinstance(dataset_info.full_data, dict):
+            train_data, test_data = {}, {}
+            for feature in self.experiment_config.source_features:
+                train_data[feature] = dataset_info.full_data[feature][:dataset_info.test_start_index]
+                test_data[feature] = dataset_info.full_data[feature][dataset_info.test_start_index:]
+        else:
+            train_data = dataset_info.full_data[:dataset_info.test_start_index]
+            test_data = dataset_info.full_data[dataset_info.test_start_index:]
+        with mlflow.start_run(run_name=f"{model_class.__name__} Training", nested=True):
+            mlflow.log_params({
+                "n_folds": self.n_splits,
+                "n_trials": self.n_trials,
+                "model_name": model_class.__name__
+            })
+
+            best_accuracy_trial = self.run_optuna_trials(
+                model_class, train_data, test_data, word2vec_model, vocab, model_config, target_feature, study_name
+            )
+
+            self.log_metrics(best_accuracy_trial)
+            self.log_artifacts(dataset_info, train_data, test_data)
+            print(
+                f"Best trial for {model_class.__name__} "
+                f"Metrics: {best_accuracy_trial.values}"
+            )
+
+    def run_optuna_trials(
+            self, model_class, train_data, test_data, word2vec_model, vocab, model_config, target_feature, study_name
+    ):
+        study = optuna.create_study(directions=['maximize', 'minimize', 'maximize'], study_name=study_name)
+        mlflow_callback = MLflowCallback(tracking_uri=mlflow.get_tracking_uri(),
+                                         metric_name=["accuracy", "perplexity", "w2v_similarity"],
+                                         mlflow_kwargs={"nested": True})
+
+        study.optimize(
+            lambda trial: get_objective_function(
+                trial=trial,
+                model_class=model_class,
+                train_data=train_data,
+                test_data=test_data,
+                word2vec_model=word2vec_model,
+                vocab=vocab,
+                model_config=model_config,
+                target_feature=target_feature
+            ),
+            n_trials=self.n_trials, callbacks=[mlflow_callback])
+        best_accuracy_trial = max(study.best_trials, key=lambda t: t.values[0])
+        return best_accuracy_trial
 
     @staticmethod
     def split_data(full_data: Union[Dict[str, List[List[int]]], List[List[int]]], train_idx: List[int],
@@ -183,13 +231,33 @@ class ExperimentRunner:
         )
 
     def process_and_run_experiments(self):
-        for dataset_name in self.experiment_config.datasets:
-            mlflow.set_experiment(f"{self.experiment_config.feature_dimensions} Experiments on {dataset_name}")
-            with mlflow.start_run(
-                    run_name=f"{self.experiment_config.feature_dimensions} Experiments on {dataset_name}"):
-                dataset_info = self.preprocess_dataset(dataset_name)
-                for model_config in self.experiment_config.models:
-                    self.run_experiment(model_config, dataset_info, self.experiment_config.target_feature)
+        if self.experiment_config.test_dataset:
+            for dataset_name in self.experiment_config.datasets:
+                mlflow.set_experiment(f"{self.experiment_config.feature_dimensions} Experiments on {dataset_name} "
+                                      f"and {self.experiment_config.test_dataset}")
+                with mlflow.start_run(
+                        run_name=f"{self.experiment_config.feature_dimensions} Experiments on {dataset_name} "
+                                 f"and {self.experiment_config.test_dataset}"):
+
+                    dataset_info = self.process_separate_train_test_dataset(
+                        train_dataset_name=dataset_name,
+                        test_dataset_name=self.experiment_config.test_dataset
+                    )
+
+                    for model_config in self.experiment_config.models:
+                        self.run_single_experiment(
+                            model_config,
+                            dataset_info,
+                            self.experiment_config.target_feature
+                        )
+        else:
+            for dataset_name in self.experiment_config.datasets:
+                mlflow.set_experiment(f"{self.experiment_config.feature_dimensions} Experiments on {dataset_name}")
+                with mlflow.start_run(
+                        run_name=f"{self.experiment_config.feature_dimensions} Experiments on {dataset_name}"):
+                    dataset_info = self.preprocess_dataset(dataset_name)
+                    for model_config in self.experiment_config.models:
+                        self.run_kfold_experiment(model_config, dataset_info, self.experiment_config.target_feature)
 
     def preprocess_dataset(self, dataset_name: str) -> DatasetInfo:
         if dataset_name.endswith('.txt'):
@@ -202,7 +270,21 @@ class ExperimentRunner:
         else:
             raise ValueError('Unknown data type')
 
-        return DatasetInfo(full_data, word2vec_model, vocab, avg_seq_len)
+        return DatasetInfo(full_data, word2vec_model, vocab)
+
+    def process_separate_train_test_dataset(self, train_dataset_name: str, test_dataset_name: str) -> DatasetInfo:
+        if train_dataset_name.endswith('.txt'):
+            full_data, word2vec_model, vocab, test_start_index = preprocess_separate_train_test_txt_dataset(
+                train_dataset_name, test_dataset_name, self.experiment_config
+            )
+        elif train_dataset_name.endswith('.csv'):
+            full_data, word2vec_model, vocab, test_start_index = preprocess_separate_train_test_csv_dataset(
+                train_dataset_name, test_dataset_name, self.experiment_config
+            )
+        else:
+            raise ValueError('Unknown data type')
+
+        return DatasetInfo(full_data, word2vec_model, vocab, test_start_index)
 
 
 def main():
