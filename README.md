@@ -117,7 +117,7 @@ Then, navigate to 127.0.0.1:4000 in your web browser to access the MLflow tracki
 
 
 
-### Full Documentation
+## Full Documentation
 
 For detailed information on using SeqLab, please refer to the following sections in the documentation:
 
@@ -126,3 +126,15 @@ For detailed information on using SeqLab, please refer to the following sections
 - [Evaluation](docs/evaluation.md)
 - [Optimization](docs/optimization.md)
 - [Monitoring](docs/monitoring.md)
+
+## Citation
+
+If **SeqLab** contributes to your research, we kindly request that you cite the following publication:
+
+```bibtex
+@article{jafari2024striking,
+  title={Striking a New Chord: Neural Networks in Music Information Dynamics},
+  author={Jafari, Farshad and Arthur, Claire},
+  journal={arXiv preprint arXiv:2410.17989},
+  year={2024}
+}
